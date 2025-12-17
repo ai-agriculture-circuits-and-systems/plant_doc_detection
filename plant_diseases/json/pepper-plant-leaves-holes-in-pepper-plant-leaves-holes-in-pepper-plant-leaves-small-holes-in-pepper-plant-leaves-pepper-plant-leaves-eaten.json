@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8837933371,
+      "width": 1024,
+      "height": 683,
+      "file_name": "pepper-plant-leaves-holes-in-pepper-plant-leaves-holes-in-pepper-plant-leaves-small-holes-in-pepper-plant-leaves-pepper-plant-leaves-eaten.jpg",
+      "size": 98613,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8837933371,
+      "category_id": 5,
+      "bbox": [
+        246.0,
+        262.0,
+        186.0,
+        135.0
+      ],
+      "area": 25110.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8837933371,
+      "category_id": 5,
+      "bbox": [
+        318.0,
+        136.0,
+        190.0,
+        111.0
+      ],
+      "area": 21090.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8837933371,
+      "category_id": 5,
+      "bbox": [
+        148.0,
+        408.0,
+        171.0,
+        161.0
+      ],
+      "area": 27531.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8837933371,
+      "category_id": 5,
+      "bbox": [
+        420.0,
+        448.0,
+        115.0,
+        235.0
+      ],
+      "area": 27025.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 5,
+      "name": "bell_pepper_leaf_spot",
+      "supercategory": "bell_pepper_leaf_spot"
+    }
+  ]
+}

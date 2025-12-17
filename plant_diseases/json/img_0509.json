@@ -1,0 +1,126 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4375955677,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_0509.jpg",
+      "size": 103270,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4375955677,
+      "category_id": 15,
+      "bbox": [
+        519.0,
+        239.0,
+        278.0,
+        218.0
+      ],
+      "area": 60604.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4375955677,
+      "category_id": 15,
+      "bbox": [
+        386.0,
+        260.0,
+        117.0,
+        167.0
+      ],
+      "area": 19539.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4375955677,
+      "category_id": 15,
+      "bbox": [
+        410.0,
+        112.0,
+        125.0,
+        160.0
+      ],
+      "area": 20000.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4375955677,
+      "category_id": 15,
+      "bbox": [
+        95.0,
+        323.0,
+        156.0,
+        191.0
+      ],
+      "area": 29796.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4375955677,
+      "category_id": 15,
+      "bbox": [
+        216.0,
+        295.0,
+        108.0,
+        93.0
+      ],
+      "area": 10044.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 4375955677,
+      "category_id": 15,
+      "bbox": [
+        92.0,
+        254.0,
+        141.0,
+        68.0
+      ],
+      "area": 9588.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 4375955677,
+      "category_id": 15,
+      "bbox": [
+        324.0,
+        408.0,
+        196.0,
+        147.0
+      ],
+      "area": 28812.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

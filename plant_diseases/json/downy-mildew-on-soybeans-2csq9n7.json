@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8682070218,
+      "width": 2919,
+      "height": 2448,
+      "file_name": "downy-mildew-on-soybeans-2csq9n7.jpg",
+      "size": 2221760,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8682070218,
+      "category_id": 16,
+      "bbox": [
+        67.0,
+        5.0,
+        2063.0,
+        2443.0
+      ],
+      "area": 5039909.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 16,
+      "name": "soyabean_leaf",
+      "supercategory": "soyabean_leaf"
+    }
+  ]
+}

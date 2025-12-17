@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1384607695,
+      "width": 502,
+      "height": 402,
+      "file_name": "double-crop-soybean-leaves-Aug-19-2013_thumb.jpg",
+      "size": 50503,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1384607695,
+      "category_id": 16,
+      "bbox": [
+        185.0,
+        82.0,
+        222.0,
+        261.0
+      ],
+      "area": 57942.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 16,
+      "name": "soyabean_leaf",
+      "supercategory": "soyabean_leaf"
+    }
+  ]
+}

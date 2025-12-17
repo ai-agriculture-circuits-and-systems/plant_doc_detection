@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7819058469,
+      "width": 1300,
+      "height": 960,
+      "file_name": "tomato-leaf-6424287.jpg",
+      "size": 87129,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7819058469,
+      "category_id": 21,
+      "bbox": [
+        316.0,
+        81.0,
+        554.0,
+        316.0
+      ],
+      "area": 175064.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7819058469,
+      "category_id": 21,
+      "bbox": [
+        643.0,
+        326.0,
+        329.0,
+        496.0
+      ],
+      "area": 163184.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7819058469,
+      "category_id": 21,
+      "bbox": [
+        276.0,
+        289.0,
+        508.0,
+        499.0
+      ],
+      "area": 253492.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 21,
+      "name": "tomato_leaf",
+      "supercategory": "tomato_leaf"
+    }
+  ]
+}

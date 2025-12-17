@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5022866794,
+      "width": 450,
+      "height": 320,
+      "file_name": "tomato-disease-septoria-leaf-spot-d7e1xm.jpg",
+      "size": 60276,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5022866794,
+      "category_id": 20,
+      "bbox": [
+        311.0,
+        39.0,
+        132.0,
+        165.0
+      ],
+      "area": 21780.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5022866794,
+      "category_id": 20,
+      "bbox": [
+        20.0,
+        92.0,
+        73.0,
+        155.0
+      ],
+      "area": 11315.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5022866794,
+      "category_id": 20,
+      "bbox": [
+        199.0,
+        45.0,
+        78.0,
+        148.0
+      ],
+      "area": 11544.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 5022866794,
+      "category_id": 20,
+      "bbox": [
+        262.0,
+        80.0,
+        109.0,
+        223.0
+      ],
+      "area": 24307.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 5022866794,
+      "category_id": 20,
+      "bbox": [
+        126.0,
+        65.0,
+        128.0,
+        236.0
+      ],
+      "area": 30208.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 20,
+      "name": "tomato_septoria_leaf_spot",
+      "supercategory": "tomato_septoria_leaf_spot"
+    }
+  ]
+}

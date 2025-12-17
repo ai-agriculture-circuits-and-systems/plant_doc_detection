@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1125683036,
+      "width": 900,
+      "height": 595,
+      "file_name": "sweetcorn_Rust-2_zoom.jpg",
+      "size": 119895,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1125683036,
+      "category_id": 10,
+      "bbox": [
+        1.0,
+        112.0,
+        899.0,
+        370.0
+      ],
+      "area": 332630.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 10,
+      "name": "corn_rust_leaf",
+      "supercategory": "corn_rust_leaf"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2696625411,
+      "width": 736,
+      "height": 1032,
+      "file_name": "red-rspberry-leaf-help-strengthen-the-uterus-and-the-lining-of-the-uterus.jpg",
+      "size": 288386,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2696625411,
+      "category_id": 15,
+      "bbox": [
+        317.0,
+        587.0,
+        333.0,
+        332.0
+      ],
+      "area": 110556.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2696625411,
+      "category_id": 15,
+      "bbox": [
+        37.0,
+        639.0,
+        258.0,
+        386.0
+      ],
+      "area": 99588.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2696625411,
+      "category_id": 15,
+      "bbox": [
+        104.0,
+        554.0,
+        213.0,
+        94.0
+      ],
+      "area": 20022.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2696625411,
+      "category_id": 15,
+      "bbox": [
+        84.0,
+        390.0,
+        171.0,
+        197.0
+      ],
+      "area": 33687.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 2696625411,
+      "category_id": 15,
+      "bbox": [
+        1.0,
+        475.0,
+        96.0,
+        187.0
+      ],
+      "area": 17952.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 2696625411,
+      "category_id": 15,
+      "bbox": [
+        503.0,
+        339.0,
+        194.0,
+        255.0
+      ],
+      "area": 49470.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

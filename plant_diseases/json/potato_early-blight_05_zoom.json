@@ -1,0 +1,269 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7413032097,
+      "width": 900,
+      "height": 778,
+      "file_name": "potato_early-blight_05_zoom.jpg",
+      "size": 275145,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7413032097,
+      "category_id": 13,
+      "bbox": [
+        164.0,
+        194.0,
+        70.0,
+        86.0
+      ],
+      "area": 6020.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7413032097,
+      "category_id": 13,
+      "bbox": [
+        42.0,
+        235.0,
+        94.0,
+        45.0
+      ],
+      "area": 4230.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7413032097,
+      "category_id": 13,
+      "bbox": [
+        441.0,
+        219.0,
+        84.0,
+        131.0
+      ],
+      "area": 11004.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 7413032097,
+      "category_id": 13,
+      "bbox": [
+        358.0,
+        253.0,
+        60.0,
+        81.0
+      ],
+      "area": 4860.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 7413032097,
+      "category_id": 13,
+      "bbox": [
+        284.0,
+        191.0,
+        113.0,
+        68.0
+      ],
+      "area": 7684.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 7413032097,
+      "category_id": 13,
+      "bbox": [
+        256.0,
+        165.0,
+        54.0,
+        37.0
+      ],
+      "area": 1998.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 7413032097,
+      "category_id": 13,
+      "bbox": [
+        236.0,
+        188.0,
+        49.0,
+        84.0
+      ],
+      "area": 4116.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 7413032097,
+      "category_id": 13,
+      "bbox": [
+        167.0,
+        166.0,
+        80.0,
+        35.0
+      ],
+      "area": 2800.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 7413032097,
+      "category_id": 13,
+      "bbox": [
+        148.0,
+        119.0,
+        78.0,
+        37.0
+      ],
+      "area": 2886.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 7413032097,
+      "category_id": 13,
+      "bbox": [
+        585.0,
+        242.0,
+        60.0,
+        126.0
+      ],
+      "area": 7560.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 7413032097,
+      "category_id": 13,
+      "bbox": [
+        637.0,
+        289.0,
+        60.0,
+        119.0
+      ],
+      "area": 7140.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 7413032097,
+      "category_id": 13,
+      "bbox": [
+        540.0,
+        201.0,
+        78.0,
+        80.0
+      ],
+      "area": 6240.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 7413032097,
+      "category_id": 13,
+      "bbox": [
+        701.0,
+        402.0,
+        58.0,
+        71.0
+      ],
+      "area": 4118.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 7413032097,
+      "category_id": 13,
+      "bbox": [
+        741.0,
+        418.0,
+        36.0,
+        131.0
+      ],
+      "area": 4716.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 7413032097,
+      "category_id": 13,
+      "bbox": [
+        760.0,
+        354.0,
+        65.0,
+        60.0
+      ],
+      "area": 3900.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 7413032097,
+      "category_id": 13,
+      "bbox": [
+        420.0,
+        493.0,
+        93.0,
+        60.0
+      ],
+      "area": 5580.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 16,
+      "image_id": 7413032097,
+      "category_id": 13,
+      "bbox": [
+        437.0,
+        445.0,
+        77.0,
+        56.0
+      ],
+      "area": 4312.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 17,
+      "image_id": 7413032097,
+      "category_id": 13,
+      "bbox": [
+        528.0,
+        501.0,
+        106.0,
+        94.0
+      ],
+      "area": 9964.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 13,
+      "name": "potato_leaf_early_blight",
+      "supercategory": "potato_leaf_early_blight"
+    }
+  ]
+}

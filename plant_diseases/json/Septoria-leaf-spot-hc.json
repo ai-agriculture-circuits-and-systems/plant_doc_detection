@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7482779626,
+      "width": 504,
+      "height": 386,
+      "file_name": "Septoria-leaf-spot-hc.jpg",
+      "size": 21535,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7482779626,
+      "category_id": 20,
+      "bbox": [
+        265.0,
+        1.0,
+        115.0,
+        92.0
+      ],
+      "area": 10580.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7482779626,
+      "category_id": 20,
+      "bbox": [
+        298.0,
+        223.0,
+        60.0,
+        65.0
+      ],
+      "area": 3900.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7482779626,
+      "category_id": 20,
+      "bbox": [
+        392.0,
+        208.0,
+        71.0,
+        66.0
+      ],
+      "area": 4686.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 7482779626,
+      "category_id": 20,
+      "bbox": [
+        391.0,
+        118.0,
+        59.0,
+        43.0
+      ],
+      "area": 2537.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 7482779626,
+      "category_id": 20,
+      "bbox": [
+        59.0,
+        170.0,
+        151.0,
+        132.0
+      ],
+      "area": 19932.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 7482779626,
+      "category_id": 20,
+      "bbox": [
+        217.0,
+        117.0,
+        121.0,
+        69.0
+      ],
+      "area": 8349.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 20,
+      "name": "tomato_septoria_leaf_spot",
+      "supercategory": "tomato_septoria_leaf_spot"
+    }
+  ]
+}

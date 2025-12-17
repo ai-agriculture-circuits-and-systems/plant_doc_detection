@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1238767735,
+      "width": 269,
+      "height": 202,
+      "file_name": "applescab_lf.jpg",
+      "size": 15538,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1238767735,
+      "category_id": 1,
+      "bbox": [
+        21.0,
+        3.0,
+        230.0,
+        133.0
+      ],
+      "area": 30590.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1238767735,
+      "category_id": 1,
+      "bbox": [
+        45.0,
+        119.0,
+        137.0,
+        75.0
+      ],
+      "area": 10275.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1238767735,
+      "category_id": 1,
+      "bbox": [
+        161.0,
+        103.0,
+        94.0,
+        67.0
+      ],
+      "area": 6298.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "apple_scab_leaf",
+      "supercategory": "apple_scab_leaf"
+    }
+  ]
+}

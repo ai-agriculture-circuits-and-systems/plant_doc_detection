@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6326245180,
+      "width": 1000,
+      "height": 1000,
+      "file_name": "Bird-Cherry-%28Prunus-Padus%29-Leaf-and-Flowers.jpg",
+      "size": 152792,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6326245180,
+      "category_id": 7,
+      "bbox": [
+        235.0,
+        321.0,
+        386.0,
+        613.0
+      ],
+      "area": 236618.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6326245180,
+      "category_id": 7,
+      "bbox": [
+        538.0,
+        298.0,
+        247.0,
+        256.0
+      ],
+      "area": 63232.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 7,
+      "name": "cherry_leaf",
+      "supercategory": "cherry_leaf"
+    }
+  ]
+}

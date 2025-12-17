@@ -1,0 +1,126 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8965907949,
+      "width": 1200,
+      "height": 900,
+      "file_name": "late_blight_tomato_leaf_.jpg",
+      "size": 264012,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8965907949,
+      "category_id": 23,
+      "bbox": [
+        116.0,
+        508.0,
+        93.0,
+        244.0
+      ],
+      "area": 22692.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8965907949,
+      "category_id": 23,
+      "bbox": [
+        1.0,
+        61.0,
+        231.0,
+        408.0
+      ],
+      "area": 94248.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8965907949,
+      "category_id": 23,
+      "bbox": [
+        852.0,
+        10.0,
+        133.0,
+        168.0
+      ],
+      "area": 22344.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8965907949,
+      "category_id": 23,
+      "bbox": [
+        1010.0,
+        230.0,
+        190.0,
+        480.0
+      ],
+      "area": 91200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8965907949,
+      "category_id": 23,
+      "bbox": [
+        713.0,
+        278.0,
+        311.0,
+        244.0
+      ],
+      "area": 75884.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 8965907949,
+      "category_id": 23,
+      "bbox": [
+        312.0,
+        610.0,
+        436.0,
+        189.0
+      ],
+      "area": 82404.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 8965907949,
+      "category_id": 23,
+      "bbox": [
+        356.0,
+        236.0,
+        432.0,
+        282.0
+      ],
+      "area": 121824.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 23,
+      "name": "tomato_leaf_late_blight",
+      "supercategory": "tomato_leaf_late_blight"
+    }
+  ]
+}

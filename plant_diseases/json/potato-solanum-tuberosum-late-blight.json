@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1399123430,
+      "width": 1024,
+      "height": 345,
+      "file_name": "potato-solanum-tuberosum-late-blight.jpg",
+      "size": 99752,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1399123430,
+      "category_id": 14,
+      "bbox": [
+        298.0,
+        62.0,
+        402.0,
+        283.0
+      ],
+      "area": 113766.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 14,
+      "name": "potato_leaf_late_blight",
+      "supercategory": "potato_leaf_late_blight"
+    }
+  ]
+}

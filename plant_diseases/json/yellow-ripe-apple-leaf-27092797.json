@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3061741560,
+      "width": 1180,
+      "height": 1300,
+      "file_name": "yellow-ripe-apple-leaf-27092797.jpg",
+      "size": 99570,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3061741560,
+      "category_id": 2,
+      "bbox": [
+        23.0,
+        260.0,
+        527.0,
+        511.0
+      ],
+      "area": 269297.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "apple_leaf",
+      "supercategory": "apple_leaf"
+    }
+  ]
+}

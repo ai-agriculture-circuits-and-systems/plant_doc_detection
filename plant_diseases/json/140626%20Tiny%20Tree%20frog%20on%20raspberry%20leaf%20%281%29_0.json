@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5544195211,
+      "width": 1600,
+      "height": 1200,
+      "file_name": "140626%20Tiny%20Tree%20frog%20on%20raspberry%20leaf%20%281%29_0.jpg",
+      "size": 241199,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5544195211,
+      "category_id": 15,
+      "bbox": [
+        1099.0,
+        308.0,
+        244.0,
+        276.0
+      ],
+      "area": 67344.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5544195211,
+      "category_id": 15,
+      "bbox": [
+        1194.0,
+        530.0,
+        406.0,
+        242.0
+      ],
+      "area": 98252.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5544195211,
+      "category_id": 15,
+      "bbox": [
+        976.0,
+        469.0,
+        239.0,
+        201.0
+      ],
+      "area": 48039.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 5544195211,
+      "category_id": 15,
+      "bbox": [
+        949.0,
+        574.0,
+        461.0,
+        406.0
+      ],
+      "area": 187166.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

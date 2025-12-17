@@ -1,0 +1,178 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2715862586,
+      "width": 1704,
+      "height": 2272,
+      "file_name": "Peach-Pixzee-tree.jpg",
+      "size": 1508670,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2715862586,
+      "category_id": 11,
+      "bbox": [
+        283.0,
+        648.0,
+        135.0,
+        416.0
+      ],
+      "area": 56160.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2715862586,
+      "category_id": 11,
+      "bbox": [
+        437.0,
+        650.0,
+        83.0,
+        396.0
+      ],
+      "area": 32868.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2715862586,
+      "category_id": 11,
+      "bbox": [
+        1062.0,
+        4.0,
+        142.0,
+        388.0
+      ],
+      "area": 55096.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2715862586,
+      "category_id": 11,
+      "bbox": [
+        706.0,
+        1195.0,
+        182.0,
+        537.0
+      ],
+      "area": 97734.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 2715862586,
+      "category_id": 11,
+      "bbox": [
+        1479.0,
+        346.0,
+        93.0,
+        349.0
+      ],
+      "area": 32457.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 2715862586,
+      "category_id": 11,
+      "bbox": [
+        1516.0,
+        999.0,
+        176.0,
+        424.0
+      ],
+      "area": 74624.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 2715862586,
+      "category_id": 11,
+      "bbox": [
+        262.0,
+        1220.0,
+        207.0,
+        356.0
+      ],
+      "area": 73692.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 2715862586,
+      "category_id": 11,
+      "bbox": [
+        1244.0,
+        1281.0,
+        151.0,
+        444.0
+      ],
+      "area": 67044.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 2715862586,
+      "category_id": 11,
+      "bbox": [
+        995.0,
+        23.0,
+        121.0,
+        307.0
+      ],
+      "area": 37147.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 2715862586,
+      "category_id": 11,
+      "bbox": [
+        218.0,
+        674.0,
+        100.0,
+        328.0
+      ],
+      "area": 32800.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 2715862586,
+      "category_id": 11,
+      "bbox": [
+        1174.0,
+        55.0,
+        93.0,
+        323.0
+      ],
+      "area": 30039.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "peach_leaf",
+      "supercategory": "peach_leaf"
+    }
+  ]
+}

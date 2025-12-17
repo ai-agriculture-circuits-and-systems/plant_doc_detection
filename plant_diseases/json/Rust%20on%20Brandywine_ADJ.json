@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1263113777,
+      "width": 1236,
+      "height": 824,
+      "file_name": "Rust%20on%20Brandywine_ADJ.jpg",
+      "size": 207650,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1263113777,
+      "category_id": 3,
+      "bbox": [
+        347.0,
+        47.0,
+        497.0,
+        731.0
+      ],
+      "area": 363307.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "apple_rust_leaf",
+      "supercategory": "apple_rust_leaf"
+    }
+  ]
+}

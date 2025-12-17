@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1051034361,
+      "width": 1200,
+      "height": 1200,
+      "file_name": "village-herbals-bulk-herbs-raspberry-leaves.jpg",
+      "size": 554014,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1051034361,
+      "category_id": 15,
+      "bbox": [
+        499.0,
+        658.0,
+        470.0,
+        539.0
+      ],
+      "area": 253330.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1051034361,
+      "category_id": 15,
+      "bbox": [
+        689.0,
+        434.0,
+        511.0,
+        311.0
+      ],
+      "area": 158921.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1051034361,
+      "category_id": 15,
+      "bbox": [
+        166.0,
+        419.0,
+        533.0,
+        307.0
+      ],
+      "area": 163631.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

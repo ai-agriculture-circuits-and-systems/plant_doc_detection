@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9791523275,
+      "width": 1600,
+      "height": 1067,
+      "file_name": "Grolleau_noir_leaves.jpg",
+      "size": 123058,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9791523275,
+      "category_id": 28,
+      "bbox": [
+        457.0,
+        233.0,
+        727.0,
+        775.0
+      ],
+      "area": 563425.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9791523275,
+      "category_id": 28,
+      "bbox": [
+        823.0,
+        616.0,
+        644.0,
+        451.0
+      ],
+      "area": 290444.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 28,
+      "name": "grape_leaf",
+      "supercategory": "grape_leaf"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9234736047,
+      "width": 500,
+      "height": 375,
+      "file_name": "tomato-yellow-closeup-4.jpg",
+      "size": 117191,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9234736047,
+      "category_id": 25,
+      "bbox": [
+        165.0,
+        218.0,
+        69.0,
+        112.0
+      ],
+      "area": 7728.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9234736047,
+      "category_id": 25,
+      "bbox": [
+        119.0,
+        112.0,
+        68.0,
+        113.0
+      ],
+      "area": 7684.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9234736047,
+      "category_id": 25,
+      "bbox": [
+        209.0,
+        30.0,
+        80.0,
+        99.0
+      ],
+      "area": 7920.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 9234736047,
+      "category_id": 25,
+      "bbox": [
+        283.0,
+        65.0,
+        60.0,
+        68.0
+      ],
+      "area": 4080.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 9234736047,
+      "category_id": 25,
+      "bbox": [
+        250.0,
+        208.0,
+        66.0,
+        80.0
+      ],
+      "area": 5280.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 9234736047,
+      "category_id": 25,
+      "bbox": [
+        366.0,
+        231.0,
+        82.0,
+        76.0
+      ],
+      "area": 6232.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 25,
+      "name": "tomato_leaf_yellow_virus",
+      "supercategory": "tomato_leaf_yellow_virus"
+    }
+  ]
+}

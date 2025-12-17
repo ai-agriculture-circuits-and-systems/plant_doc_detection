@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5555984960,
+      "width": 220,
+      "height": 152,
+      "file_name": "220px-Guignardia_bidwellii_08.jpg",
+      "size": 8319,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5555984960,
+      "category_id": 29,
+      "bbox": [
+        111.0,
+        2.0,
+        91.0,
+        88.0
+      ],
+      "area": 8008.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5555984960,
+      "category_id": 29,
+      "bbox": [
+        22.0,
+        56.0,
+        99.0,
+        96.0
+      ],
+      "area": 9504.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5555984960,
+      "category_id": 29,
+      "bbox": [
+        31.0,
+        1.0,
+        99.0,
+        33.0
+      ],
+      "area": 3267.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 29,
+      "name": "grape_leaf_black_rot",
+      "supercategory": "grape_leaf_black_rot"
+    }
+  ]
+}

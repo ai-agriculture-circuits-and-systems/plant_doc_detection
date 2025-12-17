@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2155849851,
+      "width": 300,
+      "height": 200,
+      "file_name": "Fig3_Common_rust.JPG.jpg",
+      "size": 71015,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2155849851,
+      "category_id": 10,
+      "bbox": [
+        1.0,
+        1.0,
+        299.0,
+        198.0
+      ],
+      "area": 59202.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 10,
+      "name": "corn_rust_leaf",
+      "supercategory": "corn_rust_leaf"
+    }
+  ]
+}

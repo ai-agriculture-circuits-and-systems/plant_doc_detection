@@ -1,0 +1,165 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3340776564,
+      "width": 1300,
+      "height": 1067,
+      "file_name": "leaves-of-a-raspberry-stock-photo-1206396.jpg",
+      "size": 195167,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3340776564,
+      "category_id": 15,
+      "bbox": [
+        481.0,
+        581.0,
+        200.0,
+        234.0
+      ],
+      "area": 46800.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3340776564,
+      "category_id": 15,
+      "bbox": [
+        329.0,
+        551.0,
+        166.0,
+        115.0
+      ],
+      "area": 19090.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3340776564,
+      "category_id": 15,
+      "bbox": [
+        478.0,
+        503.0,
+        208.0,
+        103.0
+      ],
+      "area": 21424.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3340776564,
+      "category_id": 15,
+      "bbox": [
+        671.0,
+        550.0,
+        133.0,
+        156.0
+      ],
+      "area": 20748.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 3340776564,
+      "category_id": 15,
+      "bbox": [
+        832.0,
+        565.0,
+        218.0,
+        295.0
+      ],
+      "area": 64310.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 3340776564,
+      "category_id": 15,
+      "bbox": [
+        795.0,
+        512.0,
+        168.0,
+        75.0
+      ],
+      "area": 12600.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 3340776564,
+      "category_id": 15,
+      "bbox": [
+        66.0,
+        606.0,
+        215.0,
+        189.0
+      ],
+      "area": 40635.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 3340776564,
+      "category_id": 15,
+      "bbox": [
+        38.0,
+        406.0,
+        224.0,
+        133.0
+      ],
+      "area": 29792.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 3340776564,
+      "category_id": 15,
+      "bbox": [
+        259.0,
+        132.0,
+        174.0,
+        173.0
+      ],
+      "area": 30102.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 3340776564,
+      "category_id": 15,
+      "bbox": [
+        548.0,
+        351.0,
+        160.0,
+        214.0
+      ],
+      "area": 34240.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

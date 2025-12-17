@@ -1,0 +1,152 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9388116265,
+      "width": 1500,
+      "height": 1164,
+      "file_name": "stock-photo-soybean-on-the-pod-with-leaves-for-healthy-eating-concept-62173117.jpg",
+      "size": 388899,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9388116265,
+      "category_id": 16,
+      "bbox": [
+        449.0,
+        365.0,
+        278.0,
+        229.0
+      ],
+      "area": 63662.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9388116265,
+      "category_id": 16,
+      "bbox": [
+        628.0,
+        201.0,
+        204.0,
+        238.0
+      ],
+      "area": 48552.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9388116265,
+      "category_id": 16,
+      "bbox": [
+        718.0,
+        404.0,
+        219.0,
+        239.0
+      ],
+      "area": 52341.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 9388116265,
+      "category_id": 16,
+      "bbox": [
+        877.0,
+        259.0,
+        290.0,
+        225.0
+      ],
+      "area": 65250.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 9388116265,
+      "category_id": 16,
+      "bbox": [
+        1139.0,
+        175.0,
+        201.0,
+        258.0
+      ],
+      "area": 51858.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 9388116265,
+      "category_id": 16,
+      "bbox": [
+        1055.0,
+        395.0,
+        214.0,
+        241.0
+      ],
+      "area": 51574.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 9388116265,
+      "category_id": 16,
+      "bbox": [
+        245.0,
+        480.0,
+        274.0,
+        194.0
+      ],
+      "area": 53156.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 9388116265,
+      "category_id": 16,
+      "bbox": [
+        62.0,
+        540.0,
+        212.0,
+        236.0
+      ],
+      "area": 50032.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 9388116265,
+      "category_id": 16,
+      "bbox": [
+        138.0,
+        308.0,
+        186.0,
+        238.0
+      ],
+      "area": 44268.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 16,
+      "name": "soyabean_leaf",
+      "supercategory": "soyabean_leaf"
+    }
+  ]
+}

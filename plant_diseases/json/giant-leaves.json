@@ -1,0 +1,152 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4964882388,
+      "width": 2736,
+      "height": 2736,
+      "file_name": "giant-leaves.jpg",
+      "size": 2118700,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4964882388,
+      "category_id": 18,
+      "bbox": [
+        1809.0,
+        928.0,
+        866.0,
+        873.0
+      ],
+      "area": 756018.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4964882388,
+      "category_id": 18,
+      "bbox": [
+        1256.0,
+        816.0,
+        850.0,
+        719.0
+      ],
+      "area": 611150.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4964882388,
+      "category_id": 18,
+      "bbox": [
+        1275.0,
+        1455.0,
+        1031.0,
+        1084.0
+      ],
+      "area": 1117604.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4964882388,
+      "category_id": 18,
+      "bbox": [
+        436.0,
+        485.0,
+        473.0,
+        470.0
+      ],
+      "area": 222310.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4964882388,
+      "category_id": 18,
+      "bbox": [
+        1.0,
+        292.0,
+        531.0,
+        659.0
+      ],
+      "area": 349929.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 4964882388,
+      "category_id": 18,
+      "bbox": [
+        248.0,
+        881.0,
+        415.0,
+        489.0
+      ],
+      "area": 202935.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 4964882388,
+      "category_id": 18,
+      "bbox": [
+        1448.0,
+        285.0,
+        588.0,
+        504.0
+      ],
+      "area": 296352.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 4964882388,
+      "category_id": 18,
+      "bbox": [
+        863.0,
+        393.0,
+        635.0,
+        538.0
+      ],
+      "area": 341630.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 4964882388,
+      "category_id": 18,
+      "bbox": [
+        536.0,
+        62.0,
+        796.0,
+        366.0
+      ],
+      "area": 291336.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 18,
+      "name": "strawberry_leaf",
+      "supercategory": "strawberry_leaf"
+    }
+  ]
+}

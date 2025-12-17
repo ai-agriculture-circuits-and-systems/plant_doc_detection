@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2854997051,
+      "width": 4048,
+      "height": 3340,
+      "file_name": "Soybean%20tofu%20leaf.JPG.jpg",
+      "size": 1547011,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2854997051,
+      "category_id": 16,
+      "bbox": [
+        1300.0,
+        51.0,
+        1287.0,
+        1680.0
+      ],
+      "area": 2162160.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2854997051,
+      "category_id": 16,
+      "bbox": [
+        2163.0,
+        1208.0,
+        1534.0,
+        1410.0
+      ],
+      "area": 2162940.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2854997051,
+      "category_id": 16,
+      "bbox": [
+        430.0,
+        1421.0,
+        1660.0,
+        1233.0
+      ],
+      "area": 2046780.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 16,
+      "name": "soyabean_leaf",
+      "supercategory": "soyabean_leaf"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3585511784,
+      "width": 2588,
+      "height": 1949,
+      "file_name": "270412tglr-wild-strawberry-leaf.jpg",
+      "size": 183171,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3585511784,
+      "category_id": 18,
+      "bbox": [
+        649.0,
+        159.0,
+        867.0,
+        1091.0
+      ],
+      "area": 945897.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3585511784,
+      "category_id": 18,
+      "bbox": [
+        1347.0,
+        656.0,
+        1130.0,
+        917.0
+      ],
+      "area": 1036210.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3585511784,
+      "category_id": 18,
+      "bbox": [
+        80.0,
+        956.0,
+        1294.0,
+        892.0
+      ],
+      "area": 1154248.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 18,
+      "name": "strawberry_leaf",
+      "supercategory": "strawberry_leaf"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8516842061,
+      "width": 600,
+      "height": 450,
+      "file_name": "Jeter%20Mtn%20Farm_7053.JPG.jpg",
+      "size": 63142,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8516842061,
+      "category_id": 22,
+      "bbox": [
+        291.0,
+        82.0,
+        305.0,
+        232.0
+      ],
+      "area": 70760.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 22,
+      "name": "tomato_leaf_bacterial_spot",
+      "supercategory": "tomato_leaf_bacterial_spot"
+    }
+  ]
+}

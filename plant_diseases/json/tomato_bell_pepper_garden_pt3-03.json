@@ -1,0 +1,126 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3741322370,
+      "width": 1600,
+      "height": 1071,
+      "file_name": "tomato_bell_pepper_garden_pt3-03.jpg",
+      "size": 479714,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3741322370,
+      "category_id": 4,
+      "bbox": [
+        870.0,
+        5.0,
+        244.0,
+        320.0
+      ],
+      "area": 78080.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3741322370,
+      "category_id": 4,
+      "bbox": [
+        1161.0,
+        195.0,
+        420.0,
+        154.0
+      ],
+      "area": 64680.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3741322370,
+      "category_id": 4,
+      "bbox": [
+        642.0,
+        428.0,
+        418.0,
+        181.0
+      ],
+      "area": 75658.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3741322370,
+      "category_id": 4,
+      "bbox": [
+        428.0,
+        194.0,
+        224.0,
+        381.0
+      ],
+      "area": 85344.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 3741322370,
+      "category_id": 4,
+      "bbox": [
+        19.0,
+        479.0,
+        445.0,
+        191.0
+      ],
+      "area": 84995.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 3741322370,
+      "category_id": 4,
+      "bbox": [
+        504.0,
+        536.0,
+        222.0,
+        180.0
+      ],
+      "area": 39960.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 3741322370,
+      "category_id": 4,
+      "bbox": [
+        686.0,
+        302.0,
+        343.0,
+        203.0
+      ],
+      "area": 69629.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 4,
+      "name": "bell_pepper_leaf",
+      "supercategory": "bell_pepper_leaf"
+    }
+  ]
+}

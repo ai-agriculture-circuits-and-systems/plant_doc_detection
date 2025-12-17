@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5105037747,
+      "width": 1300,
+      "height": 1238,
+      "file_name": "potato-early-blight-alternaria-alternata-lesion-on-a-potato-leaf-X96EFD.jpg",
+      "size": 218209,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5105037747,
+      "category_id": 13,
+      "bbox": [
+        19.0,
+        170.0,
+        1101.0,
+        842.0
+      ],
+      "area": 927042.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5105037747,
+      "category_id": 13,
+      "bbox": [
+        972.0,
+        560.0,
+        316.0,
+        365.0
+      ],
+      "area": 115340.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 13,
+      "name": "potato_leaf_early_blight",
+      "supercategory": "potato_leaf_early_blight"
+    }
+  ]
+}

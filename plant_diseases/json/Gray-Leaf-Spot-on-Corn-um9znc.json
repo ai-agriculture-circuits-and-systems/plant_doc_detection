@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4236565096,
+      "width": 1368,
+      "height": 840,
+      "file_name": "Gray-Leaf-Spot-on-Corn-um9znc.jpg",
+      "size": 221893,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4236565096,
+      "category_id": 8,
+      "bbox": [
+        15.0,
+        8.0,
+        772.0,
+        591.0
+      ],
+      "area": 456252.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4236565096,
+      "category_id": 8,
+      "bbox": [
+        1.0,
+        199.0,
+        357.0,
+        422.0
+      ],
+      "area": 150654.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4236565096,
+      "category_id": 8,
+      "bbox": [
+        1026.0,
+        5.0,
+        342.0,
+        481.0
+      ],
+      "area": 164502.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 8,
+      "name": "corn_gray_leaf_spot",
+      "supercategory": "corn_gray_leaf_spot"
+    }
+  ]
+}

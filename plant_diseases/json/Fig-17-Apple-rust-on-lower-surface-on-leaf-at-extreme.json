@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2207144824,
+      "width": 500,
+      "height": 405,
+      "file_name": "Fig-17-Apple-rust-on-lower-surface-on-leaf-at-extreme.jpg",
+      "size": 29565,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2207144824,
+      "category_id": 3,
+      "bbox": [
+        258.0,
+        7.0,
+        234.0,
+        384.0
+      ],
+      "area": 89856.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2207144824,
+      "category_id": 3,
+      "bbox": [
+        16.0,
+        18.0,
+        226.0,
+        355.0
+      ],
+      "area": 80230.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2207144824,
+      "category_id": 3,
+      "bbox": [
+        114.0,
+        7.0,
+        154.0,
+        327.0
+      ],
+      "area": 50358.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "apple_rust_leaf",
+      "supercategory": "apple_rust_leaf"
+    }
+  ]
+}

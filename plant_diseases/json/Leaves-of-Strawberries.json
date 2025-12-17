@@ -1,0 +1,152 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6245562007,
+      "width": 1500,
+      "height": 1280,
+      "file_name": "Leaves-of-Strawberries.jpg",
+      "size": 237877,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6245562007,
+      "category_id": 18,
+      "bbox": [
+        91.0,
+        566.0,
+        533.0,
+        422.0
+      ],
+      "area": 224926.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6245562007,
+      "category_id": 18,
+      "bbox": [
+        440.0,
+        368.0,
+        429.0,
+        440.0
+      ],
+      "area": 188760.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6245562007,
+      "category_id": 18,
+      "bbox": [
+        355.0,
+        765.0,
+        476.0,
+        490.0
+      ],
+      "area": 233240.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 6245562007,
+      "category_id": 18,
+      "bbox": [
+        1089.0,
+        574.0,
+        375.0,
+        345.0
+      ],
+      "area": 129375.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 6245562007,
+      "category_id": 18,
+      "bbox": [
+        857.0,
+        588.0,
+        283.0,
+        418.0
+      ],
+      "area": 118294.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 6245562007,
+      "category_id": 18,
+      "bbox": [
+        977.0,
+        315.0,
+        360.0,
+        311.0
+      ],
+      "area": 111960.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 6245562007,
+      "category_id": 18,
+      "bbox": [
+        275.0,
+        115.0,
+        409.0,
+        297.0
+      ],
+      "area": 121473.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 6245562007,
+      "category_id": 18,
+      "bbox": [
+        1.0,
+        206.0,
+        319.0,
+        344.0
+      ],
+      "area": 109736.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 6245562007,
+      "category_id": 18,
+      "bbox": [
+        48.0,
+        6.0,
+        340.0,
+        280.0
+      ],
+      "area": 95200.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 18,
+      "name": "strawberry_leaf",
+      "supercategory": "strawberry_leaf"
+    }
+  ]
+}

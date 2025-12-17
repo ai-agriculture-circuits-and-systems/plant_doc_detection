@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5366872070,
+      "width": 1200,
+      "height": 1600,
+      "file_name": "2017-08-27%2B-%2BLate%2BBlight%2Bon%2BGypsy%2B1.jpg",
+      "size": 278140,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5366872070,
+      "category_id": 23,
+      "bbox": [
+        302.0,
+        163.0,
+        468.0,
+        1200.0
+      ],
+      "area": 561600.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 23,
+      "name": "tomato_leaf_late_blight",
+      "supercategory": "tomato_leaf_late_blight"
+    }
+  ]
+}

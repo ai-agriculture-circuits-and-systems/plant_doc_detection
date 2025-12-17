@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2332753525,
+      "width": 640,
+      "height": 484,
+      "file_name": "tomato-late-blight-phytophthora-infestans-on-tomato-leaves-a15ym0.jpg",
+      "size": 94093,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2332753525,
+      "category_id": 23,
+      "bbox": [
+        63.0,
+        27.0,
+        131.0,
+        130.0
+      ],
+      "area": 17030.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2332753525,
+      "category_id": 23,
+      "bbox": [
+        372.0,
+        337.0,
+        124.0,
+        104.0
+      ],
+      "area": 12896.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2332753525,
+      "category_id": 23,
+      "bbox": [
+        166.0,
+        257.0,
+        246.0,
+        155.0
+      ],
+      "area": 38130.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2332753525,
+      "category_id": 23,
+      "bbox": [
+        96.0,
+        150.0,
+        128.0,
+        111.0
+      ],
+      "area": 14208.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 2332753525,
+      "category_id": 23,
+      "bbox": [
+        292.0,
+        86.0,
+        267.0,
+        226.0
+      ],
+      "area": 60342.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 23,
+      "name": "tomato_leaf_late_blight",
+      "supercategory": "tomato_leaf_late_blight"
+    }
+  ]
+}

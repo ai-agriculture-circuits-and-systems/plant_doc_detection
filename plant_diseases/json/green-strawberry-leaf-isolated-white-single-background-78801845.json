@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2999469407,
+      "width": 1300,
+      "height": 1206,
+      "file_name": "green-strawberry-leaf-isolated-white-single-background-78801845.jpg",
+      "size": 303496,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2999469407,
+      "category_id": 18,
+      "bbox": [
+        109.0,
+        456.0,
+        707.0,
+        617.0
+      ],
+      "area": 436219.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2999469407,
+      "category_id": 18,
+      "bbox": [
+        185.0,
+        4.0,
+        780.0,
+        486.0
+      ],
+      "area": 379080.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2999469407,
+      "category_id": 18,
+      "bbox": [
+        722.0,
+        489.0,
+        539.0,
+        598.0
+      ],
+      "area": 322322.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 18,
+      "name": "strawberry_leaf",
+      "supercategory": "strawberry_leaf"
+    }
+  ]
+}

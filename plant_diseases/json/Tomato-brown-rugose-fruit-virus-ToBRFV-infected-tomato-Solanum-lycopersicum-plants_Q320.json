@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7111430831,
+      "width": 320,
+      "height": 320,
+      "file_name": "Tomato-brown-rugose-fruit-virus-ToBRFV-infected-tomato-Solanum-lycopersicum-plants_Q320.jpg",
+      "size": 33605,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7111430831,
+      "category_id": 24,
+      "bbox": [
+        187.0,
+        256.0,
+        30.0,
+        48.0
+      ],
+      "area": 1440.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7111430831,
+      "category_id": 24,
+      "bbox": [
+        253.0,
+        248.0,
+        25.0,
+        37.0
+      ],
+      "area": 925.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7111430831,
+      "category_id": 24,
+      "bbox": [
+        224.0,
+        246.0,
+        22.0,
+        41.0
+      ],
+      "area": 902.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 7111430831,
+      "category_id": 24,
+      "bbox": [
+        230.0,
+        179.0,
+        21.0,
+        60.0
+      ],
+      "area": 1260.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 7111430831,
+      "category_id": 24,
+      "bbox": [
+        197.0,
+        182.0,
+        26.0,
+        56.0
+      ],
+      "area": 1456.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 24,
+      "name": "tomato_leaf_mosaic_virus",
+      "supercategory": "tomato_leaf_mosaic_virus"
+    }
+  ]
+}

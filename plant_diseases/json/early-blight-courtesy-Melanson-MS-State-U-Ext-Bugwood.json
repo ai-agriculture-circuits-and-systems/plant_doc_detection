@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5435192846,
+      "width": 400,
+      "height": 533,
+      "file_name": "early-blight-courtesy-Melanson-MS-State-U-Ext-Bugwood.jpg",
+      "size": 112123,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5435192846,
+      "category_id": 13,
+      "bbox": [
+        20.0,
+        3.0,
+        367.0,
+        527.0
+      ],
+      "area": 193409.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 13,
+      "name": "potato_leaf_early_blight",
+      "supercategory": "potato_leaf_early_blight"
+    }
+  ]
+}

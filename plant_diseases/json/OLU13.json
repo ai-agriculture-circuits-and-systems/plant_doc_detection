@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4345296169,
+      "width": 6000,
+      "height": 4000,
+      "file_name": "OLU13.jpg",
+      "size": 599962,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4345296169,
+      "category_id": 26,
+      "bbox": [
+        376.0,
+        1.0,
+        1520.0,
+        696.0
+      ],
+      "area": 1057920.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4345296169,
+      "category_id": 26,
+      "bbox": [
+        1971.0,
+        1.0,
+        1532.0,
+        931.0
+      ],
+      "area": 1426292.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4345296169,
+      "category_id": 26,
+      "bbox": [
+        3490.0,
+        3242.0,
+        1023.0,
+        758.0
+      ],
+      "area": 775434.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4345296169,
+      "category_id": 26,
+      "bbox": [
+        1295.0,
+        1027.0,
+        3257.0,
+        1980.0
+      ],
+      "area": 6448860.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 26,
+      "name": "tomato_mold_leaf",
+      "supercategory": "tomato_mold_leaf"
+    }
+  ]
+}

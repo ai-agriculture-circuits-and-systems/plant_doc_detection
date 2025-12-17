@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2004098608,
+      "width": 2440,
+      "height": 1830,
+      "file_name": "cedar%20apple%20rust%20lower%20leaf%20haw%20S%202%20ne%20OH%20RA%209-2-16.jpg",
+      "size": 1755653,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2004098608,
+      "category_id": 3,
+      "bbox": [
+        910.0,
+        44.0,
+        1373.0,
+        1786.0
+      ],
+      "area": 2452178.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "apple_rust_leaf",
+      "supercategory": "apple_rust_leaf"
+    }
+  ]
+}

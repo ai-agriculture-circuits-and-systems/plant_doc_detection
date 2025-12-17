@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4956376257,
+      "width": 700,
+      "height": 473,
+      "file_name": "wood-strawberry-leaves-700w.jpg",
+      "size": 101718,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4956376257,
+      "category_id": 18,
+      "bbox": [
+        32.0,
+        55.0,
+        383.0,
+        240.0
+      ],
+      "area": 91920.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4956376257,
+      "category_id": 18,
+      "bbox": [
+        380.0,
+        12.0,
+        241.0,
+        231.0
+      ],
+      "area": 55671.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4956376257,
+      "category_id": 18,
+      "bbox": [
+        259.0,
+        226.0,
+        275.0,
+        228.0
+      ],
+      "area": 62700.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 18,
+      "name": "strawberry_leaf",
+      "supercategory": "strawberry_leaf"
+    }
+  ]
+}

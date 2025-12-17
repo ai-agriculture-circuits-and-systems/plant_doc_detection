@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7412530176,
+      "width": 3648,
+      "height": 2736,
+      "file_name": "severe%20PM%20at%20MHRI%202013%20%2821%29.JPG.jpg",
+      "size": 2248932,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7412530176,
+      "category_id": 17,
+      "bbox": [
+        777.0,
+        416.0,
+        2123.0,
+        2242.0
+      ],
+      "area": 4759766.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 17,
+      "name": "squash_powdery_mildew_leaf",
+      "supercategory": "squash_powdery_mildew_leaf"
+    }
+  ]
+}

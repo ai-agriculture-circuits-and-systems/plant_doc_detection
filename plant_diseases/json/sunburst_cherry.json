@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3423015693,
+      "width": 1000,
+      "height": 820,
+      "file_name": "sunburst_cherry.jpg",
+      "size": 172492,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3423015693,
+      "category_id": 7,
+      "bbox": [
+        1.0,
+        320.0,
+        333.0,
+        189.0
+      ],
+      "area": 62937.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3423015693,
+      "category_id": 7,
+      "bbox": [
+        1.0,
+        449.0,
+        314.0,
+        357.0
+      ],
+      "area": 112098.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 7,
+      "name": "cherry_leaf",
+      "supercategory": "cherry_leaf"
+    }
+  ]
+}

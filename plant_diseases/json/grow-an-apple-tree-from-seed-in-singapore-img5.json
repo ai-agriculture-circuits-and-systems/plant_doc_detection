@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2230164335,
+      "width": 3033,
+      "height": 2191,
+      "file_name": "grow-an-apple-tree-from-seed-in-singapore-img5.jpg",
+      "size": 1019384,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2230164335,
+      "category_id": 2,
+      "bbox": [
+        1509.0,
+        159.0,
+        1343.0,
+        945.0
+      ],
+      "area": 1269135.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2230164335,
+      "category_id": 2,
+      "bbox": [
+        327.0,
+        13.0,
+        1509.0,
+        878.0
+      ],
+      "area": 1324902.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2230164335,
+      "category_id": 2,
+      "bbox": [
+        1.0,
+        913.0,
+        1062.0,
+        912.0
+      ],
+      "area": 968544.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2230164335,
+      "category_id": 2,
+      "bbox": [
+        1222.0,
+        1329.0,
+        1096.0,
+        862.0
+      ],
+      "area": 944752.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "apple_leaf",
+      "supercategory": "apple_leaf"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4228982767,
+      "width": 1000,
+      "height": 1300,
+      "file_name": "ripe-peach-fresh-red-tree-green-leaves-57508021.jpg",
+      "size": 147855,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4228982767,
+      "category_id": 11,
+      "bbox": [
+        540.0,
+        206.0,
+        180.0,
+        343.0
+      ],
+      "area": 61740.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4228982767,
+      "category_id": 11,
+      "bbox": [
+        87.0,
+        700.0,
+        160.0,
+        438.0
+      ],
+      "area": 70080.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4228982767,
+      "category_id": 11,
+      "bbox": [
+        263.0,
+        756.0,
+        169.0,
+        489.0
+      ],
+      "area": 82641.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4228982767,
+      "category_id": 11,
+      "bbox": [
+        1.0,
+        204.0,
+        265.0,
+        314.0
+      ],
+      "area": 83210.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4228982767,
+      "category_id": 11,
+      "bbox": [
+        250.0,
+        245.0,
+        194.0,
+        451.0
+      ],
+      "area": 87494.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 4228982767,
+      "category_id": 11,
+      "bbox": [
+        539.0,
+        312.0,
+        187.0,
+        526.0
+      ],
+      "area": 98362.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "peach_leaf",
+      "supercategory": "peach_leaf"
+    }
+  ]
+}

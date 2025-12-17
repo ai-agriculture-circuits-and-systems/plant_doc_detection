@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4675243617,
+      "width": 166,
+      "height": 137,
+      "file_name": "vdu-tomato-sept-eb-285x300.jpg",
+      "size": 9503,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4675243617,
+      "category_id": 20,
+      "bbox": [
+        114.0,
+        73.0,
+        16.0,
+        35.0
+      ],
+      "area": 560.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4675243617,
+      "category_id": 20,
+      "bbox": [
+        84.0,
+        75.0,
+        32.0,
+        56.0
+      ],
+      "area": 1792.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4675243617,
+      "category_id": 20,
+      "bbox": [
+        104.0,
+        24.0,
+        18.0,
+        44.0
+      ],
+      "area": 792.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4675243617,
+      "category_id": 20,
+      "bbox": [
+        117.0,
+        3.0,
+        46.0,
+        60.0
+      ],
+      "area": 2760.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4675243617,
+      "category_id": 20,
+      "bbox": [
+        112.0,
+        74.0,
+        50.0,
+        61.0
+      ],
+      "area": 3050.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 20,
+      "name": "tomato_septoria_leaf_spot",
+      "supercategory": "tomato_septoria_leaf_spot"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9139047733,
+      "width": 448,
+      "height": 336,
+      "file_name": "b54d0e40027ff5e90e8ba7e1e9abf9bd--garden-guide-garden-ideas.jpg",
+      "size": 24241,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9139047733,
+      "category_id": 19,
+      "bbox": [
+        7.0,
+        3.0,
+        378.0,
+        316.0
+      ],
+      "area": 119448.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 19,
+      "name": "tomato_early_blight_leaf",
+      "supercategory": "tomato_early_blight_leaf"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5436887831,
+      "width": 190,
+      "height": 148,
+      "file_name": "tomato_leaf_curl_ND_on_luffah_KC3701030-3.jpg",
+      "size": 36098,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5436887831,
+      "category_id": 24,
+      "bbox": [
+        23.0,
+        9.0,
+        122.0,
+        127.0
+      ],
+      "area": 15494.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 24,
+      "name": "tomato_leaf_mosaic_virus",
+      "supercategory": "tomato_leaf_mosaic_virus"
+    }
+  ]
+}

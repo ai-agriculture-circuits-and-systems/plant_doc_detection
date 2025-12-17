@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9007727905,
+      "width": 347,
+      "height": 280,
+      "file_name": "tomato-mosaic-virus-disease-on-260nw-625499771.jpg",
+      "size": 26142,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9007727905,
+      "category_id": 24,
+      "bbox": [
+        8.0,
+        13.0,
+        83.0,
+        103.0
+      ],
+      "area": 8549.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9007727905,
+      "category_id": 24,
+      "bbox": [
+        25.0,
+        133.0,
+        82.0,
+        86.0
+      ],
+      "area": 7052.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9007727905,
+      "category_id": 24,
+      "bbox": [
+        94.0,
+        119.0,
+        105.0,
+        136.0
+      ],
+      "area": 14280.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 9007727905,
+      "category_id": 24,
+      "bbox": [
+        99.0,
+        8.0,
+        97.0,
+        103.0
+      ],
+      "area": 9991.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 9007727905,
+      "category_id": 24,
+      "bbox": [
+        203.0,
+        59.0,
+        128.0,
+        116.0
+      ],
+      "area": 14848.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 24,
+      "name": "tomato_leaf_mosaic_virus",
+      "supercategory": "tomato_leaf_mosaic_virus"
+    }
+  ]
+}

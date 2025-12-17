@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6210637484,
+      "width": 450,
+      "height": 415,
+      "file_name": "stock-photo-strawberry-leaf-isolated-on-white-background-572055775.jpg",
+      "size": 31908,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6210637484,
+      "category_id": 18,
+      "bbox": [
+        195.0,
+        150.0,
+        214.0,
+        144.0
+      ],
+      "area": 30816.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6210637484,
+      "category_id": 18,
+      "bbox": [
+        65.0,
+        156.0,
+        182.0,
+        203.0
+      ],
+      "area": 36946.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6210637484,
+      "category_id": 18,
+      "bbox": [
+        148.0,
+        33.0,
+        178.0,
+        174.0
+      ],
+      "area": 30972.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 18,
+      "name": "strawberry_leaf",
+      "supercategory": "strawberry_leaf"
+    }
+  ]
+}

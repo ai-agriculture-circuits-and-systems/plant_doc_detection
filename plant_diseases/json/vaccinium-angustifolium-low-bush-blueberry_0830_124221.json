@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8053849108,
+      "width": 720,
+      "height": 540,
+      "file_name": "vaccinium-angustifolium-low-bush-blueberry_0830_124221.jpg",
+      "size": 67019,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8053849108,
+      "category_id": 6,
+      "bbox": [
+        63.0,
+        168.0,
+        286.0,
+        146.0
+      ],
+      "area": 41756.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8053849108,
+      "category_id": 6,
+      "bbox": [
+        178.0,
+        91.0,
+        445.0,
+        402.0
+      ],
+      "area": 178890.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

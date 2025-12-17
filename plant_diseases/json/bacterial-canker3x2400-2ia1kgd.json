@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3074064864,
+      "width": 2400,
+      "height": 2791,
+      "file_name": "bacterial-canker3x2400-2ia1kgd.jpg",
+      "size": 2292775,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3074064864,
+      "category_id": 22,
+      "bbox": [
+        131.0,
+        23.0,
+        2099.0,
+        2598.0
+      ],
+      "area": 5453202.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 22,
+      "name": "tomato_leaf_bacterial_spot",
+      "supercategory": "tomato_leaf_bacterial_spot"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4468969917,
+      "width": 900,
+      "height": 675,
+      "file_name": "tomato_q1hq-early-blight-5052_zoom.jpg",
+      "size": 127099,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4468969917,
+      "category_id": 19,
+      "bbox": [
+        3.0,
+        12.0,
+        891.0,
+        653.0
+      ],
+      "area": 581823.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 19,
+      "name": "tomato_early_blight_leaf",
+      "supercategory": "tomato_early_blight_leaf"
+    }
+  ]
+}

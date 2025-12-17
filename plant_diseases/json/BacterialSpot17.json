@@ -1,0 +1,178 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1203436945,
+      "width": 300,
+      "height": 450,
+      "file_name": "BacterialSpot17.jpg",
+      "size": 53096,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1203436945,
+      "category_id": 5,
+      "bbox": [
+        99.0,
+        162.0,
+        74.0,
+        73.0
+      ],
+      "area": 5402.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1203436945,
+      "category_id": 5,
+      "bbox": [
+        12.0,
+        242.0,
+        66.0,
+        103.0
+      ],
+      "area": 6798.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1203436945,
+      "category_id": 5,
+      "bbox": [
+        89.0,
+        284.0,
+        54.0,
+        62.0
+      ],
+      "area": 3348.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1203436945,
+      "category_id": 5,
+      "bbox": [
+        57.0,
+        328.0,
+        65.0,
+        89.0
+      ],
+      "area": 5785.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 1203436945,
+      "category_id": 5,
+      "bbox": [
+        142.0,
+        255.0,
+        88.0,
+        87.0
+      ],
+      "area": 7656.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 1203436945,
+      "category_id": 5,
+      "bbox": [
+        183.0,
+        206.0,
+        55.0,
+        104.0
+      ],
+      "area": 5720.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 1203436945,
+      "category_id": 5,
+      "bbox": [
+        35.0,
+        172.0,
+        61.0,
+        46.0
+      ],
+      "area": 2806.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 1203436945,
+      "category_id": 5,
+      "bbox": [
+        174.0,
+        61.0,
+        81.0,
+        69.0
+      ],
+      "area": 5589.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 1203436945,
+      "category_id": 5,
+      "bbox": [
+        13.0,
+        193.0,
+        31.0,
+        77.0
+      ],
+      "area": 2387.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 1203436945,
+      "category_id": 5,
+      "bbox": [
+        99.0,
+        235.0,
+        45.0,
+        50.0
+      ],
+      "area": 2250.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 1203436945,
+      "category_id": 5,
+      "bbox": [
+        201.0,
+        185.0,
+        38.0,
+        38.0
+      ],
+      "area": 1444.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 5,
+      "name": "bell_pepper_leaf_spot",
+      "supercategory": "bell_pepper_leaf_spot"
+    }
+  ]
+}

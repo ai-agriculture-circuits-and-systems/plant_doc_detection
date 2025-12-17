@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4443672834,
+      "width": 1500,
+      "height": 1443,
+      "file_name": "stock-photo-grapes-leaf-isolated-on-white-background-108448556.jpg",
+      "size": 629817,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4443672834,
+      "category_id": 28,
+      "bbox": [
+        102.0,
+        54.0,
+        1258.0,
+        1176.0
+      ],
+      "area": 1479408.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 28,
+      "name": "grape_leaf",
+      "supercategory": "grape_leaf"
+    }
+  ]
+}

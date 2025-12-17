@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8902396050,
+      "width": 3008,
+      "height": 2000,
+      "file_name": "Cedar_apple_rust_on_crab_apple_leaf_upper_surface.JPG.jpg",
+      "size": 1198791,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8902396050,
+      "category_id": 3,
+      "bbox": [
+        699.0,
+        215.0,
+        985.0,
+        1634.0
+      ],
+      "area": 1609490.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8902396050,
+      "category_id": 3,
+      "bbox": [
+        1584.0,
+        158.0,
+        1157.0,
+        963.0
+      ],
+      "area": 1114191.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "apple_rust_leaf",
+      "supercategory": "apple_rust_leaf"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8120650221,
+      "width": 640,
+      "height": 480,
+      "file_name": "FS547-4-big.jpg",
+      "size": 145062,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8120650221,
+      "category_id": 22,
+      "bbox": [
+        82.0,
+        20.0,
+        468.0,
+        396.0
+      ],
+      "area": 185328.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 22,
+      "name": "tomato_leaf_bacterial_spot",
+      "supercategory": "tomato_leaf_bacterial_spot"
+    }
+  ]
+}

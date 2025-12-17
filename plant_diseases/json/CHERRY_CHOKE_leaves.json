@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2596765361,
+      "width": 802,
+      "height": 602,
+      "file_name": "CHERRY_CHOKE_leaves.jpg",
+      "size": 91106,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2596765361,
+      "category_id": 7,
+      "bbox": [
+        160.0,
+        175.0,
+        597.0,
+        313.0
+      ],
+      "area": 186861.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2596765361,
+      "category_id": 7,
+      "bbox": [
+        135.0,
+        379.0,
+        369.0,
+        221.0
+      ],
+      "area": 81549.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2596765361,
+      "category_id": 7,
+      "bbox": [
+        28.0,
+        429.0,
+        241.0,
+        173.0
+      ],
+      "area": 41693.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 7,
+      "name": "cherry_leaf",
+      "supercategory": "cherry_leaf"
+    }
+  ]
+}

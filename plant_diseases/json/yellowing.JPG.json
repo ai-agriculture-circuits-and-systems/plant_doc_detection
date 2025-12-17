@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1637853289,
+      "width": 295,
+      "height": 320,
+      "file_name": "yellowing.JPG.jpg",
+      "size": 30667,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1637853289,
+      "category_id": 25,
+      "bbox": [
+        13.0,
+        51.0,
+        97.0,
+        79.0
+      ],
+      "area": 7663.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1637853289,
+      "category_id": 25,
+      "bbox": [
+        157.0,
+        47.0,
+        127.0,
+        78.0
+      ],
+      "area": 9906.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1637853289,
+      "category_id": 25,
+      "bbox": [
+        13.0,
+        188.0,
+        129.0,
+        71.0
+      ],
+      "area": 9159.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1637853289,
+      "category_id": 25,
+      "bbox": [
+        151.0,
+        176.0,
+        142.0,
+        86.0
+      ],
+      "area": 12212.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 1637853289,
+      "category_id": 25,
+      "bbox": [
+        91.0,
+        20.0,
+        98.0,
+        175.0
+      ],
+      "area": 17150.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 25,
+      "name": "tomato_leaf_yellow_virus",
+      "supercategory": "tomato_leaf_yellow_virus"
+    }
+  ]
+}

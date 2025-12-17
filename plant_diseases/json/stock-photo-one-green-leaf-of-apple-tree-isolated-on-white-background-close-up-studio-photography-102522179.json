@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1517382825,
+      "width": 450,
+      "height": 387,
+      "file_name": "stock-photo-one-green-leaf-of-apple-tree-isolated-on-white-background-close-up-studio-photography-102522179.jpg",
+      "size": 37711,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1517382825,
+      "category_id": 2,
+      "bbox": [
+        26.0,
+        34.0,
+        399.0,
+        312.0
+      ],
+      "area": 124488.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "apple_leaf",
+      "supercategory": "apple_leaf"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3159991691,
+      "width": 694,
+      "height": 583,
+      "file_name": "swcdg4.jpg",
+      "size": 186150,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3159991691,
+      "category_id": 10,
+      "bbox": [
+        7.0,
+        7.0,
+        300.0,
+        442.0
+      ],
+      "area": 132600.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3159991691,
+      "category_id": 10,
+      "bbox": [
+        429.0,
+        6.0,
+        259.0,
+        407.0
+      ],
+      "area": 105413.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 10,
+      "name": "corn_rust_leaf",
+      "supercategory": "corn_rust_leaf"
+    }
+  ]
+}

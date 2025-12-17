@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3409853383,
+      "width": 1280,
+      "height": 960,
+      "file_name": "black-brazilian-cherry-4988.jpeg.jpg",
+      "size": 126994,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3409853383,
+      "category_id": 7,
+      "bbox": [
+        350.0,
+        539.0,
+        361.0,
+        382.0
+      ],
+      "area": 137902.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3409853383,
+      "category_id": 7,
+      "bbox": [
+        683.0,
+        326.0,
+        369.0,
+        301.0
+      ],
+      "area": 111069.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3409853383,
+      "category_id": 7,
+      "bbox": [
+        821.0,
+        543.0,
+        313.0,
+        417.0
+      ],
+      "area": 130521.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 7,
+      "name": "cherry_leaf",
+      "supercategory": "cherry_leaf"
+    }
+  ]
+}

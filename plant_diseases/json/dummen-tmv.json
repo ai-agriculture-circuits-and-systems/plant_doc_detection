@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9092723752,
+      "width": 300,
+      "height": 297,
+      "file_name": "dummen-tmv.jpg",
+      "size": 16830,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9092723752,
+      "category_id": 24,
+      "bbox": [
+        47.0,
+        90.0,
+        105.0,
+        73.0
+      ],
+      "area": 7665.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9092723752,
+      "category_id": 24,
+      "bbox": [
+        175.0,
+        108.0,
+        116.0,
+        65.0
+      ],
+      "area": 7540.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9092723752,
+      "category_id": 24,
+      "bbox": [
+        149.0,
+        179.0,
+        101.0,
+        112.0
+      ],
+      "area": 11312.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 9092723752,
+      "category_id": 24,
+      "bbox": [
+        107.0,
+        8.0,
+        83.0,
+        136.0
+      ],
+      "area": 11288.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 24,
+      "name": "tomato_leaf_mosaic_virus",
+      "supercategory": "tomato_leaf_mosaic_virus"
+    }
+  ]
+}

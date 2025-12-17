@@ -1,0 +1,321 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7669606657,
+      "width": 567,
+      "height": 393,
+      "file_name": "leaves-curling-on-tomato-plant-characteristic-symptoms-tomato-plants-leaves-curling-down-on-tomato-plant.jpg",
+      "size": 46187,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7669606657,
+      "category_id": 25,
+      "bbox": [
+        8.0,
+        137.0,
+        68.0,
+        72.0
+      ],
+      "area": 4896.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7669606657,
+      "category_id": 25,
+      "bbox": [
+        310.0,
+        214.0,
+        66.0,
+        75.0
+      ],
+      "area": 4950.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7669606657,
+      "category_id": 25,
+      "bbox": [
+        492.0,
+        226.0,
+        65.0,
+        65.0
+      ],
+      "area": 4225.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 7669606657,
+      "category_id": 25,
+      "bbox": [
+        458.0,
+        215.0,
+        38.0,
+        48.0
+      ],
+      "area": 1824.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 7669606657,
+      "category_id": 25,
+      "bbox": [
+        176.0,
+        101.0,
+        55.0,
+        40.0
+      ],
+      "area": 2200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 7669606657,
+      "category_id": 25,
+      "bbox": [
+        20.0,
+        212.0,
+        46.0,
+        61.0
+      ],
+      "area": 2806.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 7669606657,
+      "category_id": 25,
+      "bbox": [
+        52.0,
+        300.0,
+        53.0,
+        52.0
+      ],
+      "area": 2756.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 7669606657,
+      "category_id": 25,
+      "bbox": [
+        94.0,
+        226.0,
+        38.0,
+        61.0
+      ],
+      "area": 2318.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 7669606657,
+      "category_id": 25,
+      "bbox": [
+        97.0,
+        127.0,
+        56.0,
+        67.0
+      ],
+      "area": 3752.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 7669606657,
+      "category_id": 25,
+      "bbox": [
+        127.0,
+        9.0,
+        97.0,
+        66.0
+      ],
+      "area": 6402.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 7669606657,
+      "category_id": 25,
+      "bbox": [
+        238.0,
+        1.0,
+        113.0,
+        39.0
+      ],
+      "area": 4407.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 7669606657,
+      "category_id": 25,
+      "bbox": [
+        439.0,
+        28.0,
+        88.0,
+        47.0
+      ],
+      "area": 4136.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 7669606657,
+      "category_id": 25,
+      "bbox": [
+        455.0,
+        84.0,
+        103.0,
+        118.0
+      ],
+      "area": 12154.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 7669606657,
+      "category_id": 25,
+      "bbox": [
+        294.0,
+        90.0,
+        100.0,
+        85.0
+      ],
+      "area": 8500.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 7669606657,
+      "category_id": 25,
+      "bbox": [
+        366.0,
+        116.0,
+        50.0,
+        68.0
+      ],
+      "area": 3400.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 7669606657,
+      "category_id": 25,
+      "bbox": [
+        449.0,
+        309.0,
+        61.0,
+        84.0
+      ],
+      "area": 5124.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 16,
+      "image_id": 7669606657,
+      "category_id": 25,
+      "bbox": [
+        301.0,
+        290.0,
+        105.0,
+        72.0
+      ],
+      "area": 7560.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 17,
+      "image_id": 7669606657,
+      "category_id": 25,
+      "bbox": [
+        122.0,
+        297.0,
+        106.0,
+        96.0
+      ],
+      "area": 10176.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 18,
+      "image_id": 7669606657,
+      "category_id": 25,
+      "bbox": [
+        167.0,
+        260.0,
+        66.0,
+        51.0
+      ],
+      "area": 3366.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 19,
+      "image_id": 7669606657,
+      "category_id": 25,
+      "bbox": [
+        187.0,
+        212.0,
+        62.0,
+        41.0
+      ],
+      "area": 2542.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 20,
+      "image_id": 7669606657,
+      "category_id": 25,
+      "bbox": [
+        263.0,
+        211.0,
+        61.0,
+        41.0
+      ],
+      "area": 2501.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 21,
+      "image_id": 7669606657,
+      "category_id": 25,
+      "bbox": [
+        225.0,
+        261.0,
+        52.0,
+        107.0
+      ],
+      "area": 5564.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 25,
+      "name": "tomato_leaf_yellow_virus",
+      "supercategory": "tomato_leaf_yellow_virus"
+    }
+  ]
+}

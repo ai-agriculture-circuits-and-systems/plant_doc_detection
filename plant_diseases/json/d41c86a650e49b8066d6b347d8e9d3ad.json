@@ -1,0 +1,126 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8163074272,
+      "width": 205,
+      "height": 216,
+      "file_name": "d41c86a650e49b8066d6b347d8e9d3ad.jpg",
+      "size": 27543,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8163074272,
+      "category_id": 24,
+      "bbox": [
+        114.0,
+        38.0,
+        34.0,
+        21.0
+      ],
+      "area": 714.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8163074272,
+      "category_id": 24,
+      "bbox": [
+        39.0,
+        23.0,
+        34.0,
+        45.0
+      ],
+      "area": 1530.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8163074272,
+      "category_id": 24,
+      "bbox": [
+        124.0,
+        2.0,
+        49.0,
+        34.0
+      ],
+      "area": 1666.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8163074272,
+      "category_id": 24,
+      "bbox": [
+        167.0,
+        31.0,
+        34.0,
+        42.0
+      ],
+      "area": 1428.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8163074272,
+      "category_id": 24,
+      "bbox": [
+        135.0,
+        61.0,
+        42.0,
+        44.0
+      ],
+      "area": 1848.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 8163074272,
+      "category_id": 24,
+      "bbox": [
+        124.0,
+        133.0,
+        43.0,
+        60.0
+      ],
+      "area": 2580.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 8163074272,
+      "category_id": 24,
+      "bbox": [
+        85.0,
+        111.0,
+        48.0,
+        52.0
+      ],
+      "area": 2496.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 24,
+      "name": "tomato_leaf_mosaic_virus",
+      "supercategory": "tomato_leaf_mosaic_virus"
+    }
+  ]
+}

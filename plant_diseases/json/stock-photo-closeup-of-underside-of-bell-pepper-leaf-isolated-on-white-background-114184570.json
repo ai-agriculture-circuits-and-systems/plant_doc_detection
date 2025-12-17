@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8826949063,
+      "width": 996,
+      "height": 1600,
+      "file_name": "stock-photo-closeup-of-underside-of-bell-pepper-leaf-isolated-on-white-background-114184570.jpg",
+      "size": 286494,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8826949063,
+      "category_id": 4,
+      "bbox": [
+        152.0,
+        66.0,
+        675.0,
+        1052.0
+      ],
+      "area": 710100.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 4,
+      "name": "bell_pepper_leaf",
+      "supercategory": "bell_pepper_leaf"
+    }
+  ]
+}

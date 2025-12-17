@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9767045214,
+      "width": 1192,
+      "height": 711,
+      "file_name": "Raspberry-leaf-and-thimbleberry-leaf.jpg",
+      "size": 451957,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9767045214,
+      "category_id": 15,
+      "bbox": [
+        314.0,
+        29.0,
+        269.0,
+        323.0
+      ],
+      "area": 86887.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9767045214,
+      "category_id": 15,
+      "bbox": [
+        111.0,
+        99.0,
+        211.0,
+        326.0
+      ],
+      "area": 68786.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9767045214,
+      "category_id": 15,
+      "bbox": [
+        289.0,
+        356.0,
+        326.0,
+        163.0
+      ],
+      "area": 53138.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 9767045214,
+      "category_id": 15,
+      "bbox": [
+        253.0,
+        481.0,
+        357.0,
+        196.0
+      ],
+      "area": 69972.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 9767045214,
+      "category_id": 15,
+      "bbox": [
+        521.0,
+        140.0,
+        517.0,
+        544.0
+      ],
+      "area": 281248.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9973654492,
+      "width": 1024,
+      "height": 768,
+      "file_name": "lateblightTom_lesion3.jpg",
+      "size": 297103,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9973654492,
+      "category_id": 23,
+      "bbox": [
+        800.0,
+        81.0,
+        224.0,
+        318.0
+      ],
+      "area": 71232.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9973654492,
+      "category_id": 23,
+      "bbox": [
+        20.0,
+        151.0,
+        706.0,
+        602.0
+      ],
+      "area": 425012.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 23,
+      "name": "tomato_leaf_late_blight",
+      "supercategory": "tomato_leaf_late_blight"
+    }
+  ]
+}

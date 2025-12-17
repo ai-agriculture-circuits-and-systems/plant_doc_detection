@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8781466519,
+      "width": 5312,
+      "height": 2988,
+      "file_name": "20170524_195105-1k1eu8b.jpg",
+      "size": 4373002,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8781466519,
+      "category_id": 3,
+      "bbox": [
+        1278.0,
+        1347.0,
+        1077.0,
+        1443.0
+      ],
+      "area": 1554111.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8781466519,
+      "category_id": 3,
+      "bbox": [
+        2836.0,
+        432.0,
+        1508.0,
+        911.0
+      ],
+      "area": 1373788.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8781466519,
+      "category_id": 3,
+      "bbox": [
+        3444.0,
+        1305.0,
+        988.0,
+        600.0
+      ],
+      "area": 592800.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8781466519,
+      "category_id": 3,
+      "bbox": [
+        2290.0,
+        1416.0,
+        696.0,
+        1043.0
+      ],
+      "area": 725928.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8781466519,
+      "category_id": 3,
+      "bbox": [
+        4009.0,
+        9.0,
+        739.0,
+        600.0
+      ],
+      "area": 443400.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "apple_rust_leaf",
+      "supercategory": "apple_rust_leaf"
+    }
+  ]
+}

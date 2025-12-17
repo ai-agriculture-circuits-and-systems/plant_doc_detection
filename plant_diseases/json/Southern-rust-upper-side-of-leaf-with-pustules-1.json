@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2823967987,
+      "width": 765,
+      "height": 257,
+      "file_name": "Southern-rust-upper-side-of-leaf-with-pustules-1.jpg",
+      "size": 31740,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2823967987,
+      "category_id": 10,
+      "bbox": [
+        2.0,
+        2.0,
+        512.0,
+        254.0
+      ],
+      "area": 130048.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 10,
+      "name": "corn_rust_leaf",
+      "supercategory": "corn_rust_leaf"
+    }
+  ]
+}

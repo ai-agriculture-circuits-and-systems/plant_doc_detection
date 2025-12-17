@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6395591831,
+      "width": 450,
+      "height": 399,
+      "file_name": "stock-photo-green-soy-pods-with-leaves-isolated-on-white-backgraund-310996559.jpg",
+      "size": 27303,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6395591831,
+      "category_id": 16,
+      "bbox": [
+        173.0,
+        62.0,
+        115.0,
+        185.0
+      ],
+      "area": 21275.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6395591831,
+      "category_id": 16,
+      "bbox": [
+        255.0,
+        153.0,
+        172.0,
+        114.0
+      ],
+      "area": 19608.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6395591831,
+      "category_id": 16,
+      "bbox": [
+        139.0,
+        50.0,
+        85.0,
+        182.0
+      ],
+      "area": 15470.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 6395591831,
+      "category_id": 16,
+      "bbox": [
+        26.0,
+        179.0,
+        189.0,
+        116.0
+      ],
+      "area": 21924.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 16,
+      "name": "soyabean_leaf",
+      "supercategory": "soyabean_leaf"
+    }
+  ]
+}

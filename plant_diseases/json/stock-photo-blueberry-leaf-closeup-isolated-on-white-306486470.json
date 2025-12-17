@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7750412695,
+      "width": 450,
+      "height": 320,
+      "file_name": "stock-photo-blueberry-leaf-closeup-isolated-on-white-306486470.jpg",
+      "size": 23566,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7750412695,
+      "category_id": 6,
+      "bbox": [
+        121.0,
+        62.0,
+        329.0,
+        202.0
+      ],
+      "area": 66458.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1497918725,
+      "width": 2560,
+      "height": 1920,
+      "file_name": "p1070616.jpg",
+      "size": 2400244,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1497918725,
+      "category_id": 17,
+      "bbox": [
+        682.0,
+        409.0,
+        1157.0,
+        1138.0
+      ],
+      "area": 1316666.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1497918725,
+      "category_id": 17,
+      "bbox": [
+        1.0,
+        1.0,
+        1411.0,
+        622.0
+      ],
+      "area": 877642.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1497918725,
+      "category_id": 17,
+      "bbox": [
+        2117.0,
+        325.0,
+        443.0,
+        560.0
+      ],
+      "area": 248080.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1497918725,
+      "category_id": 17,
+      "bbox": [
+        1717.0,
+        1.0,
+        480.0,
+        500.0
+      ],
+      "area": 240000.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 1497918725,
+      "category_id": 17,
+      "bbox": [
+        1631.0,
+        1082.0,
+        845.0,
+        838.0
+      ],
+      "area": 708110.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 1497918725,
+      "category_id": 17,
+      "bbox": [
+        476.0,
+        1250.0,
+        565.0,
+        670.0
+      ],
+      "area": 378550.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 17,
+      "name": "squash_powdery_mildew_leaf",
+      "supercategory": "squash_powdery_mildew_leaf"
+    }
+  ]
+}

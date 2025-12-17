@@ -1,0 +1,188 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6833901809,
+      "width": 960,
+      "height": 720,
+      "file_name": "comparing-diseases-4-canker-tomato-1y51ejs.jpg",
+      "size": 125378,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6833901809,
+      "category_id": 27,
+      "bbox": [
+        499.0,
+        402.0,
+        440.0,
+        299.0
+      ],
+      "area": 131560.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6833901809,
+      "category_id": 19,
+      "bbox": [
+        61.0,
+        402.0,
+        329.0,
+        278.0
+      ],
+      "area": 91462.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6833901809,
+      "category_id": 22,
+      "bbox": [
+        301.0,
+        61.0,
+        179.0,
+        264.0
+      ],
+      "area": 47256.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 6833901809,
+      "category_id": 22,
+      "bbox": [
+        29.0,
+        73.0,
+        282.0,
+        278.0
+      ],
+      "area": 78396.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 6833901809,
+      "category_id": 22,
+      "bbox": [
+        505.0,
+        24.0,
+        144.0,
+        133.0
+      ],
+      "area": 19152.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 6833901809,
+      "category_id": 22,
+      "bbox": [
+        500.0,
+        206.0,
+        95.0,
+        113.0
+      ],
+      "area": 10735.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 6833901809,
+      "category_id": 22,
+      "bbox": [
+        576.0,
+        194.0,
+        83.0,
+        167.0
+      ],
+      "area": 13861.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 6833901809,
+      "category_id": 22,
+      "bbox": [
+        596.0,
+        19.0,
+        116.0,
+        164.0
+      ],
+      "area": 19024.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 6833901809,
+      "category_id": 22,
+      "bbox": [
+        749.0,
+        76.0,
+        53.0,
+        107.0
+      ],
+      "area": 5671.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 6833901809,
+      "category_id": 22,
+      "bbox": [
+        822.0,
+        200.0,
+        130.0,
+        167.0
+      ],
+      "area": 21710.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 6833901809,
+      "category_id": 22,
+      "bbox": [
+        653.0,
+        186.0,
+        84.0,
+        181.0
+      ],
+      "area": 15204.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 19,
+      "name": "tomato_early_blight_leaf",
+      "supercategory": "tomato_early_blight_leaf"
+    },
+    {
+      "id": 22,
+      "name": "tomato_leaf_bacterial_spot",
+      "supercategory": "tomato_leaf_bacterial_spot"
+    },
+    {
+      "id": 27,
+      "name": "tomato_two_spotted_spider_mites_leaf",
+      "supercategory": "tomato_two_spotted_spider_mites_leaf"
+    }
+  ]
+}

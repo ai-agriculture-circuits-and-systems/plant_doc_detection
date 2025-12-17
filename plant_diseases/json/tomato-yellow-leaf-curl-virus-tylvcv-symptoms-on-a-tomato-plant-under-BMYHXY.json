@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8765142589,
+      "width": 1050,
+      "height": 1390,
+      "file_name": "tomato-yellow-leaf-curl-virus-tylvcv-symptoms-on-a-tomato-plant-under-BMYHXY.jpg",
+      "size": 211066,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8765142589,
+      "category_id": 25,
+      "bbox": [
+        98.0,
+        712.0,
+        237.0,
+        408.0
+      ],
+      "area": 96696.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8765142589,
+      "category_id": 25,
+      "bbox": [
+        613.0,
+        446.0,
+        202.0,
+        507.0
+      ],
+      "area": 102414.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8765142589,
+      "category_id": 25,
+      "bbox": [
+        381.0,
+        418.0,
+        88.0,
+        246.0
+      ],
+      "area": 21648.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8765142589,
+      "category_id": 25,
+      "bbox": [
+        421.0,
+        731.0,
+        177.0,
+        343.0
+      ],
+      "area": 60711.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 25,
+      "name": "tomato_leaf_yellow_virus",
+      "supercategory": "tomato_leaf_yellow_virus"
+    }
+  ]
+}

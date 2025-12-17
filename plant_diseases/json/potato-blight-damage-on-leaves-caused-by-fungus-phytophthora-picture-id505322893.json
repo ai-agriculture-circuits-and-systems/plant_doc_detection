@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5809385644,
+      "width": 681,
+      "height": 1024,
+      "file_name": "potato-blight-damage-on-leaves-caused-by-fungus-phytophthora-picture-id505322893.jpg",
+      "size": 292778,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5809385644,
+      "category_id": 13,
+      "bbox": [
+        181.0,
+        404.0,
+        285.0,
+        383.0
+      ],
+      "area": 109155.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5809385644,
+      "category_id": 13,
+      "bbox": [
+        90.0,
+        295.0,
+        239.0,
+        170.0
+      ],
+      "area": 40630.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5809385644,
+      "category_id": 13,
+      "bbox": [
+        3.0,
+        778.0,
+        323.0,
+        246.0
+      ],
+      "area": 79458.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 13,
+      "name": "potato_leaf_early_blight",
+      "supercategory": "potato_leaf_early_blight"
+    }
+  ]
+}

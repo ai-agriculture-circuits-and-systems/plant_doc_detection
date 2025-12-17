@@ -1,0 +1,256 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1386484653,
+      "width": 520,
+      "height": 320,
+      "file_name": "BacterialSpot06.jpg",
+      "size": 68483,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1386484653,
+      "category_id": 22,
+      "bbox": [
+        225.0,
+        165.0,
+        32.0,
+        82.0
+      ],
+      "area": 2624.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1386484653,
+      "category_id": 22,
+      "bbox": [
+        127.0,
+        176.0,
+        31.0,
+        47.0
+      ],
+      "area": 1457.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1386484653,
+      "category_id": 22,
+      "bbox": [
+        34.0,
+        144.0,
+        30.0,
+        82.0
+      ],
+      "area": 2460.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1386484653,
+      "category_id": 22,
+      "bbox": [
+        149.0,
+        54.0,
+        31.0,
+        14.0
+      ],
+      "area": 434.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 1386484653,
+      "category_id": 22,
+      "bbox": [
+        446.0,
+        190.0,
+        54.0,
+        93.0
+      ],
+      "area": 5022.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 1386484653,
+      "category_id": 22,
+      "bbox": [
+        455.0,
+        117.0,
+        26.0,
+        40.0
+      ],
+      "area": 1040.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 1386484653,
+      "category_id": 22,
+      "bbox": [
+        364.0,
+        188.0,
+        29.0,
+        57.0
+      ],
+      "area": 1653.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 1386484653,
+      "category_id": 22,
+      "bbox": [
+        350.0,
+        233.0,
+        40.0,
+        35.0
+      ],
+      "area": 1400.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 1386484653,
+      "category_id": 22,
+      "bbox": [
+        389.0,
+        245.0,
+        28.0,
+        60.0
+      ],
+      "area": 1680.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 1386484653,
+      "category_id": 22,
+      "bbox": [
+        329.0,
+        118.0,
+        53.0,
+        74.0
+      ],
+      "area": 3922.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 1386484653,
+      "category_id": 22,
+      "bbox": [
+        439.0,
+        191.0,
+        25.0,
+        59.0
+      ],
+      "area": 1475.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 1386484653,
+      "category_id": 22,
+      "bbox": [
+        366.0,
+        101.0,
+        39.0,
+        52.0
+      ],
+      "area": 2028.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 1386484653,
+      "category_id": 22,
+      "bbox": [
+        58.0,
+        84.0,
+        33.0,
+        40.0
+      ],
+      "area": 1320.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 1386484653,
+      "category_id": 22,
+      "bbox": [
+        212.0,
+        108.0,
+        34.0,
+        71.0
+      ],
+      "area": 2414.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 1386484653,
+      "category_id": 22,
+      "bbox": [
+        173.0,
+        155.0,
+        40.0,
+        67.0
+      ],
+      "area": 2680.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 1386484653,
+      "category_id": 22,
+      "bbox": [
+        434.0,
+        156.0,
+        64.0,
+        44.0
+      ],
+      "area": 2816.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 16,
+      "image_id": 1386484653,
+      "category_id": 22,
+      "bbox": [
+        295.0,
+        93.0,
+        44.0,
+        61.0
+      ],
+      "area": 2684.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 22,
+      "name": "tomato_leaf_bacterial_spot",
+      "supercategory": "tomato_leaf_bacterial_spot"
+    }
+  ]
+}

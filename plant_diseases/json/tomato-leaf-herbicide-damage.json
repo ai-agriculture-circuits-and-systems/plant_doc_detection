@@ -1,0 +1,126 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9625258705,
+      "width": 500,
+      "height": 375,
+      "file_name": "tomato-leaf-herbicide-damage.jpg",
+      "size": 265828,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9625258705,
+      "category_id": 24,
+      "bbox": [
+        410.0,
+        208.0,
+        86.0,
+        53.0
+      ],
+      "area": 4558.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9625258705,
+      "category_id": 24,
+      "bbox": [
+        150.0,
+        140.0,
+        69.0,
+        70.0
+      ],
+      "area": 4830.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9625258705,
+      "category_id": 24,
+      "bbox": [
+        120.0,
+        286.0,
+        69.0,
+        78.0
+      ],
+      "area": 5382.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 9625258705,
+      "category_id": 24,
+      "bbox": [
+        230.0,
+        263.0,
+        89.0,
+        64.0
+      ],
+      "area": 5696.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 9625258705,
+      "category_id": 24,
+      "bbox": [
+        332.0,
+        52.0,
+        161.0,
+        143.0
+      ],
+      "area": 23023.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 9625258705,
+      "category_id": 24,
+      "bbox": [
+        246.0,
+        131.0,
+        98.0,
+        113.0
+      ],
+      "area": 11074.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 9625258705,
+      "category_id": 24,
+      "bbox": [
+        127.0,
+        59.0,
+        116.0,
+        103.0
+      ],
+      "area": 11948.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 24,
+      "name": "tomato_leaf_mosaic_virus",
+      "supercategory": "tomato_leaf_mosaic_virus"
+    }
+  ]
+}

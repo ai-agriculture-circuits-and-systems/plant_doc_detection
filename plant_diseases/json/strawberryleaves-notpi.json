@@ -1,0 +1,217 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5024108089,
+      "width": 3056,
+      "height": 2292,
+      "file_name": "strawberryleaves-notpi.jpg",
+      "size": 1091672,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5024108089,
+      "category_id": 18,
+      "bbox": [
+        612.0,
+        1127.0,
+        684.0,
+        697.0
+      ],
+      "area": 476748.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5024108089,
+      "category_id": 18,
+      "bbox": [
+        754.0,
+        698.0,
+        561.0,
+        475.0
+      ],
+      "area": 266475.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5024108089,
+      "category_id": 18,
+      "bbox": [
+        1260.0,
+        1044.0,
+        532.0,
+        687.0
+      ],
+      "area": 365484.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 5024108089,
+      "category_id": 18,
+      "bbox": [
+        2025.0,
+        357.0,
+        829.0,
+        593.0
+      ],
+      "area": 491597.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 5024108089,
+      "category_id": 18,
+      "bbox": [
+        1376.0,
+        427.0,
+        700.0,
+        546.0
+      ],
+      "area": 382200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 5024108089,
+      "category_id": 18,
+      "bbox": [
+        1892.0,
+        1.0,
+        664.0,
+        501.0
+      ],
+      "area": 332664.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 5024108089,
+      "category_id": 18,
+      "bbox": [
+        2512.0,
+        760.0,
+        519.0,
+        448.0
+      ],
+      "area": 232512.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 5024108089,
+      "category_id": 18,
+      "bbox": [
+        2338.0,
+        1124.0,
+        529.0,
+        442.0
+      ],
+      "area": 233818.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 5024108089,
+      "category_id": 18,
+      "bbox": [
+        2176.0,
+        863.0,
+        394.0,
+        313.0
+      ],
+      "area": 123322.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 5024108089,
+      "category_id": 18,
+      "bbox": [
+        934.0,
+        1744.0,
+        668.0,
+        548.0
+      ],
+      "area": 366064.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 5024108089,
+      "category_id": 18,
+      "bbox": [
+        322.0,
+        1831.0,
+        512.0,
+        461.0
+      ],
+      "area": 236032.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 5024108089,
+      "category_id": 18,
+      "bbox": [
+        315.0,
+        1489.0,
+        458.0,
+        387.0
+      ],
+      "area": 177246.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 5024108089,
+      "category_id": 18,
+      "bbox": [
+        709.0,
+        1740.0,
+        438.0,
+        433.0
+      ],
+      "area": 189654.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 5024108089,
+      "category_id": 18,
+      "bbox": [
+        1367.0,
+        1544.0,
+        645.0,
+        722.0
+      ],
+      "area": 465690.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 18,
+      "name": "strawberry_leaf",
+      "supercategory": "strawberry_leaf"
+    }
+  ]
+}

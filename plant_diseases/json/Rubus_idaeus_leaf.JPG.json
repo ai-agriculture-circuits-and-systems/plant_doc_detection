@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3343998189,
+      "width": 3072,
+      "height": 2304,
+      "file_name": "Rubus_idaeus_leaf.JPG.jpg",
+      "size": 2015409,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3343998189,
+      "category_id": 15,
+      "bbox": [
+        1013.0,
+        337.0,
+        1600.0,
+        1955.0
+      ],
+      "area": 3128000.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3343998189,
+      "category_id": 15,
+      "bbox": [
+        371.0,
+        50.0,
+        1236.0,
+        1142.0
+      ],
+      "area": 1411512.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

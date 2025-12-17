@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4151336611,
+      "width": 2592,
+      "height": 1944,
+      "file_name": "Peach_leaves_raw.jpg",
+      "size": 1566454,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4151336611,
+      "category_id": 11,
+      "bbox": [
+        867.0,
+        215.0,
+        500.0,
+        1308.0
+      ],
+      "area": 654000.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4151336611,
+      "category_id": 11,
+      "bbox": [
+        1313.0,
+        371.0,
+        414.0,
+        1196.0
+      ],
+      "area": 495144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4151336611,
+      "category_id": 11,
+      "bbox": [
+        1555.0,
+        791.0,
+        300.0,
+        1040.0
+      ],
+      "area": 312000.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4151336611,
+      "category_id": 11,
+      "bbox": [
+        129.0,
+        119.0,
+        514.0,
+        1692.0
+      ],
+      "area": 869688.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4151336611,
+      "category_id": 11,
+      "bbox": [
+        1951.0,
+        691.0,
+        244.0,
+        898.0
+      ],
+      "area": 219112.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 4151336611,
+      "category_id": 11,
+      "bbox": [
+        2325.0,
+        569.0,
+        238.0,
+        864.0
+      ],
+      "area": 205632.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "peach_leaf",
+      "supercategory": "peach_leaf"
+    }
+  ]
+}

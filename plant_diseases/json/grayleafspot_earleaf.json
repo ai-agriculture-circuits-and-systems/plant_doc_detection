@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9142887277,
+      "width": 432,
+      "height": 679,
+      "file_name": "grayleafspot_earleaf.jpg",
+      "size": 66568,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9142887277,
+      "category_id": 8,
+      "bbox": [
+        143.0,
+        1.0,
+        235.0,
+        646.0
+      ],
+      "area": 151810.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9142887277,
+      "category_id": 8,
+      "bbox": [
+        46.0,
+        12.0,
+        103.0,
+        343.0
+      ],
+      "area": 35329.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9142887277,
+      "category_id": 8,
+      "bbox": [
+        80.0,
+        129.0,
+        170.0,
+        164.0
+      ],
+      "area": 27880.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 9142887277,
+      "category_id": 8,
+      "bbox": [
+        311.0,
+        114.0,
+        118.0,
+        184.0
+      ],
+      "area": 21712.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 9142887277,
+      "category_id": 8,
+      "bbox": [
+        345.0,
+        230.0,
+        67.0,
+        332.0
+      ],
+      "area": 22244.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 9142887277,
+      "category_id": 8,
+      "bbox": [
+        286.0,
+        491.0,
+        144.0,
+        188.0
+      ],
+      "area": 27072.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 8,
+      "name": "corn_gray_leaf_spot",
+      "supercategory": "corn_gray_leaf_spot"
+    }
+  ]
+}

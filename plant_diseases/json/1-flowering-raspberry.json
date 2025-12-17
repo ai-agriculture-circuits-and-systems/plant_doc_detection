@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6110618317,
+      "width": 1200,
+      "height": 1105,
+      "file_name": "1-flowering-raspberry.jpg",
+      "size": 236869,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6110618317,
+      "category_id": 15,
+      "bbox": [
+        639.0,
+        612.0,
+        554.0,
+        493.0
+      ],
+      "area": 273122.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6110618317,
+      "category_id": 15,
+      "bbox": [
+        523.0,
+        32.0,
+        677.0,
+        623.0
+      ],
+      "area": 421771.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6110618317,
+      "category_id": 15,
+      "bbox": [
+        1.0,
+        331.0,
+        424.0,
+        482.0
+      ],
+      "area": 204368.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6866177117,
+      "width": 450,
+      "height": 302,
+      "file_name": "5-29black-rot-chardRR.jpg",
+      "size": 44255,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6866177117,
+      "category_id": 29,
+      "bbox": [
+        16.0,
+        3.0,
+        413.0,
+        299.0
+      ],
+      "area": 123487.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 29,
+      "name": "grape_leaf_black_rot",
+      "supercategory": "grape_leaf_black_rot"
+    }
+  ]
+}

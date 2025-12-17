@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3369087334,
+      "width": 1200,
+      "height": 800,
+      "file_name": "Fragaria-virginiana-6.jpg",
+      "size": 690611,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3369087334,
+      "category_id": 18,
+      "bbox": [
+        330.0,
+        310.0,
+        133.0,
+        138.0
+      ],
+      "area": 18354.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3369087334,
+      "category_id": 18,
+      "bbox": [
+        268.0,
+        223.0,
+        151.0,
+        109.0
+      ],
+      "area": 16459.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3369087334,
+      "category_id": 18,
+      "bbox": [
+        420.0,
+        267.0,
+        130.0,
+        75.0
+      ],
+      "area": 9750.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3369087334,
+      "category_id": 18,
+      "bbox": [
+        283.0,
+        600.0,
+        188.0,
+        95.0
+      ],
+      "area": 17860.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 3369087334,
+      "category_id": 18,
+      "bbox": [
+        267.0,
+        480.0,
+        100.0,
+        162.0
+      ],
+      "area": 16200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 3369087334,
+      "category_id": 18,
+      "bbox": [
+        141.0,
+        588.0,
+        156.0,
+        103.0
+      ],
+      "area": 16068.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 18,
+      "name": "strawberry_leaf",
+      "supercategory": "strawberry_leaf"
+    }
+  ]
+}

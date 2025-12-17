@@ -1,0 +1,165 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7327442037,
+      "width": 347,
+      "height": 280,
+      "file_name": "gray-leaf-spot-disease-on-260nw-559799659.jpg",
+      "size": 33536,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7327442037,
+      "category_id": 5,
+      "bbox": [
+        218.0,
+        23.0,
+        45.0,
+        93.0
+      ],
+      "area": 4185.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7327442037,
+      "category_id": 5,
+      "bbox": [
+        214.0,
+        118.0,
+        83.0,
+        61.0
+      ],
+      "area": 5063.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7327442037,
+      "category_id": 5,
+      "bbox": [
+        275.0,
+        102.0,
+        53.0,
+        68.0
+      ],
+      "area": 3604.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 7327442037,
+      "category_id": 5,
+      "bbox": [
+        81.0,
+        104.0,
+        39.0,
+        79.0
+      ],
+      "area": 3081.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 7327442037,
+      "category_id": 5,
+      "bbox": [
+        140.0,
+        63.0,
+        49.0,
+        50.0
+      ],
+      "area": 2450.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 7327442037,
+      "category_id": 5,
+      "bbox": [
+        159.0,
+        4.0,
+        47.0,
+        70.0
+      ],
+      "area": 3290.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 7327442037,
+      "category_id": 5,
+      "bbox": [
+        18.0,
+        154.0,
+        66.0,
+        43.0
+      ],
+      "area": 2838.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 7327442037,
+      "category_id": 5,
+      "bbox": [
+        1.0,
+        131.0,
+        54.0,
+        69.0
+      ],
+      "area": 3726.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 7327442037,
+      "category_id": 5,
+      "bbox": [
+        128.0,
+        117.0,
+        59.0,
+        113.0
+      ],
+      "area": 6667.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 7327442037,
+      "category_id": 5,
+      "bbox": [
+        31.0,
+        70.0,
+        83.0,
+        38.0
+      ],
+      "area": 3154.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 5,
+      "name": "bell_pepper_leaf_spot",
+      "supercategory": "bell_pepper_leaf_spot"
+    }
+  ]
+}

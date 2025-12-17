@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7540670663,
+      "width": 1199,
+      "height": 1390,
+      "file_name": "tomato-yellow-leaf-curl-virus-symptoms-on-tomato-leaves-on-plants-ACGAME.jpg",
+      "size": 249683,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7540670663,
+      "category_id": 25,
+      "bbox": [
+        805.0,
+        582.0,
+        173.0,
+        293.0
+      ],
+      "area": 50689.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7540670663,
+      "category_id": 25,
+      "bbox": [
+        867.0,
+        363.0,
+        179.0,
+        92.0
+      ],
+      "area": 16468.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7540670663,
+      "category_id": 25,
+      "bbox": [
+        66.0,
+        710.0,
+        262.0,
+        402.0
+      ],
+      "area": 105324.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 7540670663,
+      "category_id": 25,
+      "bbox": [
+        357.0,
+        111.0,
+        369.0,
+        366.0
+      ],
+      "area": 135054.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 25,
+      "name": "tomato_leaf_yellow_virus",
+      "supercategory": "tomato_leaf_yellow_virus"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1890118586,
+      "width": 1300,
+      "height": 956,
+      "file_name": "blueberry-plant-berries-and-leaves-blueberries-vaccinium-corybosum-BNDMY8.jpg",
+      "size": 126349,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1890118586,
+      "category_id": 6,
+      "bbox": [
+        95.0,
+        20.0,
+        350.0,
+        149.0
+      ],
+      "area": 52150.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1890118586,
+      "category_id": 6,
+      "bbox": [
+        23.0,
+        160.0,
+        282.0,
+        174.0
+      ],
+      "area": 49068.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1890118586,
+      "category_id": 6,
+      "bbox": [
+        75.0,
+        276.0,
+        183.0,
+        171.0
+      ],
+      "area": 31293.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1890118586,
+      "category_id": 6,
+      "bbox": [
+        185.0,
+        375.0,
+        353.0,
+        118.0
+      ],
+      "area": 41654.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 1890118586,
+      "category_id": 6,
+      "bbox": [
+        103.0,
+        606.0,
+        96.0,
+        185.0
+      ],
+      "area": 17760.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 1890118586,
+      "category_id": 6,
+      "bbox": [
+        435.0,
+        484.0,
+        150.0,
+        148.0
+      ],
+      "area": 22200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 1890118586,
+      "category_id": 6,
+      "bbox": [
+        473.0,
+        572.0,
+        226.0,
+        115.0
+      ],
+      "area": 25990.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 1890118586,
+      "category_id": 6,
+      "bbox": [
+        661.0,
+        221.0,
+        235.0,
+        444.0
+      ],
+      "area": 104340.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 1890118586,
+      "category_id": 6,
+      "bbox": [
+        745.0,
+        406.0,
+        466.0,
+        248.0
+      ],
+      "area": 115568.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 1890118586,
+      "category_id": 6,
+      "bbox": [
+        482.0,
+        5.0,
+        293.0,
+        341.0
+      ],
+      "area": 99913.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

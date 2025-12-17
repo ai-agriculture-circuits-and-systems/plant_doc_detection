@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8595028217,
+      "width": 2448,
+      "height": 3264,
+      "file_name": "H5w92.jpg",
+      "size": 550998,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8595028217,
+      "category_id": 5,
+      "bbox": [
+        201.0,
+        223.0,
+        2234.0,
+        2714.0
+      ],
+      "area": 6063076.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 5,
+      "name": "bell_pepper_leaf_spot",
+      "supercategory": "bell_pepper_leaf_spot"
+    }
+  ]
+}

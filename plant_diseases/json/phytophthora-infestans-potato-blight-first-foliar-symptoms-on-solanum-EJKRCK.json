@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4533982541,
+      "width": 866,
+      "height": 1390,
+      "file_name": "phytophthora-infestans-potato-blight-first-foliar-symptoms-on-solanum-EJKRCK.jpg",
+      "size": 144745,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4533982541,
+      "category_id": 14,
+      "bbox": [
+        260.0,
+        506.0,
+        285.0,
+        294.0
+      ],
+      "area": 83790.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 14,
+      "name": "potato_leaf_late_blight",
+      "supercategory": "potato_leaf_late_blight"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8020464521,
+      "width": 720,
+      "height": 511,
+      "file_name": "wild-and-choke-cherry-leaves_edited-1.jpg",
+      "size": 94211,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8020464521,
+      "category_id": 7,
+      "bbox": [
+        1.0,
+        47.0,
+        101.0,
+        292.0
+      ],
+      "area": 29492.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8020464521,
+      "category_id": 7,
+      "bbox": [
+        281.0,
+        47.0,
+        135.0,
+        307.0
+      ],
+      "area": 41445.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8020464521,
+      "category_id": 7,
+      "bbox": [
+        415.0,
+        50.0,
+        119.0,
+        228.0
+      ],
+      "area": 27132.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8020464521,
+      "category_id": 7,
+      "bbox": [
+        535.0,
+        32.0,
+        180.0,
+        271.0
+      ],
+      "area": 48780.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 7,
+      "name": "cherry_leaf",
+      "supercategory": "cherry_leaf"
+    }
+  ]
+}

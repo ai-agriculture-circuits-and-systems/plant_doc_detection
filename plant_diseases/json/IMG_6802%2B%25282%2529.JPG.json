@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5673284470,
+      "width": 710,
+      "height": 1263,
+      "file_name": "IMG_6802%2B%25282%2529.JPG.jpg",
+      "size": 115621,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5673284470,
+      "category_id": 8,
+      "bbox": [
+        283.0,
+        19.0,
+        405.0,
+        971.0
+      ],
+      "area": 393255.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 8,
+      "name": "corn_gray_leaf_spot",
+      "supercategory": "corn_gray_leaf_spot"
+    }
+  ]
+}

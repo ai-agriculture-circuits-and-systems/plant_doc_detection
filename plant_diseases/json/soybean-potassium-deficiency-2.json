@@ -1,0 +1,334 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8747778561,
+      "width": 1000,
+      "height": 831,
+      "file_name": "soybean-potassium-deficiency-2.jpg",
+      "size": 880253,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8747778561,
+      "category_id": 16,
+      "bbox": [
+        305.0,
+        300.0,
+        198.0,
+        195.0
+      ],
+      "area": 38610.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8747778561,
+      "category_id": 16,
+      "bbox": [
+        397.0,
+        420.0,
+        194.0,
+        171.0
+      ],
+      "area": 33174.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8747778561,
+      "category_id": 16,
+      "bbox": [
+        674.0,
+        517.0,
+        192.0,
+        149.0
+      ],
+      "area": 28608.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8747778561,
+      "category_id": 16,
+      "bbox": [
+        557.0,
+        521.0,
+        141.0,
+        175.0
+      ],
+      "area": 24675.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8747778561,
+      "category_id": 16,
+      "bbox": [
+        606.0,
+        413.0,
+        165.0,
+        172.0
+      ],
+      "area": 28380.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 8747778561,
+      "category_id": 16,
+      "bbox": [
+        727.0,
+        191.0,
+        154.0,
+        177.0
+      ],
+      "area": 27258.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 8747778561,
+      "category_id": 16,
+      "bbox": [
+        611.0,
+        206.0,
+        109.0,
+        182.0
+      ],
+      "area": 19838.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 8747778561,
+      "category_id": 16,
+      "bbox": [
+        609.0,
+        370.0,
+        150.0,
+        91.0
+      ],
+      "area": 13650.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 8747778561,
+      "category_id": 16,
+      "bbox": [
+        519.0,
+        199.0,
+        106.0,
+        190.0
+      ],
+      "area": 20140.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 8747778561,
+      "category_id": 16,
+      "bbox": [
+        792.0,
+        38.0,
+        165.0,
+        176.0
+      ],
+      "area": 29040.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 8747778561,
+      "category_id": 16,
+      "bbox": [
+        686.0,
+        63.0,
+        112.0,
+        179.0
+      ],
+      "area": 20048.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 8747778561,
+      "category_id": 16,
+      "bbox": [
+        384.0,
+        126.0,
+        127.0,
+        210.0
+      ],
+      "area": 26670.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 8747778561,
+      "category_id": 16,
+      "bbox": [
+        243.0,
+        165.0,
+        159.0,
+        149.0
+      ],
+      "area": 23691.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 8747778561,
+      "category_id": 16,
+      "bbox": [
+        172.0,
+        357.0,
+        132.0,
+        146.0
+      ],
+      "area": 19272.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 8747778561,
+      "category_id": 16,
+      "bbox": [
+        38.0,
+        374.0,
+        160.0,
+        142.0
+      ],
+      "area": 22720.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 8747778561,
+      "category_id": 16,
+      "bbox": [
+        273.0,
+        568.0,
+        157.0,
+        168.0
+      ],
+      "area": 26376.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 16,
+      "image_id": 8747778561,
+      "category_id": 16,
+      "bbox": [
+        145.0,
+        492.0,
+        166.0,
+        142.0
+      ],
+      "area": 23572.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 17,
+      "image_id": 8747778561,
+      "category_id": 16,
+      "bbox": [
+        79.0,
+        531.0,
+        127.0,
+        207.0
+      ],
+      "area": 26289.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 18,
+      "image_id": 8747778561,
+      "category_id": 16,
+      "bbox": [
+        1.0,
+        292.0,
+        174.0,
+        120.0
+      ],
+      "area": 20880.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 19,
+      "image_id": 8747778561,
+      "category_id": 16,
+      "bbox": [
+        123.0,
+        147.0,
+        128.0,
+        164.0
+      ],
+      "area": 20992.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 20,
+      "image_id": 8747778561,
+      "category_id": 16,
+      "bbox": [
+        23.0,
+        95.0,
+        126.0,
+        186.0
+      ],
+      "area": 23436.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 21,
+      "image_id": 8747778561,
+      "category_id": 16,
+      "bbox": [
+        161.0,
+        92.0,
+        159.0,
+        82.0
+      ],
+      "area": 13038.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 22,
+      "image_id": 8747778561,
+      "category_id": 16,
+      "bbox": [
+        89.0,
+        20.0,
+        116.0,
+        135.0
+      ],
+      "area": 15660.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 16,
+      "name": "soyabean_leaf",
+      "supercategory": "soyabean_leaf"
+    }
+  ]
+}

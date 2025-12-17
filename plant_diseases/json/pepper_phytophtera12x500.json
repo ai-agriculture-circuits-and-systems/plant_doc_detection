@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2374230084,
+      "width": 500,
+      "height": 667,
+      "file_name": "pepper_phytophtera12x500.jpg",
+      "size": 83336,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2374230084,
+      "category_id": 5,
+      "bbox": [
+        7.0,
+        36.0,
+        170.0,
+        315.0
+      ],
+      "area": 53550.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2374230084,
+      "category_id": 5,
+      "bbox": [
+        332.0,
+        327.0,
+        128.0,
+        281.0
+      ],
+      "area": 35968.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 5,
+      "name": "bell_pepper_leaf_spot",
+      "supercategory": "bell_pepper_leaf_spot"
+    }
+  ]
+}

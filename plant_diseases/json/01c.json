@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1467827232,
+      "width": 960,
+      "height": 477,
+      "file_name": "01c.jpg",
+      "size": 67103,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1467827232,
+      "category_id": 9,
+      "bbox": [
+        96.0,
+        5.0,
+        211.0,
+        472.0
+      ],
+      "area": 99592.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1467827232,
+      "category_id": 9,
+      "bbox": [
+        356.0,
+        1.0,
+        293.0,
+        476.0
+      ],
+      "area": 139468.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1467827232,
+      "category_id": 9,
+      "bbox": [
+        708.0,
+        11.0,
+        213.0,
+        464.0
+      ],
+      "area": 98832.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 9,
+      "name": "corn_leaf_blight",
+      "supercategory": "corn_leaf_blight"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5961620889,
+      "width": 1200,
+      "height": 800,
+      "file_name": "Raspberry-leaf-tea-benefits-_-Ayurvedum.jpg",
+      "size": 97958,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5961620889,
+      "category_id": 15,
+      "bbox": [
+        668.0,
+        43.0,
+        218.0,
+        190.0
+      ],
+      "area": 41420.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5961620889,
+      "category_id": 15,
+      "bbox": [
+        604.0,
+        211.0,
+        189.0,
+        196.0
+      ],
+      "area": 37044.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5961620889,
+      "category_id": 15,
+      "bbox": [
+        434.0,
+        4.0,
+        213.0,
+        226.0
+      ],
+      "area": 48138.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

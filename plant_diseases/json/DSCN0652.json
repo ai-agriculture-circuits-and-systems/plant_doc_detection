@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7850326922,
+      "width": 640,
+      "height": 480,
+      "file_name": "DSCN0652.jpg",
+      "size": 208230,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7850326922,
+      "category_id": 4,
+      "bbox": [
+        238.0,
+        48.0,
+        176.0,
+        354.0
+      ],
+      "area": 62304.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7850326922,
+      "category_id": 4,
+      "bbox": [
+        436.0,
+        193.0,
+        101.0,
+        160.0
+      ],
+      "area": 16160.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7850326922,
+      "category_id": 4,
+      "bbox": [
+        87.0,
+        64.0,
+        129.0,
+        194.0
+      ],
+      "area": 25026.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 4,
+      "name": "bell_pepper_leaf",
+      "supercategory": "bell_pepper_leaf"
+    }
+  ]
+}

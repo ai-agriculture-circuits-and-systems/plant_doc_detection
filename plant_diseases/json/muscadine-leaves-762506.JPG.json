@@ -1,0 +1,165 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5968353271,
+      "width": 1197,
+      "height": 1600,
+      "file_name": "muscadine-leaves-762506.JPG.jpg",
+      "size": 307478,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5968353271,
+      "category_id": 28,
+      "bbox": [
+        510.0,
+        338.0,
+        423.0,
+        428.0
+      ],
+      "area": 181044.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5968353271,
+      "category_id": 28,
+      "bbox": [
+        361.0,
+        540.0,
+        551.0,
+        585.0
+      ],
+      "area": 322335.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5968353271,
+      "category_id": 28,
+      "bbox": [
+        317.0,
+        974.0,
+        549.0,
+        551.0
+      ],
+      "area": 302499.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 5968353271,
+      "category_id": 28,
+      "bbox": [
+        53.0,
+        715.0,
+        351.0,
+        697.0
+      ],
+      "area": 244647.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 5968353271,
+      "category_id": 28,
+      "bbox": [
+        7.0,
+        349.0,
+        444.0,
+        509.0
+      ],
+      "area": 225996.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 5968353271,
+      "category_id": 28,
+      "bbox": [
+        312.0,
+        1.0,
+        449.0,
+        516.0
+      ],
+      "area": 231684.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 5968353271,
+      "category_id": 28,
+      "bbox": [
+        1.0,
+        12.0,
+        262.0,
+        488.0
+      ],
+      "area": 127856.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 5968353271,
+      "category_id": 28,
+      "bbox": [
+        958.0,
+        989.0,
+        239.0,
+        559.0
+      ],
+      "area": 133601.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 5968353271,
+      "category_id": 28,
+      "bbox": [
+        943.0,
+        492.0,
+        197.0,
+        484.0
+      ],
+      "area": 95348.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 5968353271,
+      "category_id": 28,
+      "bbox": [
+        850.0,
+        790.0,
+        193.0,
+        607.0
+      ],
+      "area": 117151.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 28,
+      "name": "grape_leaf",
+      "supercategory": "grape_leaf"
+    }
+  ]
+}

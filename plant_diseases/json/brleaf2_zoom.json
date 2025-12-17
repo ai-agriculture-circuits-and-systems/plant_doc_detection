@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4496684455,
+      "width": 900,
+      "height": 675,
+      "file_name": "brleaf2_zoom.jpg",
+      "size": 149284,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4496684455,
+      "category_id": 29,
+      "bbox": [
+        152.0,
+        4.0,
+        601.0,
+        648.0
+      ],
+      "area": 389448.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 29,
+      "name": "grape_leaf_black_rot",
+      "supercategory": "grape_leaf_black_rot"
+    }
+  ]
+}

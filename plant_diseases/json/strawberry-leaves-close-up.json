@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1729176141,
+      "width": 5184,
+      "height": 3456,
+      "file_name": "strawberry-leaves-close-up.jpg",
+      "size": 1592187,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1729176141,
+      "category_id": 18,
+      "bbox": [
+        1408.0,
+        313.0,
+        1284.0,
+        1672.0
+      ],
+      "area": 2146848.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1729176141,
+      "category_id": 18,
+      "bbox": [
+        514.0,
+        1763.0,
+        1928.0,
+        984.0
+      ],
+      "area": 1897152.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1729176141,
+      "category_id": 18,
+      "bbox": [
+        2375.0,
+        1608.0,
+        1317.0,
+        1055.0
+      ],
+      "area": 1389435.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1729176141,
+      "category_id": 18,
+      "bbox": [
+        2847.0,
+        819.0,
+        961.0,
+        994.0
+      ],
+      "area": 955234.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 1729176141,
+      "category_id": 18,
+      "bbox": [
+        3653.0,
+        1569.0,
+        944.0,
+        978.0
+      ],
+      "area": 923232.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 18,
+      "name": "strawberry_leaf",
+      "supercategory": "strawberry_leaf"
+    }
+  ]
+}

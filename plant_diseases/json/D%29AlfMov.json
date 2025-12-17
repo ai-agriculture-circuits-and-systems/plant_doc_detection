@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1706543310,
+      "width": 400,
+      "height": 317,
+      "file_name": "D%29AlfMov.jpg",
+      "size": 15592,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1706543310,
+      "category_id": 24,
+      "bbox": [
+        14.0,
+        13.0,
+        115.0,
+        277.0
+      ],
+      "area": 31855.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1706543310,
+      "category_id": 24,
+      "bbox": [
+        146.0,
+        33.0,
+        134.0,
+        263.0
+      ],
+      "area": 35242.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1706543310,
+      "category_id": 24,
+      "bbox": [
+        308.0,
+        61.0,
+        76.0,
+        199.0
+      ],
+      "area": 15124.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 24,
+      "name": "tomato_leaf_mosaic_virus",
+      "supercategory": "tomato_leaf_mosaic_virus"
+    }
+  ]
+}

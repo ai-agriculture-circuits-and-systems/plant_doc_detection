@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5974376194,
+      "width": 1500,
+      "height": 1083,
+      "file_name": "stock-photo-blueberry-leaves-branch-isolated-on-white-background-490111684.jpg",
+      "size": 416818,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5974376194,
+      "category_id": 6,
+      "bbox": [
+        163.0,
+        98.0,
+        342.0,
+        328.0
+      ],
+      "area": 112176.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5974376194,
+      "category_id": 6,
+      "bbox": [
+        538.0,
+        98.0,
+        308.0,
+        472.0
+      ],
+      "area": 145376.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5974376194,
+      "category_id": 6,
+      "bbox": [
+        1013.0,
+        261.0,
+        228.0,
+        402.0
+      ],
+      "area": 91656.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 5974376194,
+      "category_id": 6,
+      "bbox": [
+        89.0,
+        515.0,
+        498.0,
+        174.0
+      ],
+      "area": 86652.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 5974376194,
+      "category_id": 6,
+      "bbox": [
+        425.0,
+        577.0,
+        519.0,
+        234.0
+      ],
+      "area": 121446.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

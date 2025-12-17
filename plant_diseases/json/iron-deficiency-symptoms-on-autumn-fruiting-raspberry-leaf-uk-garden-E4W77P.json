@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4633470798,
+      "width": 1300,
+      "height": 957,
+      "file_name": "iron-deficiency-symptoms-on-autumn-fruiting-raspberry-leaf-uk-garden-E4W77P.jpg",
+      "size": 258745,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4633470798,
+      "category_id": 15,
+      "bbox": [
+        368.0,
+        183.0,
+        662.0,
+        524.0
+      ],
+      "area": 346888.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

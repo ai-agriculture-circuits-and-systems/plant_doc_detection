@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1710619288,
+      "width": 300,
+      "height": 225,
+      "file_name": "gray-leaf-spot-300x225.jpg",
+      "size": 20606,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1710619288,
+      "category_id": 26,
+      "bbox": [
+        216.0,
+        84.0,
+        78.0,
+        58.0
+      ],
+      "area": 4524.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1710619288,
+      "category_id": 26,
+      "bbox": [
+        1.0,
+        150.0,
+        69.0,
+        72.0
+      ],
+      "area": 4968.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1710619288,
+      "category_id": 26,
+      "bbox": [
+        76.0,
+        23.0,
+        132.0,
+        115.0
+      ],
+      "area": 15180.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1710619288,
+      "category_id": 26,
+      "bbox": [
+        33.0,
+        19.0,
+        69.0,
+        140.0
+      ],
+      "area": 9660.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 26,
+      "name": "tomato_mold_leaf",
+      "supercategory": "tomato_mold_leaf"
+    }
+  ]
+}

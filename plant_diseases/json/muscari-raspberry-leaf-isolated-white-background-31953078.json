@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9989655093,
+      "width": 1300,
+      "height": 951,
+      "file_name": "muscari-raspberry-leaf-isolated-white-background-31953078.jpg",
+      "size": 156571,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9989655093,
+      "category_id": 15,
+      "bbox": [
+        682.0,
+        131.0,
+        323.0,
+        341.0
+      ],
+      "area": 110143.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9989655093,
+      "category_id": 15,
+      "bbox": [
+        979.0,
+        289.0,
+        263.0,
+        256.0
+      ],
+      "area": 67328.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9989655093,
+      "category_id": 15,
+      "bbox": [
+        644.0,
+        470.0,
+        354.0,
+        234.0
+      ],
+      "area": 82836.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

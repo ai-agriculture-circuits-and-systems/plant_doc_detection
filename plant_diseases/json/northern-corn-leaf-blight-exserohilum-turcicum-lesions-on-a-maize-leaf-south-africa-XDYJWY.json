@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4448742498,
+      "width": 860,
+      "height": 1390,
+      "file_name": "northern-corn-leaf-blight-exserohilum-turcicum-lesions-on-a-maize-leaf-south-africa-XDYJWY.jpg",
+      "size": 210313,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4448742498,
+      "category_id": 9,
+      "bbox": [
+        219.0,
+        616.0,
+        133.0,
+        549.0
+      ],
+      "area": 73017.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4448742498,
+      "category_id": 9,
+      "bbox": [
+        228.0,
+        455.0,
+        494.0,
+        581.0
+      ],
+      "area": 287014.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4448742498,
+      "category_id": 9,
+      "bbox": [
+        355.0,
+        414.0,
+        368.0,
+        607.0
+      ],
+      "area": 223376.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4448742498,
+      "category_id": 9,
+      "bbox": [
+        132.0,
+        124.0,
+        541.0,
+        458.0
+      ],
+      "area": 247778.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4448742498,
+      "category_id": 9,
+      "bbox": [
+        506.0,
+        198.0,
+        317.0,
+        161.0
+      ],
+      "area": 51037.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 9,
+      "name": "corn_leaf_blight",
+      "supercategory": "corn_leaf_blight"
+    }
+  ]
+}

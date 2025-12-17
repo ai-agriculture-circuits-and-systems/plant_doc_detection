@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4214422717,
+      "width": 225,
+      "height": 300,
+      "file_name": "Leaves-with-early-blight-need-to-be-removed-225x300.jpg",
+      "size": 56092,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4214422717,
+      "category_id": 13,
+      "bbox": [
+        55.0,
+        152.0,
+        55.0,
+        68.0
+      ],
+      "area": 3740.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4214422717,
+      "category_id": 13,
+      "bbox": [
+        113.0,
+        145.0,
+        52.0,
+        50.0
+      ],
+      "area": 2600.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4214422717,
+      "category_id": 13,
+      "bbox": [
+        42.0,
+        81.0,
+        50.0,
+        68.0
+      ],
+      "area": 3400.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4214422717,
+      "category_id": 13,
+      "bbox": [
+        82.0,
+        238.0,
+        25.0,
+        54.0
+      ],
+      "area": 1350.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4214422717,
+      "category_id": 13,
+      "bbox": [
+        133.0,
+        92.0,
+        38.0,
+        29.0
+      ],
+      "area": 1102.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 13,
+      "name": "potato_leaf_early_blight",
+      "supercategory": "potato_leaf_early_blight"
+    }
+  ]
+}

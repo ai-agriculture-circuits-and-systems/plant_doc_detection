@@ -1,0 +1,191 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9088584363,
+      "width": 300,
+      "height": 450,
+      "file_name": "tomato-yellow-leaf-curl-virus-tomato-1.jpg",
+      "size": 39995,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9088584363,
+      "category_id": 25,
+      "bbox": [
+        187.0,
+        231.0,
+        58.0,
+        40.0
+      ],
+      "area": 2320.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9088584363,
+      "category_id": 25,
+      "bbox": [
+        163.0,
+        277.0,
+        32.0,
+        39.0
+      ],
+      "area": 1248.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9088584363,
+      "category_id": 25,
+      "bbox": [
+        140.0,
+        345.0,
+        28.0,
+        53.0
+      ],
+      "area": 1484.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 9088584363,
+      "category_id": 25,
+      "bbox": [
+        178.0,
+        318.0,
+        29.0,
+        22.0
+      ],
+      "area": 638.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 9088584363,
+      "category_id": 25,
+      "bbox": [
+        214.0,
+        315.0,
+        41.0,
+        31.0
+      ],
+      "area": 1271.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 9088584363,
+      "category_id": 25,
+      "bbox": [
+        246.0,
+        202.0,
+        25.0,
+        37.0
+      ],
+      "area": 925.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 9088584363,
+      "category_id": 25,
+      "bbox": [
+        218.0,
+        163.0,
+        36.0,
+        43.0
+      ],
+      "area": 1548.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 9088584363,
+      "category_id": 25,
+      "bbox": [
+        3.0,
+        219.0,
+        42.0,
+        49.0
+      ],
+      "area": 2058.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 9088584363,
+      "category_id": 25,
+      "bbox": [
+        38.0,
+        241.0,
+        32.0,
+        30.0
+      ],
+      "area": 960.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 9088584363,
+      "category_id": 25,
+      "bbox": [
+        91.0,
+        263.0,
+        47.0,
+        35.0
+      ],
+      "area": 1645.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 9088584363,
+      "category_id": 25,
+      "bbox": [
+        115.0,
+        251.0,
+        37.0,
+        35.0
+      ],
+      "area": 1295.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 9088584363,
+      "category_id": 25,
+      "bbox": [
+        137.0,
+        213.0,
+        45.0,
+        30.0
+      ],
+      "area": 1350.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 25,
+      "name": "tomato_leaf_yellow_virus",
+      "supercategory": "tomato_leaf_yellow_virus"
+    }
+  ]
+}

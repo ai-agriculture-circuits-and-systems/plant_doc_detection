@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6494862246,
+      "width": 1920,
+      "height": 1440,
+      "file_name": "leaf-on-raspberry-bush.jpg",
+      "size": 227550,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6494862246,
+      "category_id": 15,
+      "bbox": [
+        393.0,
+        745.0,
+        591.0,
+        435.0
+      ],
+      "area": 257085.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6494862246,
+      "category_id": 15,
+      "bbox": [
+        764.0,
+        70.0,
+        329.0,
+        659.0
+      ],
+      "area": 216811.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6494862246,
+      "category_id": 15,
+      "bbox": [
+        978.0,
+        490.0,
+        496.0,
+        339.0
+      ],
+      "area": 168144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 6494862246,
+      "category_id": 15,
+      "bbox": [
+        968.0,
+        751.0,
+        300.0,
+        476.0
+      ],
+      "area": 142800.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 6494862246,
+      "category_id": 15,
+      "bbox": [
+        390.0,
+        517.0,
+        396.0,
+        412.0
+      ],
+      "area": 163152.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

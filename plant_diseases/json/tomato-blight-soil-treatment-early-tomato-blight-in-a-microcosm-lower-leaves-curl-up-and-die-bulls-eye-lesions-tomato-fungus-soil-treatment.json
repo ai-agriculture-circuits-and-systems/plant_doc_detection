@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7908435200,
+      "width": 1063,
+      "height": 734,
+      "file_name": "tomato-blight-soil-treatment-early-tomato-blight-in-a-microcosm-lower-leaves-curl-up-and-die-bulls-eye-lesions-tomato-fungus-soil-treatment.jpg",
+      "size": 96366,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7908435200,
+      "category_id": 19,
+      "bbox": [
+        584.0,
+        317.0,
+        436.0,
+        254.0
+      ],
+      "area": 110744.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7908435200,
+      "category_id": 19,
+      "bbox": [
+        298.0,
+        221.0,
+        156.0,
+        349.0
+      ],
+      "area": 54444.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 19,
+      "name": "tomato_early_blight_leaf",
+      "supercategory": "tomato_early_blight_leaf"
+    }
+  ]
+}

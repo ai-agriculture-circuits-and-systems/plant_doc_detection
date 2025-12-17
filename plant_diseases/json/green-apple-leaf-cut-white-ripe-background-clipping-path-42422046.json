@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8862127885,
+      "width": 1300,
+      "height": 1217,
+      "file_name": "green-apple-leaf-cut-white-ripe-background-clipping-path-42422046.jpg",
+      "size": 148170,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8862127885,
+      "category_id": 2,
+      "bbox": [
+        32.0,
+        91.0,
+        516.0,
+        394.0
+      ],
+      "area": 203304.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "apple_leaf",
+      "supercategory": "apple_leaf"
+    }
+  ]
+}

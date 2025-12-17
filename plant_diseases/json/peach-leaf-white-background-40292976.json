@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8905716965,
+      "width": 1300,
+      "height": 1303,
+      "file_name": "peach-leaf-white-background-40292976.jpg",
+      "size": 177043,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8905716965,
+      "category_id": 11,
+      "bbox": [
+        558.0,
+        37.0,
+        560.0,
+        473.0
+      ],
+      "area": 264880.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8905716965,
+      "category_id": 11,
+      "bbox": [
+        606.0,
+        199.0,
+        374.0,
+        342.0
+      ],
+      "area": 127908.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8905716965,
+      "category_id": 11,
+      "bbox": [
+        649.0,
+        429.0,
+        452.0,
+        376.0
+      ],
+      "area": 169952.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "peach_leaf",
+      "supercategory": "peach_leaf"
+    }
+  ]
+}

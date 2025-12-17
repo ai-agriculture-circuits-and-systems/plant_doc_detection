@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4859292898,
+      "width": 519,
+      "height": 540,
+      "file_name": "potato-late-blight-phytophthora-infestans-lesions-on-potato-foliage-a1w19k.jpg",
+      "size": 76427,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4859292898,
+      "category_id": 14,
+      "bbox": [
+        292.0,
+        279.0,
+        90.0,
+        150.0
+      ],
+      "area": 13500.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4859292898,
+      "category_id": 14,
+      "bbox": [
+        286.0,
+        174.0,
+        130.0,
+        90.0
+      ],
+      "area": 11700.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4859292898,
+      "category_id": 14,
+      "bbox": [
+        234.0,
+        102.0,
+        107.0,
+        82.0
+      ],
+      "area": 8774.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4859292898,
+      "category_id": 14,
+      "bbox": [
+        119.0,
+        196.0,
+        134.0,
+        133.0
+      ],
+      "area": 17822.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4859292898,
+      "category_id": 14,
+      "bbox": [
+        259.0,
+        317.0,
+        83.0,
+        147.0
+      ],
+      "area": 12201.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 4859292898,
+      "category_id": 14,
+      "bbox": [
+        217.0,
+        56.0,
+        107.0,
+        56.0
+      ],
+      "area": 5992.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 14,
+      "name": "potato_leaf_late_blight",
+      "supercategory": "potato_leaf_late_blight"
+    }
+  ]
+}

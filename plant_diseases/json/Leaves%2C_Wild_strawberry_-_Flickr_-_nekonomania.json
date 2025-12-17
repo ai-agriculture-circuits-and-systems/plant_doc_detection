@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6111024744,
+      "width": 4752,
+      "height": 3168,
+      "file_name": "Leaves%2C_Wild_strawberry_-_Flickr_-_nekonomania.jpg",
+      "size": 10163604,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6111024744,
+      "category_id": 18,
+      "bbox": [
+        3051.0,
+        631.0,
+        1395.0,
+        755.0
+      ],
+      "area": 1053225.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6111024744,
+      "category_id": 18,
+      "bbox": [
+        2701.0,
+        1166.0,
+        985.0,
+        1260.0
+      ],
+      "area": 1241100.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6111024744,
+      "category_id": 18,
+      "bbox": [
+        2176.0,
+        46.0,
+        1025.0,
+        1250.0
+      ],
+      "area": 1281250.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 18,
+      "name": "strawberry_leaf",
+      "supercategory": "strawberry_leaf"
+    }
+  ]
+}

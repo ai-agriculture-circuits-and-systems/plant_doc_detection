@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7685928411,
+      "width": 800,
+      "height": 500,
+      "file_name": "dusty-mildew-on-plants-powdery-mildew-on-a-courgette-leaf-treat-downy-mildew-plants-controlling-powdery-mildew-on-squash-plants.jpg",
+      "size": 105856,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7685928411,
+      "category_id": 17,
+      "bbox": [
+        159.0,
+        1.0,
+        631.0,
+        499.0
+      ],
+      "area": 314869.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 17,
+      "name": "squash_powdery_mildew_leaf",
+      "supercategory": "squash_powdery_mildew_leaf"
+    }
+  ]
+}

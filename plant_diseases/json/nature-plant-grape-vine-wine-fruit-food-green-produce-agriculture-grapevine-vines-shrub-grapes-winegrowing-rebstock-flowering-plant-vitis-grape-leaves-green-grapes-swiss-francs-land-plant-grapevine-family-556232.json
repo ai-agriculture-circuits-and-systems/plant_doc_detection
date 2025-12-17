@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1415921633,
+      "width": 4608,
+      "height": 3072,
+      "file_name": "nature-plant-grape-vine-wine-fruit-food-green-produce-agriculture-grapevine-vines-shrub-grapes-winegrowing-rebstock-flowering-plant-vitis-grape-leaves-green-grapes-swiss-francs-land-plant-grapevine-family-556232.jpg",
+      "size": 3208647,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1415921633,
+      "category_id": 28,
+      "bbox": [
+        479.0,
+        1511.0,
+        1240.0,
+        1413.0
+      ],
+      "area": 1752120.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1415921633,
+      "category_id": 28,
+      "bbox": [
+        205.0,
+        494.0,
+        940.0,
+        1100.0
+      ],
+      "area": 1034000.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1415921633,
+      "category_id": 28,
+      "bbox": [
+        1945.0,
+        1091.0,
+        697.0,
+        793.0
+      ],
+      "area": 552721.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1415921633,
+      "category_id": 28,
+      "bbox": [
+        1805.0,
+        291.0,
+        617.0,
+        716.0
+      ],
+      "area": 441772.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 28,
+      "name": "grape_leaf",
+      "supercategory": "grape_leaf"
+    }
+  ]
+}

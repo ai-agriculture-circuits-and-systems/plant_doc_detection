@@ -1,0 +1,157 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3706086753,
+      "width": 498,
+      "height": 312,
+      "file_name": "20020531-early%20blight%20%20starts%20on%20lower%20leaves.jpg",
+      "size": 37327,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3706086753,
+      "category_id": 19,
+      "bbox": [
+        128.0,
+        100.0,
+        39.0,
+        90.0
+      ],
+      "area": 3510.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3706086753,
+      "category_id": 19,
+      "bbox": [
+        140.0,
+        3.0,
+        79.0,
+        43.0
+      ],
+      "area": 3397.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3706086753,
+      "category_id": 19,
+      "bbox": [
+        176.0,
+        79.0,
+        58.0,
+        47.0
+      ],
+      "area": 2726.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3706086753,
+      "category_id": 19,
+      "bbox": [
+        173.0,
+        125.0,
+        70.0,
+        92.0
+      ],
+      "area": 6440.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 3706086753,
+      "category_id": 19,
+      "bbox": [
+        1.0,
+        130.0,
+        39.0,
+        120.0
+      ],
+      "area": 4680.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 3706086753,
+      "category_id": 21,
+      "bbox": [
+        230.0,
+        102.0,
+        39.0,
+        95.0
+      ],
+      "area": 3705.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 3706086753,
+      "category_id": 21,
+      "bbox": [
+        295.0,
+        87.0,
+        23.0,
+        56.0
+      ],
+      "area": 1288.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 3706086753,
+      "category_id": 21,
+      "bbox": [
+        72.0,
+        77.0,
+        38.0,
+        103.0
+      ],
+      "area": 3914.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 3706086753,
+      "category_id": 19,
+      "bbox": [
+        35.0,
+        29.0,
+        35.0,
+        72.0
+      ],
+      "area": 2520.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 19,
+      "name": "tomato_early_blight_leaf",
+      "supercategory": "tomato_early_blight_leaf"
+    },
+    {
+      "id": 21,
+      "name": "tomato_leaf",
+      "supercategory": "tomato_leaf"
+    }
+  ]
+}

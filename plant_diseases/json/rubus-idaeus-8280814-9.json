@@ -1,0 +1,269 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7015753582,
+      "width": 800,
+      "height": 600,
+      "file_name": "rubus-idaeus-8280814-9.jpg",
+      "size": 118009,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7015753582,
+      "category_id": 15,
+      "bbox": [
+        34.0,
+        170.0,
+        153.0,
+        137.0
+      ],
+      "area": 20961.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7015753582,
+      "category_id": 15,
+      "bbox": [
+        198.0,
+        165.0,
+        99.0,
+        143.0
+      ],
+      "area": 14157.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7015753582,
+      "category_id": 15,
+      "bbox": [
+        97.0,
+        293.0,
+        141.0,
+        117.0
+      ],
+      "area": 16497.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 7015753582,
+      "category_id": 15,
+      "bbox": [
+        272.0,
+        58.0,
+        148.0,
+        135.0
+      ],
+      "area": 19980.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 7015753582,
+      "category_id": 15,
+      "bbox": [
+        397.0,
+        142.0,
+        121.0,
+        96.0
+      ],
+      "area": 11616.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 7015753582,
+      "category_id": 15,
+      "bbox": [
+        286.0,
+        183.0,
+        115.0,
+        122.0
+      ],
+      "area": 14030.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 7015753582,
+      "category_id": 15,
+      "bbox": [
+        516.0,
+        5.0,
+        135.0,
+        105.0
+      ],
+      "area": 14175.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 7015753582,
+      "category_id": 15,
+      "bbox": [
+        508.0,
+        108.0,
+        119.0,
+        68.0
+      ],
+      "area": 8092.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 7015753582,
+      "category_id": 15,
+      "bbox": [
+        617.0,
+        45.0,
+        90.0,
+        88.0
+      ],
+      "area": 7920.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 7015753582,
+      "category_id": 15,
+      "bbox": [
+        366.0,
+        329.0,
+        116.0,
+        156.0
+      ],
+      "area": 18096.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 7015753582,
+      "category_id": 15,
+      "bbox": [
+        168.0,
+        417.0,
+        154.0,
+        160.0
+      ],
+      "area": 24640.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 7015753582,
+      "category_id": 15,
+      "bbox": [
+        214.0,
+        315.0,
+        105.0,
+        105.0
+      ],
+      "area": 11025.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 7015753582,
+      "category_id": 15,
+      "bbox": [
+        306.0,
+        384.0,
+        128.0,
+        136.0
+      ],
+      "area": 17408.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 7015753582,
+      "category_id": 15,
+      "bbox": [
+        498.0,
+        491.0,
+        119.0,
+        109.0
+      ],
+      "area": 12971.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 7015753582,
+      "category_id": 15,
+      "bbox": [
+        580.0,
+        451.0,
+        115.0,
+        119.0
+      ],
+      "area": 13685.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 7015753582,
+      "category_id": 15,
+      "bbox": [
+        501.0,
+        251.0,
+        157.0,
+        130.0
+      ],
+      "area": 20410.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 16,
+      "image_id": 7015753582,
+      "category_id": 15,
+      "bbox": [
+        329.0,
+        249.0,
+        173.0,
+        114.0
+      ],
+      "area": 19722.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 17,
+      "image_id": 7015753582,
+      "category_id": 15,
+      "bbox": [
+        646.0,
+        126.0,
+        134.0,
+        91.0
+      ],
+      "area": 12194.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

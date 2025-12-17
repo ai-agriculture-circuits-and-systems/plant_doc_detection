@@ -1,0 +1,165 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6136566695,
+      "width": 1600,
+      "height": 1205,
+      "file_name": "Tomato59.JPG.jpg",
+      "size": 293562,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6136566695,
+      "category_id": 21,
+      "bbox": [
+        932.0,
+        190.0,
+        219.0,
+        325.0
+      ],
+      "area": 71175.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6136566695,
+      "category_id": 21,
+      "bbox": [
+        151.0,
+        290.0,
+        447.0,
+        244.0
+      ],
+      "area": 109068.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6136566695,
+      "category_id": 21,
+      "bbox": [
+        1160.0,
+        172.0,
+        244.0,
+        286.0
+      ],
+      "area": 69784.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 6136566695,
+      "category_id": 21,
+      "bbox": [
+        513.0,
+        162.0,
+        115.0,
+        168.0
+      ],
+      "area": 19320.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 6136566695,
+      "category_id": 21,
+      "bbox": [
+        381.0,
+        202.0,
+        185.0,
+        126.0
+      ],
+      "area": 23310.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 6136566695,
+      "category_id": 21,
+      "bbox": [
+        1166.0,
+        939.0,
+        302.0,
+        255.0
+      ],
+      "area": 77010.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 6136566695,
+      "category_id": 21,
+      "bbox": [
+        1006.0,
+        861.0,
+        205.0,
+        341.0
+      ],
+      "area": 69905.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 6136566695,
+      "category_id": 21,
+      "bbox": [
+        224.0,
+        679.0,
+        268.0,
+        102.0
+      ],
+      "area": 27336.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 6136566695,
+      "category_id": 21,
+      "bbox": [
+        479.0,
+        790.0,
+        326.0,
+        138.0
+      ],
+      "area": 44988.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 6136566695,
+      "category_id": 21,
+      "bbox": [
+        624.0,
+        938.0,
+        285.0,
+        235.0
+      ],
+      "area": 66975.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 21,
+      "name": "tomato_leaf",
+      "supercategory": "tomato_leaf"
+    }
+  ]
+}

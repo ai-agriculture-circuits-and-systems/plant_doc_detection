@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8201459709,
+      "width": 364,
+      "height": 358,
+      "file_name": "tdisease12.jpg",
+      "size": 15631,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8201459709,
+      "category_id": 26,
+      "bbox": [
+        83.0,
+        235.0,
+        129.0,
+        89.0
+      ],
+      "area": 11481.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8201459709,
+      "category_id": 26,
+      "bbox": [
+        290.0,
+        228.0,
+        74.0,
+        77.0
+      ],
+      "area": 5698.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8201459709,
+      "category_id": 26,
+      "bbox": [
+        128.0,
+        121.0,
+        97.0,
+        95.0
+      ],
+      "area": 9215.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8201459709,
+      "category_id": 26,
+      "bbox": [
+        241.0,
+        56.0,
+        60.0,
+        94.0
+      ],
+      "area": 5640.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8201459709,
+      "category_id": 26,
+      "bbox": [
+        271.0,
+        127.0,
+        91.0,
+        100.0
+      ],
+      "area": 9100.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 26,
+      "name": "tomato_mold_leaf",
+      "supercategory": "tomato_mold_leaf"
+    }
+  ]
+}

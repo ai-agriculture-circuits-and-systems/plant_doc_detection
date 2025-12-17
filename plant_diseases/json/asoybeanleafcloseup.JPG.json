@@ -1,0 +1,139 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2091783881,
+      "width": 550,
+      "height": 412,
+      "file_name": "asoybeanleafcloseup.JPG.jpg",
+      "size": 43112,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2091783881,
+      "category_id": 16,
+      "bbox": [
+        449.0,
+        15.0,
+        101.0,
+        143.0
+      ],
+      "area": 14443.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2091783881,
+      "category_id": 16,
+      "bbox": [
+        329.0,
+        31.0,
+        121.0,
+        132.0
+      ],
+      "area": 15972.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2091783881,
+      "category_id": 16,
+      "bbox": [
+        188.0,
+        14.0,
+        144.0,
+        108.0
+      ],
+      "area": 15552.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2091783881,
+      "category_id": 16,
+      "bbox": [
+        134.0,
+        149.0,
+        168.0,
+        139.0
+      ],
+      "area": 23352.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 2091783881,
+      "category_id": 16,
+      "bbox": [
+        331.0,
+        295.0,
+        123.0,
+        117.0
+      ],
+      "area": 14391.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 2091783881,
+      "category_id": 16,
+      "bbox": [
+        288.0,
+        326.0,
+        68.0,
+        86.0
+      ],
+      "area": 5848.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 2091783881,
+      "category_id": 16,
+      "bbox": [
+        255.0,
+        302.0,
+        57.0,
+        44.0
+      ],
+      "area": 2508.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 2091783881,
+      "category_id": 16,
+      "bbox": [
+        20.0,
+        224.0,
+        75.0,
+        184.0
+      ],
+      "area": 13800.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 16,
+      "name": "soyabean_leaf",
+      "supercategory": "soyabean_leaf"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4122885458,
+      "width": 576,
+      "height": 1024,
+      "file_name": "wild-blueberries-576x1024.jpg",
+      "size": 105254,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4122885458,
+      "category_id": 6,
+      "bbox": [
+        186.0,
+        115.0,
+        164.0,
+        186.0
+      ],
+      "area": 30504.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4122885458,
+      "category_id": 6,
+      "bbox": [
+        168.0,
+        256.0,
+        161.0,
+        237.0
+      ],
+      "area": 38157.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4122885458,
+      "category_id": 6,
+      "bbox": [
+        1.0,
+        279.0,
+        153.0,
+        177.0
+      ],
+      "area": 27081.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4122885458,
+      "category_id": 6,
+      "bbox": [
+        392.0,
+        539.0,
+        175.0,
+        147.0
+      ],
+      "area": 25725.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4122885458,
+      "category_id": 6,
+      "bbox": [
+        462.0,
+        582.0,
+        114.0,
+        231.0
+      ],
+      "area": 26334.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 4122885458,
+      "category_id": 6,
+      "bbox": [
+        1.0,
+        884.0,
+        297.0,
+        133.0
+      ],
+      "area": 39501.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

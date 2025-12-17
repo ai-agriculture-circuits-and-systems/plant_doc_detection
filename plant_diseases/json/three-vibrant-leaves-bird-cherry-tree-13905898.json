@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2342209262,
+      "width": 1300,
+      "height": 972,
+      "file_name": "three-vibrant-leaves-bird-cherry-tree-13905898.jpg",
+      "size": 71748,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2342209262,
+      "category_id": 7,
+      "bbox": [
+        61.0,
+        126.0,
+        557.0,
+        586.0
+      ],
+      "area": 326402.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2342209262,
+      "category_id": 7,
+      "bbox": [
+        550.0,
+        63.0,
+        288.0,
+        541.0
+      ],
+      "area": 155808.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2342209262,
+      "category_id": 7,
+      "bbox": [
+        798.0,
+        136.0,
+        377.0,
+        598.0
+      ],
+      "area": 225446.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 7,
+      "name": "cherry_leaf",
+      "supercategory": "cherry_leaf"
+    }
+  ]
+}

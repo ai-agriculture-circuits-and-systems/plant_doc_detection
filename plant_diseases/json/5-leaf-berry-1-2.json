@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4881790204,
+      "width": 755,
+      "height": 618,
+      "file_name": "5-leaf-berry-1-2.jpg",
+      "size": 93801,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4881790204,
+      "category_id": 15,
+      "bbox": [
+        207.0,
+        160.0,
+        275.0,
+        193.0
+      ],
+      "area": 53075.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4881790204,
+      "category_id": 15,
+      "bbox": [
+        343.0,
+        21.0,
+        192.0,
+        178.0
+      ],
+      "area": 34176.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4881790204,
+      "category_id": 15,
+      "bbox": [
+        521.0,
+        70.0,
+        234.0,
+        140.0
+      ],
+      "area": 32760.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4881790204,
+      "category_id": 15,
+      "bbox": [
+        537.0,
+        201.0,
+        218.0,
+        199.0
+      ],
+      "area": 43382.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4881790204,
+      "category_id": 15,
+      "bbox": [
+        362.0,
+        311.0,
+        203.0,
+        290.0
+      ],
+      "area": 58870.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

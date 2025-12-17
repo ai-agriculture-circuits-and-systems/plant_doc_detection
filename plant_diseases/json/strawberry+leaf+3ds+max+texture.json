@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6774474758,
+      "width": 480,
+      "height": 389,
+      "file_name": "strawberry+leaf+3ds+max+texture.jpg",
+      "size": 132335,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6774474758,
+      "category_id": 18,
+      "bbox": [
+        141.0,
+        116.0,
+        211.0,
+        273.0
+      ],
+      "area": 57603.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6774474758,
+      "category_id": 18,
+      "bbox": [
+        248.0,
+        11.0,
+        232.0,
+        179.0
+      ],
+      "area": 41528.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6774474758,
+      "category_id": 18,
+      "bbox": [
+        1.0,
+        1.0,
+        246.0,
+        188.0
+      ],
+      "area": 46248.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 18,
+      "name": "strawberry_leaf",
+      "supercategory": "strawberry_leaf"
+    }
+  ]
+}

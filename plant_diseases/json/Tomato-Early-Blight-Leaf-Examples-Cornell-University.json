@@ -1,0 +1,256 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7848213381,
+      "width": 1200,
+      "height": 900,
+      "file_name": "Tomato-Early-Blight-Leaf-Examples-Cornell-University.jpg",
+      "size": 371018,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7848213381,
+      "category_id": 19,
+      "bbox": [
+        258.0,
+        108.0,
+        351.0,
+        143.0
+      ],
+      "area": 50193.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7848213381,
+      "category_id": 19,
+      "bbox": [
+        733.0,
+        175.0,
+        343.0,
+        155.0
+      ],
+      "area": 53165.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7848213381,
+      "category_id": 19,
+      "bbox": [
+        848.0,
+        47.0,
+        308.0,
+        158.0
+      ],
+      "area": 48664.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 7848213381,
+      "category_id": 19,
+      "bbox": [
+        985.0,
+        254.0,
+        194.0,
+        404.0
+      ],
+      "area": 78376.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 7848213381,
+      "category_id": 19,
+      "bbox": [
+        773.0,
+        397.0,
+        193.0,
+        368.0
+      ],
+      "area": 71024.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 7848213381,
+      "category_id": 19,
+      "bbox": [
+        543.0,
+        271.0,
+        220.0,
+        382.0
+      ],
+      "area": 84040.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 7848213381,
+      "category_id": 19,
+      "bbox": [
+        6.0,
+        18.0,
+        355.0,
+        183.0
+      ],
+      "area": 64965.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 7848213381,
+      "category_id": 19,
+      "bbox": [
+        59.0,
+        195.0,
+        142.0,
+        323.0
+      ],
+      "area": 45866.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 7848213381,
+      "category_id": 19,
+      "bbox": [
+        41.0,
+        530.0,
+        111.0,
+        301.0
+      ],
+      "area": 33411.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 7848213381,
+      "category_id": 19,
+      "bbox": [
+        136.0,
+        534.0,
+        167.0,
+        324.0
+      ],
+      "area": 54108.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 7848213381,
+      "category_id": 19,
+      "bbox": [
+        343.0,
+        357.0,
+        245.0,
+        511.0
+      ],
+      "area": 125195.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 7848213381,
+      "category_id": 19,
+      "bbox": [
+        598.0,
+        773.0,
+        300.0,
+        120.0
+      ],
+      "area": 36000.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 7848213381,
+      "category_id": 19,
+      "bbox": [
+        443.0,
+        248.0,
+        106.0,
+        257.0
+      ],
+      "area": 27242.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 7848213381,
+      "category_id": 19,
+      "bbox": [
+        325.0,
+        260.0,
+        106.0,
+        135.0
+      ],
+      "area": 14310.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 7848213381,
+      "category_id": 19,
+      "bbox": [
+        539.0,
+        8.0,
+        310.0,
+        240.0
+      ],
+      "area": 74400.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 7848213381,
+      "category_id": 19,
+      "bbox": [
+        898.0,
+        687.0,
+        275.0,
+        170.0
+      ],
+      "area": 46750.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 16,
+      "image_id": 7848213381,
+      "category_id": 19,
+      "bbox": [
+        935.0,
+        631.0,
+        106.0,
+        96.0
+      ],
+      "area": 10176.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 19,
+      "name": "tomato_early_blight_leaf",
+      "supercategory": "tomato_early_blight_leaf"
+    }
+  ]
+}

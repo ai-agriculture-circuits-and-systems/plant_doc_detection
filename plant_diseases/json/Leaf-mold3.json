@@ -1,0 +1,165 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8197996288,
+      "width": 758,
+      "height": 548,
+      "file_name": "Leaf-mold3.jpg",
+      "size": 202734,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8197996288,
+      "category_id": 26,
+      "bbox": [
+        641.0,
+        234.0,
+        105.0,
+        59.0
+      ],
+      "area": 6195.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8197996288,
+      "category_id": 26,
+      "bbox": [
+        501.0,
+        100.0,
+        139.0,
+        75.0
+      ],
+      "area": 10425.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8197996288,
+      "category_id": 26,
+      "bbox": [
+        589.0,
+        261.0,
+        60.0,
+        148.0
+      ],
+      "area": 8880.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8197996288,
+      "category_id": 26,
+      "bbox": [
+        13.0,
+        420.0,
+        167.0,
+        124.0
+      ],
+      "area": 20708.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8197996288,
+      "category_id": 26,
+      "bbox": [
+        32.0,
+        118.0,
+        186.0,
+        72.0
+      ],
+      "area": 13392.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 8197996288,
+      "category_id": 26,
+      "bbox": [
+        33.0,
+        183.0,
+        112.0,
+        112.0
+      ],
+      "area": 12544.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 8197996288,
+      "category_id": 26,
+      "bbox": [
+        99.0,
+        288.0,
+        96.0,
+        146.0
+      ],
+      "area": 14016.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 8197996288,
+      "category_id": 26,
+      "bbox": [
+        277.0,
+        144.0,
+        74.0,
+        77.0
+      ],
+      "area": 5698.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 8197996288,
+      "category_id": 26,
+      "bbox": [
+        426.0,
+        195.0,
+        211.0,
+        126.0
+      ],
+      "area": 26586.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 8197996288,
+      "category_id": 26,
+      "bbox": [
+        301.0,
+        256.0,
+        154.0,
+        193.0
+      ],
+      "area": 29722.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 26,
+      "name": "tomato_mold_leaf",
+      "supercategory": "tomato_mold_leaf"
+    }
+  ]
+}

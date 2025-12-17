@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7309995360,
+      "width": 1121,
+      "height": 1300,
+      "file_name": "iron-deficiency-raspberry-leaf-chlorosis-isolated-32457798.jpg",
+      "size": 170873,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7309995360,
+      "category_id": 15,
+      "bbox": [
+        215.0,
+        45.0,
+        673.0,
+        690.0
+      ],
+      "area": 464370.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7309995360,
+      "category_id": 15,
+      "bbox": [
+        557.0,
+        735.0,
+        460.0,
+        356.0
+      ],
+      "area": 163760.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7309995360,
+      "category_id": 15,
+      "bbox": [
+        11.0,
+        709.0,
+        555.0,
+        373.0
+      ],
+      "area": 207015.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

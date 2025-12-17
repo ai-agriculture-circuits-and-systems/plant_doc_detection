@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2426493700,
+      "width": 480,
+      "height": 640,
+      "file_name": "Late-blight-foliar-leasion-on-tomato.jpg",
+      "size": 173928,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2426493700,
+      "category_id": 23,
+      "bbox": [
+        267.0,
+        5.0,
+        148.0,
+        187.0
+      ],
+      "area": 27676.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2426493700,
+      "category_id": 23,
+      "bbox": [
+        79.0,
+        521.0,
+        238.0,
+        119.0
+      ],
+      "area": 28322.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2426493700,
+      "category_id": 23,
+      "bbox": [
+        1.0,
+        246.0,
+        91.0,
+        251.0
+      ],
+      "area": 22841.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2426493700,
+      "category_id": 23,
+      "bbox": [
+        211.0,
+        139.0,
+        208.0,
+        427.0
+      ],
+      "area": 88816.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 23,
+      "name": "tomato_leaf_late_blight",
+      "supercategory": "tomato_leaf_late_blight"
+    }
+  ]
+}

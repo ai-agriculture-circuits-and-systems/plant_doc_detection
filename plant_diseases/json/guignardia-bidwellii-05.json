@@ -1,0 +1,178 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1904624333,
+      "width": 450,
+      "height": 283,
+      "file_name": "guignardia-bidwellii-05.jpg",
+      "size": 48110,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1904624333,
+      "category_id": 29,
+      "bbox": [
+        32.0,
+        4.0,
+        50.0,
+        91.0
+      ],
+      "area": 4550.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1904624333,
+      "category_id": 29,
+      "bbox": [
+        17.0,
+        107.0,
+        67.0,
+        103.0
+      ],
+      "area": 6901.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1904624333,
+      "category_id": 29,
+      "bbox": [
+        94.0,
+        102.0,
+        130.0,
+        164.0
+      ],
+      "area": 21320.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1904624333,
+      "category_id": 29,
+      "bbox": [
+        268.0,
+        12.0,
+        140.0,
+        89.0
+      ],
+      "area": 12460.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 1904624333,
+      "category_id": 29,
+      "bbox": [
+        219.0,
+        166.0,
+        98.0,
+        117.0
+      ],
+      "area": 11466.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 1904624333,
+      "category_id": 29,
+      "bbox": [
+        196.0,
+        69.0,
+        102.0,
+        101.0
+      ],
+      "area": 10302.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 1904624333,
+      "category_id": 29,
+      "bbox": [
+        313.0,
+        112.0,
+        109.0,
+        86.0
+      ],
+      "area": 9374.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 1904624333,
+      "category_id": 29,
+      "bbox": [
+        151.0,
+        19.0,
+        46.0,
+        83.0
+      ],
+      "area": 3818.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 1904624333,
+      "category_id": 29,
+      "bbox": [
+        1.0,
+        11.0,
+        45.0,
+        90.0
+      ],
+      "area": 4050.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 1904624333,
+      "category_id": 29,
+      "bbox": [
+        311.0,
+        200.0,
+        93.0,
+        83.0
+      ],
+      "area": 7719.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 1904624333,
+      "category_id": 29,
+      "bbox": [
+        402.0,
+        216.0,
+        47.0,
+        67.0
+      ],
+      "area": 3149.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 29,
+      "name": "grape_leaf_black_rot",
+      "supercategory": "grape_leaf_black_rot"
+    }
+  ]
+}

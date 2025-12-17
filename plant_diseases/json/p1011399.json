@@ -1,0 +1,139 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9166286191,
+      "width": 2000,
+      "height": 2667,
+      "file_name": "p1011399.jpg",
+      "size": 1971822,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9166286191,
+      "category_id": 21,
+      "bbox": [
+        730.0,
+        1525.0,
+        273.0,
+        600.0
+      ],
+      "area": 163800.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9166286191,
+      "category_id": 21,
+      "bbox": [
+        515.0,
+        1878.0,
+        611.0,
+        789.0
+      ],
+      "area": 482079.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9166286191,
+      "category_id": 21,
+      "bbox": [
+        238.0,
+        1202.0,
+        485.0,
+        411.0
+      ],
+      "area": 199335.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 9166286191,
+      "category_id": 21,
+      "bbox": [
+        269.0,
+        625.0,
+        546.0,
+        554.0
+      ],
+      "area": 302484.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 9166286191,
+      "category_id": 21,
+      "bbox": [
+        1353.0,
+        990.0,
+        424.0,
+        416.0
+      ],
+      "area": 176384.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 9166286191,
+      "category_id": 21,
+      "bbox": [
+        1057.0,
+        1517.0,
+        543.0,
+        381.0
+      ],
+      "area": 206883.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 9166286191,
+      "category_id": 21,
+      "bbox": [
+        1461.0,
+        1736.0,
+        339.0,
+        520.0
+      ],
+      "area": 176280.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 9166286191,
+      "category_id": 21,
+      "bbox": [
+        1665.0,
+        1540.0,
+        335.0,
+        269.0
+      ],
+      "area": 90115.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 21,
+      "name": "tomato_leaf",
+      "supercategory": "tomato_leaf"
+    }
+  ]
+}

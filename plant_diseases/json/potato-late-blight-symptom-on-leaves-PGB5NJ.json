@@ -1,0 +1,126 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3594555127,
+      "width": 1300,
+      "height": 956,
+      "file_name": "potato-late-blight-symptom-on-leaves-PGB5NJ.jpg",
+      "size": 173132,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3594555127,
+      "category_id": 14,
+      "bbox": [
+        390.0,
+        321.0,
+        290.0,
+        231.0
+      ],
+      "area": 66990.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3594555127,
+      "category_id": 14,
+      "bbox": [
+        634.0,
+        64.0,
+        243.0,
+        433.0
+      ],
+      "area": 105219.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3594555127,
+      "category_id": 14,
+      "bbox": [
+        817.0,
+        385.0,
+        239.0,
+        274.0
+      ],
+      "area": 65486.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3594555127,
+      "category_id": 14,
+      "bbox": [
+        466.0,
+        568.0,
+        306.0,
+        225.0
+      ],
+      "area": 68850.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 3594555127,
+      "category_id": 14,
+      "bbox": [
+        944.0,
+        645.0,
+        173.0,
+        142.0
+      ],
+      "area": 24566.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 3594555127,
+      "category_id": 14,
+      "bbox": [
+        834.0,
+        736.0,
+        127.0,
+        130.0
+      ],
+      "area": 16510.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 3594555127,
+      "category_id": 14,
+      "bbox": [
+        1064.0,
+        437.0,
+        224.0,
+        235.0
+      ],
+      "area": 52640.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 14,
+      "name": "potato_leaf_late_blight",
+      "supercategory": "potato_leaf_late_blight"
+    }
+  ]
+}

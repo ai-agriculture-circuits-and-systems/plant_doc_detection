@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9844217005,
+      "width": 1063,
+      "height": 1600,
+      "file_name": "June%2B2010%2B022.JPG.jpg",
+      "size": 107265,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9844217005,
+      "category_id": 2,
+      "bbox": [
+        107.0,
+        9.0,
+        354.0,
+        535.0
+      ],
+      "area": 189390.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9844217005,
+      "category_id": 2,
+      "bbox": [
+        382.0,
+        599.0,
+        420.0,
+        432.0
+      ],
+      "area": 181440.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9844217005,
+      "category_id": 2,
+      "bbox": [
+        611.0,
+        916.0,
+        210.0,
+        393.0
+      ],
+      "area": 82530.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 9844217005,
+      "category_id": 2,
+      "bbox": [
+        839.0,
+        829.0,
+        205.0,
+        379.0
+      ],
+      "area": 77695.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 9844217005,
+      "category_id": 2,
+      "bbox": [
+        231.0,
+        859.0,
+        433.0,
+        425.0
+      ],
+      "area": 184025.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 9844217005,
+      "category_id": 2,
+      "bbox": [
+        591.0,
+        26.0,
+        291.0,
+        533.0
+      ],
+      "area": 155103.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "apple_leaf",
+      "supercategory": "apple_leaf"
+    }
+  ]
+}

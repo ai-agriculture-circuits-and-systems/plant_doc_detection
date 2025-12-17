@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5676124784,
+      "width": 450,
+      "height": 359,
+      "file_name": "7-17-Photo3_Septoria-MARY.jpg",
+      "size": 58149,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5676124784,
+      "category_id": 20,
+      "bbox": [
+        400.0,
+        229.0,
+        50.0,
+        119.0
+      ],
+      "area": 5950.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5676124784,
+      "category_id": 20,
+      "bbox": [
+        1.0,
+        3.0,
+        91.0,
+        278.0
+      ],
+      "area": 25298.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5676124784,
+      "category_id": 20,
+      "bbox": [
+        119.0,
+        157.0,
+        60.0,
+        155.0
+      ],
+      "area": 9300.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 5676124784,
+      "category_id": 20,
+      "bbox": [
+        202.0,
+        5.0,
+        209.0,
+        308.0
+      ],
+      "area": 64372.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 20,
+      "name": "tomato_septoria_leaf_spot",
+      "supercategory": "tomato_septoria_leaf_spot"
+    }
+  ]
+}

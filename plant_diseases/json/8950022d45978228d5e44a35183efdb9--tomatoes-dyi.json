@@ -1,0 +1,118 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7302170640,
+      "width": 236,
+      "height": 314,
+      "file_name": "8950022d45978228d5e44a35183efdb9--tomatoes-dyi.jpg",
+      "size": 17134,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7302170640,
+      "category_id": 19,
+      "bbox": [
+        9.0,
+        227.0,
+        118.0,
+        75.0
+      ],
+      "area": 8850.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7302170640,
+      "category_id": 19,
+      "bbox": [
+        6.0,
+        122.0,
+        99.0,
+        66.0
+      ],
+      "area": 6534.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7302170640,
+      "category_id": 19,
+      "bbox": [
+        131.0,
+        101.0,
+        105.0,
+        56.0
+      ],
+      "area": 5880.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 7302170640,
+      "category_id": 19,
+      "bbox": [
+        115.0,
+        59.0,
+        95.0,
+        39.0
+      ],
+      "area": 3705.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 7302170640,
+      "category_id": 21,
+      "bbox": [
+        98.0,
+        1.0,
+        47.0,
+        61.0
+      ],
+      "area": 2867.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 7302170640,
+      "category_id": 19,
+      "bbox": [
+        37.0,
+        36.0,
+        68.0,
+        72.0
+      ],
+      "area": 4896.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 19,
+      "name": "tomato_early_blight_leaf",
+      "supercategory": "tomato_early_blight_leaf"
+    },
+    {
+      "id": 21,
+      "name": "tomato_leaf",
+      "supercategory": "tomato_leaf"
+    }
+  ]
+}

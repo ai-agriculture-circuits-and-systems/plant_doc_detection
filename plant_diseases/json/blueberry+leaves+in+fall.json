@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3802320957,
+      "width": 828,
+      "height": 1080,
+      "file_name": "blueberry+leaves+in+fall.jpg",
+      "size": 170035,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3802320957,
+      "category_id": 6,
+      "bbox": [
+        283.0,
+        468.0,
+        459.0,
+        572.0
+      ],
+      "area": 262548.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3802320957,
+      "category_id": 6,
+      "bbox": [
+        305.0,
+        211.0,
+        467.0,
+        290.0
+      ],
+      "area": 135430.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3802320957,
+      "category_id": 6,
+      "bbox": [
+        7.0,
+        466.0,
+        317.0,
+        407.0
+      ],
+      "area": 129019.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

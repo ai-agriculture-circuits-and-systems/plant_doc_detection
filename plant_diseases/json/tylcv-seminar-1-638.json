@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8941781722,
+      "width": 638,
+      "height": 479,
+      "file_name": "tylcv-seminar-1-638.jpg",
+      "size": 69933,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8941781722,
+      "category_id": 25,
+      "bbox": [
+        30.0,
+        274.0,
+        76.0,
+        53.0
+      ],
+      "area": 4028.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8941781722,
+      "category_id": 25,
+      "bbox": [
+        134.0,
+        250.0,
+        89.0,
+        46.0
+      ],
+      "area": 4094.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8941781722,
+      "category_id": 25,
+      "bbox": [
+        76.0,
+        164.0,
+        49.0,
+        84.0
+      ],
+      "area": 4116.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8941781722,
+      "category_id": 25,
+      "bbox": [
+        447.0,
+        322.0,
+        115.0,
+        77.0
+      ],
+      "area": 8855.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8941781722,
+      "category_id": 25,
+      "bbox": [
+        429.0,
+        236.0,
+        115.0,
+        76.0
+      ],
+      "area": 8740.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 25,
+      "name": "tomato_leaf_yellow_virus",
+      "supercategory": "tomato_leaf_yellow_virus"
+    }
+  ]
+}

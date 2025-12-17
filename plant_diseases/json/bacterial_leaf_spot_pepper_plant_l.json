@@ -1,0 +1,178 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4537883995,
+      "width": 400,
+      "height": 300,
+      "file_name": "bacterial_leaf_spot_pepper_plant_l.jpg",
+      "size": 30297,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4537883995,
+      "category_id": 5,
+      "bbox": [
+        213.0,
+        47.0,
+        44.0,
+        91.0
+      ],
+      "area": 4004.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4537883995,
+      "category_id": 5,
+      "bbox": [
+        286.0,
+        11.0,
+        44.0,
+        78.0
+      ],
+      "area": 3432.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4537883995,
+      "category_id": 5,
+      "bbox": [
+        136.0,
+        188.0,
+        29.0,
+        30.0
+      ],
+      "area": 870.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4537883995,
+      "category_id": 5,
+      "bbox": [
+        147.0,
+        97.0,
+        38.0,
+        46.0
+      ],
+      "area": 1748.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4537883995,
+      "category_id": 5,
+      "bbox": [
+        220.0,
+        128.0,
+        35.0,
+        56.0
+      ],
+      "area": 1960.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 4537883995,
+      "category_id": 5,
+      "bbox": [
+        229.0,
+        184.0,
+        38.0,
+        59.0
+      ],
+      "area": 2242.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 4537883995,
+      "category_id": 5,
+      "bbox": [
+        230.0,
+        235.0,
+        31.0,
+        54.0
+      ],
+      "area": 1674.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 4537883995,
+      "category_id": 5,
+      "bbox": [
+        264.0,
+        220.0,
+        32.0,
+        62.0
+      ],
+      "area": 1984.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 4537883995,
+      "category_id": 5,
+      "bbox": [
+        96.0,
+        202.0,
+        36.0,
+        59.0
+      ],
+      "area": 2124.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 4537883995,
+      "category_id": 5,
+      "bbox": [
+        174.0,
+        189.0,
+        38.0,
+        70.0
+      ],
+      "area": 2660.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 4537883995,
+      "category_id": 5,
+      "bbox": [
+        179.0,
+        244.0,
+        41.0,
+        49.0
+      ],
+      "area": 2009.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 5,
+      "name": "bell_pepper_leaf_spot",
+      "supercategory": "bell_pepper_leaf_spot"
+    }
+  ]
+}

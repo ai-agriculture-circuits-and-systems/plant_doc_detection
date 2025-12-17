@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2257390248,
+      "width": 640,
+      "height": 405,
+      "file_name": "tomato_fulvia2.jpg",
+      "size": 164052,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2257390248,
+      "category_id": 26,
+      "bbox": [
+        183.0,
+        123.0,
+        445.0,
+        282.0
+      ],
+      "area": 125490.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2257390248,
+      "category_id": 26,
+      "bbox": [
+        1.0,
+        63.0,
+        587.0,
+        281.0
+      ],
+      "area": 164947.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 26,
+      "name": "tomato_mold_leaf",
+      "supercategory": "tomato_mold_leaf"
+    }
+  ]
+}

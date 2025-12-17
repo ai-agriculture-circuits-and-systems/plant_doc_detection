@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4316212922,
+      "width": 861,
+      "height": 1390,
+      "file_name": "northern-corn-leaf-blight-exserohilum-turcicum-lesions-on-a-maize-BX3K2K.jpg",
+      "size": 209713,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4316212922,
+      "category_id": 9,
+      "bbox": [
+        152.0,
+        455.0,
+        506.0,
+        553.0
+      ],
+      "area": 279818.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4316212922,
+      "category_id": 9,
+      "bbox": [
+        149.0,
+        409.0,
+        349.0,
+        627.0
+      ],
+      "area": 218823.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4316212922,
+      "category_id": 9,
+      "bbox": [
+        518.0,
+        616.0,
+        131.0,
+        563.0
+      ],
+      "area": 73753.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4316212922,
+      "category_id": 9,
+      "bbox": [
+        170.0,
+        132.0,
+        568.0,
+        447.0
+      ],
+      "area": 253896.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4316212922,
+      "category_id": 9,
+      "bbox": [
+        52.0,
+        205.0,
+        311.0,
+        186.0
+      ],
+      "area": 57846.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 4316212922,
+      "category_id": 9,
+      "bbox": [
+        2.0,
+        132.0,
+        113.0,
+        457.0
+      ],
+      "area": 51641.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 9,
+      "name": "corn_leaf_blight",
+      "supercategory": "corn_leaf_blight"
+    }
+  ]
+}

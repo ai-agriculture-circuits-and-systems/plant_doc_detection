@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1948971236,
+      "width": 5184,
+      "height": 3456,
+      "file_name": "Gray-leaf-spot-Adam-Sisson-20.jpg",
+      "size": 5693806,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1948971236,
+      "category_id": 8,
+      "bbox": [
+        110.0,
+        268.0,
+        5023.0,
+        3159.0
+      ],
+      "area": 15867657.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 8,
+      "name": "corn_gray_leaf_spot",
+      "supercategory": "corn_gray_leaf_spot"
+    }
+  ]
+}

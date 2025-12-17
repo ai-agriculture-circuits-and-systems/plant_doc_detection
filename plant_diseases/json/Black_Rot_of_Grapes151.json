@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1958353690,
+      "width": 598,
+      "height": 800,
+      "file_name": "Black_Rot_of_Grapes151.jpg",
+      "size": 38406,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1958353690,
+      "category_id": 29,
+      "bbox": [
+        1.0,
+        61.0,
+        386.0,
+        439.0
+      ],
+      "area": 169454.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1958353690,
+      "category_id": 29,
+      "bbox": [
+        342.0,
+        13.0,
+        256.0,
+        318.0
+      ],
+      "area": 81408.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1958353690,
+      "category_id": 29,
+      "bbox": [
+        323.0,
+        318.0,
+        196.0,
+        235.0
+      ],
+      "area": 46060.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1958353690,
+      "category_id": 29,
+      "bbox": [
+        5.0,
+        637.0,
+        273.0,
+        163.0
+      ],
+      "area": 44499.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 29,
+      "name": "grape_leaf_black_rot",
+      "supercategory": "grape_leaf_black_rot"
+    }
+  ]
+}

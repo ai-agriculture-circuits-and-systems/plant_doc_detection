@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3309036530,
+      "width": 765,
+      "height": 1020,
+      "file_name": "figure-7-gudmestad-opt.jpeg.jpg",
+      "size": 350248,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3309036530,
+      "category_id": 14,
+      "bbox": [
+        103.0,
+        392.0,
+        464.0,
+        264.0
+      ],
+      "area": 122496.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3309036530,
+      "category_id": 14,
+      "bbox": [
+        223.0,
+        615.0,
+        293.0,
+        338.0
+      ],
+      "area": 99034.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3309036530,
+      "category_id": 14,
+      "bbox": [
+        325.0,
+        3.0,
+        191.0,
+        159.0
+      ],
+      "area": 30369.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 14,
+      "name": "potato_leaf_late_blight",
+      "supercategory": "potato_leaf_late_blight"
+    }
+  ]
+}

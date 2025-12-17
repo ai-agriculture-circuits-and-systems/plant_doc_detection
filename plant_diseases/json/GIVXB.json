@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4170534744,
+      "width": 800,
+      "height": 600,
+      "file_name": "GIVXB.jpg",
+      "size": 84598,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4170534744,
+      "category_id": 26,
+      "bbox": [
+        61.0,
+        420.0,
+        168.0,
+        142.0
+      ],
+      "area": 23856.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4170534744,
+      "category_id": 26,
+      "bbox": [
+        2.0,
+        143.0,
+        183.0,
+        258.0
+      ],
+      "area": 47214.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4170534744,
+      "category_id": 26,
+      "bbox": [
+        300.0,
+        268.0,
+        307.0,
+        186.0
+      ],
+      "area": 57102.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4170534744,
+      "category_id": 26,
+      "bbox": [
+        196.0,
+        160.0,
+        175.0,
+        213.0
+      ],
+      "area": 37275.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4170534744,
+      "category_id": 26,
+      "bbox": [
+        352.0,
+        66.0,
+        224.0,
+        252.0
+      ],
+      "area": 56448.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 26,
+      "name": "tomato_mold_leaf",
+      "supercategory": "tomato_mold_leaf"
+    }
+  ]
+}

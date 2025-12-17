@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7995573767,
+      "width": 700,
+      "height": 620,
+      "file_name": "autumn,+blueberry+leaves.jpg",
+      "size": 66103,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7995573767,
+      "category_id": 6,
+      "bbox": [
+        348.0,
+        25.0,
+        352.0,
+        218.0
+      ],
+      "area": 76736.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7995573767,
+      "category_id": 6,
+      "bbox": [
+        319.0,
+        250.0,
+        284.0,
+        195.0
+      ],
+      "area": 55380.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7995573767,
+      "category_id": 6,
+      "bbox": [
+        164.0,
+        387.0,
+        290.0,
+        197.0
+      ],
+      "area": 57130.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 7995573767,
+      "category_id": 6,
+      "bbox": [
+        1.0,
+        178.0,
+        304.0,
+        194.0
+      ],
+      "area": 58976.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1242610601,
+      "width": 640,
+      "height": 456,
+      "file_name": "tomato-fern-leaf-a-symptom-of-tmv-cmv-or-pepmv-virus-on-tomato-plants-h6ey8w.jpg",
+      "size": 51540,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1242610601,
+      "category_id": 24,
+      "bbox": [
+        148.0,
+        22.0,
+        398.0,
+        175.0
+      ],
+      "area": 69650.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1242610601,
+      "category_id": 24,
+      "bbox": [
+        193.0,
+        161.0,
+        414.0,
+        263.0
+      ],
+      "area": 108882.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 24,
+      "name": "tomato_leaf_mosaic_virus",
+      "supercategory": "tomato_leaf_mosaic_virus"
+    }
+  ]
+}

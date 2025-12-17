@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1913663225,
+      "width": 1300,
+      "height": 958,
+      "file_name": "strawberry-leaves-stock-picture-1860898.jpg",
+      "size": 251099,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1913663225,
+      "category_id": 18,
+      "bbox": [
+        349.0,
+        357.0,
+        574.0,
+        496.0
+      ],
+      "area": 284704.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1913663225,
+      "category_id": 18,
+      "bbox": [
+        925.0,
+        190.0,
+        371.0,
+        400.0
+      ],
+      "area": 148400.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1913663225,
+      "category_id": 18,
+      "bbox": [
+        803.0,
+        530.0,
+        331.0,
+        346.0
+      ],
+      "area": 114526.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1913663225,
+      "category_id": 18,
+      "bbox": [
+        219.0,
+        59.0,
+        419.0,
+        318.0
+      ],
+      "area": 133242.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 18,
+      "name": "strawberry_leaf",
+      "supercategory": "strawberry_leaf"
+    }
+  ]
+}

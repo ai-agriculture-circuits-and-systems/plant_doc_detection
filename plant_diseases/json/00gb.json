@@ -1,0 +1,126 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1352106224,
+      "width": 1500,
+      "height": 844,
+      "file_name": "00gb.jpg",
+      "size": 778810,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1352106224,
+      "category_id": 29,
+      "bbox": [
+        657.0,
+        360.0,
+        320.0,
+        273.0
+      ],
+      "area": 87360.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1352106224,
+      "category_id": 29,
+      "bbox": [
+        1253.0,
+        371.0,
+        201.0,
+        223.0
+      ],
+      "area": 44823.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1352106224,
+      "category_id": 29,
+      "bbox": [
+        1235.0,
+        125.0,
+        211.0,
+        236.0
+      ],
+      "area": 49796.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1352106224,
+      "category_id": 29,
+      "bbox": [
+        968.0,
+        130.0,
+        282.0,
+        230.0
+      ],
+      "area": 64860.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 1352106224,
+      "category_id": 29,
+      "bbox": [
+        811.0,
+        19.0,
+        251.0,
+        229.0
+      ],
+      "area": 57479.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 1352106224,
+      "category_id": 29,
+      "bbox": [
+        299.0,
+        428.0,
+        360.0,
+        327.0
+      ],
+      "area": 117720.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 1352106224,
+      "category_id": 29,
+      "bbox": [
+        854.0,
+        667.0,
+        428.0,
+        177.0
+      ],
+      "area": 75756.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 29,
+      "name": "grape_leaf_black_rot",
+      "supercategory": "grape_leaf_black_rot"
+    }
+  ]
+}

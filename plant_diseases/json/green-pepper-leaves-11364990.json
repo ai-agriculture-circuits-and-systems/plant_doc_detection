@@ -1,0 +1,178 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7316285273,
+      "width": 800,
+      "height": 572,
+      "file_name": "green-pepper-leaves-11364990.jpg",
+      "size": 127100,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7316285273,
+      "category_id": 4,
+      "bbox": [
+        59.0,
+        98.0,
+        312.0,
+        169.0
+      ],
+      "area": 52728.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7316285273,
+      "category_id": 4,
+      "bbox": [
+        524.0,
+        244.0,
+        265.0,
+        125.0
+      ],
+      "area": 33125.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7316285273,
+      "category_id": 4,
+      "bbox": [
+        45.0,
+        295.0,
+        283.0,
+        197.0
+      ],
+      "area": 55751.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 7316285273,
+      "category_id": 4,
+      "bbox": [
+        310.0,
+        268.0,
+        124.0,
+        186.0
+      ],
+      "area": 23064.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 7316285273,
+      "category_id": 4,
+      "bbox": [
+        488.0,
+        362.0,
+        210.0,
+        210.0
+      ],
+      "area": 44100.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 7316285273,
+      "category_id": 4,
+      "bbox": [
+        331.0,
+        459.0,
+        122.0,
+        113.0
+      ],
+      "area": 13786.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 7316285273,
+      "category_id": 4,
+      "bbox": [
+        372.0,
+        1.0,
+        95.0,
+        230.0
+      ],
+      "area": 21850.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 7316285273,
+      "category_id": 4,
+      "bbox": [
+        478.0,
+        77.0,
+        281.0,
+        181.0
+      ],
+      "area": 50861.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 7316285273,
+      "category_id": 4,
+      "bbox": [
+        195.0,
+        1.0,
+        161.0,
+        161.0
+      ],
+      "area": 25921.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 7316285273,
+      "category_id": 4,
+      "bbox": [
+        485.0,
+        1.0,
+        168.0,
+        149.0
+      ],
+      "area": 25032.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 7316285273,
+      "category_id": 4,
+      "bbox": [
+        216.0,
+        429.0,
+        133.0,
+        143.0
+      ],
+      "area": 19019.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 4,
+      "name": "bell_pepper_leaf",
+      "supercategory": "bell_pepper_leaf"
+    }
+  ]
+}

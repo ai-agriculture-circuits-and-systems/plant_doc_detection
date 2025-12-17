@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6792959731,
+      "width": 1000,
+      "height": 863,
+      "file_name": "fragaria-vesca-americana-le-ahaines-c.jpg",
+      "size": 165048,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6792959731,
+      "category_id": 18,
+      "bbox": [
+        357.0,
+        80.0,
+        328.0,
+        443.0
+      ],
+      "area": 145304.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6792959731,
+      "category_id": 18,
+      "bbox": [
+        482.0,
+        372.0,
+        413.0,
+        333.0
+      ],
+      "area": 137529.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6792959731,
+      "category_id": 18,
+      "bbox": [
+        99.0,
+        425.0,
+        397.0,
+        285.0
+      ],
+      "area": 113145.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 18,
+      "name": "strawberry_leaf",
+      "supercategory": "strawberry_leaf"
+    }
+  ]
+}

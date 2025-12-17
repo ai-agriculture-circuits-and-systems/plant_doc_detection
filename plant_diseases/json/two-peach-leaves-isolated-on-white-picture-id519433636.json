@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5191138887,
+      "width": 1024,
+      "height": 1024,
+      "file_name": "two-peach-leaves-isolated-on-white-picture-id519433636.jpg",
+      "size": 284165,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5191138887,
+      "category_id": 11,
+      "bbox": [
+        188.0,
+        92.0,
+        489.0,
+        670.0
+      ],
+      "area": 327630.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5191138887,
+      "category_id": 11,
+      "bbox": [
+        396.0,
+        125.0,
+        369.0,
+        858.0
+      ],
+      "area": 316602.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "peach_leaf",
+      "supercategory": "peach_leaf"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8586668385,
+      "width": 1650,
+      "height": 1257,
+      "file_name": "peach.jpg",
+      "size": 294049,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8586668385,
+      "category_id": 11,
+      "bbox": [
+        882.0,
+        589.0,
+        264.0,
+        177.0
+      ],
+      "area": 46728.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8586668385,
+      "category_id": 11,
+      "bbox": [
+        997.0,
+        630.0,
+        208.0,
+        139.0
+      ],
+      "area": 28912.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8586668385,
+      "category_id": 11,
+      "bbox": [
+        1281.0,
+        562.0,
+        256.0,
+        151.0
+      ],
+      "area": 38656.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8586668385,
+      "category_id": 11,
+      "bbox": [
+        1302.0,
+        614.0,
+        209.0,
+        205.0
+      ],
+      "area": 42845.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8586668385,
+      "category_id": 11,
+      "bbox": [
+        781.0,
+        696.0,
+        183.0,
+        145.0
+      ],
+      "area": 26535.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 8586668385,
+      "category_id": 11,
+      "bbox": [
+        646.0,
+        927.0,
+        172.0,
+        229.0
+      ],
+      "area": 39388.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 8586668385,
+      "category_id": 11,
+      "bbox": [
+        851.0,
+        244.0,
+        72.0,
+        247.0
+      ],
+      "area": 17784.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 8586668385,
+      "category_id": 11,
+      "bbox": [
+        1221.0,
+        341.0,
+        309.0,
+        222.0
+      ],
+      "area": 68598.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 8586668385,
+      "category_id": 11,
+      "bbox": [
+        1228.0,
+        102.0,
+        334.0,
+        91.0
+      ],
+      "area": 30394.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 8586668385,
+      "category_id": 11,
+      "bbox": [
+        907.0,
+        109.0,
+        166.0,
+        93.0
+      ],
+      "area": 15438.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 8586668385,
+      "category_id": 11,
+      "bbox": [
+        864.0,
+        54.0,
+        79.0,
+        148.0
+      ],
+      "area": 11692.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 8586668385,
+      "category_id": 11,
+      "bbox": [
+        511.0,
+        731.0,
+        230.0,
+        152.0
+      ],
+      "area": 34960.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 8586668385,
+      "category_id": 11,
+      "bbox": [
+        1249.0,
+        497.0,
+        317.0,
+        116.0
+      ],
+      "area": 36772.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "peach_leaf",
+      "supercategory": "peach_leaf"
+    }
+  ]
+}

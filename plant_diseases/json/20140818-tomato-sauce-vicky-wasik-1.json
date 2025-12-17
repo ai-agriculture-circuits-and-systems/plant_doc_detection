@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2203181914,
+      "width": 1500,
+      "height": 1125,
+      "file_name": "20140818-tomato-sauce-vicky-wasik-1.jpg",
+      "size": 153154,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2203181914,
+      "category_id": 21,
+      "bbox": [
+        211.0,
+        517.0,
+        441.0,
+        520.0
+      ],
+      "area": 229320.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2203181914,
+      "category_id": 21,
+      "bbox": [
+        237.0,
+        258.0,
+        506.0,
+        213.0
+      ],
+      "area": 107778.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 21,
+      "name": "tomato_leaf",
+      "supercategory": "tomato_leaf"
+    }
+  ]
+}

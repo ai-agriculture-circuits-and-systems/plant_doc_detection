@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8247190277,
+      "width": 300,
+      "height": 225,
+      "file_name": "potatolb_symptoms_meg-cornell_300x225.jpg",
+      "size": 42147,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8247190277,
+      "category_id": 14,
+      "bbox": [
+        1.0,
+        1.0,
+        87.0,
+        213.0
+      ],
+      "area": 18531.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8247190277,
+      "category_id": 14,
+      "bbox": [
+        210.0,
+        40.0,
+        82.0,
+        87.0
+      ],
+      "area": 7134.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8247190277,
+      "category_id": 14,
+      "bbox": [
+        136.0,
+        33.0,
+        28.0,
+        67.0
+      ],
+      "area": 1876.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8247190277,
+      "category_id": 14,
+      "bbox": [
+        160.0,
+        95.0,
+        64.0,
+        86.0
+      ],
+      "area": 5504.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8247190277,
+      "category_id": 14,
+      "bbox": [
+        163.0,
+        1.0,
+        68.0,
+        87.0
+      ],
+      "area": 5916.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 14,
+      "name": "potato_leaf_late_blight",
+      "supercategory": "potato_leaf_late_blight"
+    }
+  ]
+}

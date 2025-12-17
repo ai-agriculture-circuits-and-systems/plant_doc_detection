@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8509174226,
+      "width": 736,
+      "height": 551,
+      "file_name": "483255d3dc56a615ebaa5b424309913c--raspberry-plants-red-raspberry.jpg",
+      "size": 77162,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8509174226,
+      "category_id": 15,
+      "bbox": [
+        1.0,
+        98.0,
+        102.0,
+        132.0
+      ],
+      "area": 13464.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8509174226,
+      "category_id": 15,
+      "bbox": [
+        106.0,
+        144.0,
+        100.0,
+        129.0
+      ],
+      "area": 12900.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8509174226,
+      "category_id": 15,
+      "bbox": [
+        121.0,
+        99.0,
+        126.0,
+        52.0
+      ],
+      "area": 6552.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8509174226,
+      "category_id": 15,
+      "bbox": [
+        3.0,
+        39.0,
+        94.0,
+        78.0
+      ],
+      "area": 7332.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

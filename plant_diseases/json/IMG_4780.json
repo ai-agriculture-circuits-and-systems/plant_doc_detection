@@ -1,0 +1,139 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1438819623,
+      "width": 3456,
+      "height": 2304,
+      "file_name": "IMG_4780.jpg",
+      "size": 2879499,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1438819623,
+      "category_id": 16,
+      "bbox": [
+        1416.0,
+        1377.0,
+        538.0,
+        464.0
+      ],
+      "area": 249632.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1438819623,
+      "category_id": 16,
+      "bbox": [
+        1983.0,
+        1105.0,
+        543.0,
+        543.0
+      ],
+      "area": 294849.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1438819623,
+      "category_id": 16,
+      "bbox": [
+        1802.0,
+        817.0,
+        457.0,
+        598.0
+      ],
+      "area": 273286.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1438819623,
+      "category_id": 16,
+      "bbox": [
+        202.0,
+        613.0,
+        831.0,
+        469.0
+      ],
+      "area": 389739.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 1438819623,
+      "category_id": 16,
+      "bbox": [
+        480.0,
+        232.0,
+        672.0,
+        509.0
+      ],
+      "area": 342048.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 1438819623,
+      "category_id": 16,
+      "bbox": [
+        890.0,
+        684.0,
+        381.0,
+        555.0
+      ],
+      "area": 211455.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 1438819623,
+      "category_id": 16,
+      "bbox": [
+        2176.0,
+        1596.0,
+        650.0,
+        343.0
+      ],
+      "area": 222950.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 1438819623,
+      "category_id": 16,
+      "bbox": [
+        1416.0,
+        1739.0,
+        698.0,
+        262.0
+      ],
+      "area": 182876.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 16,
+      "name": "soyabean_leaf",
+      "supercategory": "soyabean_leaf"
+    }
+  ]
+}

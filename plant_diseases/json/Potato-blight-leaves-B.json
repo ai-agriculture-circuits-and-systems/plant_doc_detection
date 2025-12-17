@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3364141379,
+      "width": 668,
+      "height": 363,
+      "file_name": "Potato-blight-leaves-B.jpg",
+      "size": 109986,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3364141379,
+      "category_id": 13,
+      "bbox": [
+        325.0,
+        67.0,
+        132.0,
+        175.0
+      ],
+      "area": 23100.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3364141379,
+      "category_id": 13,
+      "bbox": [
+        453.0,
+        171.0,
+        88.0,
+        160.0
+      ],
+      "area": 14080.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3364141379,
+      "category_id": 13,
+      "bbox": [
+        473.0,
+        113.0,
+        107.0,
+        109.0
+      ],
+      "area": 11663.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3364141379,
+      "category_id": 13,
+      "bbox": [
+        474.0,
+        28.0,
+        145.0,
+        168.0
+      ],
+      "area": 24360.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 3364141379,
+      "category_id": 13,
+      "bbox": [
+        122.0,
+        256.0,
+        131.0,
+        68.0
+      ],
+      "area": 8908.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 3364141379,
+      "category_id": 13,
+      "bbox": [
+        208.0,
+        316.0,
+        99.0,
+        47.0
+      ],
+      "area": 4653.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 13,
+      "name": "potato_leaf_early_blight",
+      "supercategory": "potato_leaf_early_blight"
+    }
+  ]
+}

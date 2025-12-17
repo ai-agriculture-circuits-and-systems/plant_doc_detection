@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9163492087,
+      "width": 1023,
+      "height": 682,
+      "file_name": "100_0123_2.jpg",
+      "size": 344348,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9163492087,
+      "category_id": 7,
+      "bbox": [
+        556.0,
+        240.0,
+        465.0,
+        442.0
+      ],
+      "area": 205530.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9163492087,
+      "category_id": 7,
+      "bbox": [
+        1.0,
+        156.0,
+        391.0,
+        303.0
+      ],
+      "area": 118473.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 7,
+      "name": "cherry_leaf",
+      "supercategory": "cherry_leaf"
+    }
+  ]
+}

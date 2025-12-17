@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3822731845,
+      "width": 320,
+      "height": 159,
+      "file_name": "s-prasanth-kumar-young-scientist-awarded-presentation-2-728.jpg",
+      "size": 31040,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3822731845,
+      "category_id": 25,
+      "bbox": [
+        14.0,
+        73.0,
+        99.0,
+        71.0
+      ],
+      "area": 7029.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3822731845,
+      "category_id": 25,
+      "bbox": [
+        84.0,
+        33.0,
+        73.0,
+        45.0
+      ],
+      "area": 3285.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3822731845,
+      "category_id": 25,
+      "bbox": [
+        234.0,
+        31.0,
+        69.0,
+        63.0
+      ],
+      "area": 4347.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3822731845,
+      "category_id": 25,
+      "bbox": [
+        207.0,
+        52.0,
+        27.0,
+        43.0
+      ],
+      "area": 1161.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 3822731845,
+      "category_id": 25,
+      "bbox": [
+        161.0,
+        88.0,
+        60.0,
+        63.0
+      ],
+      "area": 3780.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 25,
+      "name": "tomato_leaf_yellow_virus",
+      "supercategory": "tomato_leaf_yellow_virus"
+    }
+  ]
+}

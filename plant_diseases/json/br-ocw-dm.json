@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2748357427,
+      "width": 990,
+      "height": 414,
+      "file_name": "br-ocw-dm.jpg",
+      "size": 103437,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2748357427,
+      "category_id": 29,
+      "bbox": [
+        21.0,
+        5.0,
+        441.0,
+        344.0
+      ],
+      "area": 151704.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2748357427,
+      "category_id": 29,
+      "bbox": [
+        583.0,
+        34.0,
+        297.0,
+        314.0
+      ],
+      "area": 93258.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 29,
+      "name": "grape_leaf_black_rot",
+      "supercategory": "grape_leaf_black_rot"
+    }
+  ]
+}

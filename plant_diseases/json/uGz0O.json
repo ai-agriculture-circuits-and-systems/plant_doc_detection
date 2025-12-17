@@ -1,0 +1,126 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5649732177,
+      "width": 1778,
+      "height": 2371,
+      "file_name": "uGz0O.jpg",
+      "size": 673321,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5649732177,
+      "category_id": 4,
+      "bbox": [
+        10.0,
+        310.0,
+        710.0,
+        593.0
+      ],
+      "area": 421030.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5649732177,
+      "category_id": 4,
+      "bbox": [
+        122.0,
+        1188.0,
+        631.0,
+        381.0
+      ],
+      "area": 240411.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5649732177,
+      "category_id": 4,
+      "bbox": [
+        729.0,
+        1503.0,
+        408.0,
+        702.0
+      ],
+      "area": 286416.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 5649732177,
+      "category_id": 4,
+      "bbox": [
+        1125.0,
+        1234.0,
+        566.0,
+        445.0
+      ],
+      "area": 251870.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 5649732177,
+      "category_id": 4,
+      "bbox": [
+        1237.0,
+        872.0,
+        533.0,
+        302.0
+      ],
+      "area": 160966.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 5649732177,
+      "category_id": 4,
+      "bbox": [
+        1075.0,
+        198.0,
+        623.0,
+        693.0
+      ],
+      "area": 431739.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 5649732177,
+      "category_id": 4,
+      "bbox": [
+        691.0,
+        253.0,
+        336.0,
+        526.0
+      ],
+      "area": 176736.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 4,
+      "name": "bell_pepper_leaf",
+      "supercategory": "bell_pepper_leaf"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6945333328,
+      "width": 847,
+      "height": 574,
+      "file_name": "tomato_D2b-Early-blight---RPitblado_zoom.jpg",
+      "size": 127625,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6945333328,
+      "category_id": 19,
+      "bbox": [
+        510.0,
+        167.0,
+        107.0,
+        223.0
+      ],
+      "area": 23861.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6945333328,
+      "category_id": 19,
+      "bbox": [
+        104.0,
+        329.0,
+        106.0,
+        209.0
+      ],
+      "area": 22154.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6945333328,
+      "category_id": 19,
+      "bbox": [
+        209.0,
+        302.0,
+        97.0,
+        186.0
+      ],
+      "area": 18042.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 6945333328,
+      "category_id": 19,
+      "bbox": [
+        40.0,
+        49.0,
+        246.0,
+        121.0
+      ],
+      "area": 29766.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 6945333328,
+      "category_id": 19,
+      "bbox": [
+        752.0,
+        219.0,
+        87.0,
+        149.0
+      ],
+      "area": 12963.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 19,
+      "name": "tomato_early_blight_leaf",
+      "supercategory": "tomato_early_blight_leaf"
+    }
+  ]
+}

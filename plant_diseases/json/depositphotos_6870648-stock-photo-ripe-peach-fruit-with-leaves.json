@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6129107882,
+      "width": 1024,
+      "height": 774,
+      "file_name": "depositphotos_6870648-stock-photo-ripe-peach-fruit-with-leaves.jpg",
+      "size": 106272,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6129107882,
+      "category_id": 11,
+      "bbox": [
+        734.0,
+        219.0,
+        245.0,
+        268.0
+      ],
+      "area": 65660.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6129107882,
+      "category_id": 11,
+      "bbox": [
+        774.0,
+        96.0,
+        124.0,
+        123.0
+      ],
+      "area": 15252.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "peach_leaf",
+      "supercategory": "peach_leaf"
+    }
+  ]
+}

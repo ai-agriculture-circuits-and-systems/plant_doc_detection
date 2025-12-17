@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8677401354,
+      "width": 5184,
+      "height": 3456,
+      "file_name": "Soy-leaves-FAZ050-2015US-IL-Wuerffel-USNQ0F002-28DAB-Plot106b.jpg",
+      "size": 2651630,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8677401354,
+      "category_id": 16,
+      "bbox": [
+        2081.0,
+        1590.0,
+        1103.0,
+        1682.0
+      ],
+      "area": 1855246.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8677401354,
+      "category_id": 16,
+      "bbox": [
+        3674.0,
+        1558.0,
+        1053.0,
+        1657.0
+      ],
+      "area": 1744821.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8677401354,
+      "category_id": 16,
+      "bbox": [
+        734.0,
+        1525.0,
+        932.0,
+        1836.0
+      ],
+      "area": 1711152.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 16,
+      "name": "soyabean_leaf",
+      "supercategory": "soyabean_leaf"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4306414163,
+      "width": 334,
+      "height": 534,
+      "file_name": "BacterialLeafStreakinCornImage1.png.jpg",
+      "size": 38289,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4306414163,
+      "category_id": 9,
+      "bbox": [
+        77.0,
+        1.0,
+        87.0,
+        247.0
+      ],
+      "area": 21489.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4306414163,
+      "category_id": 9,
+      "bbox": [
+        76.0,
+        192.0,
+        254.0,
+        194.0
+      ],
+      "area": 49276.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4306414163,
+      "category_id": 9,
+      "bbox": [
+        71.0,
+        379.0,
+        262.0,
+        155.0
+      ],
+      "area": 40610.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4306414163,
+      "category_id": 9,
+      "bbox": [
+        24.0,
+        158.0,
+        82.0,
+        210.0
+      ],
+      "area": 17220.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 9,
+      "name": "corn_leaf_blight",
+      "supercategory": "corn_leaf_blight"
+    }
+  ]
+}

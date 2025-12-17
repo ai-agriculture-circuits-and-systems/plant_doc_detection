@@ -1,0 +1,139 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3173717057,
+      "width": 2048,
+      "height": 1536,
+      "file_name": "slide10.jpg",
+      "size": 646036,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3173717057,
+      "category_id": 15,
+      "bbox": [
+        828.0,
+        423.0,
+        507.0,
+        413.0
+      ],
+      "area": 209391.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3173717057,
+      "category_id": 15,
+      "bbox": [
+        713.0,
+        794.0,
+        545.0,
+        607.0
+      ],
+      "area": 330815.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3173717057,
+      "category_id": 15,
+      "bbox": [
+        1150.0,
+        812.0,
+        393.0,
+        595.0
+      ],
+      "area": 233835.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3173717057,
+      "category_id": 15,
+      "bbox": [
+        1317.0,
+        503.0,
+        459.0,
+        350.0
+      ],
+      "area": 160650.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 3173717057,
+      "category_id": 15,
+      "bbox": [
+        1276.0,
+        192.0,
+        389.0,
+        309.0
+      ],
+      "area": 120201.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 3173717057,
+      "category_id": 15,
+      "bbox": [
+        1661.0,
+        233.0,
+        265.0,
+        257.0
+      ],
+      "area": 68105.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 3173717057,
+      "category_id": 15,
+      "bbox": [
+        330.0,
+        842.0,
+        439.0,
+        526.0
+      ],
+      "area": 230914.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 3173717057,
+      "category_id": 15,
+      "bbox": [
+        206.0,
+        501.0,
+        381.0,
+        498.0
+      ],
+      "area": 189738.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4910097496,
+      "width": 1300,
+      "height": 954,
+      "file_name": "guttation-on-the-leaves-of-a-strawberry-plant-leaf-guttation-BN3DM8.jpg",
+      "size": 254747,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4910097496,
+      "category_id": 18,
+      "bbox": [
+        141.0,
+        285.0,
+        628.0,
+        450.0
+      ],
+      "area": 282600.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4910097496,
+      "category_id": 18,
+      "bbox": [
+        545.0,
+        54.0,
+        387.0,
+        334.0
+      ],
+      "area": 129258.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4910097496,
+      "category_id": 18,
+      "bbox": [
+        668.0,
+        373.0,
+        351.0,
+        474.0
+      ],
+      "area": 166374.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4910097496,
+      "category_id": 18,
+      "bbox": [
+        1102.0,
+        317.0,
+        198.0,
+        334.0
+      ],
+      "area": 66132.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4910097496,
+      "category_id": 18,
+      "bbox": [
+        925.0,
+        292.0,
+        209.0,
+        352.0
+      ],
+      "area": 73568.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 4910097496,
+      "category_id": 18,
+      "bbox": [
+        1046.0,
+        136.0,
+        254.0,
+        218.0
+      ],
+      "area": 55372.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 18,
+      "name": "strawberry_leaf",
+      "supercategory": "strawberry_leaf"
+    }
+  ]
+}

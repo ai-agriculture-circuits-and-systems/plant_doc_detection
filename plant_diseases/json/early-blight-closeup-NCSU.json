@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2626407013,
+      "width": 454,
+      "height": 291,
+      "file_name": "early-blight-closeup-NCSU.jpg",
+      "size": 122927,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2626407013,
+      "category_id": 13,
+      "bbox": [
+        76.0,
+        46.0,
+        194.0,
+        240.0
+      ],
+      "area": 46560.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2626407013,
+      "category_id": 13,
+      "bbox": [
+        258.0,
+        80.0,
+        128.0,
+        209.0
+      ],
+      "area": 26752.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2626407013,
+      "category_id": 13,
+      "bbox": [
+        1.0,
+        55.0,
+        76.0,
+        176.0
+      ],
+      "area": 13376.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2626407013,
+      "category_id": 13,
+      "bbox": [
+        363.0,
+        136.0,
+        90.0,
+        155.0
+      ],
+      "area": 13950.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 13,
+      "name": "potato_leaf_early_blight",
+      "supercategory": "potato_leaf_early_blight"
+    }
+  ]
+}

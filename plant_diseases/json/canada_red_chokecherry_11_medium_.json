@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8618149887,
+      "width": 1037,
+      "height": 768,
+      "file_name": "canada_red_chokecherry_11_medium_.jpg",
+      "size": 126444,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8618149887,
+      "category_id": 7,
+      "bbox": [
+        219.0,
+        250.0,
+        281.0,
+        459.0
+      ],
+      "area": 128979.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8618149887,
+      "category_id": 7,
+      "bbox": [
+        699.0,
+        347.0,
+        148.0,
+        129.0
+      ],
+      "area": 19092.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8618149887,
+      "category_id": 7,
+      "bbox": [
+        836.0,
+        258.0,
+        126.0,
+        149.0
+      ],
+      "area": 18774.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8618149887,
+      "category_id": 7,
+      "bbox": [
+        739.0,
+        336.0,
+        170.0,
+        239.0
+      ],
+      "area": 40630.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8618149887,
+      "category_id": 7,
+      "bbox": [
+        506.0,
+        339.0,
+        152.0,
+        285.0
+      ],
+      "area": 43320.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 8618149887,
+      "category_id": 7,
+      "bbox": [
+        521.0,
+        177.0,
+        157.0,
+        182.0
+      ],
+      "area": 28574.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 7,
+      "name": "cherry_leaf",
+      "supercategory": "cherry_leaf"
+    }
+  ]
+}

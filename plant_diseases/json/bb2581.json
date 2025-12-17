@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1855647179,
+      "width": 800,
+      "height": 600,
+      "file_name": "bb2581.jpg",
+      "size": 179263,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1855647179,
+      "category_id": 4,
+      "bbox": [
+        55.0,
+        150.0,
+        278.0,
+        351.0
+      ],
+      "area": 97578.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1855647179,
+      "category_id": 4,
+      "bbox": [
+        1.0,
+        58.0,
+        250.0,
+        335.0
+      ],
+      "area": 83750.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1855647179,
+      "category_id": 4,
+      "bbox": [
+        289.0,
+        8.0,
+        275.0,
+        469.0
+      ],
+      "area": 128975.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1855647179,
+      "category_id": 4,
+      "bbox": [
+        353.0,
+        277.0,
+        192.0,
+        294.0
+      ],
+      "area": 56448.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 1855647179,
+      "category_id": 4,
+      "bbox": [
+        609.0,
+        239.0,
+        165.0,
+        191.0
+      ],
+      "area": 31515.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 4,
+      "name": "bell_pepper_leaf",
+      "supercategory": "bell_pepper_leaf"
+    }
+  ]
+}

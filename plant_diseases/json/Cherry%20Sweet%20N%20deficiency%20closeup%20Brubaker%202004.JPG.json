@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1273365308,
+      "width": 1536,
+      "height": 1024,
+      "file_name": "Cherry%20Sweet%20N%20deficiency%20closeup%20Brubaker%202004.JPG.jpg",
+      "size": 872244,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1273365308,
+      "category_id": 7,
+      "bbox": [
+        643.0,
+        449.0,
+        278.0,
+        575.0
+      ],
+      "area": 159850.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1273365308,
+      "category_id": 7,
+      "bbox": [
+        857.0,
+        413.0,
+        218.0,
+        611.0
+      ],
+      "area": 133198.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1273365308,
+      "category_id": 7,
+      "bbox": [
+        835.0,
+        134.0,
+        569.0,
+        366.0
+      ],
+      "area": 208254.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1273365308,
+      "category_id": 7,
+      "bbox": [
+        67.0,
+        164.0,
+        561.0,
+        472.0
+      ],
+      "area": 264792.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 1273365308,
+      "category_id": 7,
+      "bbox": [
+        448.0,
+        489.0,
+        215.0,
+        535.0
+      ],
+      "area": 115025.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 7,
+      "name": "cherry_leaf",
+      "supercategory": "cherry_leaf"
+    }
+  ]
+}

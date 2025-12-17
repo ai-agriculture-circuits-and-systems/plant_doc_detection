@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9076365536,
+      "width": 347,
+      "height": 280,
+      "file_name": "tomato-yellow-leaf-curl-disease-260nw-1072448252.jpg",
+      "size": 32944,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9076365536,
+      "category_id": 25,
+      "bbox": [
+        251.0,
+        113.0,
+        28.0,
+        51.0
+      ],
+      "area": 1428.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9076365536,
+      "category_id": 25,
+      "bbox": [
+        126.0,
+        75.0,
+        49.0,
+        36.0
+      ],
+      "area": 1764.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9076365536,
+      "category_id": 25,
+      "bbox": [
+        102.0,
+        94.0,
+        50.0,
+        24.0
+      ],
+      "area": 1200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 9076365536,
+      "category_id": 25,
+      "bbox": [
+        103.0,
+        161.0,
+        36.0,
+        31.0
+      ],
+      "area": 1116.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 9076365536,
+      "category_id": 25,
+      "bbox": [
+        69.0,
+        150.0,
+        47.0,
+        42.0
+      ],
+      "area": 1974.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 9076365536,
+      "category_id": 25,
+      "bbox": [
+        122.0,
+        121.0,
+        50.0,
+        43.0
+      ],
+      "area": 2150.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 25,
+      "name": "tomato_leaf_yellow_virus",
+      "supercategory": "tomato_leaf_yellow_virus"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8938218345,
+      "width": 450,
+      "height": 461,
+      "file_name": "stock-photo-blueberry-leaves-isolated-on-white-background-collection-569223157.jpg",
+      "size": 47720,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8938218345,
+      "category_id": 6,
+      "bbox": [
+        110.0,
+        12.0,
+        91.0,
+        132.0
+      ],
+      "area": 12012.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8938218345,
+      "category_id": 6,
+      "bbox": [
+        32.0,
+        31.0,
+        64.0,
+        124.0
+      ],
+      "area": 7936.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8938218345,
+      "category_id": 6,
+      "bbox": [
+        42.0,
+        160.0,
+        119.0,
+        78.0
+      ],
+      "area": 9282.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8938218345,
+      "category_id": 6,
+      "bbox": [
+        40.0,
+        251.0,
+        64.0,
+        105.0
+      ],
+      "area": 6720.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8938218345,
+      "category_id": 6,
+      "bbox": [
+        110.0,
+        291.0,
+        105.0,
+        87.0
+      ],
+      "area": 9135.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 8938218345,
+      "category_id": 6,
+      "bbox": [
+        199.0,
+        214.0,
+        118.0,
+        72.0
+      ],
+      "area": 8496.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 8938218345,
+      "category_id": 6,
+      "bbox": [
+        307.0,
+        249.0,
+        134.0,
+        80.0
+      ],
+      "area": 10720.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 8938218345,
+      "category_id": 6,
+      "bbox": [
+        324.0,
+        328.0,
+        72.0,
+        97.0
+      ],
+      "area": 6984.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 8938218345,
+      "category_id": 6,
+      "bbox": [
+        239.0,
+        291.0,
+        62.0,
+        123.0
+      ],
+      "area": 7626.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 8938218345,
+      "category_id": 6,
+      "bbox": [
+        340.0,
+        50.0,
+        72.0,
+        119.0
+      ],
+      "area": 8568.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 8938218345,
+      "category_id": 6,
+      "bbox": [
+        233.0,
+        21.0,
+        80.0,
+        96.0
+      ],
+      "area": 7680.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 8938218345,
+      "category_id": 6,
+      "bbox": [
+        214.0,
+        115.0,
+        119.0,
+        65.0
+      ],
+      "area": 7735.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 8938218345,
+      "category_id": 6,
+      "bbox": [
+        62.0,
+        363.0,
+        65.0,
+        54.0
+      ],
+      "area": 3510.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

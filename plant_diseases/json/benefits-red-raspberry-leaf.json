@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4923298490,
+      "width": 800,
+      "height": 532,
+      "file_name": "benefits-red-raspberry-leaf.jpg",
+      "size": 69973,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4923298490,
+      "category_id": 15,
+      "bbox": [
+        442.0,
+        230.0,
+        219.0,
+        275.0
+      ],
+      "area": 60225.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4923298490,
+      "category_id": 15,
+      "bbox": [
+        399.0,
+        20.0,
+        213.0,
+        210.0
+      ],
+      "area": 44730.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4923298490,
+      "category_id": 15,
+      "bbox": [
+        327.0,
+        289.0,
+        140.0,
+        145.0
+      ],
+      "area": 20300.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4923298490,
+      "category_id": 15,
+      "bbox": [
+        149.0,
+        239.0,
+        187.0,
+        77.0
+      ],
+      "area": 14399.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4923298490,
+      "category_id": 15,
+      "bbox": [
+        163.0,
+        327.0,
+        151.0,
+        205.0
+      ],
+      "area": 30955.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

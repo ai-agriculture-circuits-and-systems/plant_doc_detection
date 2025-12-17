@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8190382475,
+      "width": 866,
+      "height": 1390,
+      "file_name": "potato-blight-showing-on-potato-plant-leaves-KJ70DB.jpg",
+      "size": 125985,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8190382475,
+      "category_id": 13,
+      "bbox": [
+        131.0,
+        551.0,
+        449.0,
+        322.0
+      ],
+      "area": 144578.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8190382475,
+      "category_id": 13,
+      "bbox": [
+        181.0,
+        341.0,
+        531.0,
+        305.0
+      ],
+      "area": 161955.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 13,
+      "name": "potato_leaf_early_blight",
+      "supercategory": "potato_leaf_early_blight"
+    }
+  ]
+}

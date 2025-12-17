@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2469138777,
+      "width": 430,
+      "height": 258,
+      "file_name": "kg32-beefsteak-tomatoes-08_lg.jpg",
+      "size": 26151,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2469138777,
+      "category_id": 22,
+      "bbox": [
+        223.0,
+        43.0,
+        122.0,
+        201.0
+      ],
+      "area": 24522.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2469138777,
+      "category_id": 22,
+      "bbox": [
+        138.0,
+        104.0,
+        107.0,
+        154.0
+      ],
+      "area": 16478.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 22,
+      "name": "tomato_leaf_bacterial_spot",
+      "supercategory": "tomato_leaf_bacterial_spot"
+    }
+  ]
+}

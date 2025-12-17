@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6951855124,
+      "width": 957,
+      "height": 1300,
+      "file_name": "peach-tree-trunk-new-leaf-18757494.jpg",
+      "size": 163964,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6951855124,
+      "category_id": 11,
+      "bbox": [
+        373.0,
+        458.0,
+        60.0,
+        228.0
+      ],
+      "area": 13680.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6951855124,
+      "category_id": 11,
+      "bbox": [
+        418.0,
+        465.0,
+        127.0,
+        225.0
+      ],
+      "area": 28575.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "peach_leaf",
+      "supercategory": "peach_leaf"
+    }
+  ]
+}

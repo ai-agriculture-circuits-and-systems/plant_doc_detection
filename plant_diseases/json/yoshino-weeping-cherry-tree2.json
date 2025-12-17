@@ -1,0 +1,165 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9655474828,
+      "width": 800,
+      "height": 600,
+      "file_name": "yoshino-weeping-cherry-tree2.jpg",
+      "size": 361269,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9655474828,
+      "category_id": 7,
+      "bbox": [
+        109.0,
+        145.0,
+        206.0,
+        141.0
+      ],
+      "area": 29046.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9655474828,
+      "category_id": 7,
+      "bbox": [
+        281.0,
+        148.0,
+        142.0,
+        125.0
+      ],
+      "area": 17750.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9655474828,
+      "category_id": 7,
+      "bbox": [
+        372.0,
+        146.0,
+        144.0,
+        140.0
+      ],
+      "area": 20160.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 9655474828,
+      "category_id": 7,
+      "bbox": [
+        419.0,
+        63.0,
+        162.0,
+        199.0
+      ],
+      "area": 32238.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 9655474828,
+      "category_id": 7,
+      "bbox": [
+        542.0,
+        284.0,
+        97.0,
+        246.0
+      ],
+      "area": 23862.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 9655474828,
+      "category_id": 7,
+      "bbox": [
+        344.0,
+        297.0,
+        162.0,
+        130.0
+      ],
+      "area": 21060.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 9655474828,
+      "category_id": 7,
+      "bbox": [
+        236.0,
+        294.0,
+        141.0,
+        180.0
+      ],
+      "area": 25380.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 9655474828,
+      "category_id": 7,
+      "bbox": [
+        582.0,
+        91.0,
+        92.0,
+        134.0
+      ],
+      "area": 12328.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 9655474828,
+      "category_id": 7,
+      "bbox": [
+        603.0,
+        302.0,
+        146.0,
+        97.0
+      ],
+      "area": 14162.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 9655474828,
+      "category_id": 7,
+      "bbox": [
+        705.0,
+        387.0,
+        65.0,
+        184.0
+      ],
+      "area": 11960.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 7,
+      "name": "cherry_leaf",
+      "supercategory": "cherry_leaf"
+    }
+  ]
+}

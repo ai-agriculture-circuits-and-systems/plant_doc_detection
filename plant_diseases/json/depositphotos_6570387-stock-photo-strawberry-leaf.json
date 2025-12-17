@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6910573124,
+      "width": 1024,
+      "height": 795,
+      "file_name": "depositphotos_6570387-stock-photo-strawberry-leaf.jpg",
+      "size": 111903,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6910573124,
+      "category_id": 18,
+      "bbox": [
+        322.0,
+        1.0,
+        364.0,
+        492.0
+      ],
+      "area": 179088.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6910573124,
+      "category_id": 18,
+      "bbox": [
+        499.0,
+        370.0,
+        431.0,
+        332.0
+      ],
+      "area": 143092.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6910573124,
+      "category_id": 18,
+      "bbox": [
+        84.0,
+        335.0,
+        407.0,
+        391.0
+      ],
+      "area": 159137.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 18,
+      "name": "strawberry_leaf",
+      "supercategory": "strawberry_leaf"
+    }
+  ]
+}

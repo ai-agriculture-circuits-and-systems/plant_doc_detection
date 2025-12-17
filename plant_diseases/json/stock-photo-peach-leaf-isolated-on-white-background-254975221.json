@@ -1,0 +1,126 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2259877781,
+      "width": 450,
+      "height": 389,
+      "file_name": "stock-photo-peach-leaf-isolated-on-white-background-254975221.jpg",
+      "size": 28910,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2259877781,
+      "category_id": 11,
+      "bbox": [
+        30.0,
+        47.0,
+        73.0,
+        158.0
+      ],
+      "area": 11534.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2259877781,
+      "category_id": 11,
+      "bbox": [
+        48.0,
+        38.0,
+        216.0,
+        122.0
+      ],
+      "area": 26352.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2259877781,
+      "category_id": 11,
+      "bbox": [
+        164.0,
+        143.0,
+        259.0,
+        97.0
+      ],
+      "area": 25123.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2259877781,
+      "category_id": 11,
+      "bbox": [
+        130.0,
+        259.0,
+        241.0,
+        80.0
+      ],
+      "area": 19280.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 2259877781,
+      "category_id": 11,
+      "bbox": [
+        114.0,
+        275.0,
+        81.0,
+        75.0
+      ],
+      "area": 6075.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 2259877781,
+      "category_id": 11,
+      "bbox": [
+        5.0,
+        270.0,
+        106.0,
+        68.0
+      ],
+      "area": 7208.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 2259877781,
+      "category_id": 11,
+      "bbox": [
+        107.0,
+        214.0,
+        45.0,
+        52.0
+      ],
+      "area": 2340.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "peach_leaf",
+      "supercategory": "peach_leaf"
+    }
+  ]
+}

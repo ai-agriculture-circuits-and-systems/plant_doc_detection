@@ -1,0 +1,126 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2186895427,
+      "width": 464,
+      "height": 700,
+      "file_name": "80102321.jpg",
+      "size": 191906,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2186895427,
+      "category_id": 9,
+      "bbox": [
+        45.0,
+        83.0,
+        411.0,
+        398.0
+      ],
+      "area": 163578.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2186895427,
+      "category_id": 9,
+      "bbox": [
+        1.0,
+        448.0,
+        458.0,
+        164.0
+      ],
+      "area": 75112.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2186895427,
+      "category_id": 9,
+      "bbox": [
+        155.0,
+        573.0,
+        296.0,
+        127.0
+      ],
+      "area": 37592.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2186895427,
+      "category_id": 9,
+      "bbox": [
+        20.0,
+        25.0,
+        194.0,
+        302.0
+      ],
+      "area": 58588.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 2186895427,
+      "category_id": 9,
+      "bbox": [
+        4.0,
+        1.0,
+        299.0,
+        133.0
+      ],
+      "area": 39767.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 2186895427,
+      "category_id": 9,
+      "bbox": [
+        209.0,
+        33.0,
+        254.0,
+        115.0
+      ],
+      "area": 29210.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 2186895427,
+      "category_id": 9,
+      "bbox": [
+        243.0,
+        355.0,
+        221.0,
+        77.0
+      ],
+      "area": 17017.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 9,
+      "name": "corn_leaf_blight",
+      "supercategory": "corn_leaf_blight"
+    }
+  ]
+}

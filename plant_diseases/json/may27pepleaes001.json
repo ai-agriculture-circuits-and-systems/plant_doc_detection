@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9504764059,
+      "width": 1024,
+      "height": 768,
+      "file_name": "may27pepleaes001.jpg",
+      "size": 135514,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9504764059,
+      "category_id": 5,
+      "bbox": [
+        300.0,
+        55.0,
+        406.0,
+        175.0
+      ],
+      "area": 71050.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9504764059,
+      "category_id": 5,
+      "bbox": [
+        260.0,
+        219.0,
+        425.0,
+        188.0
+      ],
+      "area": 79900.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9504764059,
+      "category_id": 5,
+      "bbox": [
+        290.0,
+        441.0,
+        497.0,
+        243.0
+      ],
+      "area": 120771.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 5,
+      "name": "bell_pepper_leaf_spot",
+      "supercategory": "bell_pepper_leaf_spot"
+    }
+  ]
+}

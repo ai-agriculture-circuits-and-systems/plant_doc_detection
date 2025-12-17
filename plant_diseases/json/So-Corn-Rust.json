@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4046565874,
+      "width": 462,
+      "height": 353,
+      "file_name": "So-Corn-Rust.jpg",
+      "size": 196108,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4046565874,
+      "category_id": 10,
+      "bbox": [
+        133.0,
+        88.0,
+        139.0,
+        190.0
+      ],
+      "area": 26410.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4046565874,
+      "category_id": 10,
+      "bbox": [
+        192.0,
+        36.0,
+        104.0,
+        238.0
+      ],
+      "area": 24752.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 10,
+      "name": "corn_rust_leaf",
+      "supercategory": "corn_rust_leaf"
+    }
+  ]
+}

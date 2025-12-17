@@ -1,0 +1,152 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9674703692,
+      "width": 720,
+      "height": 540,
+      "file_name": "vaccinium-angustifolium-634789-1.jpg",
+      "size": 115700,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9674703692,
+      "category_id": 6,
+      "bbox": [
+        416.0,
+        222.0,
+        57.0,
+        88.0
+      ],
+      "area": 5016.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9674703692,
+      "category_id": 6,
+      "bbox": [
+        467.0,
+        262.0,
+        56.0,
+        91.0
+      ],
+      "area": 5096.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9674703692,
+      "category_id": 6,
+      "bbox": [
+        440.0,
+        184.0,
+        95.0,
+        71.0
+      ],
+      "area": 6745.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 9674703692,
+      "category_id": 6,
+      "bbox": [
+        543.0,
+        211.0,
+        114.0,
+        94.0
+      ],
+      "area": 10716.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 9674703692,
+      "category_id": 6,
+      "bbox": [
+        556.0,
+        103.0,
+        55.0,
+        118.0
+      ],
+      "area": 6490.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 9674703692,
+      "category_id": 6,
+      "bbox": [
+        358.0,
+        96.0,
+        73.0,
+        77.0
+      ],
+      "area": 5621.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 9674703692,
+      "category_id": 6,
+      "bbox": [
+        291.0,
+        192.0,
+        124.0,
+        114.0
+      ],
+      "area": 14136.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 9674703692,
+      "category_id": 6,
+      "bbox": [
+        318.0,
+        341.0,
+        134.0,
+        118.0
+      ],
+      "area": 15812.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 9674703692,
+      "category_id": 6,
+      "bbox": [
+        21.0,
+        236.0,
+        129.0,
+        109.0
+      ],
+      "area": 14061.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

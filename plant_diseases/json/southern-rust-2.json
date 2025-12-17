@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1169318820,
+      "width": 1024,
+      "height": 768,
+      "file_name": "southern-rust-2.jpg",
+      "size": 209367,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1169318820,
+      "category_id": 10,
+      "bbox": [
+        158.0,
+        287.0,
+        707.0,
+        481.0
+      ],
+      "area": 340067.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1169318820,
+      "category_id": 10,
+      "bbox": [
+        418.0,
+        21.0,
+        606.0,
+        687.0
+      ],
+      "area": 416322.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 10,
+      "name": "corn_rust_leaf",
+      "supercategory": "corn_rust_leaf"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5107414477,
+      "width": 641,
+      "height": 482,
+      "file_name": "06c.jpg",
+      "size": 58086,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5107414477,
+      "category_id": 9,
+      "bbox": [
+        4.0,
+        163.0,
+        357.0,
+        319.0
+      ],
+      "area": 113883.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5107414477,
+      "category_id": 9,
+      "bbox": [
+        295.0,
+        261.0,
+        260.0,
+        212.0
+      ],
+      "area": 55120.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5107414477,
+      "category_id": 9,
+      "bbox": [
+        5.0,
+        10.0,
+        261.0,
+        258.0
+      ],
+      "area": 67338.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 5107414477,
+      "category_id": 9,
+      "bbox": [
+        156.0,
+        9.0,
+        140.0,
+        112.0
+      ],
+      "area": 15680.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 5107414477,
+      "category_id": 9,
+      "bbox": [
+        46.0,
+        357.0,
+        132.0,
+        125.0
+      ],
+      "area": 16500.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 5107414477,
+      "category_id": 9,
+      "bbox": [
+        456.0,
+        60.0,
+        143.0,
+        198.0
+      ],
+      "area": 28314.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 9,
+      "name": "corn_leaf_blight",
+      "supercategory": "corn_leaf_blight"
+    }
+  ]
+}

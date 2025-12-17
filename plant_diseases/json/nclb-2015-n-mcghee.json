@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8222335591,
+      "width": 576,
+      "height": 1024,
+      "file_name": "nclb-2015-n-mcghee.jpg",
+      "size": 106062,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8222335591,
+      "category_id": 9,
+      "bbox": [
+        77.0,
+        4.0,
+        220.0,
+        710.0
+      ],
+      "area": 156200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8222335591,
+      "category_id": 9,
+      "bbox": [
+        294.0,
+        13.0,
+        277.0,
+        704.0
+      ],
+      "area": 195008.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 9,
+      "name": "corn_leaf_blight",
+      "supercategory": "corn_leaf_blight"
+    }
+  ]
+}

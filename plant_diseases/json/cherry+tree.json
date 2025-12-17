@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5465149169,
+      "width": 800,
+      "height": 600,
+      "file_name": "cherry+tree.jpg",
+      "size": 113524,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5465149169,
+      "category_id": 7,
+      "bbox": [
+        641.0,
+        372.0,
+        147.0,
+        228.0
+      ],
+      "area": 33516.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5465149169,
+      "category_id": 7,
+      "bbox": [
+        533.0,
+        102.0,
+        240.0,
+        121.0
+      ],
+      "area": 29040.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5465149169,
+      "category_id": 7,
+      "bbox": [
+        1.0,
+        92.0,
+        254.0,
+        295.0
+      ],
+      "area": 74930.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 5465149169,
+      "category_id": 7,
+      "bbox": [
+        136.0,
+        261.0,
+        175.0,
+        339.0
+      ],
+      "area": 59325.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 5465149169,
+      "category_id": 7,
+      "bbox": [
+        319.0,
+        373.0,
+        237.0,
+        227.0
+      ],
+      "area": 53799.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 5465149169,
+      "category_id": 7,
+      "bbox": [
+        308.0,
+        30.0,
+        113.0,
+        92.0
+      ],
+      "area": 10396.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 7,
+      "name": "cherry_leaf",
+      "supercategory": "cherry_leaf"
+    }
+  ]
+}

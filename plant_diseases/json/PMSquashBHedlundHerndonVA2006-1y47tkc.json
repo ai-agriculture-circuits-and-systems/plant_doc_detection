@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2189852057,
+      "width": 2816,
+      "height": 2112,
+      "file_name": "PMSquashBHedlundHerndonVA2006-1y47tkc.jpg",
+      "size": 1149650,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2189852057,
+      "category_id": 17,
+      "bbox": [
+        308.0,
+        11.0,
+        2250.0,
+        2101.0
+      ],
+      "area": 4727250.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2189852057,
+      "category_id": 17,
+      "bbox": [
+        2205.0,
+        731.0,
+        611.0,
+        1344.0
+      ],
+      "area": 821184.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2189852057,
+      "category_id": 17,
+      "bbox": [
+        1.0,
+        210.0,
+        398.0,
+        1380.0
+      ],
+      "area": 549240.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 17,
+      "name": "squash_powdery_mildew_leaf",
+      "supercategory": "squash_powdery_mildew_leaf"
+    }
+  ]
+}

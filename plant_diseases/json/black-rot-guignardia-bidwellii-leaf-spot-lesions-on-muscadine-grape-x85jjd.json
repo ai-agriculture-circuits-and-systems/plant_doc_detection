@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8397669747,
+      "width": 435,
+      "height": 320,
+      "file_name": "black-rot-guignardia-bidwellii-leaf-spot-lesions-on-muscadine-grape-x85jjd.jpg",
+      "size": 63957,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8397669747,
+      "category_id": 29,
+      "bbox": [
+        1.0,
+        32.0,
+        149.0,
+        173.0
+      ],
+      "area": 25777.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8397669747,
+      "category_id": 29,
+      "bbox": [
+        126.0,
+        62.0,
+        181.0,
+        210.0
+      ],
+      "area": 38010.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8397669747,
+      "category_id": 29,
+      "bbox": [
+        276.0,
+        1.0,
+        154.0,
+        116.0
+      ],
+      "area": 17864.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 29,
+      "name": "grape_leaf_black_rot",
+      "supercategory": "grape_leaf_black_rot"
+    }
+  ]
+}

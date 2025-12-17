@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5584455896,
+      "width": 1395,
+      "height": 1600,
+      "file_name": "stock-photo-raspberry-leaf-isolated-on-a-white-background-72329308.jpg",
+      "size": 473351,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5584455896,
+      "category_id": 15,
+      "bbox": [
+        274.0,
+        532.0,
+        575.0,
+        755.0
+      ],
+      "area": 434125.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5584455896,
+      "category_id": 15,
+      "bbox": [
+        783.0,
+        319.0,
+        480.0,
+        448.0
+      ],
+      "area": 215040.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5584455896,
+      "category_id": 15,
+      "bbox": [
+        106.0,
+        248.0,
+        729.0,
+        225.0
+      ],
+      "area": 164025.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

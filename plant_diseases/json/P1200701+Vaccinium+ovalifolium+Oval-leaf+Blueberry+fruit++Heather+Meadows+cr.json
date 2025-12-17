@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7792004547,
+      "width": 1600,
+      "height": 1151,
+      "file_name": "P1200701+Vaccinium+ovalifolium+Oval-leaf+Blueberry+fruit++Heather+Meadows+cr.jpg",
+      "size": 256414,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7792004547,
+      "category_id": 6,
+      "bbox": [
+        230.0,
+        1.0,
+        492.0,
+        536.0
+      ],
+      "area": 263712.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7792004547,
+      "category_id": 6,
+      "bbox": [
+        691.0,
+        125.0,
+        480.0,
+        383.0
+      ],
+      "area": 183840.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7792004547,
+      "category_id": 6,
+      "bbox": [
+        98.0,
+        671.0,
+        730.0,
+        381.0
+      ],
+      "area": 278130.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

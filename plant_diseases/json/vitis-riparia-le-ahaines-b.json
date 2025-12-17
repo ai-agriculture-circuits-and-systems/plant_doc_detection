@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2549668935,
+      "width": 1000,
+      "height": 812,
+      "file_name": "vitis-riparia-le-ahaines-b.jpg",
+      "size": 203908,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2549668935,
+      "category_id": 28,
+      "bbox": [
+        76.0,
+        116.0,
+        714.0,
+        608.0
+      ],
+      "area": 434112.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2549668935,
+      "category_id": 28,
+      "bbox": [
+        646.0,
+        536.0,
+        264.0,
+        276.0
+      ],
+      "area": 72864.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 28,
+      "name": "grape_leaf",
+      "supercategory": "grape_leaf"
+    }
+  ]
+}

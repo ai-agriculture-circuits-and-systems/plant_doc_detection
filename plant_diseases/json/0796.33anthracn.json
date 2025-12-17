@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6020404381,
+      "width": 432,
+      "height": 313,
+      "file_name": "0796.33anthracn.jpg",
+      "size": 32794,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6020404381,
+      "category_id": 9,
+      "bbox": [
+        1.0,
+        20.0,
+        431.0,
+        137.0
+      ],
+      "area": 59047.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6020404381,
+      "category_id": 9,
+      "bbox": [
+        2.0,
+        172.0,
+        430.0,
+        96.0
+      ],
+      "area": 41280.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 9,
+      "name": "corn_leaf_blight",
+      "supercategory": "corn_leaf_blight"
+    }
+  ]
+}

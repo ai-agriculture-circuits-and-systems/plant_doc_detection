@@ -1,0 +1,165 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4823807276,
+      "width": 2780,
+      "height": 1846,
+      "file_name": "psyllid-yellows.jpg",
+      "size": 364283,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4823807276,
+      "category_id": 25,
+      "bbox": [
+        1.0,
+        1283.0,
+        379.0,
+        445.0
+      ],
+      "area": 168655.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4823807276,
+      "category_id": 25,
+      "bbox": [
+        1415.0,
+        236.0,
+        364.0,
+        429.0
+      ],
+      "area": 156156.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4823807276,
+      "category_id": 25,
+      "bbox": [
+        1555.0,
+        1118.0,
+        479.0,
+        322.0
+      ],
+      "area": 154238.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4823807276,
+      "category_id": 25,
+      "bbox": [
+        1884.0,
+        1161.0,
+        328.0,
+        473.0
+      ],
+      "area": 155144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4823807276,
+      "category_id": 25,
+      "bbox": [
+        2224.0,
+        1253.0,
+        491.0,
+        303.0
+      ],
+      "area": 148773.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 4823807276,
+      "category_id": 25,
+      "bbox": [
+        1922.0,
+        758.0,
+        402.0,
+        273.0
+      ],
+      "area": 109746.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 4823807276,
+      "category_id": 25,
+      "bbox": [
+        985.0,
+        799.0,
+        210.0,
+        423.0
+      ],
+      "area": 88830.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 4823807276,
+      "category_id": 25,
+      "bbox": [
+        614.0,
+        679.0,
+        408.0,
+        416.0
+      ],
+      "area": 169728.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 4823807276,
+      "category_id": 25,
+      "bbox": [
+        967.0,
+        576.0,
+        377.0,
+        366.0
+      ],
+      "area": 137982.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 4823807276,
+      "category_id": 25,
+      "bbox": [
+        1058.0,
+        309.0,
+        350.0,
+        400.0
+      ],
+      "area": 140000.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 25,
+      "name": "tomato_leaf_yellow_virus",
+      "supercategory": "tomato_leaf_yellow_virus"
+    }
+  ]
+}

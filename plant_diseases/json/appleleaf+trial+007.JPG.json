@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9484886971,
+      "width": 1200,
+      "height": 630,
+      "file_name": "appleleaf+trial+007.JPG.jpg",
+      "size": 171028,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9484886971,
+      "category_id": 2,
+      "bbox": [
+        466.0,
+        251.0,
+        277.0,
+        378.0
+      ],
+      "area": 104706.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9484886971,
+      "category_id": 2,
+      "bbox": [
+        754.0,
+        244.0,
+        446.0,
+        240.0
+      ],
+      "area": 107040.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9484886971,
+      "category_id": 2,
+      "bbox": [
+        1.0,
+        195.0,
+        450.0,
+        195.0
+      ],
+      "area": 87750.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 9484886971,
+      "category_id": 2,
+      "bbox": [
+        682.0,
+        103.0,
+        461.0,
+        200.0
+      ],
+      "area": 92200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 9484886971,
+      "category_id": 2,
+      "bbox": [
+        223.0,
+        363.0,
+        305.0,
+        267.0
+      ],
+      "area": 81435.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "apple_leaf",
+      "supercategory": "apple_leaf"
+    }
+  ]
+}

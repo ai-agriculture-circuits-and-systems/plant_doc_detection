@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2345752597,
+      "width": 800,
+      "height": 600,
+      "file_name": "prunus-pensylvanica-007.jpg",
+      "size": 81698,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2345752597,
+      "category_id": 7,
+      "bbox": [
+        407.0,
+        155.0,
+        165.0,
+        435.0
+      ],
+      "area": 71775.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2345752597,
+      "category_id": 7,
+      "bbox": [
+        581.0,
+        109.0,
+        203.0,
+        367.0
+      ],
+      "area": 74501.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2345752597,
+      "category_id": 7,
+      "bbox": [
+        222.0,
+        197.0,
+        170.0,
+        342.0
+      ],
+      "area": 58140.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2345752597,
+      "category_id": 7,
+      "bbox": [
+        26.0,
+        131.0,
+        360.0,
+        247.0
+      ],
+      "area": 88920.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 2345752597,
+      "category_id": 7,
+      "bbox": [
+        200.0,
+        87.0,
+        249.0,
+        122.0
+      ],
+      "area": 30378.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 2345752597,
+      "category_id": 7,
+      "bbox": [
+        105.0,
+        176.0,
+        232.0,
+        211.0
+      ],
+      "area": 48952.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 7,
+      "name": "cherry_leaf",
+      "supercategory": "cherry_leaf"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2931169651,
+      "width": 800,
+      "height": 516,
+      "file_name": "canada-red-cherry-leaves.jpg",
+      "size": 86763,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2931169651,
+      "category_id": 7,
+      "bbox": [
+        91.0,
+        6.0,
+        198.0,
+        178.0
+      ],
+      "area": 35244.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2931169651,
+      "category_id": 7,
+      "bbox": [
+        424.0,
+        28.0,
+        272.0,
+        154.0
+      ],
+      "area": 41888.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2931169651,
+      "category_id": 7,
+      "bbox": [
+        436.0,
+        159.0,
+        282.0,
+        152.0
+      ],
+      "area": 42864.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2931169651,
+      "category_id": 7,
+      "bbox": [
+        270.0,
+        175.0,
+        150.0,
+        196.0
+      ],
+      "area": 29400.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 2931169651,
+      "category_id": 7,
+      "bbox": [
+        393.0,
+        213.0,
+        202.0,
+        201.0
+      ],
+      "area": 40602.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 7,
+      "name": "cherry_leaf",
+      "supercategory": "cherry_leaf"
+    }
+  ]
+}

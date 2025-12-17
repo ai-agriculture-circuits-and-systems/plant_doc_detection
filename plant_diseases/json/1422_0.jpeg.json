@@ -1,0 +1,165 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3327187176,
+      "width": 640,
+      "height": 480,
+      "file_name": "1422_0.jpeg.jpg",
+      "size": 93622,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3327187176,
+      "category_id": 24,
+      "bbox": [
+        375.0,
+        158.0,
+        50.0,
+        71.0
+      ],
+      "area": 3550.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3327187176,
+      "category_id": 24,
+      "bbox": [
+        461.0,
+        281.0,
+        122.0,
+        86.0
+      ],
+      "area": 10492.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3327187176,
+      "category_id": 24,
+      "bbox": [
+        152.0,
+        7.0,
+        86.0,
+        176.0
+      ],
+      "area": 15136.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3327187176,
+      "category_id": 24,
+      "bbox": [
+        103.0,
+        366.0,
+        58.0,
+        47.0
+      ],
+      "area": 2726.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 3327187176,
+      "category_id": 24,
+      "bbox": [
+        312.0,
+        288.0,
+        133.0,
+        187.0
+      ],
+      "area": 24871.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 3327187176,
+      "category_id": 24,
+      "bbox": [
+        396.0,
+        247.0,
+        73.0,
+        155.0
+      ],
+      "area": 11315.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 3327187176,
+      "category_id": 24,
+      "bbox": [
+        215.0,
+        240.0,
+        108.0,
+        190.0
+      ],
+      "area": 20520.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 3327187176,
+      "category_id": 24,
+      "bbox": [
+        25.0,
+        160.0,
+        179.0,
+        119.0
+      ],
+      "area": 21301.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 3327187176,
+      "category_id": 24,
+      "bbox": [
+        437.0,
+        83.0,
+        126.0,
+        154.0
+      ],
+      "area": 19404.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 3327187176,
+      "category_id": 24,
+      "bbox": [
+        249.0,
+        18.0,
+        90.0,
+        199.0
+      ],
+      "area": 17910.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 24,
+      "name": "tomato_leaf_mosaic_virus",
+      "supercategory": "tomato_leaf_mosaic_virus"
+    }
+  ]
+}

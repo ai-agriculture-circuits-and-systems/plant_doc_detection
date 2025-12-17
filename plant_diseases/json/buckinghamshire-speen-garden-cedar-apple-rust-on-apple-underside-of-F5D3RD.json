@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3391365365,
+      "width": 1300,
+      "height": 956,
+      "file_name": "buckinghamshire-speen-garden-cedar-apple-rust-on-apple-underside-of-F5D3RD.jpg",
+      "size": 185515,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3391365365,
+      "category_id": 3,
+      "bbox": [
+        303.0,
+        13.0,
+        892.0,
+        467.0
+      ],
+      "area": 416564.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3391365365,
+      "category_id": 3,
+      "bbox": [
+        67.0,
+        217.0,
+        1037.0,
+        377.0
+      ],
+      "area": 390949.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3391365365,
+      "category_id": 3,
+      "bbox": [
+        264.0,
+        461.0,
+        972.0,
+        413.0
+      ],
+      "area": 401436.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "apple_rust_leaf",
+      "supercategory": "apple_rust_leaf"
+    }
+  ]
+}

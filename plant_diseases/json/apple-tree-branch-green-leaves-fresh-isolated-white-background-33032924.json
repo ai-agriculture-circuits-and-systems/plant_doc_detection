@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2879788979,
+      "width": 1300,
+      "height": 957,
+      "file_name": "apple-tree-branch-green-leaves-fresh-isolated-white-background-33032924.jpg",
+      "size": 184124,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2879788979,
+      "category_id": 2,
+      "bbox": [
+        502.0,
+        432.0,
+        436.0,
+        359.0
+      ],
+      "area": 156524.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2879788979,
+      "category_id": 2,
+      "bbox": [
+        652.0,
+        4.0,
+        418.0,
+        286.0
+      ],
+      "area": 119548.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2879788979,
+      "category_id": 2,
+      "bbox": [
+        665.0,
+        246.0,
+        515.0,
+        302.0
+      ],
+      "area": 155530.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "apple_leaf",
+      "supercategory": "apple_leaf"
+    }
+  ]
+}

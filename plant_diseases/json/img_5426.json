@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7055025384,
+      "width": 1971,
+      "height": 1333,
+      "file_name": "img_5426.jpg",
+      "size": 977803,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7055025384,
+      "category_id": 15,
+      "bbox": [
+        1183.0,
+        505.0,
+        696.0,
+        492.0
+      ],
+      "area": 342432.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7055025384,
+      "category_id": 15,
+      "bbox": [
+        1024.0,
+        167.0,
+        571.0,
+        467.0
+      ],
+      "area": 266657.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7055025384,
+      "category_id": 15,
+      "bbox": [
+        820.0,
+        607.0,
+        430.0,
+        607.0
+      ],
+      "area": 261010.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

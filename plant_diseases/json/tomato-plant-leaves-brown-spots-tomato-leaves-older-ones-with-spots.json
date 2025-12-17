@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4961676414,
+      "width": 450,
+      "height": 800,
+      "file_name": "tomato-plant-leaves-brown-spots-tomato-leaves-older-ones-with-spots.jpg",
+      "size": 125789,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4961676414,
+      "category_id": 22,
+      "bbox": [
+        351.0,
+        63.0,
+        64.0,
+        77.0
+      ],
+      "area": 4928.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4961676414,
+      "category_id": 22,
+      "bbox": [
+        234.0,
+        54.0,
+        95.0,
+        87.0
+      ],
+      "area": 8265.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4961676414,
+      "category_id": 22,
+      "bbox": [
+        232.0,
+        296.0,
+        122.0,
+        155.0
+      ],
+      "area": 18910.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4961676414,
+      "category_id": 22,
+      "bbox": [
+        70.0,
+        340.0,
+        146.0,
+        302.0
+      ],
+      "area": 44092.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 22,
+      "name": "tomato_leaf_bacterial_spot",
+      "supercategory": "tomato_leaf_bacterial_spot"
+    }
+  ]
+}

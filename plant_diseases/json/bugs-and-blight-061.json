@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2920384219,
+      "width": 2576,
+      "height": 1932,
+      "file_name": "bugs-and-blight-061.jpg",
+      "size": 1434983,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2920384219,
+      "category_id": 19,
+      "bbox": [
+        887.0,
+        1103.0,
+        466.0,
+        556.0
+      ],
+      "area": 259096.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2920384219,
+      "category_id": 19,
+      "bbox": [
+        1390.0,
+        759.0,
+        325.0,
+        578.0
+      ],
+      "area": 187850.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2920384219,
+      "category_id": 19,
+      "bbox": [
+        959.0,
+        790.0,
+        369.0,
+        263.0
+      ],
+      "area": 97047.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2920384219,
+      "category_id": 19,
+      "bbox": [
+        990.0,
+        581.0,
+        413.0,
+        213.0
+      ],
+      "area": 87969.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 19,
+      "name": "tomato_early_blight_leaf",
+      "supercategory": "tomato_early_blight_leaf"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7196252597,
+      "width": 800,
+      "height": 500,
+      "file_name": "3785483636_d888419c98_o.jpg",
+      "size": 167854,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7196252597,
+      "category_id": 13,
+      "bbox": [
+        85.0,
+        41.0,
+        389.0,
+        350.0
+      ],
+      "area": 136150.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7196252597,
+      "category_id": 13,
+      "bbox": [
+        369.0,
+        153.0,
+        291.0,
+        315.0
+      ],
+      "area": 91665.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 13,
+      "name": "potato_leaf_early_blight",
+      "supercategory": "potato_leaf_early_blight"
+    }
+  ]
+}

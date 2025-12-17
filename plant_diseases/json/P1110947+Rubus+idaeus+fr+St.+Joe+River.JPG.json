@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6050471783,
+      "width": 1600,
+      "height": 1068,
+      "file_name": "P1110947+Rubus+idaeus+fr+St.+Joe+River.JPG.jpg",
+      "size": 290279,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6050471783,
+      "category_id": 15,
+      "bbox": [
+        310.0,
+        355.0,
+        675.0,
+        298.0
+      ],
+      "area": 201150.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6050471783,
+      "category_id": 15,
+      "bbox": [
+        1070.0,
+        1.0,
+        267.0,
+        399.0
+      ],
+      "area": 106533.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6050471783,
+      "category_id": 15,
+      "bbox": [
+        1025.0,
+        403.0,
+        308.0,
+        573.0
+      ],
+      "area": 176484.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 6050471783,
+      "category_id": 15,
+      "bbox": [
+        925.0,
+        418.0,
+        120.0,
+        197.0
+      ],
+      "area": 23640.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 6050471783,
+      "category_id": 15,
+      "bbox": [
+        701.0,
+        145.0,
+        339.0,
+        278.0
+      ],
+      "area": 94242.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2888146336,
+      "width": 1000,
+      "height": 750,
+      "file_name": "vaccinium-angustifolium-le-ahaines.jpg",
+      "size": 221665,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2888146336,
+      "category_id": 6,
+      "bbox": [
+        47.0,
+        315.0,
+        334.0,
+        286.0
+      ],
+      "area": 95524.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2888146336,
+      "category_id": 6,
+      "bbox": [
+        242.0,
+        468.0,
+        312.0,
+        149.0
+      ],
+      "area": 46488.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2888146336,
+      "category_id": 6,
+      "bbox": [
+        412.0,
+        361.0,
+        224.0,
+        171.0
+      ],
+      "area": 38304.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2888146336,
+      "category_id": 6,
+      "bbox": [
+        517.0,
+        502.0,
+        256.0,
+        146.0
+      ],
+      "area": 37376.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 2888146336,
+      "category_id": 6,
+      "bbox": [
+        747.0,
+        478.0,
+        211.0,
+        175.0
+      ],
+      "area": 36925.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 2888146336,
+      "category_id": 6,
+      "bbox": [
+        478.0,
+        584.0,
+        123.0,
+        166.0
+      ],
+      "area": 20418.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 2888146336,
+      "category_id": 6,
+      "bbox": [
+        236.0,
+        583.0,
+        157.0,
+        164.0
+      ],
+      "area": 25748.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 2888146336,
+      "category_id": 6,
+      "bbox": [
+        34.0,
+        630.0,
+        195.0,
+        120.0
+      ],
+      "area": 23400.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 2888146336,
+      "category_id": 6,
+      "bbox": [
+        68.0,
+        113.0,
+        180.0,
+        75.0
+      ],
+      "area": 13500.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 2888146336,
+      "category_id": 6,
+      "bbox": [
+        223.0,
+        123.0,
+        104.0,
+        235.0
+      ],
+      "area": 24440.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 2888146336,
+      "category_id": 6,
+      "bbox": [
+        323.0,
+        174.0,
+        76.0,
+        165.0
+      ],
+      "area": 12540.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 2888146336,
+      "category_id": 6,
+      "bbox": [
+        468.0,
+        97.0,
+        150.0,
+        140.0
+      ],
+      "area": 21000.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 2888146336,
+      "category_id": 6,
+      "bbox": [
+        482.0,
+        153.0,
+        230.0,
+        155.0
+      ],
+      "area": 35650.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 2888146336,
+      "category_id": 6,
+      "bbox": [
+        810.0,
+        201.0,
+        141.0,
+        248.0
+      ],
+      "area": 34968.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 2888146336,
+      "category_id": 6,
+      "bbox": [
+        666.0,
+        1.0,
+        227.0,
+        71.0
+      ],
+      "area": 16117.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

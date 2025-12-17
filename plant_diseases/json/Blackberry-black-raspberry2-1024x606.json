@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3374937440,
+      "width": 1024,
+      "height": 606,
+      "file_name": "Blackberry-black-raspberry2-1024x606.jpg",
+      "size": 119055,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3374937440,
+      "category_id": 15,
+      "bbox": [
+        727.0,
+        18.0,
+        141.0,
+        332.0
+      ],
+      "area": 46812.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3374937440,
+      "category_id": 15,
+      "bbox": [
+        167.0,
+        25.0,
+        158.0,
+        296.0
+      ],
+      "area": 46768.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3374937440,
+      "category_id": 15,
+      "bbox": [
+        248.0,
+        252.0,
+        248.0,
+        167.0
+      ],
+      "area": 41416.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3374937440,
+      "category_id": 15,
+      "bbox": [
+        65.0,
+        141.0,
+        170.0,
+        253.0
+      ],
+      "area": 43010.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 3374937440,
+      "category_id": 15,
+      "bbox": [
+        757.0,
+        381.0,
+        254.0,
+        176.0
+      ],
+      "area": 44704.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 3374937440,
+      "category_id": 15,
+      "bbox": [
+        558.0,
+        357.0,
+        192.0,
+        161.0
+      ],
+      "area": 30912.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

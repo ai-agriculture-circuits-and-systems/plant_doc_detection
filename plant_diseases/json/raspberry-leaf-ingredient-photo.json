@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9174797812,
+      "width": 500,
+      "height": 353,
+      "file_name": "raspberry-leaf-ingredient-photo.jpg",
+      "size": 45816,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9174797812,
+      "category_id": 15,
+      "bbox": [
+        29.0,
+        149.0,
+        232.0,
+        172.0
+      ],
+      "area": 39904.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9174797812,
+      "category_id": 15,
+      "bbox": [
+        36.0,
+        65.0,
+        225.0,
+        99.0
+      ],
+      "area": 22275.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9174797812,
+      "category_id": 15,
+      "bbox": [
+        256.0,
+        100.0,
+        220.0,
+        161.0
+      ],
+      "area": 35420.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

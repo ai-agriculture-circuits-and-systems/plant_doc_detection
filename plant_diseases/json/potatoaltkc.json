@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6266564197,
+      "width": 900,
+      "height": 600,
+      "file_name": "potatoaltkc.jpg",
+      "size": 62253,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6266564197,
+      "category_id": 13,
+      "bbox": [
+        98.0,
+        291.0,
+        214.0,
+        309.0
+      ],
+      "area": 66126.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6266564197,
+      "category_id": 13,
+      "bbox": [
+        308.0,
+        285.0,
+        208.0,
+        315.0
+      ],
+      "area": 65520.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6266564197,
+      "category_id": 13,
+      "bbox": [
+        486.0,
+        252.0,
+        249.0,
+        253.0
+      ],
+      "area": 62997.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 6266564197,
+      "category_id": 13,
+      "bbox": [
+        535.0,
+        152.0,
+        354.0,
+        157.0
+      ],
+      "area": 55578.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 6266564197,
+      "category_id": 13,
+      "bbox": [
+        406.0,
+        6.0,
+        342.0,
+        202.0
+      ],
+      "area": 69084.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 6266564197,
+      "category_id": 13,
+      "bbox": [
+        300.0,
+        1.0,
+        308.0,
+        98.0
+      ],
+      "area": 30184.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 13,
+      "name": "potato_leaf_early_blight",
+      "supercategory": "potato_leaf_early_blight"
+    }
+  ]
+}

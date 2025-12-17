@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6100483185,
+      "width": 953,
+      "height": 1300,
+      "file_name": "tomato-vine-ripe-leaves-isolated-against-white-34863029.jpg",
+      "size": 99079,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6100483185,
+      "category_id": 21,
+      "bbox": [
+        327.0,
+        337.0,
+        206.0,
+        434.0
+      ],
+      "area": 89404.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6100483185,
+      "category_id": 21,
+      "bbox": [
+        524.0,
+        428.0,
+        179.0,
+        440.0
+      ],
+      "area": 78760.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6100483185,
+      "category_id": 21,
+      "bbox": [
+        53.0,
+        429.0,
+        246.0,
+        321.0
+      ],
+      "area": 78966.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 6100483185,
+      "category_id": 21,
+      "bbox": [
+        246.0,
+        337.0,
+        77.0,
+        147.0
+      ],
+      "area": 11319.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 21,
+      "name": "tomato_leaf",
+      "supercategory": "tomato_leaf"
+    }
+  ]
+}

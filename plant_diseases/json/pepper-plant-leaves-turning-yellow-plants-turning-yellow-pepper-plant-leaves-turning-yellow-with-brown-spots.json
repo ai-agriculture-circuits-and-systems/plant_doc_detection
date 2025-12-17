@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8164350448,
+      "width": 1024,
+      "height": 683,
+      "file_name": "pepper-plant-leaves-turning-yellow-plants-turning-yellow-pepper-plant-leaves-turning-yellow-with-brown-spots.jpg",
+      "size": 124450,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8164350448,
+      "category_id": 5,
+      "bbox": [
+        322.0,
+        28.0,
+        232.0,
+        654.0
+      ],
+      "area": 151728.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8164350448,
+      "category_id": 5,
+      "bbox": [
+        612.0,
+        262.0,
+        228.0,
+        421.0
+      ],
+      "area": 95988.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8164350448,
+      "category_id": 5,
+      "bbox": [
+        548.0,
+        3.0,
+        163.0,
+        394.0
+      ],
+      "area": 64222.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8164350448,
+      "category_id": 5,
+      "bbox": [
+        836.0,
+        139.0,
+        188.0,
+        118.0
+      ],
+      "area": 22184.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8164350448,
+      "category_id": 5,
+      "bbox": [
+        257.0,
+        71.0,
+        99.0,
+        463.0
+      ],
+      "area": 45837.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 5,
+      "name": "bell_pepper_leaf_spot",
+      "supercategory": "bell_pepper_leaf_spot"
+    }
+  ]
+}

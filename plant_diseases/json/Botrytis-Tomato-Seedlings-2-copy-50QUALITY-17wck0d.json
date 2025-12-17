@@ -1,0 +1,152 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5593354809,
+      "width": 667,
+      "height": 500,
+      "file_name": "Botrytis-Tomato-Seedlings-2-copy-50QUALITY-17wck0d.jpg",
+      "size": 60849,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5593354809,
+      "category_id": 26,
+      "bbox": [
+        76.0,
+        310.0,
+        164.0,
+        162.0
+      ],
+      "area": 26568.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5593354809,
+      "category_id": 26,
+      "bbox": [
+        193.0,
+        119.0,
+        146.0,
+        190.0
+      ],
+      "area": 27740.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5593354809,
+      "category_id": 26,
+      "bbox": [
+        485.0,
+        166.0,
+        109.0,
+        198.0
+      ],
+      "area": 21582.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 5593354809,
+      "category_id": 26,
+      "bbox": [
+        467.0,
+        268.0,
+        80.0,
+        191.0
+      ],
+      "area": 15280.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 5593354809,
+      "category_id": 26,
+      "bbox": [
+        354.0,
+        262.0,
+        134.0,
+        233.0
+      ],
+      "area": 31222.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 5593354809,
+      "category_id": 26,
+      "bbox": [
+        358.0,
+        128.0,
+        104.0,
+        119.0
+      ],
+      "area": 12376.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 5593354809,
+      "category_id": 26,
+      "bbox": [
+        37.0,
+        143.0,
+        179.0,
+        74.0
+      ],
+      "area": 13246.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 5593354809,
+      "category_id": 26,
+      "bbox": [
+        71.0,
+        231.0,
+        162.0,
+        109.0
+      ],
+      "area": 17658.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 5593354809,
+      "category_id": 26,
+      "bbox": [
+        168.0,
+        337.0,
+        240.0,
+        148.0
+      ],
+      "area": 35520.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 26,
+      "name": "tomato_mold_leaf",
+      "supercategory": "tomato_mold_leaf"
+    }
+  ]
+}

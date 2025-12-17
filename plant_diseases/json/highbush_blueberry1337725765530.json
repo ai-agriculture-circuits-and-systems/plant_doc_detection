@@ -1,0 +1,230 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6192623163,
+      "width": 674,
+      "height": 479,
+      "file_name": "highbush_blueberry1337725765530.jpg",
+      "size": 70408,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6192623163,
+      "category_id": 6,
+      "bbox": [
+        234.0,
+        85.0,
+        84.0,
+        102.0
+      ],
+      "area": 8568.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6192623163,
+      "category_id": 6,
+      "bbox": [
+        308.0,
+        181.0,
+        59.0,
+        68.0
+      ],
+      "area": 4012.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6192623163,
+      "category_id": 6,
+      "bbox": [
+        56.0,
+        160.0,
+        54.0,
+        73.0
+      ],
+      "area": 3942.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 6192623163,
+      "category_id": 6,
+      "bbox": [
+        2.0,
+        200.0,
+        61.0,
+        57.0
+      ],
+      "area": 3477.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 6192623163,
+      "category_id": 6,
+      "bbox": [
+        140.0,
+        1.0,
+        148.0,
+        64.0
+      ],
+      "area": 9472.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 6192623163,
+      "category_id": 6,
+      "bbox": [
+        477.0,
+        112.0,
+        73.0,
+        87.0
+      ],
+      "area": 6351.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 6192623163,
+      "category_id": 6,
+      "bbox": [
+        553.0,
+        200.0,
+        101.0,
+        56.0
+      ],
+      "area": 5656.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 6192623163,
+      "category_id": 6,
+      "bbox": [
+        620.0,
+        87.0,
+        54.0,
+        99.0
+      ],
+      "area": 5346.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 6192623163,
+      "category_id": 6,
+      "bbox": [
+        175.0,
+        345.0,
+        112.0,
+        60.0
+      ],
+      "area": 6720.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 6192623163,
+      "category_id": 6,
+      "bbox": [
+        252.0,
+        400.0,
+        57.0,
+        79.0
+      ],
+      "area": 4503.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 6192623163,
+      "category_id": 6,
+      "bbox": [
+        242.0,
+        250.0,
+        59.0,
+        81.0
+      ],
+      "area": 4779.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 6192623163,
+      "category_id": 6,
+      "bbox": [
+        371.0,
+        423.0,
+        68.0,
+        33.0
+      ],
+      "area": 2244.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 6192623163,
+      "category_id": 6,
+      "bbox": [
+        397.0,
+        295.0,
+        57.0,
+        67.0
+      ],
+      "area": 3819.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 6192623163,
+      "category_id": 6,
+      "bbox": [
+        326.0,
+        122.0,
+        42.0,
+        68.0
+      ],
+      "area": 2856.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 6192623163,
+      "category_id": 6,
+      "bbox": [
+        211.0,
+        182.0,
+        104.0,
+        69.0
+      ],
+      "area": 7176.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

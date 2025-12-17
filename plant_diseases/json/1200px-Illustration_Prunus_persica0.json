@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2410720511,
+      "width": 1200,
+      "height": 1941,
+      "file_name": "1200px-Illustration_Prunus_persica0.jpg",
+      "size": 704987,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2410720511,
+      "category_id": 11,
+      "bbox": [
+        381.0,
+        479.0,
+        352.0,
+        876.0
+      ],
+      "area": 308352.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2410720511,
+      "category_id": 11,
+      "bbox": [
+        705.0,
+        425.0,
+        446.0,
+        914.0
+      ],
+      "area": 407644.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "peach_leaf",
+      "supercategory": "peach_leaf"
+    }
+  ]
+}

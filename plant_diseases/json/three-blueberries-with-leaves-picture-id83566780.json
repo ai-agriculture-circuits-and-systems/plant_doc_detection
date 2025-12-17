@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2041644783,
+      "width": 1024,
+      "height": 682,
+      "file_name": "three-blueberries-with-leaves-picture-id83566780.jpg",
+      "size": 192299,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2041644783,
+      "category_id": 6,
+      "bbox": [
+        476.0,
+        156.0,
+        521.0,
+        298.0
+      ],
+      "area": 155258.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2041644783,
+      "category_id": 6,
+      "bbox": [
+        453.0,
+        350.0,
+        335.0,
+        302.0
+      ],
+      "area": 101170.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

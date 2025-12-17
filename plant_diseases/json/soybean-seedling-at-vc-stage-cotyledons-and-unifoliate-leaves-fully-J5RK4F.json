@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9218309642,
+      "width": 866,
+      "height": 1390,
+      "file_name": "soybean-seedling-at-vc-stage-cotyledons-and-unifoliate-leaves-fully-J5RK4F.jpg",
+      "size": 139568,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9218309642,
+      "category_id": 16,
+      "bbox": [
+        416.0,
+        639.0,
+        235.0,
+        300.0
+      ],
+      "area": 70500.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9218309642,
+      "category_id": 16,
+      "bbox": [
+        415.0,
+        495.0,
+        193.0,
+        157.0
+      ],
+      "area": 30301.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9218309642,
+      "category_id": 16,
+      "bbox": [
+        315.0,
+        228.0,
+        176.0,
+        352.0
+      ],
+      "area": 61952.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 16,
+      "name": "soyabean_leaf",
+      "supercategory": "soyabean_leaf"
+    }
+  ]
+}

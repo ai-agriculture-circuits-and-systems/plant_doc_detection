@@ -1,0 +1,165 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9652131558,
+      "width": 540,
+      "height": 720,
+      "file_name": "TCSV_Pepper%20%285%29.jpg",
+      "size": 324762,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9652131558,
+      "category_id": 5,
+      "bbox": [
+        113.0,
+        124.0,
+        84.0,
+        147.0
+      ],
+      "area": 12348.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9652131558,
+      "category_id": 5,
+      "bbox": [
+        129.0,
+        313.0,
+        74.0,
+        140.0
+      ],
+      "area": 10360.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9652131558,
+      "category_id": 5,
+      "bbox": [
+        272.0,
+        364.0,
+        96.0,
+        140.0
+      ],
+      "area": 13440.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 9652131558,
+      "category_id": 5,
+      "bbox": [
+        297.0,
+        183.0,
+        132.0,
+        91.0
+      ],
+      "area": 12012.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 9652131558,
+      "category_id": 5,
+      "bbox": [
+        1.0,
+        430.0,
+        128.0,
+        175.0
+      ],
+      "area": 22400.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 9652131558,
+      "category_id": 5,
+      "bbox": [
+        100.0,
+        498.0,
+        104.0,
+        181.0
+      ],
+      "area": 18824.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 9652131558,
+      "category_id": 5,
+      "bbox": [
+        200.0,
+        342.0,
+        63.0,
+        56.0
+      ],
+      "area": 3528.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 9652131558,
+      "category_id": 5,
+      "bbox": [
+        198.0,
+        370.0,
+        62.0,
+        97.0
+      ],
+      "area": 6014.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 9652131558,
+      "category_id": 5,
+      "bbox": [
+        240.0,
+        261.0,
+        59.0,
+        141.0
+      ],
+      "area": 8319.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 9652131558,
+      "category_id": 5,
+      "bbox": [
+        321.0,
+        100.0,
+        158.0,
+        64.0
+      ],
+      "area": 10112.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 5,
+      "name": "bell_pepper_leaf_spot",
+      "supercategory": "bell_pepper_leaf_spot"
+    }
+  ]
+}

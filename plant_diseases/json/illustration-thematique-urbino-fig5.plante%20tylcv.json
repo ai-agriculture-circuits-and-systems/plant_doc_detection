@@ -1,0 +1,217 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8220751909,
+      "width": 2592,
+      "height": 1944,
+      "file_name": "illustration-thematique-urbino-fig5.plante%20tylcv.jpg",
+      "size": 916416,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8220751909,
+      "category_id": 25,
+      "bbox": [
+        1579.0,
+        342.0,
+        185.0,
+        106.0
+      ],
+      "area": 19610.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8220751909,
+      "category_id": 25,
+      "bbox": [
+        1457.0,
+        182.0,
+        135.0,
+        220.0
+      ],
+      "area": 29700.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8220751909,
+      "category_id": 25,
+      "bbox": [
+        1010.0,
+        1696.0,
+        142.0,
+        159.0
+      ],
+      "area": 22578.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8220751909,
+      "category_id": 25,
+      "bbox": [
+        1030.0,
+        1514.0,
+        154.0,
+        112.0
+      ],
+      "area": 17248.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8220751909,
+      "category_id": 25,
+      "bbox": [
+        1022.0,
+        1648.0,
+        151.0,
+        79.0
+      ],
+      "area": 11929.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 8220751909,
+      "category_id": 25,
+      "bbox": [
+        2307.0,
+        974.0,
+        257.0,
+        219.0
+      ],
+      "area": 56283.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 8220751909,
+      "category_id": 25,
+      "bbox": [
+        2211.0,
+        1150.0,
+        294.0,
+        195.0
+      ],
+      "area": 57330.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 8220751909,
+      "category_id": 25,
+      "bbox": [
+        1074.0,
+        1010.0,
+        165.0,
+        182.0
+      ],
+      "area": 30030.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 8220751909,
+      "category_id": 25,
+      "bbox": [
+        939.0,
+        741.0,
+        197.0,
+        183.0
+      ],
+      "area": 36051.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 8220751909,
+      "category_id": 25,
+      "bbox": [
+        842.0,
+        612.0,
+        140.0,
+        215.0
+      ],
+      "area": 30100.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 8220751909,
+      "category_id": 25,
+      "bbox": [
+        831.0,
+        477.0,
+        137.0,
+        105.0
+      ],
+      "area": 14385.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 8220751909,
+      "category_id": 25,
+      "bbox": [
+        1316.0,
+        833.0,
+        216.0,
+        151.0
+      ],
+      "area": 32616.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 8220751909,
+      "category_id": 25,
+      "bbox": [
+        1392.0,
+        1099.0,
+        266.0,
+        239.0
+      ],
+      "area": 63574.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 8220751909,
+      "category_id": 25,
+      "bbox": [
+        1191.0,
+        1228.0,
+        184.0,
+        242.0
+      ],
+      "area": 44528.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 25,
+      "name": "tomato_leaf_yellow_virus",
+      "supercategory": "tomato_leaf_yellow_virus"
+    }
+  ]
+}

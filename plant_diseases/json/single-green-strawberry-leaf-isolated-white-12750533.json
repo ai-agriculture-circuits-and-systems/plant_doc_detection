@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6208516615,
+      "width": 1300,
+      "height": 1010,
+      "file_name": "single-green-strawberry-leaf-isolated-white-12750533.jpg",
+      "size": 184228,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6208516615,
+      "category_id": 18,
+      "bbox": [
+        570.0,
+        287.0,
+        664.0,
+        484.0
+      ],
+      "area": 321376.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6208516615,
+      "category_id": 18,
+      "bbox": [
+        94.0,
+        213.0,
+        627.0,
+        598.0
+      ],
+      "area": 374946.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6208516615,
+      "category_id": 18,
+      "bbox": [
+        501.0,
+        67.0,
+        587.0,
+        380.0
+      ],
+      "area": 223060.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 18,
+      "name": "strawberry_leaf",
+      "supercategory": "strawberry_leaf"
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7571656438,
+      "width": 450,
+      "height": 412,
+      "file_name": "stock-photo-peach-leaves-isolated-on-white-background-529501441.jpg",
+      "size": 40284,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7571656438,
+      "category_id": 11,
+      "bbox": [
+        32.0,
+        38.0,
+        181.0,
+        113.0
+      ],
+      "area": 20453.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7571656438,
+      "category_id": 11,
+      "bbox": [
+        191.0,
+        29.0,
+        167.0,
+        84.0
+      ],
+      "area": 14028.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7571656438,
+      "category_id": 11,
+      "bbox": [
+        236.0,
+        20.0,
+        152.0,
+        58.0
+      ],
+      "area": 8816.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 7571656438,
+      "category_id": 11,
+      "bbox": [
+        244.0,
+        140.0,
+        137.0,
+        83.0
+      ],
+      "area": 11371.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 7571656438,
+      "category_id": 11,
+      "bbox": [
+        294.0,
+        130.0,
+        139.0,
+        68.0
+      ],
+      "area": 9452.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 7571656438,
+      "category_id": 11,
+      "bbox": [
+        212.0,
+        245.0,
+        200.0,
+        59.0
+      ],
+      "area": 11800.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 7571656438,
+      "category_id": 11,
+      "bbox": [
+        240.0,
+        269.0,
+        164.0,
+        70.0
+      ],
+      "area": 11480.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 7571656438,
+      "category_id": 11,
+      "bbox": [
+        196.0,
+        271.0,
+        119.0,
+        90.0
+      ],
+      "area": 10710.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 7571656438,
+      "category_id": 11,
+      "bbox": [
+        13.0,
+        272.0,
+        183.0,
+        97.0
+      ],
+      "area": 17751.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 7571656438,
+      "category_id": 11,
+      "bbox": [
+        17.0,
+        192.0,
+        212.0,
+        67.0
+      ],
+      "area": 14204.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 7571656438,
+      "category_id": 11,
+      "bbox": [
+        39.0,
+        141.0,
+        145.0,
+        55.0
+      ],
+      "area": 7975.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "peach_leaf",
+      "supercategory": "peach_leaf"
+    }
+  ]
+}

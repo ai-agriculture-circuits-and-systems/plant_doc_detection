@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9928943503,
+      "width": 1500,
+      "height": 1308,
+      "file_name": "stock-photo-single-peach-with-leaves-on-a-white-background-111042830.jpg",
+      "size": 519008,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9928943503,
+      "category_id": 11,
+      "bbox": [
+        476.0,
+        254.0,
+        232.0,
+        852.0
+      ],
+      "area": 197664.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9928943503,
+      "category_id": 11,
+      "bbox": [
+        121.0,
+        296.0,
+        460.0,
+        507.0
+      ],
+      "area": 233220.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "peach_leaf",
+      "supercategory": "peach_leaf"
+    }
+  ]
+}

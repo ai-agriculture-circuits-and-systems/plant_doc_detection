@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8809081215,
+      "width": 1476,
+      "height": 984,
+      "file_name": "072109%20Hartman%20Grape%20black%20rot-fruit%20&%20lvs.JPG.jpg",
+      "size": 677151,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8809081215,
+      "category_id": 29,
+      "bbox": [
+        505.0,
+        278.0,
+        388.0,
+        368.0
+      ],
+      "area": 142784.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8809081215,
+      "category_id": 29,
+      "bbox": [
+        714.0,
+        549.0,
+        398.0,
+        378.0
+      ],
+      "area": 150444.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8809081215,
+      "category_id": 29,
+      "bbox": [
+        1032.0,
+        555.0,
+        434.0,
+        429.0
+      ],
+      "area": 186186.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8809081215,
+      "category_id": 29,
+      "bbox": [
+        221.0,
+        461.0,
+        244.0,
+        319.0
+      ],
+      "area": 77836.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 29,
+      "name": "grape_leaf_black_rot",
+      "supercategory": "grape_leaf_black_rot"
+    }
+  ]
+}

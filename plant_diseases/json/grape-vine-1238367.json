@@ -1,0 +1,126 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8526688197,
+      "width": 1300,
+      "height": 960,
+      "file_name": "grape-vine-1238367.jpg",
+      "size": 273678,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8526688197,
+      "category_id": 28,
+      "bbox": [
+        319.0,
+        422.0,
+        269.0,
+        278.0
+      ],
+      "area": 74782.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8526688197,
+      "category_id": 28,
+      "bbox": [
+        129.0,
+        310.0,
+        217.0,
+        241.0
+      ],
+      "area": 52297.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8526688197,
+      "category_id": 28,
+      "bbox": [
+        308.0,
+        156.0,
+        238.0,
+        262.0
+      ],
+      "area": 62356.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8526688197,
+      "category_id": 28,
+      "bbox": [
+        500.0,
+        88.0,
+        352.0,
+        309.0
+      ],
+      "area": 108768.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8526688197,
+      "category_id": 28,
+      "bbox": [
+        600.0,
+        395.0,
+        348.0,
+        396.0
+      ],
+      "area": 137808.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 8526688197,
+      "category_id": 28,
+      "bbox": [
+        994.0,
+        314.0,
+        303.0,
+        319.0
+      ],
+      "area": 96657.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 8526688197,
+      "category_id": 28,
+      "bbox": [
+        782.0,
+        33.0,
+        318.0,
+        276.0
+      ],
+      "area": 87768.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 28,
+      "name": "grape_leaf",
+      "supercategory": "grape_leaf"
+    }
+  ]
+}

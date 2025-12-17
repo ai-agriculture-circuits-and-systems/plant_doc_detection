@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4728587648,
+      "width": 800,
+      "height": 752,
+      "file_name": "crab_apple_03_leaves.jpg",
+      "size": 697761,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4728587648,
+      "category_id": 2,
+      "bbox": [
+        173.0,
+        265.0,
+        238.0,
+        486.0
+      ],
+      "area": 115668.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4728587648,
+      "category_id": 2,
+      "bbox": [
+        456.0,
+        208.0,
+        317.0,
+        355.0
+      ],
+      "area": 112535.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4728587648,
+      "category_id": 2,
+      "bbox": [
+        1.0,
+        153.0,
+        227.0,
+        249.0
+      ],
+      "area": 56523.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "apple_leaf",
+      "supercategory": "apple_leaf"
+    }
+  ]
+}

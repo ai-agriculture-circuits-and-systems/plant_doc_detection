@@ -1,0 +1,152 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5698053133,
+      "width": 300,
+      "height": 400,
+      "file_name": "5579e3247db73.image.jpg",
+      "size": 22247,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5698053133,
+      "category_id": 20,
+      "bbox": [
+        163.0,
+        190.0,
+        106.0,
+        71.0
+      ],
+      "area": 7526.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5698053133,
+      "category_id": 20,
+      "bbox": [
+        185.0,
+        116.0,
+        115.0,
+        66.0
+      ],
+      "area": 7590.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5698053133,
+      "category_id": 20,
+      "bbox": [
+        195.0,
+        57.0,
+        105.0,
+        65.0
+      ],
+      "area": 6825.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 5698053133,
+      "category_id": 20,
+      "bbox": [
+        85.0,
+        10.0,
+        65.0,
+        81.0
+      ],
+      "area": 5265.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 5698053133,
+      "category_id": 20,
+      "bbox": [
+        10.0,
+        122.0,
+        116.0,
+        95.0
+      ],
+      "area": 11020.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 5698053133,
+      "category_id": 20,
+      "bbox": [
+        44.0,
+        188.0,
+        100.0,
+        96.0
+      ],
+      "area": 9600.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 5698053133,
+      "category_id": 20,
+      "bbox": [
+        125.0,
+        233.0,
+        74.0,
+        144.0
+      ],
+      "area": 10656.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 5698053133,
+      "category_id": 20,
+      "bbox": [
+        15.0,
+        262.0,
+        85.0,
+        64.0
+      ],
+      "area": 5440.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 5698053133,
+      "category_id": 20,
+      "bbox": [
+        1.0,
+        289.0,
+        155.0,
+        111.0
+      ],
+      "area": 17205.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 20,
+      "name": "tomato_septoria_leaf_spot",
+      "supercategory": "tomato_septoria_leaf_spot"
+    }
+  ]
+}

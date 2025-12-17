@@ -1,0 +1,165 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8271565124,
+      "width": 480,
+      "height": 640,
+      "file_name": "Dwarf-Red-Leaf-Peach-leaves-closeup.jpg",
+      "size": 281727,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8271565124,
+      "category_id": 11,
+      "bbox": [
+        1.0,
+        313.0,
+        209.0,
+        85.0
+      ],
+      "area": 17765.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8271565124,
+      "category_id": 11,
+      "bbox": [
+        139.0,
+        394.0,
+        80.0,
+        204.0
+      ],
+      "area": 16320.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8271565124,
+      "category_id": 11,
+      "bbox": [
+        103.0,
+        121.0,
+        124.0,
+        168.0
+      ],
+      "area": 20832.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8271565124,
+      "category_id": 11,
+      "bbox": [
+        231.0,
+        186.0,
+        105.0,
+        106.0
+      ],
+      "area": 11130.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8271565124,
+      "category_id": 11,
+      "bbox": [
+        243.0,
+        382.0,
+        139.0,
+        147.0
+      ],
+      "area": 20433.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 8271565124,
+      "category_id": 11,
+      "bbox": [
+        248.0,
+        448.0,
+        103.0,
+        106.0
+      ],
+      "area": 10918.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 8271565124,
+      "category_id": 11,
+      "bbox": [
+        375.0,
+        65.0,
+        65.0,
+        159.0
+      ],
+      "area": 10335.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 8271565124,
+      "category_id": 11,
+      "bbox": [
+        99.0,
+        31.0,
+        256.0,
+        63.0
+      ],
+      "area": 16128.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 8271565124,
+      "category_id": 11,
+      "bbox": [
+        403.0,
+        461.0,
+        77.0,
+        175.0
+      ],
+      "area": 13475.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 8271565124,
+      "category_id": 11,
+      "bbox": [
+        257.0,
+        317.0,
+        206.0,
+        150.0
+      ],
+      "area": 30900.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "peach_leaf",
+      "supercategory": "peach_leaf"
+    }
+  ]
+}

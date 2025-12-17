@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3831559081,
+      "width": 398,
+      "height": 299,
+      "file_name": "disease.jpg",
+      "size": 220312,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3831559081,
+      "category_id": 9,
+      "bbox": [
+        35.0,
+        115.0,
+        234.0,
+        79.0
+      ],
+      "area": 18486.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3831559081,
+      "category_id": 9,
+      "bbox": [
+        70.0,
+        187.0,
+        126.0,
+        112.0
+      ],
+      "area": 14112.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3831559081,
+      "category_id": 9,
+      "bbox": [
+        117.0,
+        183.0,
+        231.0,
+        116.0
+      ],
+      "area": 26796.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3831559081,
+      "category_id": 9,
+      "bbox": [
+        69.0,
+        36.0,
+        255.0,
+        99.0
+      ],
+      "area": 25245.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 9,
+      "name": "corn_leaf_blight",
+      "supercategory": "corn_leaf_blight"
+    }
+  ]
+}

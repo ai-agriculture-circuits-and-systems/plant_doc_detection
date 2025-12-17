@@ -1,0 +1,152 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4580494716,
+      "width": 700,
+      "height": 520,
+      "file_name": "TYLCV-tomate-DB-445-171.jpg",
+      "size": 181363,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4580494716,
+      "category_id": 25,
+      "bbox": [
+        193.0,
+        271.0,
+        84.0,
+        142.0
+      ],
+      "area": 11928.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4580494716,
+      "category_id": 25,
+      "bbox": [
+        284.0,
+        294.0,
+        106.0,
+        138.0
+      ],
+      "area": 14628.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4580494716,
+      "category_id": 25,
+      "bbox": [
+        465.0,
+        337.0,
+        65.0,
+        75.0
+      ],
+      "area": 4875.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4580494716,
+      "category_id": 25,
+      "bbox": [
+        489.0,
+        170.0,
+        75.0,
+        92.0
+      ],
+      "area": 6900.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4580494716,
+      "category_id": 25,
+      "bbox": [
+        553.0,
+        238.0,
+        66.0,
+        106.0
+      ],
+      "area": 6996.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 4580494716,
+      "category_id": 25,
+      "bbox": [
+        569.0,
+        104.0,
+        107.0,
+        141.0
+      ],
+      "area": 15087.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 4580494716,
+      "category_id": 25,
+      "bbox": [
+        271.0,
+        130.0,
+        51.0,
+        110.0
+      ],
+      "area": 5610.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 4580494716,
+      "category_id": 25,
+      "bbox": [
+        192.0,
+        128.0,
+        57.0,
+        124.0
+      ],
+      "area": 7068.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 4580494716,
+      "category_id": 25,
+      "bbox": [
+        10.0,
+        141.0,
+        158.0,
+        133.0
+      ],
+      "area": 21014.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 25,
+      "name": "tomato_leaf_yellow_virus",
+      "supercategory": "tomato_leaf_yellow_virus"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3498772904,
+      "width": 450,
+      "height": 318,
+      "file_name": "stock-photo-black-pepper-plant-with-green-berries-and-leaves-555241408.jpg",
+      "size": 37953,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3498772904,
+      "category_id": 4,
+      "bbox": [
+        222.0,
+        1.0,
+        154.0,
+        247.0
+      ],
+      "area": 38038.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3498772904,
+      "category_id": 4,
+      "bbox": [
+        1.0,
+        18.0,
+        171.0,
+        265.0
+      ],
+      "area": 45315.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 4,
+      "name": "bell_pepper_leaf",
+      "supercategory": "bell_pepper_leaf"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7165501771,
+      "width": 450,
+      "height": 300,
+      "file_name": "bacterial-leaf-streak-of-corn-450-F1.jpg",
+      "size": 29931,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7165501771,
+      "category_id": 9,
+      "bbox": [
+        1.0,
+        1.0,
+        445.0,
+        89.0
+      ],
+      "area": 39605.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7165501771,
+      "category_id": 9,
+      "bbox": [
+        2.0,
+        70.0,
+        448.0,
+        136.0
+      ],
+      "area": 60928.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 9,
+      "name": "corn_leaf_blight",
+      "supercategory": "corn_leaf_blight"
+    }
+  ]
+}

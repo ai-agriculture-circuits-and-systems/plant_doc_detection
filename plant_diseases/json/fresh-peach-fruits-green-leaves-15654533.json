@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8947345605,
+      "width": 1300,
+      "height": 1229,
+      "file_name": "fresh-peach-fruits-green-leaves-15654533.jpg",
+      "size": 99692,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8947345605,
+      "category_id": 11,
+      "bbox": [
+        130.0,
+        703.0,
+        581.0,
+        261.0
+      ],
+      "area": 151641.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8947345605,
+      "category_id": 11,
+      "bbox": [
+        107.0,
+        572.0,
+        431.0,
+        228.0
+      ],
+      "area": 98268.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "peach_leaf",
+      "supercategory": "peach_leaf"
+    }
+  ]
+}

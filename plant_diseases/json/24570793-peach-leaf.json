@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2325344682,
+      "width": 660,
+      "height": 440,
+      "file_name": "24570793-peach-leaf.jpg",
+      "size": 58693,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2325344682,
+      "category_id": 11,
+      "bbox": [
+        105.0,
+        2.0,
+        127.0,
+        437.0
+      ],
+      "area": 55499.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2325344682,
+      "category_id": 11,
+      "bbox": [
+        405.0,
+        8.0,
+        157.0,
+        431.0
+      ],
+      "area": 67667.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "peach_leaf",
+      "supercategory": "peach_leaf"
+    }
+  ]
+}

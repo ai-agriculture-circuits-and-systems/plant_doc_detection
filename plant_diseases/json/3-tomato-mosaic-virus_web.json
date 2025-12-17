@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8083985714,
+      "width": 848,
+      "height": 1131,
+      "file_name": "3-tomato-mosaic-virus_web.jpg",
+      "size": 197360,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8083985714,
+      "category_id": 24,
+      "bbox": [
+        681.0,
+        710.0,
+        167.0,
+        211.0
+      ],
+      "area": 35237.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8083985714,
+      "category_id": 24,
+      "bbox": [
+        336.0,
+        390.0,
+        52.0,
+        133.0
+      ],
+      "area": 6916.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8083985714,
+      "category_id": 24,
+      "bbox": [
+        500.0,
+        292.0,
+        160.0,
+        413.0
+      ],
+      "area": 66080.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8083985714,
+      "category_id": 24,
+      "bbox": [
+        314.0,
+        583.0,
+        307.0,
+        252.0
+      ],
+      "area": 77364.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8083985714,
+      "category_id": 24,
+      "bbox": [
+        13.0,
+        688.0,
+        168.0,
+        148.0
+      ],
+      "area": 24864.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 8083985714,
+      "category_id": 24,
+      "bbox": [
+        234.0,
+        577.0,
+        86.0,
+        95.0
+      ],
+      "area": 8170.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 24,
+      "name": "tomato_leaf_mosaic_virus",
+      "supercategory": "tomato_leaf_mosaic_virus"
+    }
+  ]
+}

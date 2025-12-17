@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1853107221,
+      "width": 810,
+      "height": 500,
+      "file_name": "Leaf-mold-caused-by-the-fungal-pathogen-Passalore-fulva-in-tomatoes.jpg",
+      "size": 69684,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1853107221,
+      "category_id": 26,
+      "bbox": [
+        703.0,
+        320.0,
+        93.0,
+        130.0
+      ],
+      "area": 12090.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1853107221,
+      "category_id": 26,
+      "bbox": [
+        677.0,
+        16.0,
+        133.0,
+        297.0
+      ],
+      "area": 39501.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1853107221,
+      "category_id": 26,
+      "bbox": [
+        314.0,
+        51.0,
+        158.0,
+        163.0
+      ],
+      "area": 25754.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1853107221,
+      "category_id": 26,
+      "bbox": [
+        414.0,
+        28.0,
+        195.0,
+        247.0
+      ],
+      "area": 48165.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 1853107221,
+      "category_id": 26,
+      "bbox": [
+        41.0,
+        140.0,
+        370.0,
+        272.0
+      ],
+      "area": 100640.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 26,
+      "name": "tomato_mold_leaf",
+      "supercategory": "tomato_mold_leaf"
+    }
+  ]
+}

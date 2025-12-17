@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8486314739,
+      "width": 600,
+      "height": 900,
+      "file_name": "tomato-plant-diseases-identification-leaf-spot-tomato-disease-tomato-plant-fungus-identification.jpg",
+      "size": 54556,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8486314739,
+      "category_id": 22,
+      "bbox": [
+        442.0,
+        13.0,
+        156.0,
+        286.0
+      ],
+      "area": 44616.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8486314739,
+      "category_id": 22,
+      "bbox": [
+        130.0,
+        64.0,
+        243.0,
+        596.0
+      ],
+      "area": 144828.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 22,
+      "name": "tomato_leaf_bacterial_spot",
+      "supercategory": "tomato_leaf_bacterial_spot"
+    }
+  ]
+}

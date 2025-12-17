@@ -1,0 +1,126 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4875290779,
+      "width": 2448,
+      "height": 3264,
+      "file_name": "Catalina%20Island%20Cherry.JPG.jpg",
+      "size": 3006232,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4875290779,
+      "category_id": 7,
+      "bbox": [
+        1155.0,
+        1052.0,
+        1131.0,
+        1100.0
+      ],
+      "area": 1244100.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4875290779,
+      "category_id": 7,
+      "bbox": [
+        1337.0,
+        659.0,
+        1045.0,
+        566.0
+      ],
+      "area": 591470.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4875290779,
+      "category_id": 7,
+      "bbox": [
+        1165.0,
+        514.0,
+        934.0,
+        331.0
+      ],
+      "area": 309154.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4875290779,
+      "category_id": 7,
+      "bbox": [
+        289.0,
+        518.0,
+        669.0,
+        796.0
+      ],
+      "area": 532524.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4875290779,
+      "category_id": 7,
+      "bbox": [
+        151.0,
+        980.0,
+        728.0,
+        1134.0
+      ],
+      "area": 825552.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 4875290779,
+      "category_id": 7,
+      "bbox": [
+        651.0,
+        1411.0,
+        610.0,
+        1624.0
+      ],
+      "area": 990640.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 4875290779,
+      "category_id": 7,
+      "bbox": [
+        1061.0,
+        2793.0,
+        691.0,
+        471.0
+      ],
+      "area": 325461.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 7,
+      "name": "cherry_leaf",
+      "supercategory": "cherry_leaf"
+    }
+  ]
+}

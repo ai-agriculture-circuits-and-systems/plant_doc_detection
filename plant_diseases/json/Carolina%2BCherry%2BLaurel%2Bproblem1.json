@@ -1,0 +1,152 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8272231162,
+      "width": 1600,
+      "height": 1200,
+      "file_name": "Carolina%2BCherry%2BLaurel%2Bproblem1.jpg",
+      "size": 322241,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8272231162,
+      "category_id": 7,
+      "bbox": [
+        355.0,
+        474.0,
+        630.0,
+        465.0
+      ],
+      "area": 292950.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8272231162,
+      "category_id": 7,
+      "bbox": [
+        261.0,
+        218.0,
+        412.0,
+        513.0
+      ],
+      "area": 211356.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8272231162,
+      "category_id": 7,
+      "bbox": [
+        221.0,
+        97.0,
+        281.0,
+        380.0
+      ],
+      "area": 106780.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8272231162,
+      "category_id": 7,
+      "bbox": [
+        393.0,
+        893.0,
+        540.0,
+        205.0
+      ],
+      "area": 110700.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8272231162,
+      "category_id": 7,
+      "bbox": [
+        1060.0,
+        496.0,
+        466.0,
+        600.0
+      ],
+      "area": 279600.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 8272231162,
+      "category_id": 7,
+      "bbox": [
+        1183.0,
+        253.0,
+        278.0,
+        318.0
+      ],
+      "area": 88404.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 8272231162,
+      "category_id": 7,
+      "bbox": [
+        1325.0,
+        153.0,
+        275.0,
+        335.0
+      ],
+      "area": 92125.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 8272231162,
+      "category_id": 7,
+      "bbox": [
+        1.0,
+        750.0,
+        239.0,
+        224.0
+      ],
+      "area": 53536.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 8272231162,
+      "category_id": 7,
+      "bbox": [
+        66.0,
+        481.0,
+        185.0,
+        243.0
+      ],
+      "area": 44955.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 7,
+      "name": "cherry_leaf",
+      "supercategory": "cherry_leaf"
+    }
+  ]
+}

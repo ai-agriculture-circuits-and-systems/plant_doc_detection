@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8259719339,
+      "width": 1500,
+      "height": 1461,
+      "file_name": "stock-photo-two-sides-of-peach-leaf-isolate-on-white-17407162.jpg",
+      "size": 613782,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8259719339,
+      "category_id": 11,
+      "bbox": [
+        15.0,
+        65.0,
+        400.0,
+        1195.0
+      ],
+      "area": 478000.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8259719339,
+      "category_id": 11,
+      "bbox": [
+        399.0,
+        57.0,
+        328.0,
+        1260.0
+      ],
+      "area": 413280.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8259719339,
+      "category_id": 11,
+      "bbox": [
+        738.0,
+        98.0,
+        394.0,
+        1231.0
+      ],
+      "area": 485014.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8259719339,
+      "category_id": 11,
+      "bbox": [
+        1150.0,
+        120.0,
+        319.0,
+        1167.0
+      ],
+      "area": 372273.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "peach_leaf",
+      "supercategory": "peach_leaf"
+    }
+  ]
+}

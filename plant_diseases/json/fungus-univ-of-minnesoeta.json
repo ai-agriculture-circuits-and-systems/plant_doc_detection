@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4318049494,
+      "width": 800,
+      "height": 600,
+      "file_name": "fungus-univ-of-minnesoeta.jpg",
+      "size": 110134,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4318049494,
+      "category_id": 26,
+      "bbox": [
+        93.0,
+        6.0,
+        332.0,
+        155.0
+      ],
+      "area": 51460.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4318049494,
+      "category_id": 26,
+      "bbox": [
+        122.0,
+        369.0,
+        255.0,
+        139.0
+      ],
+      "area": 35445.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4318049494,
+      "category_id": 26,
+      "bbox": [
+        482.0,
+        208.0,
+        292.0,
+        296.0
+      ],
+      "area": 86432.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4318049494,
+      "category_id": 26,
+      "bbox": [
+        129.0,
+        160.0,
+        520.0,
+        262.0
+      ],
+      "area": 136240.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 26,
+      "name": "tomato_mold_leaf",
+      "supercategory": "tomato_mold_leaf"
+    }
+  ]
+}

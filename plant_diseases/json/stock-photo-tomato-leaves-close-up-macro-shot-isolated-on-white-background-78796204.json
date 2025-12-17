@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3076152972,
+      "width": 450,
+      "height": 470,
+      "file_name": "stock-photo-tomato-leaves-close-up-macro-shot-isolated-on-white-background-78796204.jpg",
+      "size": 46339,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3076152972,
+      "category_id": 21,
+      "bbox": [
+        234.0,
+        142.0,
+        176.0,
+        170.0
+      ],
+      "area": 29920.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3076152972,
+      "category_id": 21,
+      "bbox": [
+        198.0,
+        12.0,
+        166.0,
+        204.0
+      ],
+      "area": 33864.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3076152972,
+      "category_id": 21,
+      "bbox": [
+        20.0,
+        164.0,
+        190.0,
+        198.0
+      ],
+      "area": 37620.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3076152972,
+      "category_id": 21,
+      "bbox": [
+        9.0,
+        52.0,
+        178.0,
+        89.0
+      ],
+      "area": 15842.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 3076152972,
+      "category_id": 21,
+      "bbox": [
+        167.0,
+        271.0,
+        242.0,
+        175.0
+      ],
+      "area": 42350.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 21,
+      "name": "tomato_leaf",
+      "supercategory": "tomato_leaf"
+    }
+  ]
+}

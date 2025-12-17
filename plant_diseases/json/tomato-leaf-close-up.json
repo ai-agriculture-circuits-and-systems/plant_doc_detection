@@ -1,0 +1,139 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7400842888,
+      "width": 3264,
+      "height": 2448,
+      "file_name": "tomato-leaf-close-up.jpg",
+      "size": 2294298,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7400842888,
+      "category_id": 21,
+      "bbox": [
+        1039.0,
+        447.0,
+        796.0,
+        1150.0
+      ],
+      "area": 915400.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7400842888,
+      "category_id": 21,
+      "bbox": [
+        1766.0,
+        185.0,
+        939.0,
+        1062.0
+      ],
+      "area": 997218.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7400842888,
+      "category_id": 21,
+      "bbox": [
+        1612.0,
+        1197.0,
+        1558.0,
+        792.0
+      ],
+      "area": 1233936.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 7400842888,
+      "category_id": 21,
+      "bbox": [
+        485.0,
+        1485.0,
+        824.0,
+        719.0
+      ],
+      "area": 592456.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 7400842888,
+      "category_id": 21,
+      "bbox": [
+        347.0,
+        904.0,
+        646.0,
+        523.0
+      ],
+      "area": 337858.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 7400842888,
+      "category_id": 21,
+      "bbox": [
+        785.0,
+        24.0,
+        658.0,
+        427.0
+      ],
+      "area": 280966.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 7400842888,
+      "category_id": 21,
+      "bbox": [
+        662.0,
+        524.0,
+        577.0,
+        411.0
+      ],
+      "area": 237147.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 7400842888,
+      "category_id": 21,
+      "bbox": [
+        1224.0,
+        1985.0,
+        950.0,
+        463.0
+      ],
+      "area": 439850.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 21,
+      "name": "tomato_leaf",
+      "supercategory": "tomato_leaf"
+    }
+  ]
+}

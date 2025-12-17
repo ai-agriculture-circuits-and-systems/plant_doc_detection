@@ -1,0 +1,139 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1639794956,
+      "width": 1000,
+      "height": 750,
+      "file_name": "vaccinium-myrtilloides-le-dcameron-b.jpg",
+      "size": 242869,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1639794956,
+      "category_id": 6,
+      "bbox": [
+        236.0,
+        334.0,
+        142.0,
+        277.0
+      ],
+      "area": 39334.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1639794956,
+      "category_id": 6,
+      "bbox": [
+        371.0,
+        344.0,
+        221.0,
+        295.0
+      ],
+      "area": 65195.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1639794956,
+      "category_id": 6,
+      "bbox": [
+        523.0,
+        354.0,
+        228.0,
+        350.0
+      ],
+      "area": 79800.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1639794956,
+      "category_id": 6,
+      "bbox": [
+        661.0,
+        332.0,
+        331.0,
+        238.0
+      ],
+      "area": 78778.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 1639794956,
+      "category_id": 6,
+      "bbox": [
+        591.0,
+        111.0,
+        314.0,
+        231.0
+      ],
+      "area": 72534.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 1639794956,
+      "category_id": 6,
+      "bbox": [
+        450.0,
+        31.0,
+        314.0,
+        297.0
+      ],
+      "area": 93258.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 1639794956,
+      "category_id": 6,
+      "bbox": [
+        321.0,
+        128.0,
+        243.0,
+        190.0
+      ],
+      "area": 46170.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 1639794956,
+      "category_id": 6,
+      "bbox": [
+        34.0,
+        442.0,
+        235.0,
+        308.0
+      ],
+      "area": 72380.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

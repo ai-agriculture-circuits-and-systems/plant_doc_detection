@@ -1,0 +1,243 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4194578154,
+      "width": 720,
+      "height": 540,
+      "file_name": "vaccinium-myrtilloides-437.jpg",
+      "size": 76300,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4194578154,
+      "category_id": 6,
+      "bbox": [
+        486.0,
+        149.0,
+        68.0,
+        110.0
+      ],
+      "area": 7480.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4194578154,
+      "category_id": 6,
+      "bbox": [
+        512.0,
+        268.0,
+        107.0,
+        45.0
+      ],
+      "area": 4815.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4194578154,
+      "category_id": 6,
+      "bbox": [
+        590.0,
+        243.0,
+        96.0,
+        99.0
+      ],
+      "area": 9504.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4194578154,
+      "category_id": 6,
+      "bbox": [
+        476.0,
+        257.0,
+        68.0,
+        73.0
+      ],
+      "area": 4964.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4194578154,
+      "category_id": 6,
+      "bbox": [
+        366.0,
+        365.0,
+        115.0,
+        75.0
+      ],
+      "area": 8625.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 4194578154,
+      "category_id": 6,
+      "bbox": [
+        307.0,
+        363.0,
+        81.0,
+        82.0
+      ],
+      "area": 6642.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 4194578154,
+      "category_id": 6,
+      "bbox": [
+        324.0,
+        312.0,
+        108.0,
+        55.0
+      ],
+      "area": 5940.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 4194578154,
+      "category_id": 6,
+      "bbox": [
+        181.0,
+        321.0,
+        84.0,
+        98.0
+      ],
+      "area": 8232.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 4194578154,
+      "category_id": 6,
+      "bbox": [
+        90.0,
+        307.0,
+        98.0,
+        50.0
+      ],
+      "area": 4900.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 4194578154,
+      "category_id": 6,
+      "bbox": [
+        97.0,
+        257.0,
+        101.0,
+        71.0
+      ],
+      "area": 7171.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 4194578154,
+      "category_id": 6,
+      "bbox": [
+        182.0,
+        238.0,
+        52.0,
+        83.0
+      ],
+      "area": 4316.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 4194578154,
+      "category_id": 6,
+      "bbox": [
+        153.0,
+        134.0,
+        87.0,
+        56.0
+      ],
+      "area": 4872.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 4194578154,
+      "category_id": 6,
+      "bbox": [
+        87.0,
+        76.0,
+        106.0,
+        39.0
+      ],
+      "area": 4134.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 4194578154,
+      "category_id": 6,
+      "bbox": [
+        186.0,
+        10.0,
+        47.0,
+        86.0
+      ],
+      "area": 4042.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 4194578154,
+      "category_id": 6,
+      "bbox": [
+        300.0,
+        82.0,
+        77.0,
+        78.0
+      ],
+      "area": 6006.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 4194578154,
+      "category_id": 6,
+      "bbox": [
+        371.0,
+        121.0,
+        72.0,
+        93.0
+      ],
+      "area": 6696.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

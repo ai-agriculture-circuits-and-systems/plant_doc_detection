@@ -1,0 +1,139 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8815287976,
+      "width": 581,
+      "height": 1032,
+      "file_name": "zT5la.jpg",
+      "size": 231272,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8815287976,
+      "category_id": 4,
+      "bbox": [
+        111.0,
+        473.0,
+        245.0,
+        337.0
+      ],
+      "area": 82565.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8815287976,
+      "category_id": 4,
+      "bbox": [
+        340.0,
+        552.0,
+        132.0,
+        259.0
+      ],
+      "area": 34188.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8815287976,
+      "category_id": 4,
+      "bbox": [
+        464.0,
+        441.0,
+        117.0,
+        188.0
+      ],
+      "area": 21996.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8815287976,
+      "category_id": 4,
+      "bbox": [
+        349.0,
+        345.0,
+        127.0,
+        186.0
+      ],
+      "area": 23622.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8815287976,
+      "category_id": 4,
+      "bbox": [
+        88.0,
+        382.0,
+        227.0,
+        187.0
+      ],
+      "area": 42449.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 8815287976,
+      "category_id": 4,
+      "bbox": [
+        436.0,
+        740.0,
+        145.0,
+        284.0
+      ],
+      "area": 41180.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 8815287976,
+      "category_id": 4,
+      "bbox": [
+        40.0,
+        754.0,
+        191.0,
+        278.0
+      ],
+      "area": 53098.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 8815287976,
+      "category_id": 4,
+      "bbox": [
+        227.0,
+        797.0,
+        165.0,
+        235.0
+      ],
+      "area": 38775.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 4,
+      "name": "bell_pepper_leaf",
+      "supercategory": "bell_pepper_leaf"
+    }
+  ]
+}

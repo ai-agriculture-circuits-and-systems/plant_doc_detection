@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9263724074,
+      "width": 444,
+      "height": 185,
+      "file_name": "Stewarts-Leaf-Blight-Phase-24.jpg",
+      "size": 106141,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9263724074,
+      "category_id": 9,
+      "bbox": [
+        12.0,
+        31.0,
+        140.0,
+        154.0
+      ],
+      "area": 21560.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9263724074,
+      "category_id": 9,
+      "bbox": [
+        8.0,
+        1.0,
+        74.0,
+        154.0
+      ],
+      "area": 11396.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9263724074,
+      "category_id": 9,
+      "bbox": [
+        149.0,
+        2.0,
+        124.0,
+        183.0
+      ],
+      "area": 22692.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 9263724074,
+      "category_id": 9,
+      "bbox": [
+        342.0,
+        1.0,
+        102.0,
+        177.0
+      ],
+      "area": 18054.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 9,
+      "name": "corn_leaf_blight",
+      "supercategory": "corn_leaf_blight"
+    }
+  ]
+}

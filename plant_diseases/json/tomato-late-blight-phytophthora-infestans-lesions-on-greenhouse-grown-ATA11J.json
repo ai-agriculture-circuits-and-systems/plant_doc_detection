@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5353329582,
+      "width": 1104,
+      "height": 1390,
+      "file_name": "tomato-late-blight-phytophthora-infestans-lesions-on-greenhouse-grown-ATA11J.jpg",
+      "size": 198616,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5353329582,
+      "category_id": 23,
+      "bbox": [
+        473.0,
+        77.0,
+        519.0,
+        381.0
+      ],
+      "area": 197739.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5353329582,
+      "category_id": 23,
+      "bbox": [
+        531.0,
+        846.0,
+        391.0,
+        429.0
+      ],
+      "area": 167739.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5353329582,
+      "category_id": 23,
+      "bbox": [
+        73.0,
+        704.0,
+        411.0,
+        476.0
+      ],
+      "area": 195636.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 5353329582,
+      "category_id": 23,
+      "bbox": [
+        611.0,
+        546.0,
+        482.0,
+        326.0
+      ],
+      "area": 157132.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 23,
+      "name": "tomato_leaf_late_blight",
+      "supercategory": "tomato_leaf_late_blight"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7214365160,
+      "width": 400,
+      "height": 599,
+      "file_name": "car2.jpg",
+      "size": 30356,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7214365160,
+      "category_id": 3,
+      "bbox": [
+        193.0,
+        2.0,
+        207.0,
+        183.0
+      ],
+      "area": 37881.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7214365160,
+      "category_id": 3,
+      "bbox": [
+        44.0,
+        314.0,
+        200.0,
+        212.0
+      ],
+      "area": 42400.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7214365160,
+      "category_id": 3,
+      "bbox": [
+        151.0,
+        279.0,
+        248.0,
+        313.0
+      ],
+      "area": 77624.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 7214365160,
+      "category_id": 3,
+      "bbox": [
+        9.0,
+        2.0,
+        194.0,
+        145.0
+      ],
+      "area": 28130.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "apple_rust_leaf",
+      "supercategory": "apple_rust_leaf"
+    }
+  ]
+}

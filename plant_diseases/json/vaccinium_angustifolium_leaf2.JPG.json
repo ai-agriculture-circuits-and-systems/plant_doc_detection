@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5495456991,
+      "width": 1440,
+      "height": 2160,
+      "file_name": "vaccinium_angustifolium_leaf2.JPG.jpg",
+      "size": 503597,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5495456991,
+      "category_id": 6,
+      "bbox": [
+        565.0,
+        411.0,
+        759.0,
+        1680.0
+      ],
+      "area": 1275120.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5495456991,
+      "category_id": 6,
+      "bbox": [
+        9.0,
+        237.0,
+        895.0,
+        1384.0
+      ],
+      "area": 1238680.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

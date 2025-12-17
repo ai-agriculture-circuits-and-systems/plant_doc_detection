@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2247703710,
+      "width": 450,
+      "height": 612,
+      "file_name": "ga-2015-05-20-nclb.jpg",
+      "size": 123584,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2247703710,
+      "category_id": 9,
+      "bbox": [
+        5.0,
+        9.0,
+        181.0,
+        595.0
+      ],
+      "area": 107695.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2247703710,
+      "category_id": 9,
+      "bbox": [
+        194.0,
+        11.0,
+        232.0,
+        435.0
+      ],
+      "area": 100920.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2247703710,
+      "category_id": 9,
+      "bbox": [
+        134.0,
+        1.0,
+        153.0,
+        428.0
+      ],
+      "area": 65484.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2247703710,
+      "category_id": 9,
+      "bbox": [
+        158.0,
+        220.0,
+        217.0,
+        392.0
+      ],
+      "area": 85064.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 2247703710,
+      "category_id": 9,
+      "bbox": [
+        266.0,
+        173.0,
+        184.0,
+        439.0
+      ],
+      "area": 80776.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 9,
+      "name": "corn_leaf_blight",
+      "supercategory": "corn_leaf_blight"
+    }
+  ]
+}

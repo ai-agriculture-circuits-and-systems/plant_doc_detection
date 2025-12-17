@@ -1,0 +1,105 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1709632223,
+      "width": 3072,
+      "height": 2032,
+      "file_name": "21-late%20blight-early%20symptoms%20potato.jpg",
+      "size": 2540337,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1709632223,
+      "category_id": 13,
+      "bbox": [
+        1668.0,
+        840.0,
+        844.0,
+        732.0
+      ],
+      "area": 617808.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1709632223,
+      "category_id": 13,
+      "bbox": [
+        1225.0,
+        144.0,
+        696.0,
+        774.0
+      ],
+      "area": 538704.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1709632223,
+      "category_id": 12,
+      "bbox": [
+        589.0,
+        974.0,
+        653.0,
+        966.0
+      ],
+      "area": 630798.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1709632223,
+      "category_id": 12,
+      "bbox": [
+        1221.0,
+        1025.0,
+        906.0,
+        753.0
+      ],
+      "area": 682218.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 1709632223,
+      "category_id": 12,
+      "bbox": [
+        827.0,
+        93.0,
+        711.0,
+        740.0
+      ],
+      "area": 526140.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 12,
+      "name": "potato_leaf",
+      "supercategory": "potato_leaf"
+    },
+    {
+      "id": 13,
+      "name": "potato_leaf_early_blight",
+      "supercategory": "potato_leaf_early_blight"
+    }
+  ]
+}

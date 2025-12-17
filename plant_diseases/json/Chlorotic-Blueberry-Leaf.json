@@ -1,0 +1,126 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9707269522,
+      "width": 1280,
+      "height": 960,
+      "file_name": "Chlorotic-Blueberry-Leaf.jpg",
+      "size": 192624,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9707269522,
+      "category_id": 6,
+      "bbox": [
+        529.0,
+        294.0,
+        89.0,
+        191.0
+      ],
+      "area": 16999.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9707269522,
+      "category_id": 6,
+      "bbox": [
+        710.0,
+        413.0,
+        92.0,
+        198.0
+      ],
+      "area": 18216.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9707269522,
+      "category_id": 6,
+      "bbox": [
+        619.0,
+        328.0,
+        68.0,
+        148.0
+      ],
+      "area": 10064.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 9707269522,
+      "category_id": 6,
+      "bbox": [
+        578.0,
+        230.0,
+        82.0,
+        137.0
+      ],
+      "area": 11234.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 9707269522,
+      "category_id": 6,
+      "bbox": [
+        535.0,
+        141.0,
+        65.0,
+        152.0
+      ],
+      "area": 9880.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 9707269522,
+      "category_id": 6,
+      "bbox": [
+        461.0,
+        293.0,
+        91.0,
+        141.0
+      ],
+      "area": 12831.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 9707269522,
+      "category_id": 6,
+      "bbox": [
+        657.0,
+        564.0,
+        82.0,
+        128.0
+      ],
+      "area": 10496.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

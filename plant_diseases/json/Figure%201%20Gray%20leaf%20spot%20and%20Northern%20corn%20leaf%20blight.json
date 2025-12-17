@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6824026552,
+      "width": 523,
+      "height": 233,
+      "file_name": "Figure%201%20Gray%20leaf%20spot%20and%20Northern%20corn%20leaf%20blight.jpg",
+      "size": 24868,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6824026552,
+      "category_id": 8,
+      "bbox": [
+        1.0,
+        1.0,
+        260.0,
+        195.0
+      ],
+      "area": 50700.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 8,
+      "name": "corn_gray_leaf_spot",
+      "supercategory": "corn_gray_leaf_spot"
+    }
+  ]
+}

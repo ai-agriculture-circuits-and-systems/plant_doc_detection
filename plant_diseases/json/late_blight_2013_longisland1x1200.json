@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2852242872,
+      "width": 1200,
+      "height": 936,
+      "file_name": "late_blight_2013_longisland1x1200.jpg",
+      "size": 324553,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2852242872,
+      "category_id": 23,
+      "bbox": [
+        12.0,
+        13.0,
+        409.0,
+        680.0
+      ],
+      "area": 278120.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2852242872,
+      "category_id": 23,
+      "bbox": [
+        281.0,
+        553.0,
+        598.0,
+        344.0
+      ],
+      "area": 205712.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2852242872,
+      "category_id": 23,
+      "bbox": [
+        413.0,
+        316.0,
+        471.0,
+        280.0
+      ],
+      "area": 131880.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2852242872,
+      "category_id": 23,
+      "bbox": [
+        277.0,
+        23.0,
+        539.0,
+        308.0
+      ],
+      "area": 166012.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 2852242872,
+      "category_id": 23,
+      "bbox": [
+        908.0,
+        74.0,
+        281.0,
+        647.0
+      ],
+      "area": 181807.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 23,
+      "name": "tomato_leaf_late_blight",
+      "supercategory": "tomato_leaf_late_blight"
+    }
+  ]
+}

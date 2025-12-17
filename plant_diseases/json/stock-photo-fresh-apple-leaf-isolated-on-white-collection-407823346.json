@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9649574384,
+      "width": 450,
+      "height": 470,
+      "file_name": "stock-photo-fresh-apple-leaf-isolated-on-white-collection-407823346.jpg",
+      "size": 59184,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9649574384,
+      "category_id": 2,
+      "bbox": [
+        260.0,
+        23.0,
+        190.0,
+        181.0
+      ],
+      "area": 34390.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9649574384,
+      "category_id": 2,
+      "bbox": [
+        311.0,
+        208.0,
+        127.0,
+        227.0
+      ],
+      "area": 28829.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9649574384,
+      "category_id": 2,
+      "bbox": [
+        17.0,
+        10.0,
+        195.0,
+        212.0
+      ],
+      "area": 41340.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 9649574384,
+      "category_id": 2,
+      "bbox": [
+        46.0,
+        183.0,
+        221.0,
+        134.0
+      ],
+      "area": 29614.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 9649574384,
+      "category_id": 2,
+      "bbox": [
+        71.0,
+        322.0,
+        248.0,
+        114.0
+      ],
+      "area": 28272.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "apple_leaf",
+      "supercategory": "apple_leaf"
+    }
+  ]
+}

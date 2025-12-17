@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7142820414,
+      "width": 2480,
+      "height": 1860,
+      "file_name": "cedar%20apple%20rust%20upper%20leaf%20surface%20S%20ne%20OH%20RA%209-2-16.jpg",
+      "size": 1874331,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7142820414,
+      "category_id": 3,
+      "bbox": [
+        990.0,
+        434.0,
+        1104.0,
+        1384.0
+      ],
+      "area": 1527936.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7142820414,
+      "category_id": 3,
+      "bbox": [
+        147.0,
+        560.0,
+        827.0,
+        904.0
+      ],
+      "area": 747608.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "apple_rust_leaf",
+      "supercategory": "apple_rust_leaf"
+    }
+  ]
+}

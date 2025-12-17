@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5568383188,
+      "width": 1200,
+      "height": 900,
+      "file_name": "late_blight_tomato_unusual-symptomsx1200.jpg",
+      "size": 533704,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5568383188,
+      "category_id": 23,
+      "bbox": [
+        12.0,
+        191.0,
+        377.0,
+        648.0
+      ],
+      "area": 244296.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5568383188,
+      "category_id": 23,
+      "bbox": [
+        152.0,
+        20.0,
+        320.0,
+        660.0
+      ],
+      "area": 211200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5568383188,
+      "category_id": 23,
+      "bbox": [
+        440.0,
+        250.0,
+        331.0,
+        427.0
+      ],
+      "area": 141337.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 5568383188,
+      "category_id": 23,
+      "bbox": [
+        629.0,
+        355.0,
+        535.0,
+        479.0
+      ],
+      "area": 256265.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 5568383188,
+      "category_id": 23,
+      "bbox": [
+        788.0,
+        114.0,
+        402.0,
+        221.0
+      ],
+      "area": 88842.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 5568383188,
+      "category_id": 23,
+      "bbox": [
+        478.0,
+        91.0,
+        408.0,
+        344.0
+      ],
+      "area": 140352.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 23,
+      "name": "tomato_leaf_late_blight",
+      "supercategory": "tomato_leaf_late_blight"
+    }
+  ]
+}

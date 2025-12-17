@@ -1,0 +1,182 @@
+[
+  {
+    "object_id": 0,
+    "label_id": 0,
+    "keyboard_shortcut": "0",
+    "object_name": "background"
+  },
+  {
+    "object_id": 1,
+    "label_id": 1,
+    "keyboard_shortcut": "1",
+    "object_name": "apple_scab_leaf"
+  },
+  {
+    "object_id": 2,
+    "label_id": 2,
+    "keyboard_shortcut": "2",
+    "object_name": "apple_leaf"
+  },
+  {
+    "object_id": 3,
+    "label_id": 3,
+    "keyboard_shortcut": "3",
+    "object_name": "apple_rust_leaf"
+  },
+  {
+    "object_id": 4,
+    "label_id": 4,
+    "keyboard_shortcut": "4",
+    "object_name": "bell_pepper_leaf"
+  },
+  {
+    "object_id": 5,
+    "label_id": 5,
+    "keyboard_shortcut": "5",
+    "object_name": "bell_pepper_leaf_spot"
+  },
+  {
+    "object_id": 6,
+    "label_id": 6,
+    "keyboard_shortcut": "6",
+    "object_name": "blueberry_leaf"
+  },
+  {
+    "object_id": 7,
+    "label_id": 7,
+    "keyboard_shortcut": "7",
+    "object_name": "cherry_leaf"
+  },
+  {
+    "object_id": 8,
+    "label_id": 8,
+    "keyboard_shortcut": "8",
+    "object_name": "corn_gray_leaf_spot"
+  },
+  {
+    "object_id": 9,
+    "label_id": 9,
+    "keyboard_shortcut": "9",
+    "object_name": "corn_leaf_blight"
+  },
+  {
+    "object_id": 10,
+    "label_id": 10,
+    "keyboard_shortcut": "10",
+    "object_name": "corn_rust_leaf"
+  },
+  {
+    "object_id": 11,
+    "label_id": 11,
+    "keyboard_shortcut": "11",
+    "object_name": "peach_leaf"
+  },
+  {
+    "object_id": 12,
+    "label_id": 12,
+    "keyboard_shortcut": "12",
+    "object_name": "potato_leaf"
+  },
+  {
+    "object_id": 13,
+    "label_id": 13,
+    "keyboard_shortcut": "13",
+    "object_name": "potato_leaf_early_blight"
+  },
+  {
+    "object_id": 14,
+    "label_id": 14,
+    "keyboard_shortcut": "14",
+    "object_name": "potato_leaf_late_blight"
+  },
+  {
+    "object_id": 15,
+    "label_id": 15,
+    "keyboard_shortcut": "15",
+    "object_name": "raspberry_leaf"
+  },
+  {
+    "object_id": 16,
+    "label_id": 16,
+    "keyboard_shortcut": "16",
+    "object_name": "soyabean_leaf"
+  },
+  {
+    "object_id": 17,
+    "label_id": 17,
+    "keyboard_shortcut": "17",
+    "object_name": "squash_powdery_mildew_leaf"
+  },
+  {
+    "object_id": 18,
+    "label_id": 18,
+    "keyboard_shortcut": "18",
+    "object_name": "strawberry_leaf"
+  },
+  {
+    "object_id": 19,
+    "label_id": 19,
+    "keyboard_shortcut": "19",
+    "object_name": "tomato_early_blight_leaf"
+  },
+  {
+    "object_id": 20,
+    "label_id": 20,
+    "keyboard_shortcut": "20",
+    "object_name": "tomato_septoria_leaf_spot"
+  },
+  {
+    "object_id": 21,
+    "label_id": 21,
+    "keyboard_shortcut": "21",
+    "object_name": "tomato_leaf"
+  },
+  {
+    "object_id": 22,
+    "label_id": 22,
+    "keyboard_shortcut": "22",
+    "object_name": "tomato_leaf_bacterial_spot"
+  },
+  {
+    "object_id": 23,
+    "label_id": 23,
+    "keyboard_shortcut": "23",
+    "object_name": "tomato_leaf_late_blight"
+  },
+  {
+    "object_id": 24,
+    "label_id": 24,
+    "keyboard_shortcut": "24",
+    "object_name": "tomato_leaf_mosaic_virus"
+  },
+  {
+    "object_id": 25,
+    "label_id": 25,
+    "keyboard_shortcut": "25",
+    "object_name": "tomato_leaf_yellow_virus"
+  },
+  {
+    "object_id": 26,
+    "label_id": 26,
+    "keyboard_shortcut": "26",
+    "object_name": "tomato_mold_leaf"
+  },
+  {
+    "object_id": 27,
+    "label_id": 27,
+    "keyboard_shortcut": "27",
+    "object_name": "tomato_two_spotted_spider_mites_leaf"
+  },
+  {
+    "object_id": 28,
+    "label_id": 28,
+    "keyboard_shortcut": "28",
+    "object_name": "grape_leaf"
+  },
+  {
+    "object_id": 29,
+    "label_id": 29,
+    "keyboard_shortcut": "29",
+    "object_name": "grape_leaf_black_rot"
+  }
+]

@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6123604910,
+      "width": 2130,
+      "height": 1597,
+      "file_name": "strawberry-plant.jpg",
+      "size": 1117997,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6123604910,
+      "category_id": 18,
+      "bbox": [
+        408.0,
+        922.0,
+        634.0,
+        619.0
+      ],
+      "area": 392446.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6123604910,
+      "category_id": 18,
+      "bbox": [
+        1103.0,
+        804.0,
+        589.0,
+        655.0
+      ],
+      "area": 385795.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6123604910,
+      "category_id": 18,
+      "bbox": [
+        651.0,
+        351.0,
+        596.0,
+        576.0
+      ],
+      "area": 343296.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 6123604910,
+      "category_id": 18,
+      "bbox": [
+        1442.0,
+        12.0,
+        352.0,
+        513.0
+      ],
+      "area": 180576.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 6123604910,
+      "category_id": 18,
+      "bbox": [
+        1453.0,
+        342.0,
+        414.0,
+        389.0
+      ],
+      "area": 161046.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 6123604910,
+      "category_id": 18,
+      "bbox": [
+        1094.0,
+        162.0,
+        371.0,
+        435.0
+      ],
+      "area": 161385.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 18,
+      "name": "strawberry_leaf",
+      "supercategory": "strawberry_leaf"
+    }
+  ]
+}

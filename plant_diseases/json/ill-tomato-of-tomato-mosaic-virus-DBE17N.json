@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5800856940,
+      "width": 1300,
+      "height": 956,
+      "file_name": "ill-tomato-of-tomato-mosaic-virus-DBE17N.jpg",
+      "size": 164161,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5800856940,
+      "category_id": 24,
+      "bbox": [
+        137.0,
+        465.0,
+        195.0,
+        246.0
+      ],
+      "area": 47970.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5800856940,
+      "category_id": 24,
+      "bbox": [
+        914.0,
+        676.0,
+        128.0,
+        199.0
+      ],
+      "area": 25472.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5800856940,
+      "category_id": 24,
+      "bbox": [
+        1012.0,
+        480.0,
+        131.0,
+        183.0
+      ],
+      "area": 23973.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 5800856940,
+      "category_id": 24,
+      "bbox": [
+        333.0,
+        101.0,
+        155.0,
+        219.0
+      ],
+      "area": 33945.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 5800856940,
+      "category_id": 24,
+      "bbox": [
+        51.0,
+        251.0,
+        429.0,
+        175.0
+      ],
+      "area": 75075.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 5800856940,
+      "category_id": 24,
+      "bbox": [
+        424.0,
+        336.0,
+        274.0,
+        329.0
+      ],
+      "area": 90146.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 24,
+      "name": "tomato_leaf_mosaic_virus",
+      "supercategory": "tomato_leaf_mosaic_virus"
+    }
+  ]
+}

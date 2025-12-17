@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3664251451,
+      "width": 640,
+      "height": 508,
+      "file_name": "apple-scab-venturia-inaequalis-leaf-symptoms-on-tree-dark-fungal-pustules-aceg6b.jpg",
+      "size": 102100,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3664251451,
+      "category_id": 1,
+      "bbox": [
+        49.0,
+        181.0,
+        411.0,
+        281.0
+      ],
+      "area": 115491.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3664251451,
+      "category_id": 1,
+      "bbox": [
+        343.0,
+        35.0,
+        211.0,
+        298.0
+      ],
+      "area": 62878.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "apple_scab_leaf",
+      "supercategory": "apple_scab_leaf"
+    }
+  ]
+}

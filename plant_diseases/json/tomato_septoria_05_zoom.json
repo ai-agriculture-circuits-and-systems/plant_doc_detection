@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1400017188,
+      "width": 900,
+      "height": 598,
+      "file_name": "tomato_septoria_05_zoom.jpg",
+      "size": 191119,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1400017188,
+      "category_id": 20,
+      "bbox": [
+        197.0,
+        2.0,
+        182.0,
+        181.0
+      ],
+      "area": 32942.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1400017188,
+      "category_id": 20,
+      "bbox": [
+        30.0,
+        170.0,
+        182.0,
+        143.0
+      ],
+      "area": 26026.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1400017188,
+      "category_id": 20,
+      "bbox": [
+        105.0,
+        344.0,
+        149.0,
+        200.0
+      ],
+      "area": 29800.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1400017188,
+      "category_id": 20,
+      "bbox": [
+        261.0,
+        334.0,
+        172.0,
+        147.0
+      ],
+      "area": 25284.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 1400017188,
+      "category_id": 20,
+      "bbox": [
+        385.0,
+        210.0,
+        132.0,
+        199.0
+      ],
+      "area": 26268.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 1400017188,
+      "category_id": 20,
+      "bbox": [
+        452.0,
+        76.0,
+        201.0,
+        164.0
+      ],
+      "area": 32964.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 20,
+      "name": "tomato_septoria_leaf_spot",
+      "supercategory": "tomato_septoria_leaf_spot"
+    }
+  ]
+}

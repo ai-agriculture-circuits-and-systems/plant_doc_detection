@@ -1,0 +1,152 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6102971073,
+      "width": 300,
+      "height": 400,
+      "file_name": "tomato-mosaic-virus-1.jpg",
+      "size": 29573,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6102971073,
+      "category_id": 24,
+      "bbox": [
+        8.0,
+        262.0,
+        142.0,
+        131.0
+      ],
+      "area": 18602.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6102971073,
+      "category_id": 24,
+      "bbox": [
+        216.0,
+        345.0,
+        60.0,
+        55.0
+      ],
+      "area": 3300.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6102971073,
+      "category_id": 24,
+      "bbox": [
+        143.0,
+        326.0,
+        64.0,
+        70.0
+      ],
+      "area": 4480.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 6102971073,
+      "category_id": 24,
+      "bbox": [
+        224.0,
+        285.0,
+        68.0,
+        51.0
+      ],
+      "area": 3468.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 6102971073,
+      "category_id": 24,
+      "bbox": [
+        233.0,
+        206.0,
+        50.0,
+        61.0
+      ],
+      "area": 3050.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 6102971073,
+      "category_id": 24,
+      "bbox": [
+        131.0,
+        216.0,
+        71.0,
+        94.0
+      ],
+      "area": 6674.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 6102971073,
+      "category_id": 24,
+      "bbox": [
+        93.0,
+        164.0,
+        123.0,
+        109.0
+      ],
+      "area": 13407.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 6102971073,
+      "category_id": 24,
+      "bbox": [
+        53.0,
+        105.0,
+        118.0,
+        58.0
+      ],
+      "area": 6844.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 6102971073,
+      "category_id": 24,
+      "bbox": [
+        130.0,
+        4.0,
+        73.0,
+        107.0
+      ],
+      "area": 7811.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 24,
+      "name": "tomato_leaf_mosaic_virus",
+      "supercategory": "tomato_leaf_mosaic_virus"
+    }
+  ]
+}

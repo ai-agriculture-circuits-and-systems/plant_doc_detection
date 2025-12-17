@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6940818841,
+      "width": 802,
+      "height": 932,
+      "file_name": "edible_weeds_raspberry_leaf.jpg",
+      "size": 98296,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6940818841,
+      "category_id": 15,
+      "bbox": [
+        146.0,
+        12.0,
+        331.0,
+        554.0
+      ],
+      "area": 183374.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6940818841,
+      "category_id": 15,
+      "bbox": [
+        30.0,
+        512.0,
+        363.0,
+        119.0
+      ],
+      "area": 43197.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6940818841,
+      "category_id": 15,
+      "bbox": [
+        427.0,
+        303.0,
+        361.0,
+        428.0
+      ],
+      "area": 154508.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 6940818841,
+      "category_id": 15,
+      "bbox": [
+        18.0,
+        629.0,
+        434.0,
+        220.0
+      ],
+      "area": 95480.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

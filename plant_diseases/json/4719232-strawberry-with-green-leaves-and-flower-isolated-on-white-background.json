@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5229710817,
+      "width": 800,
+      "height": 531,
+      "file_name": "4719232-strawberry-with-green-leaves-and-flower-isolated-on-white-background.jpg",
+      "size": 80918,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5229710817,
+      "category_id": 18,
+      "bbox": [
+        367.0,
+        28.0,
+        376.0,
+        291.0
+      ],
+      "area": 109416.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5229710817,
+      "category_id": 18,
+      "bbox": [
+        410.0,
+        246.0,
+        316.0,
+        261.0
+      ],
+      "area": 82476.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5229710817,
+      "category_id": 18,
+      "bbox": [
+        191.0,
+        349.0,
+        184.0,
+        100.0
+      ],
+      "area": 18400.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 5229710817,
+      "category_id": 18,
+      "bbox": [
+        335.0,
+        239.0,
+        93.0,
+        148.0
+      ],
+      "area": 13764.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 18,
+      "name": "strawberry_leaf",
+      "supercategory": "strawberry_leaf"
+    }
+  ]
+}

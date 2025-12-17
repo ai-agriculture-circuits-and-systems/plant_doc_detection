@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1352993148,
+      "width": 640,
+      "height": 447,
+      "file_name": "blueberry-fruit-blooming-flower-with-leaf-g3wa0t.jpg",
+      "size": 46329,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1352993148,
+      "category_id": 6,
+      "bbox": [
+        286.0,
+        8.0,
+        154.0,
+        149.0
+      ],
+      "area": 22946.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1352993148,
+      "category_id": 6,
+      "bbox": [
+        1.0,
+        87.0,
+        218.0,
+        189.0
+      ],
+      "area": 41202.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1352993148,
+      "category_id": 6,
+      "bbox": [
+        135.0,
+        116.0,
+        230.0,
+        311.0
+      ],
+      "area": 71530.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

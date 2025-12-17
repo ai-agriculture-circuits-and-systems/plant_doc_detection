@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8690730136,
+      "width": 1915,
+      "height": 1040,
+      "file_name": "9-Folia-Myrtilli-Blueberry-Leaves-Gjethe-Boronice-1.jpg",
+      "size": 547951,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8690730136,
+      "category_id": 6,
+      "bbox": [
+        293.0,
+        526.0,
+        275.0,
+        196.0
+      ],
+      "area": 53900.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8690730136,
+      "category_id": 6,
+      "bbox": [
+        578.0,
+        702.0,
+        239.0,
+        167.0
+      ],
+      "area": 39913.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8690730136,
+      "category_id": 6,
+      "bbox": [
+        827.0,
+        671.0,
+        182.0,
+        229.0
+      ],
+      "area": 41678.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8690730136,
+      "category_id": 6,
+      "bbox": [
+        968.0,
+        315.0,
+        148.0,
+        202.0
+      ],
+      "area": 29896.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8690730136,
+      "category_id": 6,
+      "bbox": [
+        1135.0,
+        404.0,
+        237.0,
+        163.0
+      ],
+      "area": 38631.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 8690730136,
+      "category_id": 6,
+      "bbox": [
+        516.0,
+        91.0,
+        214.0,
+        297.0
+      ],
+      "area": 63558.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

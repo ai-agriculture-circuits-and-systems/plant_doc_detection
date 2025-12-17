@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6039467836,
+      "width": 2448,
+      "height": 3264,
+      "file_name": "bed-4-tomatoes-23jun13.jpg",
+      "size": 4220428,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6039467836,
+      "category_id": 20,
+      "bbox": [
+        1830.0,
+        1830.0,
+        445.0,
+        409.0
+      ],
+      "area": 182005.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6039467836,
+      "category_id": 20,
+      "bbox": [
+        1158.0,
+        819.0,
+        181.0,
+        534.0
+      ],
+      "area": 96654.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 20,
+      "name": "tomato_septoria_leaf_spot",
+      "supercategory": "tomato_septoria_leaf_spot"
+    }
+  ]
+}

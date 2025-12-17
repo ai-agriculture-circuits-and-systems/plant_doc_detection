@@ -1,0 +1,126 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5660304881,
+      "width": 3095,
+      "height": 2455,
+      "file_name": "SeptoriaTomato-B.jpg",
+      "size": 2013657,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5660304881,
+      "category_id": 20,
+      "bbox": [
+        2583.0,
+        1128.0,
+        501.0,
+        689.0
+      ],
+      "area": 345189.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5660304881,
+      "category_id": 20,
+      "bbox": [
+        1.0,
+        672.0,
+        785.0,
+        1535.0
+      ],
+      "area": 1204975.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5660304881,
+      "category_id": 20,
+      "bbox": [
+        1097.0,
+        1.0,
+        618.0,
+        569.0
+      ],
+      "area": 351642.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 5660304881,
+      "category_id": 20,
+      "bbox": [
+        2381.0,
+        29.0,
+        714.0,
+        1036.0
+      ],
+      "area": 739704.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 5660304881,
+      "category_id": 20,
+      "bbox": [
+        200.0,
+        1490.0,
+        1677.0,
+        928.0
+      ],
+      "area": 1556256.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 5660304881,
+      "category_id": 20,
+      "bbox": [
+        1307.0,
+        938.0,
+        430.0,
+        374.0
+      ],
+      "area": 160820.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 5660304881,
+      "category_id": 20,
+      "bbox": [
+        722.0,
+        748.0,
+        488.0,
+        809.0
+      ],
+      "area": 394792.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 20,
+      "name": "tomato_septoria_leaf_spot",
+      "supercategory": "tomato_septoria_leaf_spot"
+    }
+  ]
+}

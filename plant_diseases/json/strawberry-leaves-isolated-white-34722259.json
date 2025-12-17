@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1584944577,
+      "width": 1300,
+      "height": 1390,
+      "file_name": "strawberry-leaves-isolated-white-34722259.jpg",
+      "size": 164539,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1584944577,
+      "category_id": 18,
+      "bbox": [
+        624.0,
+        459.0,
+        567.0,
+        480.0
+      ],
+      "area": 272160.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1584944577,
+      "category_id": 18,
+      "bbox": [
+        81.0,
+        490.0,
+        575.0,
+        488.0
+      ],
+      "area": 280600.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1584944577,
+      "category_id": 18,
+      "bbox": [
+        460.0,
+        1.0,
+        479.0,
+        705.0
+      ],
+      "area": 337695.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 18,
+      "name": "strawberry_leaf",
+      "supercategory": "strawberry_leaf"
+    }
+  ]
+}

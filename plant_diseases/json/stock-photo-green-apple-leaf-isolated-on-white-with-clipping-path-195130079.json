@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6168583569,
+      "width": 450,
+      "height": 361,
+      "file_name": "stock-photo-green-apple-leaf-isolated-on-white-with-clipping-path-195130079.jpg",
+      "size": 37894,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6168583569,
+      "category_id": 2,
+      "bbox": [
+        86.0,
+        27.0,
+        349.0,
+        310.0
+      ],
+      "area": 108190.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "apple_leaf",
+      "supercategory": "apple_leaf"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4775390272,
+      "width": 1600,
+      "height": 1217,
+      "file_name": "P1200652+Vaccinium+ovalifolium+Ovalleaf+Blueberry+leaf+top+cr.jpg",
+      "size": 232339,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4775390272,
+      "category_id": 6,
+      "bbox": [
+        901.0,
+        4.0,
+        191.0,
+        277.0
+      ],
+      "area": 52907.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4775390272,
+      "category_id": 6,
+      "bbox": [
+        710.0,
+        141.0,
+        235.0,
+        201.0
+      ],
+      "area": 47235.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4775390272,
+      "category_id": 6,
+      "bbox": [
+        773.0,
+        438.0,
+        200.0,
+        160.0
+      ],
+      "area": 32000.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4775390272,
+      "category_id": 6,
+      "bbox": [
+        930.0,
+        290.0,
+        123.0,
+        150.0
+      ],
+      "area": 18450.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4775390272,
+      "category_id": 6,
+      "bbox": [
+        1003.0,
+        351.0,
+        227.0,
+        114.0
+      ],
+      "area": 25878.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 4775390272,
+      "category_id": 6,
+      "bbox": [
+        1036.0,
+        764.0,
+        307.0,
+        181.0
+      ],
+      "area": 55567.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 4775390272,
+      "category_id": 6,
+      "bbox": [
+        933.0,
+        932.0,
+        158.0,
+        204.0
+      ],
+      "area": 32232.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 4775390272,
+      "category_id": 6,
+      "bbox": [
+        786.0,
+        814.0,
+        111.0,
+        233.0
+      ],
+      "area": 25863.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 4775390272,
+      "category_id": 6,
+      "bbox": [
+        325.0,
+        823.0,
+        151.0,
+        274.0
+      ],
+      "area": 41374.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 4775390272,
+      "category_id": 6,
+      "bbox": [
+        363.0,
+        657.0,
+        195.0,
+        155.0
+      ],
+      "area": 30225.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

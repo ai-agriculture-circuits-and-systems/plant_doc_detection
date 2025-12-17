@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3144063467,
+      "width": 1024,
+      "height": 1024,
+      "file_name": "depositphotos_27383223-stock-photo-apple-leaves.jpg",
+      "size": 155456,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3144063467,
+      "category_id": 2,
+      "bbox": [
+        51.0,
+        39.0,
+        570.0,
+        330.0
+      ],
+      "area": 188100.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3144063467,
+      "category_id": 2,
+      "bbox": [
+        591.0,
+        23.0,
+        392.0,
+        462.0
+      ],
+      "area": 181104.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3144063467,
+      "category_id": 2,
+      "bbox": [
+        653.0,
+        407.0,
+        337.0,
+        576.0
+      ],
+      "area": 194112.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3144063467,
+      "category_id": 2,
+      "bbox": [
+        104.0,
+        662.0,
+        583.0,
+        340.0
+      ],
+      "area": 198220.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 3144063467,
+      "category_id": 2,
+      "bbox": [
+        23.0,
+        372.0,
+        590.0,
+        330.0
+      ],
+      "area": 194700.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "apple_leaf",
+      "supercategory": "apple_leaf"
+    }
+  ]
+}

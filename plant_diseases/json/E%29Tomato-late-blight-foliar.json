@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2789176385,
+      "width": 400,
+      "height": 300,
+      "file_name": "E%29Tomato-late-blight-foliar.jpg",
+      "size": 17319,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2789176385,
+      "category_id": 23,
+      "bbox": [
+        325.0,
+        46.0,
+        75.0,
+        249.0
+      ],
+      "area": 18675.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2789176385,
+      "category_id": 23,
+      "bbox": [
+        60.0,
+        2.0,
+        166.0,
+        114.0
+      ],
+      "area": 18924.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2789176385,
+      "category_id": 23,
+      "bbox": [
+        132.0,
+        22.0,
+        158.0,
+        274.0
+      ],
+      "area": 43292.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 23,
+      "name": "tomato_leaf_late_blight",
+      "supercategory": "tomato_leaf_late_blight"
+    }
+  ]
+}

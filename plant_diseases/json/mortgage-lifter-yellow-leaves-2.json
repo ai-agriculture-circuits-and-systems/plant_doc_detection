@@ -1,0 +1,126 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9642146022,
+      "width": 968,
+      "height": 1296,
+      "file_name": "mortgage-lifter-yellow-leaves-2.jpg",
+      "size": 1248157,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9642146022,
+      "category_id": 21,
+      "bbox": [
+        254.0,
+        1101.0,
+        94.0,
+        132.0
+      ],
+      "area": 12408.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9642146022,
+      "category_id": 21,
+      "bbox": [
+        199.0,
+        889.0,
+        140.0,
+        87.0
+      ],
+      "area": 12180.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9642146022,
+      "category_id": 21,
+      "bbox": [
+        373.0,
+        1085.0,
+        94.0,
+        99.0
+      ],
+      "area": 9306.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 9642146022,
+      "category_id": 21,
+      "bbox": [
+        512.0,
+        567.0,
+        104.0,
+        120.0
+      ],
+      "area": 12480.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 9642146022,
+      "category_id": 21,
+      "bbox": [
+        316.0,
+        585.0,
+        132.0,
+        155.0
+      ],
+      "area": 20460.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 9642146022,
+      "category_id": 21,
+      "bbox": [
+        133.0,
+        372.0,
+        107.0,
+        161.0
+      ],
+      "area": 17227.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 9642146022,
+      "category_id": 21,
+      "bbox": [
+        686.0,
+        414.0,
+        104.0,
+        156.0
+      ],
+      "area": 16224.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 21,
+      "name": "tomato_leaf",
+      "supercategory": "tomato_leaf"
+    }
+  ]
+}

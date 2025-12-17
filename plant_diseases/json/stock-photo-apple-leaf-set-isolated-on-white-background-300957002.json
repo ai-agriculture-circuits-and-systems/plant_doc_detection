@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9419194097,
+      "width": 450,
+      "height": 331,
+      "file_name": "stock-photo-apple-leaf-set-isolated-on-white-background-300957002.jpg",
+      "size": 40294,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9419194097,
+      "category_id": 2,
+      "bbox": [
+        56.0,
+        16.0,
+        122.0,
+        127.0
+      ],
+      "area": 15494.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9419194097,
+      "category_id": 2,
+      "bbox": [
+        184.0,
+        13.0,
+        233.0,
+        139.0
+      ],
+      "area": 32387.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9419194097,
+      "category_id": 2,
+      "bbox": [
+        216.0,
+        162.0,
+        222.0,
+        140.0
+      ],
+      "area": 31080.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 9419194097,
+      "category_id": 2,
+      "bbox": [
+        26.0,
+        171.0,
+        211.0,
+        134.0
+      ],
+      "area": 28274.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "apple_leaf",
+      "supercategory": "apple_leaf"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4487261036,
+      "width": 2100,
+      "height": 1575,
+      "file_name": "6.-Choke-cherry-fall-leaf-colour.jpg",
+      "size": 114286,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4487261036,
+      "category_id": 7,
+      "bbox": [
+        831.0,
+        13.0,
+        909.0,
+        1253.0
+      ],
+      "area": 1138977.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4487261036,
+      "category_id": 7,
+      "bbox": [
+        451.0,
+        430.0,
+        640.0,
+        1145.0
+      ],
+      "area": 732800.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 7,
+      "name": "cherry_leaf",
+      "supercategory": "cherry_leaf"
+    }
+  ]
+}

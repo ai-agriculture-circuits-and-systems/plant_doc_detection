@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2647198733,
+      "width": 3264,
+      "height": 2448,
+      "file_name": "IMG_2348.jpg",
+      "size": 2190682,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2647198733,
+      "category_id": 22,
+      "bbox": [
+        1244.0,
+        9.0,
+        793.0,
+        505.0
+      ],
+      "area": 400465.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2647198733,
+      "category_id": 22,
+      "bbox": [
+        1140.0,
+        401.0,
+        1048.0,
+        571.0
+      ],
+      "area": 598408.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2647198733,
+      "category_id": 22,
+      "bbox": [
+        1870.0,
+        852.0,
+        578.0,
+        574.0
+      ],
+      "area": 331772.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2647198733,
+      "category_id": 22,
+      "bbox": [
+        1555.0,
+        1259.0,
+        893.0,
+        1496.0
+      ],
+      "area": 1335928.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 2647198733,
+      "category_id": 22,
+      "bbox": [
+        145.0,
+        257.0,
+        1620.0,
+        2824.0
+      ],
+      "area": 4574880.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 22,
+      "name": "tomato_leaf_bacterial_spot",
+      "supercategory": "tomato_leaf_bacterial_spot"
+    }
+  ]
+}

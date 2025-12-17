@@ -1,0 +1,139 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3847375673,
+      "width": 2758,
+      "height": 1566,
+      "file_name": "russian-2-319-dt-2010-leaves-high-tunnel-9-29-2014-c.jpg",
+      "size": 2419933,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3847375673,
+      "category_id": 21,
+      "bbox": [
+        619.0,
+        13.0,
+        443.0,
+        733.0
+      ],
+      "area": 324719.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3847375673,
+      "category_id": 21,
+      "bbox": [
+        104.0,
+        939.0,
+        725.0,
+        627.0
+      ],
+      "area": 454575.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3847375673,
+      "category_id": 21,
+      "bbox": [
+        1305.0,
+        1026.0,
+        327.0,
+        430.0
+      ],
+      "area": 140610.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3847375673,
+      "category_id": 21,
+      "bbox": [
+        1619.0,
+        259.0,
+        750.0,
+        440.0
+      ],
+      "area": 330000.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 3847375673,
+      "category_id": 21,
+      "bbox": [
+        1039.0,
+        16.0,
+        466.0,
+        510.0
+      ],
+      "area": 237660.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 3847375673,
+      "category_id": 21,
+      "bbox": [
+        1.0,
+        319.0,
+        198.0,
+        420.0
+      ],
+      "area": 83160.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 3847375673,
+      "category_id": 21,
+      "bbox": [
+        2122.0,
+        703.0,
+        327.0,
+        370.0
+      ],
+      "area": 120990.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 3847375673,
+      "category_id": 21,
+      "bbox": [
+        322.0,
+        639.0,
+        340.0,
+        227.0
+      ],
+      "area": 77180.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 21,
+      "name": "tomato_leaf",
+      "supercategory": "tomato_leaf"
+    }
+  ]
+}

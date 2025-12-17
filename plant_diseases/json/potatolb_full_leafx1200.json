@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6474615367,
+      "width": 1200,
+      "height": 900,
+      "file_name": "potatolb_full_leafx1200.jpg",
+      "size": 534777,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6474615367,
+      "category_id": 13,
+      "bbox": [
+        520.0,
+        3.0,
+        263.0,
+        343.0
+      ],
+      "area": 90209.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6474615367,
+      "category_id": 13,
+      "bbox": [
+        271.0,
+        17.0,
+        297.0,
+        349.0
+      ],
+      "area": 103653.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6474615367,
+      "category_id": 13,
+      "bbox": [
+        1.0,
+        239.0,
+        391.0,
+        337.0
+      ],
+      "area": 131767.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 6474615367,
+      "category_id": 13,
+      "bbox": [
+        552.0,
+        488.0,
+        269.0,
+        404.0
+      ],
+      "area": 108676.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 6474615367,
+      "category_id": 13,
+      "bbox": [
+        729.0,
+        471.0,
+        289.0,
+        385.0
+      ],
+      "area": 111265.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 6474615367,
+      "category_id": 13,
+      "bbox": [
+        969.0,
+        488.0,
+        231.0,
+        308.0
+      ],
+      "area": 71148.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 13,
+      "name": "potato_leaf_early_blight",
+      "supercategory": "potato_leaf_early_blight"
+    }
+  ]
+}

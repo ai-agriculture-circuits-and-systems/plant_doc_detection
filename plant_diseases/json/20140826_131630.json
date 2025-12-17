@@ -1,0 +1,217 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2118578556,
+      "width": 1600,
+      "height": 900,
+      "file_name": "20140826_131630.jpg",
+      "size": 451293,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2118578556,
+      "category_id": 9,
+      "bbox": [
+        377.0,
+        209.0,
+        304.0,
+        691.0
+      ],
+      "area": 210064.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2118578556,
+      "category_id": 9,
+      "bbox": [
+        701.0,
+        45.0,
+        443.0,
+        541.0
+      ],
+      "area": 239663.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2118578556,
+      "category_id": 9,
+      "bbox": [
+        1034.0,
+        380.0,
+        418.0,
+        270.0
+      ],
+      "area": 112860.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2118578556,
+      "category_id": 9,
+      "bbox": [
+        1309.0,
+        39.0,
+        211.0,
+        492.0
+      ],
+      "area": 103812.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 2118578556,
+      "category_id": 9,
+      "bbox": [
+        243.0,
+        156.0,
+        248.0,
+        716.0
+      ],
+      "area": 177568.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 2118578556,
+      "category_id": 9,
+      "bbox": [
+        693.0,
+        15.0,
+        192.0,
+        549.0
+      ],
+      "area": 105408.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 2118578556,
+      "category_id": 9,
+      "bbox": [
+        22.0,
+        2.0,
+        187.0,
+        897.0
+      ],
+      "area": 167739.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 2118578556,
+      "category_id": 9,
+      "bbox": [
+        701.0,
+        661.0,
+        476.0,
+        239.0
+      ],
+      "area": 113764.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 2118578556,
+      "category_id": 9,
+      "bbox": [
+        1087.0,
+        750.0,
+        315.0,
+        130.0
+      ],
+      "area": 40950.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 2118578556,
+      "category_id": 9,
+      "bbox": [
+        570.0,
+        461.0,
+        131.0,
+        439.0
+      ],
+      "area": 57509.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 2118578556,
+      "category_id": 9,
+      "bbox": [
+        502.0,
+        3.0,
+        140.0,
+        425.0
+      ],
+      "area": 59500.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 2118578556,
+      "category_id": 9,
+      "bbox": [
+        1438.0,
+        438.0,
+        158.0,
+        341.0
+      ],
+      "area": 53878.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 2118578556,
+      "category_id": 9,
+      "bbox": [
+        1143.0,
+        204.0,
+        172.0,
+        304.0
+      ],
+      "area": 52288.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 2118578556,
+      "category_id": 9,
+      "bbox": [
+        1127.0,
+        38.0,
+        221.0,
+        391.0
+      ],
+      "area": 86411.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 9,
+      "name": "corn_leaf_blight",
+      "supercategory": "corn_leaf_blight"
+    }
+  ]
+}

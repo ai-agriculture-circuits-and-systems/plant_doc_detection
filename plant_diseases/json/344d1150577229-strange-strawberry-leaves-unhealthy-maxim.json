@@ -1,0 +1,282 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9513789300,
+      "width": 800,
+      "height": 533,
+      "file_name": "344d1150577229-strange-strawberry-leaves-unhealthy-maxim.jpg",
+      "size": 88192,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9513789300,
+      "category_id": 18,
+      "bbox": [
+        194.0,
+        177.0,
+        86.0,
+        104.0
+      ],
+      "area": 8944.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9513789300,
+      "category_id": 18,
+      "bbox": [
+        138.0,
+        259.0,
+        110.0,
+        87.0
+      ],
+      "area": 9570.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9513789300,
+      "category_id": 18,
+      "bbox": [
+        544.0,
+        373.0,
+        108.0,
+        105.0
+      ],
+      "area": 11340.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 9513789300,
+      "category_id": 18,
+      "bbox": [
+        502.0,
+        347.0,
+        119.0,
+        57.0
+      ],
+      "area": 6783.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 9513789300,
+      "category_id": 18,
+      "bbox": [
+        581.0,
+        281.0,
+        109.0,
+        64.0
+      ],
+      "area": 6976.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 9513789300,
+      "category_id": 18,
+      "bbox": [
+        592.0,
+        224.0,
+        93.0,
+        69.0
+      ],
+      "area": 6417.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 9513789300,
+      "category_id": 18,
+      "bbox": [
+        545.0,
+        222.0,
+        79.0,
+        93.0
+      ],
+      "area": 7347.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 9513789300,
+      "category_id": 18,
+      "bbox": [
+        658.0,
+        143.0,
+        51.0,
+        78.0
+      ],
+      "area": 3978.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 9513789300,
+      "category_id": 18,
+      "bbox": [
+        290.0,
+        147.0,
+        100.0,
+        97.0
+      ],
+      "area": 9700.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 9513789300,
+      "category_id": 18,
+      "bbox": [
+        375.0,
+        159.0,
+        94.0,
+        103.0
+      ],
+      "area": 9682.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 9513789300,
+      "category_id": 18,
+      "bbox": [
+        454.0,
+        157.0,
+        79.0,
+        70.0
+      ],
+      "area": 5530.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 9513789300,
+      "category_id": 18,
+      "bbox": [
+        420.0,
+        93.0,
+        91.0,
+        76.0
+      ],
+      "area": 6916.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 9513789300,
+      "category_id": 18,
+      "bbox": [
+        644.0,
+        97.0,
+        110.0,
+        70.0
+      ],
+      "area": 7700.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 9513789300,
+      "category_id": 18,
+      "bbox": [
+        674.0,
+        350.0,
+        116.0,
+        166.0
+      ],
+      "area": 19256.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 9513789300,
+      "category_id": 18,
+      "bbox": [
+        476.0,
+        283.0,
+        110.0,
+        87.0
+      ],
+      "area": 9570.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 9513789300,
+      "category_id": 18,
+      "bbox": [
+        384.0,
+        298.0,
+        101.0,
+        54.0
+      ],
+      "area": 5454.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 16,
+      "image_id": 9513789300,
+      "category_id": 18,
+      "bbox": [
+        542.0,
+        54.0,
+        81.0,
+        69.0
+      ],
+      "area": 5589.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 17,
+      "image_id": 9513789300,
+      "category_id": 18,
+      "bbox": [
+        383.0,
+        64.0,
+        110.0,
+        69.0
+      ],
+      "area": 7590.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 18,
+      "image_id": 9513789300,
+      "category_id": 18,
+      "bbox": [
+        303.0,
+        337.0,
+        167.0,
+        162.0
+      ],
+      "area": 27054.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 18,
+      "name": "strawberry_leaf",
+      "supercategory": "strawberry_leaf"
+    }
+  ]
+}

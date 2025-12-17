@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3254485987,
+      "width": 1200,
+      "height": 800,
+      "file_name": "1200-534476178-bee-pollinate-flower-of-raspberry.jpg",
+      "size": 90799,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3254485987,
+      "category_id": 15,
+      "bbox": [
+        157.0,
+        264.0,
+        173.0,
+        173.0
+      ],
+      "area": 29929.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3254485987,
+      "category_id": 15,
+      "bbox": [
+        350.0,
+        644.0,
+        415.0,
+        156.0
+      ],
+      "area": 64740.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3254485987,
+      "category_id": 15,
+      "bbox": [
+        617.0,
+        557.0,
+        144.0,
+        112.0
+      ],
+      "area": 16128.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

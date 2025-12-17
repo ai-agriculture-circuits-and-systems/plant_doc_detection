@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6529637486,
+      "width": 1083,
+      "height": 1390,
+      "file_name": "early-blight-or-target-spot-alternaria-solani-lesions-on-a-tomato-BH3TH0.jpg",
+      "size": 177194,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6529637486,
+      "category_id": 19,
+      "bbox": [
+        103.0,
+        33.0,
+        800.0,
+        1226.0
+      ],
+      "area": 980800.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 19,
+      "name": "tomato_early_blight_leaf",
+      "supercategory": "tomato_early_blight_leaf"
+    }
+  ]
+}

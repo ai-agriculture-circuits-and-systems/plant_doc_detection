@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2612848339,
+      "width": 1024,
+      "height": 796,
+      "file_name": "depositphotos_88236122-stock-photo-peach-leaf-isolated-on-white.jpg",
+      "size": 63928,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2612848339,
+      "category_id": 11,
+      "bbox": [
+        111.0,
+        65.0,
+        435.0,
+        605.0
+      ],
+      "area": 263175.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2612848339,
+      "category_id": 11,
+      "bbox": [
+        104.0,
+        261.0,
+        740.0,
+        390.0
+      ],
+      "area": 288600.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2612848339,
+      "category_id": 11,
+      "bbox": [
+        127.0,
+        437.0,
+        845.0,
+        301.0
+      ],
+      "area": 254345.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "peach_leaf",
+      "supercategory": "peach_leaf"
+    }
+  ]
+}

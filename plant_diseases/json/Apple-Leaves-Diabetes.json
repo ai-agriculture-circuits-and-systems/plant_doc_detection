@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2680164573,
+      "width": 800,
+      "height": 571,
+      "file_name": "Apple-Leaves-Diabetes.jpg",
+      "size": 70413,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2680164573,
+      "category_id": 2,
+      "bbox": [
+        464.0,
+        28.0,
+        245.0,
+        138.0
+      ],
+      "area": 33810.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2680164573,
+      "category_id": 2,
+      "bbox": [
+        33.0,
+        433.0,
+        190.0,
+        138.0
+      ],
+      "area": 26220.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2680164573,
+      "category_id": 2,
+      "bbox": [
+        480.0,
+        381.0,
+        145.0,
+        115.0
+      ],
+      "area": 16675.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2680164573,
+      "category_id": 2,
+      "bbox": [
+        607.0,
+        171.0,
+        193.0,
+        162.0
+      ],
+      "area": 31266.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 2680164573,
+      "category_id": 2,
+      "bbox": [
+        44.0,
+        2.0,
+        206.0,
+        444.0
+      ],
+      "area": 91464.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 2680164573,
+      "category_id": 2,
+      "bbox": [
+        679.0,
+        81.0,
+        121.0,
+        88.0
+      ],
+      "area": 10648.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "apple_leaf",
+      "supercategory": "apple_leaf"
+    }
+  ]
+}

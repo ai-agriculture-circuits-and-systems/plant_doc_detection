@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1059249082,
+      "width": 1000,
+      "height": 875,
+      "file_name": "Leaves-of-Mysore-raspberry.jpg",
+      "size": 264140,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1059249082,
+      "category_id": 15,
+      "bbox": [
+        15.0,
+        291.0,
+        315.0,
+        193.0
+      ],
+      "area": 60795.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1059249082,
+      "category_id": 15,
+      "bbox": [
+        772.0,
+        376.0,
+        228.0,
+        356.0
+      ],
+      "area": 81168.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1059249082,
+      "category_id": 15,
+      "bbox": [
+        494.0,
+        43.0,
+        234.0,
+        213.0
+      ],
+      "area": 49842.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

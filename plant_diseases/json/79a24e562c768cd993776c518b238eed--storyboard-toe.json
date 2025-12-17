@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3989437204,
+      "width": 375,
+      "height": 500,
+      "file_name": "79a24e562c768cd993776c518b238eed--storyboard-toe.jpg",
+      "size": 84481,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3989437204,
+      "category_id": 11,
+      "bbox": [
+        85.0,
+        413.0,
+        46.0,
+        33.0
+      ],
+      "area": 1518.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3989437204,
+      "category_id": 11,
+      "bbox": [
+        228.0,
+        146.0,
+        21.0,
+        46.0
+      ],
+      "area": 966.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3989437204,
+      "category_id": 11,
+      "bbox": [
+        353.0,
+        202.0,
+        20.0,
+        50.0
+      ],
+      "area": 1000.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3989437204,
+      "category_id": 11,
+      "bbox": [
+        47.0,
+        3.0,
+        39.0,
+        14.0
+      ],
+      "area": 546.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "peach_leaf",
+      "supercategory": "peach_leaf"
+    }
+  ]
+}

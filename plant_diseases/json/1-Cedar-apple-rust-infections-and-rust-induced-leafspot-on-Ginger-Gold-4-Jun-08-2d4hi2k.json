@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8683279281,
+      "width": 3407,
+      "height": 2296,
+      "file_name": "1-Cedar-apple-rust-infections-and-rust-induced-leafspot-on-Ginger-Gold-4-Jun-08-2d4hi2k.jpg",
+      "size": 2277596,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8683279281,
+      "category_id": 3,
+      "bbox": [
+        1949.0,
+        1117.0,
+        988.0,
+        552.0
+      ],
+      "area": 545376.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8683279281,
+      "category_id": 3,
+      "bbox": [
+        631.0,
+        1536.0,
+        487.0,
+        760.0
+      ],
+      "area": 370120.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8683279281,
+      "category_id": 3,
+      "bbox": [
+        2100.0,
+        666.0,
+        943.0,
+        597.0
+      ],
+      "area": 562971.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8683279281,
+      "category_id": 3,
+      "bbox": [
+        2761.0,
+        42.0,
+        646.0,
+        788.0
+      ],
+      "area": 509048.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "apple_rust_leaf",
+      "supercategory": "apple_rust_leaf"
+    }
+  ]
+}

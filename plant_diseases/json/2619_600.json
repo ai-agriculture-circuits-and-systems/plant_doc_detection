@@ -1,0 +1,126 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1205222041,
+      "width": 600,
+      "height": 398,
+      "file_name": "2619_600.jpg",
+      "size": 28843,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1205222041,
+      "category_id": 14,
+      "bbox": [
+        79.0,
+        140.0,
+        363.0,
+        240.0
+      ],
+      "area": 87120.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1205222041,
+      "category_id": 14,
+      "bbox": [
+        269.0,
+        1.0,
+        199.0,
+        176.0
+      ],
+      "area": 35024.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1205222041,
+      "category_id": 14,
+      "bbox": [
+        445.0,
+        121.0,
+        52.0,
+        76.0
+      ],
+      "area": 3952.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1205222041,
+      "category_id": 14,
+      "bbox": [
+        486.0,
+        232.0,
+        76.0,
+        97.0
+      ],
+      "area": 7372.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 1205222041,
+      "category_id": 14,
+      "bbox": [
+        498.0,
+        132.0,
+        68.0,
+        53.0
+      ],
+      "area": 3604.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 1205222041,
+      "category_id": 14,
+      "bbox": [
+        508.0,
+        1.0,
+        92.0,
+        128.0
+      ],
+      "area": 11776.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 1205222041,
+      "category_id": 14,
+      "bbox": [
+        529.0,
+        201.0,
+        71.0,
+        178.0
+      ],
+      "area": 12638.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 14,
+      "name": "potato_leaf_late_blight",
+      "supercategory": "potato_leaf_late_blight"
+    }
+  ]
+}

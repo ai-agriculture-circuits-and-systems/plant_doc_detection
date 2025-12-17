@@ -1,0 +1,204 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8492841834,
+      "width": 768,
+      "height": 1024,
+      "file_name": "Bell-pepper-plant.JPG.jpg",
+      "size": 296862,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8492841834,
+      "category_id": 4,
+      "bbox": [
+        314.0,
+        440.0,
+        130.0,
+        207.0
+      ],
+      "area": 26910.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8492841834,
+      "category_id": 4,
+      "bbox": [
+        463.0,
+        520.0,
+        268.0,
+        95.0
+      ],
+      "area": 25460.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8492841834,
+      "category_id": 4,
+      "bbox": [
+        578.0,
+        397.0,
+        190.0,
+        172.0
+      ],
+      "area": 32680.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8492841834,
+      "category_id": 4,
+      "bbox": [
+        513.0,
+        609.0,
+        186.0,
+        294.0
+      ],
+      "area": 54684.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8492841834,
+      "category_id": 4,
+      "bbox": [
+        50.0,
+        609.0,
+        258.0,
+        147.0
+      ],
+      "area": 37926.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 8492841834,
+      "category_id": 4,
+      "bbox": [
+        146.0,
+        472.0,
+        208.0,
+        125.0
+      ],
+      "area": 26000.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 8492841834,
+      "category_id": 4,
+      "bbox": [
+        207.0,
+        312.0,
+        200.0,
+        128.0
+      ],
+      "area": 25600.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 8492841834,
+      "category_id": 4,
+      "bbox": [
+        375.0,
+        265.0,
+        123.0,
+        144.0
+      ],
+      "area": 17712.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 8492841834,
+      "category_id": 4,
+      "bbox": [
+        495.0,
+        185.0,
+        93.0,
+        192.0
+      ],
+      "area": 17856.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 8492841834,
+      "category_id": 4,
+      "bbox": [
+        598.0,
+        26.0,
+        90.0,
+        233.0
+      ],
+      "area": 20970.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 8492841834,
+      "category_id": 4,
+      "bbox": [
+        377.0,
+        46.0,
+        120.0,
+        198.0
+      ],
+      "area": 23760.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 8492841834,
+      "category_id": 4,
+      "bbox": [
+        55.0,
+        300.0,
+        214.0,
+        107.0
+      ],
+      "area": 22898.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 8492841834,
+      "category_id": 4,
+      "bbox": [
+        36.0,
+        413.0,
+        219.0,
+        69.0
+      ],
+      "area": 15111.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 4,
+      "name": "bell_pepper_leaf",
+      "supercategory": "bell_pepper_leaf"
+    }
+  ]
+}

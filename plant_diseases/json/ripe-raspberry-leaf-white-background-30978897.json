@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7398129800,
+      "width": 1300,
+      "height": 1061,
+      "file_name": "ripe-raspberry-leaf-white-background-30978897.jpg",
+      "size": 306483,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7398129800,
+      "category_id": 15,
+      "bbox": [
+        880.0,
+        363.0,
+        350.0,
+        315.0
+      ],
+      "area": 110250.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7398129800,
+      "category_id": 15,
+      "bbox": [
+        719.0,
+        524.0,
+        317.0,
+        309.0
+      ],
+      "area": 97953.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7398129800,
+      "category_id": 15,
+      "bbox": [
+        663.0,
+        251.0,
+        269.0,
+        278.0
+      ],
+      "area": 74782.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

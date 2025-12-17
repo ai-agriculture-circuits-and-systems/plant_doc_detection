@@ -1,0 +1,139 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3112631694,
+      "width": 802,
+      "height": 602,
+      "file_name": "CRABAPPLE2_leaves.jpg",
+      "size": 100089,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3112631694,
+      "category_id": 2,
+      "bbox": [
+        304.0,
+        272.0,
+        138.0,
+        244.0
+      ],
+      "area": 33672.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3112631694,
+      "category_id": 2,
+      "bbox": [
+        486.0,
+        221.0,
+        162.0,
+        148.0
+      ],
+      "area": 23976.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3112631694,
+      "category_id": 2,
+      "bbox": [
+        609.0,
+        138.0,
+        193.0,
+        126.0
+      ],
+      "area": 24318.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3112631694,
+      "category_id": 2,
+      "bbox": [
+        552.0,
+        287.0,
+        129.0,
+        277.0
+      ],
+      "area": 35733.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 3112631694,
+      "category_id": 2,
+      "bbox": [
+        185.0,
+        313.0,
+        184.0,
+        94.0
+      ],
+      "area": 17296.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 3112631694,
+      "category_id": 2,
+      "bbox": [
+        310.0,
+        166.0,
+        66.0,
+        145.0
+      ],
+      "area": 9570.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 3112631694,
+      "category_id": 2,
+      "bbox": [
+        442.0,
+        38.0,
+        121.0,
+        119.0
+      ],
+      "area": 14399.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 3112631694,
+      "category_id": 2,
+      "bbox": [
+        471.0,
+        163.0,
+        97.0,
+        92.0
+      ],
+      "area": 8924.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "apple_leaf",
+      "supercategory": "apple_leaf"
+    }
+  ]
+}

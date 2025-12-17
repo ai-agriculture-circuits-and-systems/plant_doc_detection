@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6784012968,
+      "width": 1252,
+      "height": 1300,
+      "file_name": "leaf-raspberry-isolated-on-a-white-stock-photography-image-10106222-1625198.jpg",
+      "size": 157745,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6784012968,
+      "category_id": 16,
+      "bbox": [
+        456.0,
+        121.0,
+        346.0,
+        424.0
+      ],
+      "area": 146704.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6784012968,
+      "category_id": 16,
+      "bbox": [
+        564.0,
+        460.0,
+        396.0,
+        274.0
+      ],
+      "area": 108504.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6784012968,
+      "category_id": 16,
+      "bbox": [
+        198.0,
+        409.0,
+        365.0,
+        295.0
+      ],
+      "area": 107675.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 6784012968,
+      "category_id": 16,
+      "bbox": [
+        115.0,
+        760.0,
+        444.0,
+        319.0
+      ],
+      "area": 141636.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 6784012968,
+      "category_id": 16,
+      "bbox": [
+        567.0,
+        773.0,
+        487.0,
+        310.0
+      ],
+      "area": 150970.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 16,
+      "name": "soyabean_leaf",
+      "supercategory": "soyabean_leaf"
+    }
+  ]
+}

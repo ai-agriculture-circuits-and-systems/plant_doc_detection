@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6753748139,
+      "width": 683,
+      "height": 1024,
+      "file_name": "tomato-late-blight-foliar-lesions_Scot-Nelson_CC-BY-SA-2.0.jpg",
+      "size": 329352,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6753748139,
+      "category_id": 23,
+      "bbox": [
+        151.0,
+        236.0,
+        368.0,
+        695.0
+      ],
+      "area": 255760.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 23,
+      "name": "tomato_leaf_late_blight",
+      "supercategory": "tomato_leaf_late_blight"
+    }
+  ]
+}

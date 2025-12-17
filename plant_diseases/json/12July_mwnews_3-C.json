@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1597002164,
+      "width": 330,
+      "height": 219,
+      "file_name": "12July_mwnews_3-C.jpg",
+      "size": 29902,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1597002164,
+      "category_id": 19,
+      "bbox": [
+        62.0,
+        18.0,
+        86.0,
+        75.0
+      ],
+      "area": 6450.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1597002164,
+      "category_id": 19,
+      "bbox": [
+        113.0,
+        82.0,
+        189.0,
+        99.0
+      ],
+      "area": 18711.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1597002164,
+      "category_id": 19,
+      "bbox": [
+        89.0,
+        97.0,
+        46.0,
+        84.0
+      ],
+      "area": 3864.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1597002164,
+      "category_id": 19,
+      "bbox": [
+        247.0,
+        23.0,
+        83.0,
+        53.0
+      ],
+      "area": 4399.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 19,
+      "name": "tomato_early_blight_leaf",
+      "supercategory": "tomato_early_blight_leaf"
+    }
+  ]
+}

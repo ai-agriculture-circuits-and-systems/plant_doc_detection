@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2299452639,
+      "width": 800,
+      "height": 533,
+      "file_name": "Get-Rid-of-Mold-or-Powdery-Mildew-on-Squash-and-Cucumbers3-1.jpg",
+      "size": 185738,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2299452639,
+      "category_id": 17,
+      "bbox": [
+        183.0,
+        28.0,
+        617.0,
+        472.0
+      ],
+      "area": 291224.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 17,
+      "name": "squash_powdery_mildew_leaf",
+      "supercategory": "squash_powdery_mildew_leaf"
+    }
+  ]
+}

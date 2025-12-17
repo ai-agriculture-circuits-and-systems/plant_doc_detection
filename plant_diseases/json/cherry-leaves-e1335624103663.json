@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3933700629,
+      "width": 2000,
+      "height": 2666,
+      "file_name": "cherry-leaves-e1335624103663.jpg",
+      "size": 905343,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3933700629,
+      "category_id": 7,
+      "bbox": [
+        1082.0,
+        10.0,
+        614.0,
+        1067.0
+      ],
+      "area": 655138.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3933700629,
+      "category_id": 7,
+      "bbox": [
+        602.0,
+        1421.0,
+        757.0,
+        1245.0
+      ],
+      "area": 942465.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3933700629,
+      "category_id": 7,
+      "bbox": [
+        1.0,
+        924.0,
+        820.0,
+        569.0
+      ],
+      "area": 466580.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3933700629,
+      "category_id": 7,
+      "bbox": [
+        1.0,
+        374.0,
+        759.0,
+        539.0
+      ],
+      "area": 409101.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 3933700629,
+      "category_id": 7,
+      "bbox": [
+        402.0,
+        257.0,
+        625.0,
+        584.0
+      ],
+      "area": 365000.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 7,
+      "name": "cherry_leaf",
+      "supercategory": "cherry_leaf"
+    }
+  ]
+}

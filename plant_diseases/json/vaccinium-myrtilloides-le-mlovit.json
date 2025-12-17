@@ -1,0 +1,230 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1684684177,
+      "width": 1000,
+      "height": 750,
+      "file_name": "vaccinium-myrtilloides-le-mlovit.jpg",
+      "size": 300295,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1684684177,
+      "category_id": 6,
+      "bbox": [
+        165.0,
+        391.0,
+        268.0,
+        189.0
+      ],
+      "area": 50652.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1684684177,
+      "category_id": 6,
+      "bbox": [
+        296.0,
+        445.0,
+        172.0,
+        246.0
+      ],
+      "area": 42312.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1684684177,
+      "category_id": 6,
+      "bbox": [
+        440.0,
+        380.0,
+        288.0,
+        190.0
+      ],
+      "area": 54720.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1684684177,
+      "category_id": 6,
+      "bbox": [
+        632.0,
+        246.0,
+        144.0,
+        180.0
+      ],
+      "area": 25920.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 1684684177,
+      "category_id": 6,
+      "bbox": [
+        744.0,
+        211.0,
+        256.0,
+        173.0
+      ],
+      "area": 44288.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 1684684177,
+      "category_id": 6,
+      "bbox": [
+        478.0,
+        203.0,
+        268.0,
+        167.0
+      ],
+      "area": 44756.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 1684684177,
+      "category_id": 6,
+      "bbox": [
+        311.0,
+        187.0,
+        167.0,
+        217.0
+      ],
+      "area": 36239.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 1684684177,
+      "category_id": 6,
+      "bbox": [
+        253.0,
+        46.0,
+        180.0,
+        205.0
+      ],
+      "area": 36900.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 1684684177,
+      "category_id": 6,
+      "bbox": [
+        23.0,
+        1.0,
+        245.0,
+        92.0
+      ],
+      "area": 22540.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 1684684177,
+      "category_id": 6,
+      "bbox": [
+        92.0,
+        252.0,
+        156.0,
+        221.0
+      ],
+      "area": 34476.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 1684684177,
+      "category_id": 6,
+      "bbox": [
+        1.0,
+        480.0,
+        144.0,
+        133.0
+      ],
+      "area": 19152.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 1684684177,
+      "category_id": 6,
+      "bbox": [
+        80.0,
+        487.0,
+        152.0,
+        241.0
+      ],
+      "area": 36632.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 1684684177,
+      "category_id": 6,
+      "bbox": [
+        830.0,
+        101.0,
+        132.0,
+        165.0
+      ],
+      "area": 21780.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 1684684177,
+      "category_id": 6,
+      "bbox": [
+        540.0,
+        133.0,
+        193.0,
+        113.0
+      ],
+      "area": 21809.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 1684684177,
+      "category_id": 6,
+      "bbox": [
+        429.0,
+        15.0,
+        212.0,
+        110.0
+      ],
+      "area": 23320.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9459060913,
+      "width": 1024,
+      "height": 768,
+      "file_name": "IMG_1802-1024x768.jpg",
+      "size": 237454,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9459060913,
+      "category_id": 17,
+      "bbox": [
+        376.0,
+        1.0,
+        645.0,
+        547.0
+      ],
+      "area": 352815.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9459060913,
+      "category_id": 17,
+      "bbox": [
+        4.0,
+        1.0,
+        260.0,
+        245.0
+      ],
+      "area": 63700.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9459060913,
+      "category_id": 17,
+      "bbox": [
+        166.0,
+        5.0,
+        364.0,
+        284.0
+      ],
+      "area": 103376.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 17,
+      "name": "squash_powdery_mildew_leaf",
+      "supercategory": "squash_powdery_mildew_leaf"
+    }
+  ]
+}

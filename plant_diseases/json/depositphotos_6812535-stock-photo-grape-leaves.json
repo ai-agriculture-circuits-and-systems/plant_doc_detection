@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5345602508,
+      "width": 1024,
+      "height": 970,
+      "file_name": "depositphotos_6812535-stock-photo-grape-leaves.jpg",
+      "size": 91933,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5345602508,
+      "category_id": 28,
+      "bbox": [
+        46.0,
+        205.0,
+        240.0,
+        231.0
+      ],
+      "area": 55440.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5345602508,
+      "category_id": 28,
+      "bbox": [
+        241.0,
+        415.0,
+        130.0,
+        149.0
+      ],
+      "area": 19370.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5345602508,
+      "category_id": 28,
+      "bbox": [
+        658.0,
+        434.0,
+        167.0,
+        163.0
+      ],
+      "area": 27221.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 5345602508,
+      "category_id": 28,
+      "bbox": [
+        661.0,
+        1.0,
+        283.0,
+        295.0
+      ],
+      "area": 83485.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 5345602508,
+      "category_id": 28,
+      "bbox": [
+        342.0,
+        159.0,
+        257.0,
+        257.0
+      ],
+      "area": 66049.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 5345602508,
+      "category_id": 28,
+      "bbox": [
+        239.0,
+        6.0,
+        253.0,
+        245.0
+      ],
+      "area": 61985.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 28,
+      "name": "grape_leaf",
+      "supercategory": "grape_leaf"
+    }
+  ]
+}

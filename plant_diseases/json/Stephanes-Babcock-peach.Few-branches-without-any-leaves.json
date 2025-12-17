@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9075547734,
+      "width": 2448,
+      "height": 3264,
+      "file_name": "Stephanes-Babcock-peach.Few-branches-without-any-leaves.jpg",
+      "size": 2607472,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9075547734,
+      "category_id": 11,
+      "bbox": [
+        832.0,
+        2141.0,
+        307.0,
+        355.0
+      ],
+      "area": 108985.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9075547734,
+      "category_id": 11,
+      "bbox": [
+        673.0,
+        2596.0,
+        218.0,
+        324.0
+      ],
+      "area": 70632.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9075547734,
+      "category_id": 11,
+      "bbox": [
+        625.0,
+        1934.0,
+        217.0,
+        407.0
+      ],
+      "area": 88319.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "peach_leaf",
+      "supercategory": "peach_leaf"
+    }
+  ]
+}

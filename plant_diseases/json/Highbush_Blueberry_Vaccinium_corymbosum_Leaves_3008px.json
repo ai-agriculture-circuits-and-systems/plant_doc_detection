@@ -1,0 +1,256 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1077475321,
+      "width": 3008,
+      "height": 2000,
+      "file_name": "Highbush_Blueberry_Vaccinium_corymbosum_Leaves_3008px.jpg",
+      "size": 2912066,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1077475321,
+      "category_id": 6,
+      "bbox": [
+        1334.0,
+        891.0,
+        602.0,
+        774.0
+      ],
+      "area": 465948.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1077475321,
+      "category_id": 6,
+      "bbox": [
+        819.0,
+        860.0,
+        667.0,
+        474.0
+      ],
+      "area": 316158.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1077475321,
+      "category_id": 6,
+      "bbox": [
+        352.0,
+        632.0,
+        495.0,
+        546.0
+      ],
+      "area": 270270.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1077475321,
+      "category_id": 6,
+      "bbox": [
+        815.0,
+        582.0,
+        282.0,
+        420.0
+      ],
+      "area": 118440.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 1077475321,
+      "category_id": 6,
+      "bbox": [
+        1445.0,
+        182.0,
+        598.0,
+        250.0
+      ],
+      "area": 149500.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 1077475321,
+      "category_id": 6,
+      "bbox": [
+        1841.0,
+        271.0,
+        395.0,
+        524.0
+      ],
+      "area": 206980.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 1077475321,
+      "category_id": 6,
+      "bbox": [
+        2191.0,
+        471.0,
+        715.0,
+        339.0
+      ],
+      "area": 242385.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 1077475321,
+      "category_id": 6,
+      "bbox": [
+        2654.0,
+        643.0,
+        354.0,
+        532.0
+      ],
+      "area": 188328.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 1077475321,
+      "category_id": 6,
+      "bbox": [
+        2682.0,
+        1217.0,
+        326.0,
+        738.0
+      ],
+      "area": 240588.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 1077475321,
+      "category_id": 6,
+      "bbox": [
+        2399.0,
+        1088.0,
+        346.0,
+        661.0
+      ],
+      "area": 228706.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 1077475321,
+      "category_id": 6,
+      "bbox": [
+        1834.0,
+        1556.0,
+        565.0,
+        415.0
+      ],
+      "area": 234475.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 1077475321,
+      "category_id": 6,
+      "bbox": [
+        15.0,
+        1428.0,
+        530.0,
+        497.0
+      ],
+      "area": 263410.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 1077475321,
+      "category_id": 6,
+      "bbox": [
+        1106.0,
+        121.0,
+        335.0,
+        352.0
+      ],
+      "area": 117920.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 1077475321,
+      "category_id": 6,
+      "bbox": [
+        1308.0,
+        475.0,
+        137.0,
+        187.0
+      ],
+      "area": 25619.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 1077475321,
+      "category_id": 6,
+      "bbox": [
+        1426.0,
+        397.0,
+        328.0,
+        178.0
+      ],
+      "area": 58384.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 1077475321,
+      "category_id": 6,
+      "bbox": [
+        2071.0,
+        969.0,
+        415.0,
+        259.0
+      ],
+      "area": 107485.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 16,
+      "image_id": 1077475321,
+      "category_id": 6,
+      "bbox": [
+        2404.0,
+        930.0,
+        111.0,
+        152.0
+      ],
+      "area": 16872.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

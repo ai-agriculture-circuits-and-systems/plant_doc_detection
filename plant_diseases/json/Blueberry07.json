@@ -1,0 +1,217 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9584913255,
+      "width": 1600,
+      "height": 1062,
+      "file_name": "Blueberry07.jpg",
+      "size": 684180,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9584913255,
+      "category_id": 6,
+      "bbox": [
+        447.0,
+        248.0,
+        150.0,
+        203.0
+      ],
+      "area": 30450.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9584913255,
+      "category_id": 6,
+      "bbox": [
+        244.0,
+        243.0,
+        221.0,
+        179.0
+      ],
+      "area": 39559.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9584913255,
+      "category_id": 6,
+      "bbox": [
+        771.0,
+        326.0,
+        269.0,
+        120.0
+      ],
+      "area": 32280.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 9584913255,
+      "category_id": 6,
+      "bbox": [
+        1002.0,
+        426.0,
+        215.0,
+        101.0
+      ],
+      "area": 21715.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 9584913255,
+      "category_id": 6,
+      "bbox": [
+        1124.0,
+        526.0,
+        132.0,
+        156.0
+      ],
+      "area": 20592.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 9584913255,
+      "category_id": 6,
+      "bbox": [
+        1397.0,
+        404.0,
+        108.0,
+        215.0
+      ],
+      "area": 23220.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 9584913255,
+      "category_id": 6,
+      "bbox": [
+        1257.0,
+        638.0,
+        92.0,
+        207.0
+      ],
+      "area": 19044.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 9584913255,
+      "category_id": 6,
+      "bbox": [
+        890.0,
+        151.0,
+        109.0,
+        119.0
+      ],
+      "area": 12971.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 9584913255,
+      "category_id": 6,
+      "bbox": [
+        723.0,
+        144.0,
+        102.0,
+        112.0
+      ],
+      "area": 11424.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 9584913255,
+      "category_id": 6,
+      "bbox": [
+        571.0,
+        15.0,
+        119.0,
+        112.0
+      ],
+      "area": 13328.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 9584913255,
+      "category_id": 6,
+      "bbox": [
+        458.0,
+        163.0,
+        136.0,
+        92.0
+      ],
+      "area": 12512.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 9584913255,
+      "category_id": 6,
+      "bbox": [
+        1042.0,
+        60.0,
+        213.0,
+        118.0
+      ],
+      "area": 25134.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 9584913255,
+      "category_id": 6,
+      "bbox": [
+        1446.0,
+        140.0,
+        146.0,
+        213.0
+      ],
+      "area": 31098.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 9584913255,
+      "category_id": 6,
+      "bbox": [
+        1200.0,
+        80.0,
+        205.0,
+        168.0
+      ],
+      "area": 34440.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4694711680,
+      "width": 1500,
+      "height": 1101,
+      "file_name": "stock-photo-leaves-of-tomato-plant-isolated-on-white-12085288.jpg",
+      "size": 410719,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4694711680,
+      "category_id": 21,
+      "bbox": [
+        279.0,
+        410.0,
+        314.0,
+        529.0
+      ],
+      "area": 166106.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4694711680,
+      "category_id": 21,
+      "bbox": [
+        70.0,
+        459.0,
+        242.0,
+        401.0
+      ],
+      "area": 97042.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4694711680,
+      "category_id": 21,
+      "bbox": [
+        521.0,
+        330.0,
+        243.0,
+        487.0
+      ],
+      "area": 118341.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4694711680,
+      "category_id": 21,
+      "bbox": [
+        895.0,
+        505.0,
+        209.0,
+        307.0
+      ],
+      "area": 64163.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4694711680,
+      "category_id": 21,
+      "bbox": [
+        1080.0,
+        542.0,
+        290.0,
+        434.0
+      ],
+      "area": 125860.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 4694711680,
+      "category_id": 21,
+      "bbox": [
+        1107.0,
+        384.0,
+        380.0,
+        278.0
+      ],
+      "area": 105640.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 4694711680,
+      "category_id": 21,
+      "bbox": [
+        991.0,
+        198.0,
+        241.0,
+        307.0
+      ],
+      "area": 73987.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 4694711680,
+      "category_id": 21,
+      "bbox": [
+        820.0,
+        87.0,
+        239.0,
+        350.0
+      ],
+      "area": 83650.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 21,
+      "name": "tomato_leaf",
+      "supercategory": "tomato_leaf"
+    }
+  ]
+}

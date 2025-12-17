@@ -1,0 +1,126 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9119668036,
+      "width": 400,
+      "height": 226,
+      "file_name": "NorthernCornLeafBlight.jpg",
+      "size": 156706,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9119668036,
+      "category_id": 9,
+      "bbox": [
+        12.0,
+        60.0,
+        194.0,
+        71.0
+      ],
+      "area": 13774.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9119668036,
+      "category_id": 9,
+      "bbox": [
+        32.0,
+        132.0,
+        181.0,
+        54.0
+      ],
+      "area": 9774.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9119668036,
+      "category_id": 9,
+      "bbox": [
+        174.0,
+        47.0,
+        189.0,
+        42.0
+      ],
+      "area": 7938.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 9119668036,
+      "category_id": 9,
+      "bbox": [
+        241.0,
+        84.0,
+        122.0,
+        117.0
+      ],
+      "area": 14274.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 9119668036,
+      "category_id": 9,
+      "bbox": [
+        234.0,
+        153.0,
+        54.0,
+        73.0
+      ],
+      "area": 3942.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 9119668036,
+      "category_id": 9,
+      "bbox": [
+        152.0,
+        94.0,
+        124.0,
+        36.0
+      ],
+      "area": 4464.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 9119668036,
+      "category_id": 9,
+      "bbox": [
+        1.0,
+        65.0,
+        143.0,
+        57.0
+      ],
+      "area": 8151.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 9,
+      "name": "corn_leaf_blight",
+      "supercategory": "corn_leaf_blight"
+    }
+  ]
+}

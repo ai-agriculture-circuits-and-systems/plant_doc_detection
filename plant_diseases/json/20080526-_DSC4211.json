@@ -1,0 +1,157 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1283143116,
+      "width": 465,
+      "height": 700,
+      "file_name": "20080526-_DSC4211.jpg",
+      "size": 110859,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1283143116,
+      "category_id": 19,
+      "bbox": [
+        72.0,
+        384.0,
+        68.0,
+        135.0
+      ],
+      "area": 9180.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1283143116,
+      "category_id": 19,
+      "bbox": [
+        149.0,
+        442.0,
+        90.0,
+        141.0
+      ],
+      "area": 12690.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1283143116,
+      "category_id": 19,
+      "bbox": [
+        251.0,
+        421.0,
+        99.0,
+        131.0
+      ],
+      "area": 12969.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1283143116,
+      "category_id": 19,
+      "bbox": [
+        118.0,
+        314.0,
+        72.0,
+        78.0
+      ],
+      "area": 5616.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 1283143116,
+      "category_id": 19,
+      "bbox": [
+        223.0,
+        192.0,
+        50.0,
+        64.0
+      ],
+      "area": 3200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 1283143116,
+      "category_id": 19,
+      "bbox": [
+        309.0,
+        144.0,
+        36.0,
+        51.0
+      ],
+      "area": 1836.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 1283143116,
+      "category_id": 21,
+      "bbox": [
+        166.0,
+        22.0,
+        66.0,
+        113.0
+      ],
+      "area": 7458.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 1283143116,
+      "category_id": 21,
+      "bbox": [
+        69.0,
+        25.0,
+        90.0,
+        46.0
+      ],
+      "area": 4140.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 1283143116,
+      "category_id": 21,
+      "bbox": [
+        98.0,
+        119.0,
+        69.0,
+        95.0
+      ],
+      "area": 6555.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 19,
+      "name": "tomato_early_blight_leaf",
+      "supercategory": "tomato_early_blight_leaf"
+    },
+    {
+      "id": 21,
+      "name": "tomato_leaf",
+      "supercategory": "tomato_leaf"
+    }
+  ]
+}

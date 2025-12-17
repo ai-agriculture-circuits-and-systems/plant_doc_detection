@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9234571559,
+      "width": 886,
+      "height": 1390,
+      "file_name": "agriculture-crop-disease-northern-corn-leaf-blight-fungus-exserohilum-FRA00E.jpg",
+      "size": 169344,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9234571559,
+      "category_id": 9,
+      "bbox": [
+        78.0,
+        161.0,
+        808.0,
+        728.0
+      ],
+      "area": 588224.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9234571559,
+      "category_id": 9,
+      "bbox": [
+        173.0,
+        311.0,
+        263.0,
+        901.0
+      ],
+      "area": 236963.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9234571559,
+      "category_id": 9,
+      "bbox": [
+        46.0,
+        5.0,
+        207.0,
+        513.0
+      ],
+      "area": 106191.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 9,
+      "name": "corn_leaf_blight",
+      "supercategory": "corn_leaf_blight"
+    }
+  ]
+}

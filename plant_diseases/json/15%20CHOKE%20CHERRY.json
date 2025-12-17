@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7050952290,
+      "width": 2048,
+      "height": 1536,
+      "file_name": "15%20CHOKE%20CHERRY.jpg",
+      "size": 613606,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7050952290,
+      "category_id": 7,
+      "bbox": [
+        584.0,
+        427.0,
+        630.0,
+        714.0
+      ],
+      "area": 449820.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7050952290,
+      "category_id": 7,
+      "bbox": [
+        1160.0,
+        744.0,
+        449.0,
+        729.0
+      ],
+      "area": 327321.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7050952290,
+      "category_id": 7,
+      "bbox": [
+        1382.0,
+        498.0,
+        569.0,
+        538.0
+      ],
+      "area": 306122.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 7050952290,
+      "category_id": 7,
+      "bbox": [
+        1124.0,
+        30.0,
+        676.0,
+        333.0
+      ],
+      "area": 225108.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 7050952290,
+      "category_id": 7,
+      "bbox": [
+        681.0,
+        4.0,
+        374.0,
+        453.0
+      ],
+      "area": 169422.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 7,
+      "name": "cherry_leaf",
+      "supercategory": "cherry_leaf"
+    }
+  ]
+}

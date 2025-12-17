@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9421188380,
+      "width": 745,
+      "height": 497,
+      "file_name": "Apple%20scab%20-%20late%20season%20infection%20on%20petiole%20and%20leaf%20underside.JPG.jpg",
+      "size": 227827,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9421188380,
+      "category_id": 1,
+      "bbox": [
+        471.0,
+        223.0,
+        274.0,
+        218.0
+      ],
+      "area": 59732.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "apple_scab_leaf",
+      "supercategory": "apple_scab_leaf"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9547333937,
+      "width": 2400,
+      "height": 1800,
+      "file_name": "bacterial-speck-tomato1x2400-275mmny.jpg",
+      "size": 2331870,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9547333937,
+      "category_id": 22,
+      "bbox": [
+        556.0,
+        398.0,
+        1820.0,
+        1386.0
+      ],
+      "area": 2522520.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9547333937,
+      "category_id": 22,
+      "bbox": [
+        1.0,
+        15.0,
+        1187.0,
+        1167.0
+      ],
+      "area": 1385229.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9547333937,
+      "category_id": 22,
+      "bbox": [
+        1685.0,
+        7.0,
+        462.0,
+        550.0
+      ],
+      "area": 254100.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 22,
+      "name": "tomato_leaf_bacterial_spot",
+      "supercategory": "tomato_leaf_bacterial_spot"
+    }
+  ]
+}

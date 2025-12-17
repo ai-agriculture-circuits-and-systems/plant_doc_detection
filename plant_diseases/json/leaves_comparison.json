@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8152381504,
+      "width": 3072,
+      "height": 2048,
+      "file_name": "leaves_comparison.jpg",
+      "size": 2298042,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8152381504,
+      "category_id": 18,
+      "bbox": [
+        691.0,
+        380.0,
+        671.0,
+        906.0
+      ],
+      "area": 607926.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8152381504,
+      "category_id": 18,
+      "bbox": [
+        1036.0,
+        876.0,
+        858.0,
+        800.0
+      ],
+      "area": 686400.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8152381504,
+      "category_id": 18,
+      "bbox": [
+        210.0,
+        883.0,
+        832.0,
+        729.0
+      ],
+      "area": 606528.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8152381504,
+      "category_id": 18,
+      "bbox": [
+        1881.0,
+        286.0,
+        1055.0,
+        1019.0
+      ],
+      "area": 1075045.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 18,
+      "name": "strawberry_leaf",
+      "supercategory": "strawberry_leaf"
+    }
+  ]
+}

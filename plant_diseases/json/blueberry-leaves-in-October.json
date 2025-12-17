@@ -1,0 +1,217 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1104722725,
+      "width": 1024,
+      "height": 683,
+      "file_name": "blueberry-leaves-in-October.jpg",
+      "size": 107900,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1104722725,
+      "category_id": 6,
+      "bbox": [
+        360.0,
+        269.0,
+        275.0,
+        202.0
+      ],
+      "area": 55550.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1104722725,
+      "category_id": 6,
+      "bbox": [
+        634.0,
+        271.0,
+        312.0,
+        176.0
+      ],
+      "area": 54912.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1104722725,
+      "category_id": 6,
+      "bbox": [
+        465.0,
+        1.0,
+        232.0,
+        349.0
+      ],
+      "area": 80968.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1104722725,
+      "category_id": 6,
+      "bbox": [
+        254.0,
+        94.0,
+        187.0,
+        287.0
+      ],
+      "area": 53669.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 1104722725,
+      "category_id": 6,
+      "bbox": [
+        3.0,
+        200.0,
+        286.0,
+        161.0
+      ],
+      "area": 46046.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 1104722725,
+      "category_id": 6,
+      "bbox": [
+        110.0,
+        342.0,
+        238.0,
+        122.0
+      ],
+      "area": 29036.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 1104722725,
+      "category_id": 6,
+      "bbox": [
+        151.0,
+        417.0,
+        240.0,
+        225.0
+      ],
+      "area": 54000.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 1104722725,
+      "category_id": 6,
+      "bbox": [
+        400.0,
+        436.0,
+        220.0,
+        226.0
+      ],
+      "area": 49720.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 1104722725,
+      "category_id": 6,
+      "bbox": [
+        719.0,
+        413.0,
+        213.0,
+        163.0
+      ],
+      "area": 34719.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 1104722725,
+      "category_id": 6,
+      "bbox": [
+        851.0,
+        519.0,
+        158.0,
+        164.0
+      ],
+      "area": 25912.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 1104722725,
+      "category_id": 6,
+      "bbox": [
+        758.0,
+        131.0,
+        204.0,
+        118.0
+      ],
+      "area": 24072.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 1104722725,
+      "category_id": 6,
+      "bbox": [
+        323.0,
+        53.0,
+        166.0,
+        119.0
+      ],
+      "area": 19754.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 1104722725,
+      "category_id": 6,
+      "bbox": [
+        792.0,
+        2.0,
+        97.0,
+        129.0
+      ],
+      "area": 12513.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 1104722725,
+      "category_id": 6,
+      "bbox": [
+        666.0,
+        80.0,
+        162.0,
+        84.0
+      ],
+      "area": 13608.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

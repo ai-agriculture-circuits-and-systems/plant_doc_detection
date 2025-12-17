@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3855602754,
+      "width": 640,
+      "height": 489,
+      "file_name": "soybeans-glycine-max-with-leaves-e1hkcy.jpg",
+      "size": 59631,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3855602754,
+      "category_id": 16,
+      "bbox": [
+        45.0,
+        95.0,
+        167.0,
+        124.0
+      ],
+      "area": 20708.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3855602754,
+      "category_id": 16,
+      "bbox": [
+        202.0,
+        224.0,
+        105.0,
+        146.0
+      ],
+      "area": 15330.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3855602754,
+      "category_id": 16,
+      "bbox": [
+        218.0,
+        107.0,
+        101.0,
+        112.0
+      ],
+      "area": 11312.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3855602754,
+      "category_id": 16,
+      "bbox": [
+        220.0,
+        34.0,
+        95.0,
+        99.0
+      ],
+      "area": 9405.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 3855602754,
+      "category_id": 16,
+      "bbox": [
+        455.0,
+        24.0,
+        81.0,
+        88.0
+      ],
+      "area": 7128.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 16,
+      "name": "soyabean_leaf",
+      "supercategory": "soyabean_leaf"
+    }
+  ]
+}

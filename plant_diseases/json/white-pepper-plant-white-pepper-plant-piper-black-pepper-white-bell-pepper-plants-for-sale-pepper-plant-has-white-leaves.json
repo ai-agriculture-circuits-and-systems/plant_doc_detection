@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3004578482,
+      "width": 700,
+      "height": 525,
+      "file_name": "white-pepper-plant-white-pepper-plant-piper-black-pepper-white-bell-pepper-plants-for-sale-pepper-plant-has-white-leaves.jpg",
+      "size": 56959,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3004578482,
+      "category_id": 4,
+      "bbox": [
+        278.0,
+        39.0,
+        304.0,
+        143.0
+      ],
+      "area": 43472.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3004578482,
+      "category_id": 4,
+      "bbox": [
+        146.0,
+        141.0,
+        121.0,
+        200.0
+      ],
+      "area": 24200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3004578482,
+      "category_id": 4,
+      "bbox": [
+        260.0,
+        229.0,
+        140.0,
+        296.0
+      ],
+      "area": 41440.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3004578482,
+      "category_id": 4,
+      "bbox": [
+        398.0,
+        143.0,
+        247.0,
+        187.0
+      ],
+      "area": 46189.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 3004578482,
+      "category_id": 4,
+      "bbox": [
+        45.0,
+        396.0,
+        185.0,
+        129.0
+      ],
+      "area": 23865.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 4,
+      "name": "bell_pepper_leaf",
+      "supercategory": "bell_pepper_leaf"
+    }
+  ]
+}

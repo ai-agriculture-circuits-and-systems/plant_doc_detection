@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5702085101,
+      "width": 450,
+      "height": 448,
+      "file_name": "stock-photo-fresh-ripe-blueberries-with-leaves-on-white-background-125173964.jpg",
+      "size": 43790,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5702085101,
+      "category_id": 6,
+      "bbox": [
+        27.0,
+        105.0,
+        133.0,
+        192.0
+      ],
+      "area": 25536.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5702085101,
+      "category_id": 6,
+      "bbox": [
+        157.0,
+        10.0,
+        119.0,
+        246.0
+      ],
+      "area": 29274.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5702085101,
+      "category_id": 6,
+      "bbox": [
+        187.0,
+        199.0,
+        247.0,
+        107.0
+      ],
+      "area": 26429.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

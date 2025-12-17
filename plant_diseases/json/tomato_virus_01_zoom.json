@@ -1,0 +1,126 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1141387114,
+      "width": 386,
+      "height": 263,
+      "file_name": "tomato_virus_01_zoom.jpg",
+      "size": 36062,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1141387114,
+      "category_id": 24,
+      "bbox": [
+        192.0,
+        156.0,
+        30.0,
+        49.0
+      ],
+      "area": 1470.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1141387114,
+      "category_id": 24,
+      "bbox": [
+        128.0,
+        83.0,
+        30.0,
+        65.0
+      ],
+      "area": 1950.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1141387114,
+      "category_id": 24,
+      "bbox": [
+        21.0,
+        129.0,
+        83.0,
+        57.0
+      ],
+      "area": 4731.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1141387114,
+      "category_id": 24,
+      "bbox": [
+        170.0,
+        45.0,
+        69.0,
+        89.0
+      ],
+      "area": 6141.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 1141387114,
+      "category_id": 24,
+      "bbox": [
+        220.0,
+        133.0,
+        94.0,
+        86.0
+      ],
+      "area": 8084.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 1141387114,
+      "category_id": 24,
+      "bbox": [
+        252.0,
+        112.0,
+        89.0,
+        63.0
+      ],
+      "area": 5607.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 1141387114,
+      "category_id": 24,
+      "bbox": [
+        269.0,
+        69.0,
+        102.0,
+        63.0
+      ],
+      "area": 6426.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 24,
+      "name": "tomato_leaf_mosaic_virus",
+      "supercategory": "tomato_leaf_mosaic_virus"
+    }
+  ]
+}

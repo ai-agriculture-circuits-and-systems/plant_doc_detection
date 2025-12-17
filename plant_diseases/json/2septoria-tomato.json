@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8644526950,
+      "width": 430,
+      "height": 290,
+      "file_name": "2septoria-tomato.jpg",
+      "size": 34536,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8644526950,
+      "category_id": 20,
+      "bbox": [
+        27.0,
+        14.0,
+        288.0,
+        254.0
+      ],
+      "area": 73152.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8644526950,
+      "category_id": 20,
+      "bbox": [
+        198.0,
+        104.0,
+        205.0,
+        177.0
+      ],
+      "area": 36285.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 20,
+      "name": "tomato_septoria_leaf_spot",
+      "supercategory": "tomato_septoria_leaf_spot"
+    }
+  ]
+}

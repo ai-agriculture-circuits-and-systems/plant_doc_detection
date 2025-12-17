@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7333164282,
+      "width": 1920,
+      "height": 1440,
+      "file_name": "feuille-de-framboisier.jpg",
+      "size": 450131,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7333164282,
+      "category_id": 15,
+      "bbox": [
+        1011.0,
+        547.0,
+        804.0,
+        682.0
+      ],
+      "area": 548328.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7333164282,
+      "category_id": 15,
+      "bbox": [
+        735.0,
+        641.0,
+        394.0,
+        747.0
+      ],
+      "area": 294318.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7333164282,
+      "category_id": 15,
+      "bbox": [
+        893.0,
+        239.0,
+        475.0,
+        406.0
+      ],
+      "area": 192850.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 7333164282,
+      "category_id": 15,
+      "bbox": [
+        270.0,
+        547.0,
+        578.0,
+        745.0
+      ],
+      "area": 430610.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 7333164282,
+      "category_id": 15,
+      "bbox": [
+        444.0,
+        110.0,
+        540.0,
+        449.0
+      ],
+      "area": 242460.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

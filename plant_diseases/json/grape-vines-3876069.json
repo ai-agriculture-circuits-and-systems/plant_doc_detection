@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1776483134,
+      "width": 1300,
+      "height": 913,
+      "file_name": "grape-vines-3876069.jpg",
+      "size": 94128,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1776483134,
+      "category_id": 28,
+      "bbox": [
+        386.0,
+        452.0,
+        366.0,
+        336.0
+      ],
+      "area": 122976.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1776483134,
+      "category_id": 28,
+      "bbox": [
+        758.0,
+        360.0,
+        275.0,
+        261.0
+      ],
+      "area": 71775.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1776483134,
+      "category_id": 28,
+      "bbox": [
+        873.0,
+        209.0,
+        192.0,
+        172.0
+      ],
+      "area": 33024.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1776483134,
+      "category_id": 28,
+      "bbox": [
+        547.0,
+        112.0,
+        309.0,
+        325.0
+      ],
+      "area": 100425.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 1776483134,
+      "category_id": 28,
+      "bbox": [
+        255.0,
+        190.0,
+        283.0,
+        278.0
+      ],
+      "area": 78674.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 28,
+      "name": "grape_leaf",
+      "supercategory": "grape_leaf"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5172020870,
+      "width": 3648,
+      "height": 2736,
+      "file_name": "Red-Blueberry-Leaves.jpg",
+      "size": 4185988,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5172020870,
+      "category_id": 6,
+      "bbox": [
+        2192.0,
+        739.0,
+        403.0,
+        569.0
+      ],
+      "area": 229307.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5172020870,
+      "category_id": 6,
+      "bbox": [
+        992.0,
+        1176.0,
+        443.0,
+        266.0
+      ],
+      "area": 117838.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5172020870,
+      "category_id": 6,
+      "bbox": [
+        1440.0,
+        1242.0,
+        352.0,
+        543.0
+      ],
+      "area": 191136.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 5172020870,
+      "category_id": 6,
+      "bbox": [
+        1263.0,
+        2093.0,
+        349.0,
+        292.0
+      ],
+      "area": 101908.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 5172020870,
+      "category_id": 6,
+      "bbox": [
+        1154.0,
+        2411.0,
+        295.0,
+        325.0
+      ],
+      "area": 95875.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 5172020870,
+      "category_id": 6,
+      "bbox": [
+        1800.0,
+        2428.0,
+        503.0,
+        303.0
+      ],
+      "area": 152409.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 5172020870,
+      "category_id": 6,
+      "bbox": [
+        1906.0,
+        1648.0,
+        340.0,
+        257.0
+      ],
+      "area": 87380.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 5172020870,
+      "category_id": 6,
+      "bbox": [
+        2017.0,
+        1948.0,
+        252.0,
+        328.0
+      ],
+      "area": 82656.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 5172020870,
+      "category_id": 6,
+      "bbox": [
+        3057.0,
+        616.0,
+        315.0,
+        566.0
+      ],
+      "area": 178290.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 5172020870,
+      "category_id": 6,
+      "bbox": [
+        2960.0,
+        1096.0,
+        437.0,
+        332.0
+      ],
+      "area": 145084.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

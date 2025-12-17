@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4058714577,
+      "width": 480,
+      "height": 320,
+      "file_name": "BacterialSpot08.jpg",
+      "size": 32469,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4058714577,
+      "category_id": 5,
+      "bbox": [
+        59.0,
+        90.0,
+        160.0,
+        193.0
+      ],
+      "area": 30880.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4058714577,
+      "category_id": 5,
+      "bbox": [
+        366.0,
+        96.0,
+        87.0,
+        224.0
+      ],
+      "area": 19488.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4058714577,
+      "category_id": 5,
+      "bbox": [
+        208.0,
+        104.0,
+        102.0,
+        102.0
+      ],
+      "area": 10404.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4058714577,
+      "category_id": 5,
+      "bbox": [
+        191.0,
+        30.0,
+        86.0,
+        80.0
+      ],
+      "area": 6880.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4058714577,
+      "category_id": 5,
+      "bbox": [
+        104.0,
+        12.0,
+        84.0,
+        83.0
+      ],
+      "area": 6972.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 4058714577,
+      "category_id": 5,
+      "bbox": [
+        287.0,
+        1.0,
+        125.0,
+        71.0
+      ],
+      "area": 8875.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 5,
+      "name": "bell_pepper_leaf_spot",
+      "supercategory": "bell_pepper_leaf_spot"
+    }
+  ]
+}

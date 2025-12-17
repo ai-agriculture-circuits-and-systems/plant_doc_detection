@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2923050797,
+      "width": 450,
+      "height": 392,
+      "file_name": "stock-photo-apple-leaves-isolated-on-white-background-232913425.jpg",
+      "size": 52943,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2923050797,
+      "category_id": 2,
+      "bbox": [
+        21.0,
+        20.0,
+        229.0,
+        169.0
+      ],
+      "area": 38701.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2923050797,
+      "category_id": 2,
+      "bbox": [
+        229.0,
+        22.0,
+        221.0,
+        153.0
+      ],
+      "area": 33813.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2923050797,
+      "category_id": 2,
+      "bbox": [
+        14.0,
+        199.0,
+        227.0,
+        168.0
+      ],
+      "area": 38136.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "apple_leaf",
+      "supercategory": "apple_leaf"
+    }
+  ]
+}

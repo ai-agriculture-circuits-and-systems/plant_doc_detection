@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4266878679,
+      "width": 1500,
+      "height": 1600,
+      "file_name": "stock-photo-peach-tree-leaf-isolated-over-white-background-back-side-64472731.jpg",
+      "size": 320079,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4266878679,
+      "category_id": 11,
+      "bbox": [
+        529.0,
+        28.0,
+        435.0,
+        1341.0
+      ],
+      "area": 583335.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "peach_leaf",
+      "supercategory": "peach_leaf"
+    }
+  ]
+}

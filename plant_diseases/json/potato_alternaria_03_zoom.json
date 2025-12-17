@@ -1,0 +1,126 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6325977310,
+      "width": 900,
+      "height": 743,
+      "file_name": "potato_alternaria_03_zoom.jpg",
+      "size": 179886,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6325977310,
+      "category_id": 13,
+      "bbox": [
+        526.0,
+        268.0,
+        337.0,
+        255.0
+      ],
+      "area": 85935.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6325977310,
+      "category_id": 13,
+      "bbox": [
+        365.0,
+        403.0,
+        296.0,
+        293.0
+      ],
+      "area": 86728.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6325977310,
+      "category_id": 13,
+      "bbox": [
+        195.0,
+        451.0,
+        271.0,
+        292.0
+      ],
+      "area": 79132.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 6325977310,
+      "category_id": 13,
+      "bbox": [
+        354.0,
+        54.0,
+        317.0,
+        291.0
+      ],
+      "area": 92247.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 6325977310,
+      "category_id": 13,
+      "bbox": [
+        150.0,
+        2.0,
+        222.0,
+        394.0
+      ],
+      "area": 87468.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 6325977310,
+      "category_id": 13,
+      "bbox": [
+        50.0,
+        457.0,
+        148.0,
+        256.0
+      ],
+      "area": 37888.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 6325977310,
+      "category_id": 13,
+      "bbox": [
+        1.0,
+        52.0,
+        158.0,
+        166.0
+      ],
+      "area": 26228.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 13,
+      "name": "potato_leaf_early_blight",
+      "supercategory": "potato_leaf_early_blight"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5431798912,
+      "width": 259,
+      "height": 194,
+      "file_name": "leaf%20curl_3.jpg",
+      "size": 9974,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5431798912,
+      "category_id": 25,
+      "bbox": [
+        25.0,
+        1.0,
+        43.0,
+        33.0
+      ],
+      "area": 1419.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5431798912,
+      "category_id": 25,
+      "bbox": [
+        34.0,
+        134.0,
+        19.0,
+        30.0
+      ],
+      "area": 570.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5431798912,
+      "category_id": 25,
+      "bbox": [
+        19.0,
+        82.0,
+        36.0,
+        46.0
+      ],
+      "area": 1656.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 5431798912,
+      "category_id": 25,
+      "bbox": [
+        61.0,
+        75.0,
+        37.0,
+        75.0
+      ],
+      "area": 2775.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 5431798912,
+      "category_id": 25,
+      "bbox": [
+        70.0,
+        15.0,
+        32.0,
+        49.0
+      ],
+      "area": 1568.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 5431798912,
+      "category_id": 25,
+      "bbox": [
+        110.0,
+        23.0,
+        35.0,
+        45.0
+      ],
+      "area": 1575.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 5431798912,
+      "category_id": 25,
+      "bbox": [
+        86.0,
+        82.0,
+        29.0,
+        42.0
+      ],
+      "area": 1218.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 5431798912,
+      "category_id": 25,
+      "bbox": [
+        180.0,
+        73.0,
+        79.0,
+        80.0
+      ],
+      "area": 6320.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 5431798912,
+      "category_id": 25,
+      "bbox": [
+        134.0,
+        3.0,
+        75.0,
+        83.0
+      ],
+      "area": 6225.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 5431798912,
+      "category_id": 25,
+      "bbox": [
+        107.0,
+        95.0,
+        51.0,
+        99.0
+      ],
+      "area": 5049.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 25,
+      "name": "tomato_leaf_yellow_virus",
+      "supercategory": "tomato_leaf_yellow_virus"
+    }
+  ]
+}

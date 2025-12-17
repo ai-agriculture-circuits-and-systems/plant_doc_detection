@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1268167890,
+      "width": 667,
+      "height": 1000,
+      "file_name": "prunus-avium-le-rvid-c.jpg",
+      "size": 164773,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1268167890,
+      "category_id": 7,
+      "bbox": [
+        226.0,
+        454.0,
+        365.0,
+        461.0
+      ],
+      "area": 168265.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1268167890,
+      "category_id": 7,
+      "bbox": [
+        402.0,
+        344.0,
+        265.0,
+        265.0
+      ],
+      "area": 70225.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1268167890,
+      "category_id": 7,
+      "bbox": [
+        238.0,
+        11.0,
+        283.0,
+        303.0
+      ],
+      "area": 85749.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1268167890,
+      "category_id": 7,
+      "bbox": [
+        1.0,
+        243.0,
+        196.0,
+        215.0
+      ],
+      "area": 42140.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 1268167890,
+      "category_id": 7,
+      "bbox": [
+        61.0,
+        428.0,
+        158.0,
+        256.0
+      ],
+      "area": 40448.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 1268167890,
+      "category_id": 7,
+      "bbox": [
+        109.0,
+        623.0,
+        306.0,
+        377.0
+      ],
+      "area": 115362.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 7,
+      "name": "cherry_leaf",
+      "supercategory": "cherry_leaf"
+    }
+  ]
+}

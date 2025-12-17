@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6065149149,
+      "width": 539,
+      "height": 445,
+      "file_name": "Figure%202%20Foliar%20symptoms%20of%20similar%20diseases%20to%20Goss.jpg",
+      "size": 44936,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6065149149,
+      "category_id": 9,
+      "bbox": [
+        10.0,
+        2.0,
+        136.0,
+        349.0
+      ],
+      "area": 47464.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6065149149,
+      "category_id": 9,
+      "bbox": [
+        154.0,
+        2.0,
+        136.0,
+        333.0
+      ],
+      "area": 45288.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6065149149,
+      "category_id": 9,
+      "bbox": [
+        293.0,
+        1.0,
+        133.0,
+        328.0
+      ],
+      "area": 43624.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 6065149149,
+      "category_id": 9,
+      "bbox": [
+        409.0,
+        1.0,
+        130.0,
+        332.0
+      ],
+      "area": 43160.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 9,
+      "name": "corn_leaf_blight",
+      "supercategory": "corn_leaf_blight"
+    }
+  ]
+}

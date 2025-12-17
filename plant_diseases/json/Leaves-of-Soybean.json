@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6558057433,
+      "width": 2592,
+      "height": 1944,
+      "file_name": "Leaves-of-Soybean.jpg",
+      "size": 1741979,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6558057433,
+      "category_id": 16,
+      "bbox": [
+        246.0,
+        631.0,
+        1087.0,
+        851.0
+      ],
+      "area": 925037.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6558057433,
+      "category_id": 16,
+      "bbox": [
+        1266.0,
+        851.0,
+        743.0,
+        1029.0
+      ],
+      "area": 764547.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6558057433,
+      "category_id": 16,
+      "bbox": [
+        1094.0,
+        1.0,
+        700.0,
+        820.0
+      ],
+      "area": 574000.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 6558057433,
+      "category_id": 16,
+      "bbox": [
+        1754.0,
+        447.0,
+        838.0,
+        491.0
+      ],
+      "area": 411458.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 16,
+      "name": "soyabean_leaf",
+      "supercategory": "soyabean_leaf"
+    }
+  ]
+}

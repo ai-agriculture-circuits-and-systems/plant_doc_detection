@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2700309068,
+      "width": 450,
+      "height": 470,
+      "file_name": "stock-photo-peach-wet-fruit-with-leaf-isolated-on-white-248733745.jpg",
+      "size": 65394,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2700309068,
+      "category_id": 11,
+      "bbox": [
+        254.0,
+        128.0,
+        155.0,
+        227.0
+      ],
+      "area": 35185.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2700309068,
+      "category_id": 11,
+      "bbox": [
+        258.0,
+        88.0,
+        173.0,
+        74.0
+      ],
+      "area": 12802.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "peach_leaf",
+      "supercategory": "peach_leaf"
+    }
+  ]
+}

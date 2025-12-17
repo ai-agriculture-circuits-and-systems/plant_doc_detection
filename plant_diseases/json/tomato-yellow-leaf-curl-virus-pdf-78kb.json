@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7845265636,
+      "width": 358,
+      "height": 253,
+      "file_name": "tomato-yellow-leaf-curl-virus-pdf-78kb.jpg",
+      "size": 22305,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7845265636,
+      "category_id": 25,
+      "bbox": [
+        216.0,
+        158.0,
+        27.0,
+        25.0
+      ],
+      "area": 675.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7845265636,
+      "category_id": 25,
+      "bbox": [
+        257.0,
+        155.0,
+        45.0,
+        44.0
+      ],
+      "area": 1980.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7845265636,
+      "category_id": 25,
+      "bbox": [
+        192.0,
+        96.0,
+        28.0,
+        35.0
+      ],
+      "area": 980.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 7845265636,
+      "category_id": 25,
+      "bbox": [
+        256.0,
+        76.0,
+        44.0,
+        41.0
+      ],
+      "area": 1804.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 7845265636,
+      "category_id": 25,
+      "bbox": [
+        229.0,
+        61.0,
+        34.0,
+        31.0
+      ],
+      "area": 1054.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 7845265636,
+      "category_id": 25,
+      "bbox": [
+        217.0,
+        96.0,
+        24.0,
+        27.0
+      ],
+      "area": 648.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 25,
+      "name": "tomato_leaf_yellow_virus",
+      "supercategory": "tomato_leaf_yellow_virus"
+    }
+  ]
+}

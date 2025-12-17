@@ -1,0 +1,139 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9132791072,
+      "width": 1500,
+      "height": 1434,
+      "file_name": "stock-photo-blueberry-heap-with-green-leaves-close-up-macro-isolated-on-white-background-83867578.jpg",
+      "size": 606239,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9132791072,
+      "category_id": 6,
+      "bbox": [
+        14.0,
+        96.0,
+        272.0,
+        334.0
+      ],
+      "area": 90848.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9132791072,
+      "category_id": 6,
+      "bbox": [
+        315.0,
+        121.0,
+        294.0,
+        348.0
+      ],
+      "area": 102312.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9132791072,
+      "category_id": 6,
+      "bbox": [
+        71.0,
+        442.0,
+        401.0,
+        241.0
+      ],
+      "area": 96641.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 9132791072,
+      "category_id": 6,
+      "bbox": [
+        221.0,
+        686.0,
+        314.0,
+        250.0
+      ],
+      "area": 78500.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 9132791072,
+      "category_id": 6,
+      "bbox": [
+        817.0,
+        99.0,
+        286.0,
+        378.0
+      ],
+      "area": 108108.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 9132791072,
+      "category_id": 6,
+      "bbox": [
+        1081.0,
+        400.0,
+        300.0,
+        292.0
+      ],
+      "area": 87600.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 9132791072,
+      "category_id": 6,
+      "bbox": [
+        1141.0,
+        175.0,
+        355.0,
+        191.0
+      ],
+      "area": 67805.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 9132791072,
+      "category_id": 6,
+      "bbox": [
+        835.0,
+        542.0,
+        277.0,
+        175.0
+      ],
+      "area": 48475.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

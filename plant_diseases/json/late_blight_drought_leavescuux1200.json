@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4509594023,
+      "width": 2964,
+      "height": 2184,
+      "file_name": "late_blight_drought_leavescuux1200.jpg",
+      "size": 2036994,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4509594023,
+      "category_id": 23,
+      "bbox": [
+        343.0,
+        717.0,
+        1738.0,
+        1456.0
+      ],
+      "area": 2530528.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4509594023,
+      "category_id": 23,
+      "bbox": [
+        1.0,
+        7.0,
+        1647.0,
+        1669.0
+      ],
+      "area": 2748843.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 23,
+      "name": "tomato_leaf_late_blight",
+      "supercategory": "tomato_leaf_late_blight"
+    }
+  ]
+}

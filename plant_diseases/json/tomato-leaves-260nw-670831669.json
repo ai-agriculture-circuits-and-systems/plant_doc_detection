@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6349443898,
+      "width": 390,
+      "height": 280,
+      "file_name": "tomato-leaves-260nw-670831669.jpg",
+      "size": 26806,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6349443898,
+      "category_id": 24,
+      "bbox": [
+        156.0,
+        3.0,
+        46.0,
+        63.0
+      ],
+      "area": 2898.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6349443898,
+      "category_id": 24,
+      "bbox": [
+        268.0,
+        100.0,
+        37.0,
+        67.0
+      ],
+      "area": 2479.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6349443898,
+      "category_id": 24,
+      "bbox": [
+        148.0,
+        130.0,
+        95.0,
+        128.0
+      ],
+      "area": 12160.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 6349443898,
+      "category_id": 24,
+      "bbox": [
+        162.0,
+        88.0,
+        35.0,
+        27.0
+      ],
+      "area": 945.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 6349443898,
+      "category_id": 24,
+      "bbox": [
+        131.0,
+        66.0,
+        43.0,
+        64.0
+      ],
+      "area": 2752.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 6349443898,
+      "category_id": 24,
+      "bbox": [
+        26.0,
+        65.0,
+        76.0,
+        162.0
+      ],
+      "area": 12312.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 24,
+      "name": "tomato_leaf_mosaic_virus",
+      "supercategory": "tomato_leaf_mosaic_virus"
+    }
+  ]
+}

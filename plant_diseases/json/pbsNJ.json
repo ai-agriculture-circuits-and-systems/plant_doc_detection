@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1768695136,
+      "width": 1156,
+      "height": 868,
+      "file_name": "pbsNJ.jpg",
+      "size": 222655,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1768695136,
+      "category_id": 15,
+      "bbox": [
+        47.0,
+        75.0,
+        291.0,
+        223.0
+      ],
+      "area": 64893.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1768695136,
+      "category_id": 15,
+      "bbox": [
+        332.0,
+        133.0,
+        135.0,
+        193.0
+      ],
+      "area": 26055.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1768695136,
+      "category_id": 15,
+      "bbox": [
+        130.0,
+        277.0,
+        247.0,
+        77.0
+      ],
+      "area": 19019.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1768695136,
+      "category_id": 15,
+      "bbox": [
+        601.0,
+        436.0,
+        221.0,
+        152.0
+      ],
+      "area": 33592.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 1768695136,
+      "category_id": 15,
+      "bbox": [
+        644.0,
+        581.0,
+        257.0,
+        238.0
+      ],
+      "area": 61166.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 1768695136,
+      "category_id": 15,
+      "bbox": [
+        508.0,
+        547.0,
+        156.0,
+        168.0
+      ],
+      "area": 26208.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

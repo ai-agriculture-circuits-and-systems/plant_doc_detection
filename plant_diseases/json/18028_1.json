@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6251286737,
+      "width": 832,
+      "height": 624,
+      "file_name": "18028_1.jpg",
+      "size": 216600,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6251286737,
+      "category_id": 13,
+      "bbox": [
+        390.0,
+        195.0,
+        176.0,
+        235.0
+      ],
+      "area": 41360.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6251286737,
+      "category_id": 13,
+      "bbox": [
+        458.0,
+        439.0,
+        130.0,
+        183.0
+      ],
+      "area": 23790.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6251286737,
+      "category_id": 13,
+      "bbox": [
+        214.0,
+        488.0,
+        193.0,
+        136.0
+      ],
+      "area": 26248.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 6251286737,
+      "category_id": 13,
+      "bbox": [
+        403.0,
+        126.0,
+        111.0,
+        88.0
+      ],
+      "area": 9768.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 6251286737,
+      "category_id": 13,
+      "bbox": [
+        224.0,
+        97.0,
+        198.0,
+        98.0
+      ],
+      "area": 19404.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 13,
+      "name": "potato_leaf_early_blight",
+      "supercategory": "potato_leaf_early_blight"
+    }
+  ]
+}

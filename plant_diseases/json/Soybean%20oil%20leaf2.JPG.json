@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2496298109,
+      "width": 4048,
+      "height": 3040,
+      "file_name": "Soybean%20oil%20leaf2.JPG.jpg",
+      "size": 1786522,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2496298109,
+      "category_id": 16,
+      "bbox": [
+        1250.0,
+        139.0,
+        1264.0,
+        1758.0
+      ],
+      "area": 2222112.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2496298109,
+      "category_id": 16,
+      "bbox": [
+        787.0,
+        1764.0,
+        1360.0,
+        991.0
+      ],
+      "area": 1347760.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2496298109,
+      "category_id": 16,
+      "bbox": [
+        2217.0,
+        1424.0,
+        1415.0,
+        1140.0
+      ],
+      "area": 1613100.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 16,
+      "name": "soyabean_leaf",
+      "supercategory": "soyabean_leaf"
+    }
+  ]
+}

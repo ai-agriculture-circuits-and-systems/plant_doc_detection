@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5723876454,
+      "width": 844,
+      "height": 956,
+      "file_name": "strawberry+leaf+eila+collage+obsession.jpg",
+      "size": 567985,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5723876454,
+      "category_id": 18,
+      "bbox": [
+        81.0,
+        35.0,
+        425.0,
+        485.0
+      ],
+      "area": 206125.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5723876454,
+      "category_id": 18,
+      "bbox": [
+        501.0,
+        71.0,
+        335.0,
+        499.0
+      ],
+      "area": 167165.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5723876454,
+      "category_id": 18,
+      "bbox": [
+        41.0,
+        451.0,
+        479.0,
+        327.0
+      ],
+      "area": 156633.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 18,
+      "name": "strawberry_leaf",
+      "supercategory": "strawberry_leaf"
+    }
+  ]
+}

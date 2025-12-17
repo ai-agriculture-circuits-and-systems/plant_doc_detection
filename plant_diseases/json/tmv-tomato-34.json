@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1043186896,
+      "width": 3648,
+      "height": 2736,
+      "file_name": "tmv-tomato-34.jpg",
+      "size": 2291117,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1043186896,
+      "category_id": 24,
+      "bbox": [
+        11.0,
+        1548.0,
+        576.0,
+        947.0
+      ],
+      "area": 545472.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1043186896,
+      "category_id": 24,
+      "bbox": [
+        2473.0,
+        154.0,
+        1162.0,
+        1517.0
+      ],
+      "area": 1762754.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1043186896,
+      "category_id": 24,
+      "bbox": [
+        1366.0,
+        568.0,
+        1849.0,
+        1647.0
+      ],
+      "area": 3045303.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 24,
+      "name": "tomato_leaf_mosaic_virus",
+      "supercategory": "tomato_leaf_mosaic_virus"
+    }
+  ]
+}

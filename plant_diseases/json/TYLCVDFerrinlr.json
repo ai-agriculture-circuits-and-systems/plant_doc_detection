@@ -1,0 +1,165 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6464458935,
+      "width": 500,
+      "height": 438,
+      "file_name": "TYLCVDFerrinlr.jpg",
+      "size": 125572,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6464458935,
+      "category_id": 25,
+      "bbox": [
+        349.0,
+        41.0,
+        82.0,
+        45.0
+      ],
+      "area": 3690.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6464458935,
+      "category_id": 25,
+      "bbox": [
+        295.0,
+        166.0,
+        90.0,
+        79.0
+      ],
+      "area": 7110.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6464458935,
+      "category_id": 25,
+      "bbox": [
+        256.0,
+        169.0,
+        63.0,
+        63.0
+      ],
+      "area": 3969.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 6464458935,
+      "category_id": 25,
+      "bbox": [
+        36.0,
+        54.0,
+        47.0,
+        70.0
+      ],
+      "area": 3290.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 6464458935,
+      "category_id": 25,
+      "bbox": [
+        81.0,
+        51.0,
+        54.0,
+        57.0
+      ],
+      "area": 3078.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 6464458935,
+      "category_id": 25,
+      "bbox": [
+        268.0,
+        77.0,
+        58.0,
+        49.0
+      ],
+      "area": 2842.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 6464458935,
+      "category_id": 25,
+      "bbox": [
+        118.0,
+        198.0,
+        115.0,
+        96.0
+      ],
+      "area": 11040.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 6464458935,
+      "category_id": 25,
+      "bbox": [
+        328.0,
+        229.0,
+        138.0,
+        92.0
+      ],
+      "area": 12696.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 6464458935,
+      "category_id": 25,
+      "bbox": [
+        278.0,
+        284.0,
+        132.0,
+        154.0
+      ],
+      "area": 20328.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 6464458935,
+      "category_id": 25,
+      "bbox": [
+        203.0,
+        245.0,
+        98.0,
+        74.0
+      ],
+      "area": 7252.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 25,
+      "name": "tomato_leaf_yellow_virus",
+      "supercategory": "tomato_leaf_yellow_virus"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9751743751,
+      "width": 1482,
+      "height": 1600,
+      "file_name": "Leaf%2Bsymptoms%2BMDA.jpg",
+      "size": 405866,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9751743751,
+      "category_id": 22,
+      "bbox": [
+        768.0,
+        271.0,
+        486.0,
+        933.0
+      ],
+      "area": 453438.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9751743751,
+      "category_id": 22,
+      "bbox": [
+        452.0,
+        544.0,
+        640.0,
+        989.0
+      ],
+      "area": 632960.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9751743751,
+      "category_id": 22,
+      "bbox": [
+        37.0,
+        49.0,
+        642.0,
+        955.0
+      ],
+      "area": 613110.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 22,
+      "name": "tomato_leaf_bacterial_spot",
+      "supercategory": "tomato_leaf_bacterial_spot"
+    }
+  ]
+}

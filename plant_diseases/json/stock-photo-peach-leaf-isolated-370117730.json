@@ -1,0 +1,217 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1893522869,
+      "width": 1500,
+      "height": 1321,
+      "file_name": "stock-photo-peach-leaf-isolated-370117730.jpg",
+      "size": 531086,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1893522869,
+      "category_id": 11,
+      "bbox": [
+        73.0,
+        49.0,
+        447.0,
+        372.0
+      ],
+      "area": 166284.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1893522869,
+      "category_id": 11,
+      "bbox": [
+        634.0,
+        68.0,
+        385.0,
+        403.0
+      ],
+      "area": 155155.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1893522869,
+      "category_id": 11,
+      "bbox": [
+        492.0,
+        256.0,
+        355.0,
+        207.0
+      ],
+      "area": 73485.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1893522869,
+      "category_id": 11,
+      "bbox": [
+        1026.0,
+        44.0,
+        420.0,
+        428.0
+      ],
+      "area": 179760.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 1893522869,
+      "category_id": 11,
+      "bbox": [
+        1197.0,
+        530.0,
+        220.0,
+        647.0
+      ],
+      "area": 142340.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 1893522869,
+      "category_id": 11,
+      "bbox": [
+        546.0,
+        871.0,
+        604.0,
+        304.0
+      ],
+      "area": 183616.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 1893522869,
+      "category_id": 11,
+      "bbox": [
+        761.0,
+        571.0,
+        347.0,
+        254.0
+      ],
+      "area": 88138.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 1893522869,
+      "category_id": 11,
+      "bbox": [
+        776.0,
+        521.0,
+        359.0,
+        160.0
+      ],
+      "area": 57440.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 1893522869,
+      "category_id": 11,
+      "bbox": [
+        657.0,
+        590.0,
+        175.0,
+        259.0
+      ],
+      "area": 45325.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 1893522869,
+      "category_id": 11,
+      "bbox": [
+        66.0,
+        517.0,
+        524.0,
+        166.0
+      ],
+      "area": 86984.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 1893522869,
+      "category_id": 11,
+      "bbox": [
+        101.0,
+        448.0,
+        415.0,
+        128.0
+      ],
+      "area": 53120.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 1893522869,
+      "category_id": 11,
+      "bbox": [
+        108.0,
+        730.0,
+        493.0,
+        227.0
+      ],
+      "area": 111911.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 1893522869,
+      "category_id": 11,
+      "bbox": [
+        66.0,
+        887.0,
+        272.0,
+        294.0
+      ],
+      "area": 79968.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 1893522869,
+      "category_id": 11,
+      "bbox": [
+        281.0,
+        913.0,
+        312.0,
+        175.0
+      ],
+      "area": 54600.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "peach_leaf",
+      "supercategory": "peach_leaf"
+    }
+  ]
+}

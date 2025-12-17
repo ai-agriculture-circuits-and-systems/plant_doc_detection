@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2786837691,
+      "width": 1300,
+      "height": 957,
+      "file_name": "vine-leaves-10824119.jpg",
+      "size": 130514,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2786837691,
+      "category_id": 28,
+      "bbox": [
+        149.0,
+        167.0,
+        411.0,
+        356.0
+      ],
+      "area": 146316.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2786837691,
+      "category_id": 28,
+      "bbox": [
+        32.0,
+        509.0,
+        277.0,
+        277.0
+      ],
+      "area": 76729.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2786837691,
+      "category_id": 28,
+      "bbox": [
+        549.0,
+        182.0,
+        263.0,
+        255.0
+      ],
+      "area": 67065.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2786837691,
+      "category_id": 28,
+      "bbox": [
+        815.0,
+        163.0,
+        318.0,
+        268.0
+      ],
+      "area": 85224.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 2786837691,
+      "category_id": 28,
+      "bbox": [
+        1007.0,
+        413.0,
+        261.0,
+        242.0
+      ],
+      "area": 63162.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 2786837691,
+      "category_id": 28,
+      "bbox": [
+        621.0,
+        455.0,
+        309.0,
+        359.0
+      ],
+      "area": 110931.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 28,
+      "name": "grape_leaf",
+      "supercategory": "grape_leaf"
+    }
+  ]
+}

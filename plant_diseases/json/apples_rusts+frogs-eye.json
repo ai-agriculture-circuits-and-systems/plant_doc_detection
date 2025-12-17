@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4943691134,
+      "width": 900,
+      "height": 630,
+      "file_name": "apples_rusts+frogs-eye.jpg",
+      "size": 257137,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4943691134,
+      "category_id": 3,
+      "bbox": [
+        63.0,
+        76.0,
+        291.0,
+        504.0
+      ],
+      "area": 146664.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4943691134,
+      "category_id": 3,
+      "bbox": [
+        529.0,
+        69.0,
+        350.0,
+        504.0
+      ],
+      "area": 176400.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "apple_rust_leaf",
+      "supercategory": "apple_rust_leaf"
+    }
+  ]
+}

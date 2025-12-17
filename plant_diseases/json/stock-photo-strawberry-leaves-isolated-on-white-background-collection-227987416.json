@@ -1,0 +1,139 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3794189367,
+      "width": 450,
+      "height": 369,
+      "file_name": "stock-photo-strawberry-leaves-isolated-on-white-background-collection-227987416.jpg",
+      "size": 48216,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3794189367,
+      "category_id": 18,
+      "bbox": [
+        23.0,
+        176.0,
+        111.0,
+        84.0
+      ],
+      "area": 9324.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3794189367,
+      "category_id": 18,
+      "bbox": [
+        8.0,
+        246.0,
+        129.0,
+        59.0
+      ],
+      "area": 7611.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3794189367,
+      "category_id": 18,
+      "bbox": [
+        129.0,
+        203.0,
+        89.0,
+        73.0
+      ],
+      "area": 6497.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3794189367,
+      "category_id": 18,
+      "bbox": [
+        23.0,
+        4.0,
+        105.0,
+        122.0
+      ],
+      "area": 12810.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 3794189367,
+      "category_id": 18,
+      "bbox": [
+        112.0,
+        30.0,
+        101.0,
+        115.0
+      ],
+      "area": 11615.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 3794189367,
+      "category_id": 18,
+      "bbox": [
+        330.0,
+        54.0,
+        115.0,
+        98.0
+      ],
+      "area": 11270.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 3794189367,
+      "category_id": 18,
+      "bbox": [
+        247.0,
+        6.0,
+        86.0,
+        128.0
+      ],
+      "area": 11008.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 3794189367,
+      "category_id": 18,
+      "bbox": [
+        231.0,
+        196.0,
+        116.0,
+        118.0
+      ],
+      "area": 13688.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 18,
+      "name": "strawberry_leaf",
+      "supercategory": "strawberry_leaf"
+    }
+  ]
+}

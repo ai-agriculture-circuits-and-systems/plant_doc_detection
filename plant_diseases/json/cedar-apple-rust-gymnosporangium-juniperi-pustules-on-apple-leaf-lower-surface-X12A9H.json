@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3817244641,
+      "width": 1087,
+      "height": 1390,
+      "file_name": "cedar-apple-rust-gymnosporangium-juniperi-pustules-on-apple-leaf-lower-surface-X12A9H.jpg",
+      "size": 185014,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3817244641,
+      "category_id": 3,
+      "bbox": [
+        171.0,
+        154.0,
+        737.0,
+        1087.0
+      ],
+      "area": 801119.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "apple_rust_leaf",
+      "supercategory": "apple_rust_leaf"
+    }
+  ]
+}

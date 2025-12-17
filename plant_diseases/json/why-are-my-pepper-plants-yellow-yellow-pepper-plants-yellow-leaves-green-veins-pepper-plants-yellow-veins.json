@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4761702061,
+      "width": 421,
+      "height": 750,
+      "file_name": "why-are-my-pepper-plants-yellow-yellow-pepper-plants-yellow-leaves-green-veins-pepper-plants-yellow-veins.jpg",
+      "size": 50581,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4761702061,
+      "category_id": 4,
+      "bbox": [
+        78.0,
+        242.0,
+        306.0,
+        508.0
+      ],
+      "area": 155448.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4761702061,
+      "category_id": 4,
+      "bbox": [
+        5.0,
+        146.0,
+        186.0,
+        380.0
+      ],
+      "area": 70680.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 4,
+      "name": "bell_pepper_leaf",
+      "supercategory": "bell_pepper_leaf"
+    }
+  ]
+}

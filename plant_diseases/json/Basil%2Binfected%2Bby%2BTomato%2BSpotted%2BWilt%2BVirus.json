@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8581001666,
+      "width": 1024,
+      "height": 682,
+      "file_name": "Basil%2Binfected%2Bby%2BTomato%2BSpotted%2BWilt%2BVirus.jpg",
+      "size": 136107,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8581001666,
+      "category_id": 21,
+      "bbox": [
+        77.0,
+        13.0,
+        435.0,
+        455.0
+      ],
+      "area": 197925.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8581001666,
+      "category_id": 21,
+      "bbox": [
+        310.0,
+        87.0,
+        508.0,
+        358.0
+      ],
+      "area": 181864.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 21,
+      "name": "tomato_leaf",
+      "supercategory": "tomato_leaf"
+    }
+  ]
+}

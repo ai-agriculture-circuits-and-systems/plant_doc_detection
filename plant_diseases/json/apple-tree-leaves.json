@@ -1,0 +1,191 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1418040220,
+      "width": 618,
+      "height": 481,
+      "file_name": "apple-tree-leaves.jpg",
+      "size": 72749,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1418040220,
+      "category_id": 2,
+      "bbox": [
+        104.0,
+        279.0,
+        136.0,
+        202.0
+      ],
+      "area": 27472.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1418040220,
+      "category_id": 2,
+      "bbox": [
+        218.0,
+        16.0,
+        152.0,
+        171.0
+      ],
+      "area": 25992.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1418040220,
+      "category_id": 2,
+      "bbox": [
+        446.0,
+        102.0,
+        128.0,
+        110.0
+      ],
+      "area": 14080.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1418040220,
+      "category_id": 2,
+      "bbox": [
+        449.0,
+        236.0,
+        130.0,
+        92.0
+      ],
+      "area": 11960.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 1418040220,
+      "category_id": 2,
+      "bbox": [
+        413.0,
+        293.0,
+        121.0,
+        99.0
+      ],
+      "area": 11979.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 1418040220,
+      "category_id": 2,
+      "bbox": [
+        325.0,
+        374.0,
+        95.0,
+        107.0
+      ],
+      "area": 10165.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 1418040220,
+      "category_id": 2,
+      "bbox": [
+        549.0,
+        330.0,
+        69.0,
+        139.0
+      ],
+      "area": 9591.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 1418040220,
+      "category_id": 2,
+      "bbox": [
+        1.0,
+        154.0,
+        136.0,
+        124.0
+      ],
+      "area": 16864.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 1418040220,
+      "category_id": 2,
+      "bbox": [
+        87.0,
+        183.0,
+        92.0,
+        108.0
+      ],
+      "area": 9936.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 1418040220,
+      "category_id": 2,
+      "bbox": [
+        113.0,
+        138.0,
+        94.0,
+        66.0
+      ],
+      "area": 6204.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 1418040220,
+      "category_id": 2,
+      "bbox": [
+        421.0,
+        31.0,
+        149.0,
+        103.0
+      ],
+      "area": 15347.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 1418040220,
+      "category_id": 2,
+      "bbox": [
+        349.0,
+        38.0,
+        64.0,
+        122.0
+      ],
+      "area": 7808.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "apple_leaf",
+      "supercategory": "apple_leaf"
+    }
+  ]
+}

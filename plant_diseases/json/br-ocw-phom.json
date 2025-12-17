@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1808407987,
+      "width": 930,
+      "height": 414,
+      "file_name": "br-ocw-phom.jpg",
+      "size": 131717,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1808407987,
+      "category_id": 29,
+      "bbox": [
+        53.0,
+        6.0,
+        371.0,
+        332.0
+      ],
+      "area": 123172.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1808407987,
+      "category_id": 29,
+      "bbox": [
+        588.0,
+        22.0,
+        269.0,
+        292.0
+      ],
+      "area": 78548.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 29,
+      "name": "grape_leaf_black_rot",
+      "supercategory": "grape_leaf_black_rot"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8873402032,
+      "width": 1280,
+      "height": 1280,
+      "file_name": "0008003-strawberry-leaf-veiner-large.jpg",
+      "size": 262144,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8873402032,
+      "category_id": 18,
+      "bbox": [
+        734.0,
+        414.0,
+        335.0,
+        247.0
+      ],
+      "area": 82745.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8873402032,
+      "category_id": 18,
+      "bbox": [
+        905.0,
+        179.0,
+        291.0,
+        366.0
+      ],
+      "area": 106506.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8873402032,
+      "category_id": 18,
+      "bbox": [
+        938.0,
+        523.0,
+        280.0,
+        331.0
+      ],
+      "area": 92680.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8873402032,
+      "category_id": 18,
+      "bbox": [
+        734.0,
+        634.0,
+        293.0,
+        371.0
+      ],
+      "area": 108703.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8873402032,
+      "category_id": 18,
+      "bbox": [
+        718.0,
+        8.0,
+        352.0,
+        237.0
+      ],
+      "area": 83424.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 18,
+      "name": "strawberry_leaf",
+      "supercategory": "strawberry_leaf"
+    }
+  ]
+}

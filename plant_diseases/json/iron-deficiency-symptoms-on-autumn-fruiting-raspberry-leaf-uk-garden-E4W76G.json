@@ -1,0 +1,152 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8994572302,
+      "width": 1300,
+      "height": 821,
+      "file_name": "iron-deficiency-symptoms-on-autumn-fruiting-raspberry-leaf-uk-garden-E4W76G.jpg",
+      "size": 201229,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8994572302,
+      "category_id": 15,
+      "bbox": [
+        271.0,
+        249.0,
+        328.0,
+        287.0
+      ],
+      "area": 94136.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8994572302,
+      "category_id": 15,
+      "bbox": [
+        513.0,
+        295.0,
+        202.0,
+        339.0
+      ],
+      "area": 68478.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8994572302,
+      "category_id": 15,
+      "bbox": [
+        718.0,
+        303.0,
+        276.0,
+        350.0
+      ],
+      "area": 96600.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8994572302,
+      "category_id": 15,
+      "bbox": [
+        777.0,
+        253.0,
+        229.0,
+        142.0
+      ],
+      "area": 32518.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8994572302,
+      "category_id": 15,
+      "bbox": [
+        629.0,
+        99.0,
+        250.0,
+        212.0
+      ],
+      "area": 53000.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 8994572302,
+      "category_id": 15,
+      "bbox": [
+        433.0,
+        166.0,
+        236.0,
+        139.0
+      ],
+      "area": 32804.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 8994572302,
+      "category_id": 15,
+      "bbox": [
+        202.0,
+        231.0,
+        242.0,
+        214.0
+      ],
+      "area": 51788.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 8994572302,
+      "category_id": 15,
+      "bbox": [
+        179.0,
+        142.0,
+        271.0,
+        116.0
+      ],
+      "area": 31436.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 8994572302,
+      "category_id": 15,
+      "bbox": [
+        86.0,
+        253.0,
+        133.0,
+        252.0
+      ],
+      "area": 33516.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

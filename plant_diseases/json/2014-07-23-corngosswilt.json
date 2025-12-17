@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5015934395,
+      "width": 640,
+      "height": 427,
+      "file_name": "2014-07-23-corngosswilt.jpg",
+      "size": 44595,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5015934395,
+      "category_id": 9,
+      "bbox": [
+        41.0,
+        2.0,
+        143.0,
+        425.0
+      ],
+      "area": 60775.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5015934395,
+      "category_id": 9,
+      "bbox": [
+        193.0,
+        1.0,
+        127.0,
+        426.0
+      ],
+      "area": 54102.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5015934395,
+      "category_id": 9,
+      "bbox": [
+        332.0,
+        1.0,
+        137.0,
+        425.0
+      ],
+      "area": 58225.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 5015934395,
+      "category_id": 9,
+      "bbox": [
+        473.0,
+        2.0,
+        151.0,
+        425.0
+      ],
+      "area": 64175.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 9,
+      "name": "corn_leaf_blight",
+      "supercategory": "corn_leaf_blight"
+    }
+  ]
+}

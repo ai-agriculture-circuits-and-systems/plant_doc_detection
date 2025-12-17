@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8622776460,
+      "width": 600,
+      "height": 480,
+      "file_name": "strawberry_plant_l1.jpg",
+      "size": 119357,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8622776460,
+      "category_id": 18,
+      "bbox": [
+        13.0,
+        48.0,
+        225.0,
+        199.0
+      ],
+      "area": 44775.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8622776460,
+      "category_id": 18,
+      "bbox": [
+        115.0,
+        178.0,
+        185.0,
+        178.0
+      ],
+      "area": 32930.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8622776460,
+      "category_id": 18,
+      "bbox": [
+        234.0,
+        1.0,
+        102.0,
+        186.0
+      ],
+      "area": 18972.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8622776460,
+      "category_id": 18,
+      "bbox": [
+        391.0,
+        318.0,
+        134.0,
+        144.0
+      ],
+      "area": 19296.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8622776460,
+      "category_id": 18,
+      "bbox": [
+        259.0,
+        301.0,
+        145.0,
+        169.0
+      ],
+      "area": 24505.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 8622776460,
+      "category_id": 18,
+      "bbox": [
+        398.0,
+        215.0,
+        138.0,
+        104.0
+      ],
+      "area": 14352.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 18,
+      "name": "strawberry_leaf",
+      "supercategory": "strawberry_leaf"
+    }
+  ]
+}

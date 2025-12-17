@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3616605388,
+      "width": 1024,
+      "height": 768,
+      "file_name": "24049d1216854408-spots-raspberry-leaves-dscf1561.jpg",
+      "size": 560643,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3616605388,
+      "category_id": 15,
+      "bbox": [
+        285.0,
+        326.0,
+        529.0,
+        442.0
+      ],
+      "area": 233818.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3616605388,
+      "category_id": 15,
+      "bbox": [
+        573.0,
+        162.0,
+        451.0,
+        308.0
+      ],
+      "area": 138908.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3616605388,
+      "category_id": 15,
+      "bbox": [
+        254.0,
+        83.0,
+        345.0,
+        263.0
+      ],
+      "area": 90735.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2045911329,
+      "width": 800,
+      "height": 600,
+      "file_name": "creeping-cinquefoil-potentilla-reptans-4.jpg",
+      "size": 104560,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2045911329,
+      "category_id": 18,
+      "bbox": [
+        1.0,
+        244.0,
+        389.0,
+        206.0
+      ],
+      "area": 80134.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2045911329,
+      "category_id": 18,
+      "bbox": [
+        249.0,
+        2.0,
+        185.0,
+        370.0
+      ],
+      "area": 68450.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2045911329,
+      "category_id": 18,
+      "bbox": [
+        392.0,
+        186.0,
+        205.0,
+        214.0
+      ],
+      "area": 43870.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2045911329,
+      "category_id": 18,
+      "bbox": [
+        231.0,
+        390.0,
+        174.0,
+        210.0
+      ],
+      "area": 36540.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 18,
+      "name": "strawberry_leaf",
+      "supercategory": "strawberry_leaf"
+    }
+  ]
+}

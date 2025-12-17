@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4985659351,
+      "width": 1100,
+      "height": 953,
+      "file_name": "Sweet-September-Yellow-Peach.jpg",
+      "size": 781786,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4985659351,
+      "category_id": 11,
+      "bbox": [
+        294.0,
+        136.0,
+        418.0,
+        233.0
+      ],
+      "area": 97394.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4985659351,
+      "category_id": 11,
+      "bbox": [
+        200.0,
+        547.0,
+        235.0,
+        173.0
+      ],
+      "area": 40655.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4985659351,
+      "category_id": 11,
+      "bbox": [
+        413.0,
+        739.0,
+        141.0,
+        133.0
+      ],
+      "area": 18753.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4985659351,
+      "category_id": 11,
+      "bbox": [
+        24.0,
+        663.0,
+        392.0,
+        147.0
+      ],
+      "area": 57624.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "peach_leaf",
+      "supercategory": "peach_leaf"
+    }
+  ]
+}

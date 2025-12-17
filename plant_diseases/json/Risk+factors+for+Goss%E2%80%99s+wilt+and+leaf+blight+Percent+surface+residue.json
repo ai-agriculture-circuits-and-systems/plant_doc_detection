@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4958662115,
+      "width": 960,
+      "height": 720,
+      "file_name": "Risk+factors+for+Goss%E2%80%99s+wilt+and+leaf+blight+Percent+surface+residue.jpg",
+      "size": 100146,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4958662115,
+      "category_id": 9,
+      "bbox": [
+        606.0,
+        109.0,
+        97.0,
+        513.0
+      ],
+      "area": 49761.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4958662115,
+      "category_id": 9,
+      "bbox": [
+        722.0,
+        175.0,
+        169.0,
+        385.0
+      ],
+      "area": 65065.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4958662115,
+      "category_id": 9,
+      "bbox": [
+        651.0,
+        185.0,
+        68.0,
+        307.0
+      ],
+      "area": 20876.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4958662115,
+      "category_id": 9,
+      "bbox": [
+        810.0,
+        252.0,
+        141.0,
+        204.0
+      ],
+      "area": 28764.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4958662115,
+      "category_id": 9,
+      "bbox": [
+        680.0,
+        352.0,
+        86.0,
+        301.0
+      ],
+      "area": 25886.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 9,
+      "name": "corn_leaf_blight",
+      "supercategory": "corn_leaf_blight"
+    }
+  ]
+}

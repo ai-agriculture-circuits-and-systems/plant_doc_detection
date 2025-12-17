@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1832580736,
+      "width": 433,
+      "height": 299,
+      "file_name": "muscals2.jpg",
+      "size": 55574,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1832580736,
+      "category_id": 29,
+      "bbox": [
+        15.0,
+        66.0,
+        196.0,
+        222.0
+      ],
+      "area": 43512.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1832580736,
+      "category_id": 29,
+      "bbox": [
+        214.0,
+        62.0,
+        203.0,
+        226.0
+      ],
+      "area": 45878.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 29,
+      "name": "grape_leaf_black_rot",
+      "supercategory": "grape_leaf_black_rot"
+    }
+  ]
+}

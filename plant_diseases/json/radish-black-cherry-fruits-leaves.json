@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2521749036,
+      "width": 4000,
+      "height": 3000,
+      "file_name": "radish-black-cherry-fruits-leaves.jpg",
+      "size": 3797233,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2521749036,
+      "category_id": 7,
+      "bbox": [
+        459.0,
+        1193.0,
+        1315.0,
+        772.0
+      ],
+      "area": 1015180.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2521749036,
+      "category_id": 7,
+      "bbox": [
+        334.0,
+        1787.0,
+        1368.0,
+        1213.0
+      ],
+      "area": 1659384.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2521749036,
+      "category_id": 7,
+      "bbox": [
+        2706.0,
+        1803.0,
+        1294.0,
+        1175.0
+      ],
+      "area": 1520450.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2521749036,
+      "category_id": 7,
+      "bbox": [
+        1809.0,
+        1915.0,
+        991.0,
+        1085.0
+      ],
+      "area": 1075235.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 2521749036,
+      "category_id": 7,
+      "bbox": [
+        2143.0,
+        68.0,
+        1053.0,
+        907.0
+      ],
+      "area": 955071.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 7,
+      "name": "cherry_leaf",
+      "supercategory": "cherry_leaf"
+    }
+  ]
+}

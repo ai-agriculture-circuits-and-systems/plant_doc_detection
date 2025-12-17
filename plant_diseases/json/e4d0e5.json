@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7341929417,
+      "width": 800,
+      "height": 600,
+      "file_name": "e4d0e5.jpg",
+      "size": 186125,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7341929417,
+      "category_id": 5,
+      "bbox": [
+        264.0,
+        4.0,
+        170.0,
+        324.0
+      ],
+      "area": 55080.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7341929417,
+      "category_id": 5,
+      "bbox": [
+        163.0,
+        234.0,
+        296.0,
+        354.0
+      ],
+      "area": 104784.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7341929417,
+      "category_id": 5,
+      "bbox": [
+        440.0,
+        363.0,
+        128.0,
+        165.0
+      ],
+      "area": 21120.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 7341929417,
+      "category_id": 5,
+      "bbox": [
+        472.0,
+        144.0,
+        150.0,
+        284.0
+      ],
+      "area": 42600.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 7341929417,
+      "category_id": 5,
+      "bbox": [
+        488.0,
+        315.0,
+        260.0,
+        285.0
+      ],
+      "area": 74100.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 5,
+      "name": "bell_pepper_leaf_spot",
+      "supercategory": "bell_pepper_leaf_spot"
+    }
+  ]
+}

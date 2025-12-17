@@ -1,0 +1,126 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8870601585,
+      "width": 600,
+      "height": 400,
+      "file_name": "4-dogwood_pm.jpg",
+      "size": 43538,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8870601585,
+      "category_id": 5,
+      "bbox": [
+        234.0,
+        28.0,
+        168.0,
+        372.0
+      ],
+      "area": 62496.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8870601585,
+      "category_id": 5,
+      "bbox": [
+        73.0,
+        214.0,
+        179.0,
+        186.0
+      ],
+      "area": 33294.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8870601585,
+      "category_id": 5,
+      "bbox": [
+        100.0,
+        51.0,
+        164.0,
+        168.0
+      ],
+      "area": 27552.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8870601585,
+      "category_id": 5,
+      "bbox": [
+        376.0,
+        33.0,
+        120.0,
+        293.0
+      ],
+      "area": 35160.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8870601585,
+      "category_id": 5,
+      "bbox": [
+        481.0,
+        227.0,
+        119.0,
+        169.0
+      ],
+      "area": 20111.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 8870601585,
+      "category_id": 5,
+      "bbox": [
+        1.0,
+        229.0,
+        83.0,
+        171.0
+      ],
+      "area": 14193.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 8870601585,
+      "category_id": 5,
+      "bbox": [
+        1.0,
+        8.0,
+        108.0,
+        181.0
+      ],
+      "area": 19548.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 5,
+      "name": "bell_pepper_leaf_spot",
+      "supercategory": "bell_pepper_leaf_spot"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3645414315,
+      "width": 500,
+      "height": 333,
+      "file_name": "8%20mistakes%204.jpg",
+      "size": 132296,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3645414315,
+      "category_id": 19,
+      "bbox": [
+        292.0,
+        96.0,
+        135.0,
+        215.0
+      ],
+      "area": 29025.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3645414315,
+      "category_id": 19,
+      "bbox": [
+        67.0,
+        68.0,
+        110.0,
+        205.0
+      ],
+      "area": 22550.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3645414315,
+      "category_id": 19,
+      "bbox": [
+        165.0,
+        157.0,
+        147.0,
+        176.0
+      ],
+      "area": 25872.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 19,
+      "name": "tomato_early_blight_leaf",
+      "supercategory": "tomato_early_blight_leaf"
+    }
+  ]
+}

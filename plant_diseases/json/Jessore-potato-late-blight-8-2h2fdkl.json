@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7499575219,
+      "width": 2448,
+      "height": 3264,
+      "file_name": "Jessore-potato-late-blight-8-2h2fdkl.jpg",
+      "size": 944664,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7499575219,
+      "category_id": 14,
+      "bbox": [
+        9.0,
+        1248.0,
+        1785.0,
+        1381.0
+      ],
+      "area": 2465085.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7499575219,
+      "category_id": 14,
+      "bbox": [
+        1361.0,
+        534.0,
+        691.0,
+        747.0
+      ],
+      "area": 516177.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7499575219,
+      "category_id": 14,
+      "bbox": [
+        1828.0,
+        1.0,
+        516.0,
+        528.0
+      ],
+      "area": 272448.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 14,
+      "name": "potato_leaf_late_blight",
+      "supercategory": "potato_leaf_late_blight"
+    }
+  ]
+}

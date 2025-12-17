@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6145225114,
+      "width": 338,
+      "height": 470,
+      "file_name": "stock-photo-northern-corn-leaf-blight-nclb-is-a-foliar-disease-of-corn-maize-caused-by-exserohilum-turcicum-592778861.jpg",
+      "size": 41536,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6145225114,
+      "category_id": 9,
+      "bbox": [
+        1.0,
+        22.0,
+        122.0,
+        365.0
+      ],
+      "area": 44530.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6145225114,
+      "category_id": 9,
+      "bbox": [
+        102.0,
+        10.0,
+        160.0,
+        432.0
+      ],
+      "area": 69120.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 9,
+      "name": "corn_leaf_blight",
+      "supercategory": "corn_leaf_blight"
+    }
+  ]
+}

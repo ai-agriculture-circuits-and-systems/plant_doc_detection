@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1590417990,
+      "width": 1600,
+      "height": 1200,
+      "file_name": "DIYPowderyMildewSpray.jpg",
+      "size": 480220,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1590417990,
+      "category_id": 17,
+      "bbox": [
+        667.0,
+        402.0,
+        538.0,
+        492.0
+      ],
+      "area": 264696.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1590417990,
+      "category_id": 17,
+      "bbox": [
+        99.0,
+        118.0,
+        482.0,
+        225.0
+      ],
+      "area": 108450.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1590417990,
+      "category_id": 17,
+      "bbox": [
+        994.0,
+        248.0,
+        204.0,
+        224.0
+      ],
+      "area": 45696.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1590417990,
+      "category_id": 17,
+      "bbox": [
+        825.0,
+        1.0,
+        556.0,
+        310.0
+      ],
+      "area": 172360.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 17,
+      "name": "squash_powdery_mildew_leaf",
+      "supercategory": "squash_powdery_mildew_leaf"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2822304184,
+      "width": 620,
+      "height": 349,
+      "file_name": "powdery-mildew-on-squash-plants-you-can-prevent-powdery-mildew-disease-by-avoiding-overhead-sprinkling-and-watering-in-the-morning-rather-than-evening-forum-news-service-file-photo-what-causes-powdery.jpg",
+      "size": 42883,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2822304184,
+      "category_id": 17,
+      "bbox": [
+        408.0,
+        1.0,
+        199.0,
+        111.0
+      ],
+      "area": 22089.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2822304184,
+      "category_id": 17,
+      "bbox": [
+        391.0,
+        99.0,
+        206.0,
+        211.0
+      ],
+      "area": 43466.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2822304184,
+      "category_id": 17,
+      "bbox": [
+        202.0,
+        111.0,
+        186.0,
+        211.0
+      ],
+      "area": 39246.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2822304184,
+      "category_id": 17,
+      "bbox": [
+        1.0,
+        76.0,
+        241.0,
+        245.0
+      ],
+      "area": 59045.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 17,
+      "name": "squash_powdery_mildew_leaf",
+      "supercategory": "squash_powdery_mildew_leaf"
+    }
+  ]
+}

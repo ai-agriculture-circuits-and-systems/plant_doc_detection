@@ -1,0 +1,152 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6977561024,
+      "width": 900,
+      "height": 700,
+      "file_name": "cherrytree-leaf.jpg",
+      "size": 35263,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6977561024,
+      "category_id": 7,
+      "bbox": [
+        366.0,
+        275.0,
+        154.0,
+        369.0
+      ],
+      "area": 56826.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6977561024,
+      "category_id": 7,
+      "bbox": [
+        475.0,
+        201.0,
+        243.0,
+        278.0
+      ],
+      "area": 67554.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6977561024,
+      "category_id": 7,
+      "bbox": [
+        599.0,
+        184.0,
+        185.0,
+        213.0
+      ],
+      "area": 39405.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 6977561024,
+      "category_id": 7,
+      "bbox": [
+        216.0,
+        168.0,
+        206.0,
+        340.0
+      ],
+      "area": 70040.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 6977561024,
+      "category_id": 7,
+      "bbox": [
+        437.0,
+        74.0,
+        190.0,
+        214.0
+      ],
+      "area": 40660.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 6977561024,
+      "category_id": 7,
+      "bbox": [
+        255.0,
+        99.0,
+        156.0,
+        143.0
+      ],
+      "area": 22308.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 6977561024,
+      "category_id": 7,
+      "bbox": [
+        211.0,
+        57.0,
+        170.0,
+        179.0
+      ],
+      "area": 30430.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 6977561024,
+      "category_id": 7,
+      "bbox": [
+        205.0,
+        16.0,
+        128.0,
+        110.0
+      ],
+      "area": 14080.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 6977561024,
+      "category_id": 7,
+      "bbox": [
+        15.0,
+        110.0,
+        74.0,
+        163.0
+      ],
+      "area": 12062.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 7,
+      "name": "cherry_leaf",
+      "supercategory": "cherry_leaf"
+    }
+  ]
+}

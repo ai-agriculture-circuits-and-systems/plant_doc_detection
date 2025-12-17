@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3803814090,
+      "width": 736,
+      "height": 552,
+      "file_name": "4118c92ffde66d327ee14e4023320bf7.jpg",
+      "size": 66717,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3803814090,
+      "category_id": 26,
+      "bbox": [
+        416.0,
+        174.0,
+        255.0,
+        135.0
+      ],
+      "area": 34425.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3803814090,
+      "category_id": 26,
+      "bbox": [
+        496.0,
+        4.0,
+        191.0,
+        209.0
+      ],
+      "area": 39919.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3803814090,
+      "category_id": 26,
+      "bbox": [
+        63.0,
+        60.0,
+        469.0,
+        416.0
+      ],
+      "area": 195104.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 26,
+      "name": "tomato_mold_leaf",
+      "supercategory": "tomato_mold_leaf"
+    }
+  ]
+}

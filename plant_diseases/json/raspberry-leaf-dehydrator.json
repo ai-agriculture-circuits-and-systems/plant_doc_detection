@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2260549311,
+      "width": 660,
+      "height": 440,
+      "file_name": "raspberry-leaf-dehydrator.jpg",
+      "size": 145340,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2260549311,
+      "category_id": 15,
+      "bbox": [
+        110.0,
+        190.0,
+        189.0,
+        223.0
+      ],
+      "area": 42147.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2260549311,
+      "category_id": 15,
+      "bbox": [
+        12.0,
+        139.0,
+        147.0,
+        253.0
+      ],
+      "area": 37191.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2260549311,
+      "category_id": 15,
+      "bbox": [
+        120.0,
+        80.0,
+        242.0,
+        118.0
+      ],
+      "area": 28556.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2260549311,
+      "category_id": 15,
+      "bbox": [
+        273.0,
+        26.0,
+        129.0,
+        119.0
+      ],
+      "area": 15351.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 2260549311,
+      "category_id": 15,
+      "bbox": [
+        420.0,
+        19.0,
+        115.0,
+        141.0
+      ],
+      "area": 16215.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 2260549311,
+      "category_id": 15,
+      "bbox": [
+        265.0,
+        152.0,
+        160.0,
+        74.0
+      ],
+      "area": 11840.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

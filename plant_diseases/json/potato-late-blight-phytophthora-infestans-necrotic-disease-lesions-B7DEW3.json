@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7423123842,
+      "width": 1293,
+      "height": 1390,
+      "file_name": "potato-late-blight-phytophthora-infestans-necrotic-disease-lesions-B7DEW3.jpg",
+      "size": 295819,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7423123842,
+      "category_id": 14,
+      "bbox": [
+        689.0,
+        565.0,
+        510.0,
+        482.0
+      ],
+      "area": 245820.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7423123842,
+      "category_id": 14,
+      "bbox": [
+        764.0,
+        280.0,
+        390.0,
+        385.0
+      ],
+      "area": 150150.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7423123842,
+      "category_id": 14,
+      "bbox": [
+        85.0,
+        482.0,
+        537.0,
+        496.0
+      ],
+      "area": 266352.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 7423123842,
+      "category_id": 14,
+      "bbox": [
+        31.0,
+        1.0,
+        609.0,
+        362.0
+      ],
+      "area": 220458.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 14,
+      "name": "potato_leaf_late_blight",
+      "supercategory": "potato_leaf_late_blight"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1936314539,
+      "width": 1300,
+      "height": 1304,
+      "file_name": "tomato-late-blight-phytophthora-infestans-necrosis-sporulation-on-a-tomato-leaf-underside-XA233C.jpg",
+      "size": 235715,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1936314539,
+      "category_id": 23,
+      "bbox": [
+        174.0,
+        171.0,
+        1032.0,
+        859.0
+      ],
+      "area": 886488.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 23,
+      "name": "tomato_leaf_late_blight",
+      "supercategory": "tomato_leaf_late_blight"
+    }
+  ]
+}

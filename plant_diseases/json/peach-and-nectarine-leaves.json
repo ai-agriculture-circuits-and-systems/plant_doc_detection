@@ -1,0 +1,360 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5176621846,
+      "width": 900,
+      "height": 856,
+      "file_name": "peach-and-nectarine-leaves.jpg",
+      "size": 304200,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5176621846,
+      "category_id": 11,
+      "bbox": [
+        160.0,
+        137.0,
+        45.0,
+        145.0
+      ],
+      "area": 6525.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5176621846,
+      "category_id": 11,
+      "bbox": [
+        201.0,
+        147.0,
+        59.0,
+        174.0
+      ],
+      "area": 10266.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5176621846,
+      "category_id": 11,
+      "bbox": [
+        108.0,
+        134.0,
+        65.0,
+        191.0
+      ],
+      "area": 12415.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 5176621846,
+      "category_id": 11,
+      "bbox": [
+        69.0,
+        595.0,
+        90.0,
+        195.0
+      ],
+      "area": 17550.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 5176621846,
+      "category_id": 11,
+      "bbox": [
+        293.0,
+        627.0,
+        64.0,
+        170.0
+      ],
+      "area": 10880.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 5176621846,
+      "category_id": 11,
+      "bbox": [
+        363.0,
+        602.0,
+        59.0,
+        166.0
+      ],
+      "area": 9794.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 5176621846,
+      "category_id": 11,
+      "bbox": [
+        629.0,
+        1.0,
+        80.0,
+        222.0
+      ],
+      "area": 17760.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 5176621846,
+      "category_id": 11,
+      "bbox": [
+        427.0,
+        693.0,
+        139.0,
+        78.0
+      ],
+      "area": 10842.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 5176621846,
+      "category_id": 11,
+      "bbox": [
+        2.0,
+        695.0,
+        69.0,
+        155.0
+      ],
+      "area": 10695.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 5176621846,
+      "category_id": 11,
+      "bbox": [
+        468.0,
+        184.0,
+        47.0,
+        110.0
+      ],
+      "area": 5170.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 5176621846,
+      "category_id": 11,
+      "bbox": [
+        315.0,
+        502.0,
+        51.0,
+        93.0
+      ],
+      "area": 4743.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 5176621846,
+      "category_id": 11,
+      "bbox": [
+        511.0,
+        547.0,
+        96.0,
+        101.0
+      ],
+      "area": 9696.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 5176621846,
+      "category_id": 11,
+      "bbox": [
+        599.0,
+        609.0,
+        94.0,
+        114.0
+      ],
+      "area": 10716.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 5176621846,
+      "category_id": 11,
+      "bbox": [
+        738.0,
+        734.0,
+        77.0,
+        96.0
+      ],
+      "area": 7392.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 5176621846,
+      "category_id": 11,
+      "bbox": [
+        809.0,
+        727.0,
+        65.0,
+        129.0
+      ],
+      "area": 8385.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 5176621846,
+      "category_id": 11,
+      "bbox": [
+        687.0,
+        736.0,
+        62.0,
+        89.0
+      ],
+      "area": 5518.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 16,
+      "image_id": 5176621846,
+      "category_id": 11,
+      "bbox": [
+        298.0,
+        146.0,
+        37.0,
+        83.0
+      ],
+      "area": 3071.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 17,
+      "image_id": 5176621846,
+      "category_id": 11,
+      "bbox": [
+        262.0,
+        211.0,
+        38.0,
+        89.0
+      ],
+      "area": 3382.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 18,
+      "image_id": 5176621846,
+      "category_id": 11,
+      "bbox": [
+        765.0,
+        7.0,
+        60.0,
+        195.0
+      ],
+      "area": 11700.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 19,
+      "image_id": 5176621846,
+      "category_id": 11,
+      "bbox": [
+        701.0,
+        434.0,
+        68.0,
+        160.0
+      ],
+      "area": 10880.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 20,
+      "image_id": 5176621846,
+      "category_id": 11,
+      "bbox": [
+        152.0,
+        580.0,
+        45.0,
+        94.0
+      ],
+      "area": 4230.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 21,
+      "image_id": 5176621846,
+      "category_id": 11,
+      "bbox": [
+        694.0,
+        596.0,
+        38.0,
+        78.0
+      ],
+      "area": 2964.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 22,
+      "image_id": 5176621846,
+      "category_id": 11,
+      "bbox": [
+        648.0,
+        730.0,
+        69.0,
+        68.0
+      ],
+      "area": 4692.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 23,
+      "image_id": 5176621846,
+      "category_id": 11,
+      "bbox": [
+        74.0,
+        2.0,
+        46.0,
+        116.0
+      ],
+      "area": 5336.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 24,
+      "image_id": 5176621846,
+      "category_id": 11,
+      "bbox": [
+        389.0,
+        211.0,
+        38.0,
+        52.0
+      ],
+      "area": 1976.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "peach_leaf",
+      "supercategory": "peach_leaf"
+    }
+  ]
+}

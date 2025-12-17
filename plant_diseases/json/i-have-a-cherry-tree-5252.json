@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3837607832,
+      "width": 2048,
+      "height": 1536,
+      "file_name": "i-have-a-cherry-tree-5252.jpg",
+      "size": 975825,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3837607832,
+      "category_id": 7,
+      "bbox": [
+        616.0,
+        698.0,
+        677.0,
+        502.0
+      ],
+      "area": 339854.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3837607832,
+      "category_id": 7,
+      "bbox": [
+        1609.0,
+        1011.0,
+        438.0,
+        427.0
+      ],
+      "area": 187026.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3837607832,
+      "category_id": 7,
+      "bbox": [
+        350.0,
+        173.0,
+        307.0,
+        414.0
+      ],
+      "area": 127098.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3837607832,
+      "category_id": 7,
+      "bbox": [
+        655.0,
+        66.0,
+        700.0,
+        492.0
+      ],
+      "area": 344400.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 3837607832,
+      "category_id": 7,
+      "bbox": [
+        1119.0,
+        1222.0,
+        356.0,
+        314.0
+      ],
+      "area": 111784.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 3837607832,
+      "category_id": 7,
+      "bbox": [
+        816.0,
+        1088.0,
+        395.0,
+        448.0
+      ],
+      "area": 176960.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 7,
+      "name": "cherry_leaf",
+      "supercategory": "cherry_leaf"
+    }
+  ]
+}

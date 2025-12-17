@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2574822414,
+      "width": 1300,
+      "height": 1117,
+      "file_name": "raspberry-leaves-isolated-28028038.jpg",
+      "size": 166845,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2574822414,
+      "category_id": 15,
+      "bbox": [
+        45.0,
+        93.0,
+        566.0,
+        422.0
+      ],
+      "area": 238852.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2574822414,
+      "category_id": 15,
+      "bbox": [
+        595.0,
+        21.0,
+        285.0,
+        514.0
+      ],
+      "area": 146490.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2574822414,
+      "category_id": 15,
+      "bbox": [
+        250.0,
+        452.0,
+        467.0,
+        278.0
+      ],
+      "area": 129826.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2574822414,
+      "category_id": 15,
+      "bbox": [
+        414.0,
+        580.0,
+        497.0,
+        392.0
+      ],
+      "area": 194824.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 2574822414,
+      "category_id": 15,
+      "bbox": [
+        794.0,
+        365.0,
+        481.0,
+        361.0
+      ],
+      "area": 173641.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

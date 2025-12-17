@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4478992464,
+      "width": 900,
+      "height": 1200,
+      "file_name": "Corn-Gray-Leaf-Spot-7-31-F2.jpg",
+      "size": 364626,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4478992464,
+      "category_id": 9,
+      "bbox": [
+        233.0,
+        4.0,
+        305.0,
+        1196.0
+      ],
+      "area": 364780.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4478992464,
+      "category_id": 9,
+      "bbox": [
+        513.0,
+        14.0,
+        310.0,
+        1182.0
+      ],
+      "area": 366420.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 9,
+      "name": "corn_leaf_blight",
+      "supercategory": "corn_leaf_blight"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8898481540,
+      "width": 1200,
+      "height": 1108,
+      "file_name": "ripe-raspberry-with-green-leaves-and-flowers-Download-Royalty-free-Vector-File-EPS-10297.jpg",
+      "size": 278763,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8898481540,
+      "category_id": 15,
+      "bbox": [
+        698.0,
+        76.0,
+        418.0,
+        346.0
+      ],
+      "area": 144628.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8898481540,
+      "category_id": 15,
+      "bbox": [
+        539.0,
+        340.0,
+        341.0,
+        280.0
+      ],
+      "area": 95480.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8898481540,
+      "category_id": 15,
+      "bbox": [
+        414.0,
+        18.0,
+        253.0,
+        379.0
+      ],
+      "area": 95887.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8898481540,
+      "category_id": 15,
+      "bbox": [
+        181.0,
+        143.0,
+        246.0,
+        396.0
+      ],
+      "area": 97416.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

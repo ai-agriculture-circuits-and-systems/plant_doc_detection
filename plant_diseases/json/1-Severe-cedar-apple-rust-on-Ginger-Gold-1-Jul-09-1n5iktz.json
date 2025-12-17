@@ -1,0 +1,165 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8542051998,
+      "width": 1966,
+      "height": 1502,
+      "file_name": "1-Severe-cedar-apple-rust-on-Ginger-Gold-1-Jul-09-1n5iktz.jpg",
+      "size": 730367,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8542051998,
+      "category_id": 3,
+      "bbox": [
+        712.0,
+        163.0,
+        209.0,
+        472.0
+      ],
+      "area": 98648.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8542051998,
+      "category_id": 3,
+      "bbox": [
+        35.0,
+        618.0,
+        235.0,
+        313.0
+      ],
+      "area": 73555.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8542051998,
+      "category_id": 3,
+      "bbox": [
+        43.0,
+        926.0,
+        241.0,
+        420.0
+      ],
+      "area": 101220.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8542051998,
+      "category_id": 3,
+      "bbox": [
+        501.0,
+        1179.0,
+        200.0,
+        295.0
+      ],
+      "area": 59000.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8542051998,
+      "category_id": 3,
+      "bbox": [
+        1535.0,
+        840.0,
+        332.0,
+        458.0
+      ],
+      "area": 152056.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 8542051998,
+      "category_id": 3,
+      "bbox": [
+        1784.0,
+        1154.0,
+        175.0,
+        348.0
+      ],
+      "area": 60900.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 8542051998,
+      "category_id": 3,
+      "bbox": [
+        579.0,
+        862.0,
+        217.0,
+        354.0
+      ],
+      "area": 76818.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 8542051998,
+      "category_id": 3,
+      "bbox": [
+        1181.0,
+        1195.0,
+        307.0,
+        307.0
+      ],
+      "area": 94249.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 8542051998,
+      "category_id": 3,
+      "bbox": [
+        718.0,
+        1346.0,
+        122.0,
+        156.0
+      ],
+      "area": 19032.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 8542051998,
+      "category_id": 3,
+      "bbox": [
+        938.0,
+        1388.0,
+        128.0,
+        114.0
+      ],
+      "area": 14592.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "apple_rust_leaf",
+      "supercategory": "apple_rust_leaf"
+    }
+  ]
+}

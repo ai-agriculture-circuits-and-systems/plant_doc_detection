@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2269972757,
+      "width": 1311,
+      "height": 1300,
+      "file_name": "raspberry-leaf-isolated-white-18415125.jpg",
+      "size": 136522,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2269972757,
+      "category_id": 15,
+      "bbox": [
+        328.0,
+        164.0,
+        447.0,
+        576.0
+      ],
+      "area": 257472.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2269972757,
+      "category_id": 15,
+      "bbox": [
+        659.0,
+        556.0,
+        451.0,
+        419.0
+      ],
+      "area": 188969.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2269972757,
+      "category_id": 15,
+      "bbox": [
+        105.0,
+        687.0,
+        565.0,
+        291.0
+      ],
+      "area": 164415.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

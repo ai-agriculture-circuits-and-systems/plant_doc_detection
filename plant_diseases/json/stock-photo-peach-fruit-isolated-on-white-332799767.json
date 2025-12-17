@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5957329758,
+      "width": 450,
+      "height": 470,
+      "file_name": "stock-photo-peach-fruit-isolated-on-white-332799767.jpg",
+      "size": 43742,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5957329758,
+      "category_id": 11,
+      "bbox": [
+        177.0,
+        42.0,
+        238.0,
+        81.0
+      ],
+      "area": 19278.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5957329758,
+      "category_id": 11,
+      "bbox": [
+        177.0,
+        92.0,
+        249.0,
+        127.0
+      ],
+      "area": 31623.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "peach_leaf",
+      "supercategory": "peach_leaf"
+    }
+  ]
+}

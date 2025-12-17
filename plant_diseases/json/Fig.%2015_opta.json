@@ -1,0 +1,152 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4414581809,
+      "width": 1055,
+      "height": 1478,
+      "file_name": "Fig.%2015_opta.jpg",
+      "size": 550428,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4414581809,
+      "category_id": 26,
+      "bbox": [
+        718.0,
+        5.0,
+        247.0,
+        149.0
+      ],
+      "area": 36803.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4414581809,
+      "category_id": 26,
+      "bbox": [
+        473.0,
+        122.0,
+        193.0,
+        229.0
+      ],
+      "area": 44197.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4414581809,
+      "category_id": 26,
+      "bbox": [
+        567.0,
+        809.0,
+        167.0,
+        207.0
+      ],
+      "area": 34569.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4414581809,
+      "category_id": 26,
+      "bbox": [
+        259.0,
+        570.0,
+        106.0,
+        101.0
+      ],
+      "area": 10706.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4414581809,
+      "category_id": 26,
+      "bbox": [
+        418.0,
+        538.0,
+        111.0,
+        99.0
+      ],
+      "area": 10989.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 4414581809,
+      "category_id": 26,
+      "bbox": [
+        147.0,
+        324.0,
+        289.0,
+        227.0
+      ],
+      "area": 65603.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 4414581809,
+      "category_id": 26,
+      "bbox": [
+        284.0,
+        106.0,
+        115.0,
+        204.0
+      ],
+      "area": 23460.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 4414581809,
+      "category_id": 26,
+      "bbox": [
+        548.0,
+        198.0,
+        397.0,
+        833.0
+      ],
+      "area": 330701.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 4414581809,
+      "category_id": 26,
+      "bbox": [
+        132.0,
+        690.0,
+        370.0,
+        654.0
+      ],
+      "area": 241980.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 26,
+      "name": "tomato_mold_leaf",
+      "supercategory": "tomato_mold_leaf"
+    }
+  ]
+}

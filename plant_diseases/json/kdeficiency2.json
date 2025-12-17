@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1654204080,
+      "width": 800,
+      "height": 600,
+      "file_name": "kdeficiency2.jpg",
+      "size": 405600,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1654204080,
+      "category_id": 16,
+      "bbox": [
+        413.0,
+        258.0,
+        277.0,
+        210.0
+      ],
+      "area": 58170.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1654204080,
+      "category_id": 16,
+      "bbox": [
+        178.0,
+        275.0,
+        193.0,
+        200.0
+      ],
+      "area": 38600.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1654204080,
+      "category_id": 16,
+      "bbox": [
+        315.0,
+        20.0,
+        163.0,
+        247.0
+      ],
+      "area": 40261.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 16,
+      "name": "soyabean_leaf",
+      "supercategory": "soyabean_leaf"
+    }
+  ]
+}

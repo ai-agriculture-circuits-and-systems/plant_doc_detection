@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7945136899,
+      "width": 900,
+      "height": 675,
+      "file_name": "powderymildewpumpkinaiyura6151.jpg",
+      "size": 155063,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7945136899,
+      "category_id": 17,
+      "bbox": [
+        96.0,
+        65.0,
+        520.0,
+        454.0
+      ],
+      "area": 236080.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7945136899,
+      "category_id": 17,
+      "bbox": [
+        586.0,
+        36.0,
+        314.0,
+        378.0
+      ],
+      "area": 118692.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 17,
+      "name": "squash_powdery_mildew_leaf",
+      "supercategory": "squash_powdery_mildew_leaf"
+    }
+  ]
+}

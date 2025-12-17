@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6474384004,
+      "width": 450,
+      "height": 414,
+      "file_name": "stock-photo-fresh-peach-fruits-with-green-leaves-isolated-on-white-background-59305621.jpg",
+      "size": 31867,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6474384004,
+      "category_id": 11,
+      "bbox": [
+        50.0,
+        246.0,
+        192.0,
+        81.0
+      ],
+      "area": 15552.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6474384004,
+      "category_id": 11,
+      "bbox": [
+        40.0,
+        193.0,
+        127.0,
+        91.0
+      ],
+      "area": 11557.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "peach_leaf",
+      "supercategory": "peach_leaf"
+    }
+  ]
+}

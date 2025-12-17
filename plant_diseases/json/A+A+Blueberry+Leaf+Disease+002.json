@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8239500911,
+      "width": 1024,
+      "height": 768,
+      "file_name": "A+A+Blueberry+Leaf+Disease+002.jpg",
+      "size": 346533,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8239500911,
+      "category_id": 6,
+      "bbox": [
+        106.0,
+        194.0,
+        770.0,
+        423.0
+      ],
+      "area": 325710.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8239500911,
+      "category_id": 6,
+      "bbox": [
+        467.0,
+        341.0,
+        514.0,
+        427.0
+      ],
+      "area": 219478.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

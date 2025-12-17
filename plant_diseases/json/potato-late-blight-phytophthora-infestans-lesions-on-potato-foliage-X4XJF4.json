@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7387260227,
+      "width": 1296,
+      "height": 1390,
+      "file_name": "potato-late-blight-phytophthora-infestans-lesions-on-potato-foliage-X4XJF4.jpg",
+      "size": 204085,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7387260227,
+      "category_id": 14,
+      "bbox": [
+        326.0,
+        674.0,
+        245.0,
+        400.0
+      ],
+      "area": 98000.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7387260227,
+      "category_id": 14,
+      "bbox": [
+        677.0,
+        486.0,
+        322.0,
+        359.0
+      ],
+      "area": 115598.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7387260227,
+      "category_id": 14,
+      "bbox": [
+        236.0,
+        431.0,
+        353.0,
+        214.0
+      ],
+      "area": 75542.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 7387260227,
+      "category_id": 14,
+      "bbox": [
+        432.0,
+        237.0,
+        279.0,
+        251.0
+      ],
+      "area": 70029.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 14,
+      "name": "potato_leaf_late_blight",
+      "supercategory": "potato_leaf_late_blight"
+    }
+  ]
+}

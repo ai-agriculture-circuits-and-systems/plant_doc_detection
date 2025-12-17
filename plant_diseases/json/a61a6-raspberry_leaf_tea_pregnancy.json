@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2374327259,
+      "width": 1600,
+      "height": 1066,
+      "file_name": "a61a6-raspberry_leaf_tea_pregnancy.jpg",
+      "size": 109419,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2374327259,
+      "category_id": 15,
+      "bbox": [
+        385.0,
+        102.0,
+        453.0,
+        348.0
+      ],
+      "area": 157644.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2374327259,
+      "category_id": 15,
+      "bbox": [
+        161.0,
+        395.0,
+        552.0,
+        230.0
+      ],
+      "area": 126960.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

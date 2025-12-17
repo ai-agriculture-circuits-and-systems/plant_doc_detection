@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3525328453,
+      "width": 4000,
+      "height": 3000,
+      "file_name": "trim-the-stem.jpg",
+      "size": 3497719,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3525328453,
+      "category_id": 28,
+      "bbox": [
+        207.0,
+        54.0,
+        1647.0,
+        1760.0
+      ],
+      "area": 2898720.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3525328453,
+      "category_id": 28,
+      "bbox": [
+        1813.0,
+        698.0,
+        1453.0,
+        1316.0
+      ],
+      "area": 1912148.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 28,
+      "name": "grape_leaf",
+      "supercategory": "grape_leaf"
+    }
+  ]
+}

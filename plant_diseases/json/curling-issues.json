@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9243472323,
+      "width": 3888,
+      "height": 2592,
+      "file_name": "curling-issues.jpg",
+      "size": 2468465,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9243472323,
+      "category_id": 21,
+      "bbox": [
+        1687.0,
+        1229.0,
+        1133.0,
+        738.0
+      ],
+      "area": 836154.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9243472323,
+      "category_id": 21,
+      "bbox": [
+        625.0,
+        1400.0,
+        1371.0,
+        853.0
+      ],
+      "area": 1169463.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9243472323,
+      "category_id": 21,
+      "bbox": [
+        2077.0,
+        719.0,
+        1533.0,
+        595.0
+      ],
+      "area": 912135.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 21,
+      "name": "tomato_leaf",
+      "supercategory": "tomato_leaf"
+    }
+  ]
+}

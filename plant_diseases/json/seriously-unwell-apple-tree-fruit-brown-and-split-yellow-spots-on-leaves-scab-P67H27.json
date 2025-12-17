@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1377054061,
+      "width": 1300,
+      "height": 1203,
+      "file_name": "seriously-unwell-apple-tree-fruit-brown-and-split-yellow-spots-on-leaves-scab-P67H27.jpg",
+      "size": 135120,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1377054061,
+      "category_id": 1,
+      "bbox": [
+        205.0,
+        495.0,
+        380.0,
+        596.0
+      ],
+      "area": 226480.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1377054061,
+      "category_id": 1,
+      "bbox": [
+        670.0,
+        371.0,
+        488.0,
+        297.0
+      ],
+      "area": 144936.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "apple_scab_leaf",
+      "supercategory": "apple_scab_leaf"
+    }
+  ]
+}

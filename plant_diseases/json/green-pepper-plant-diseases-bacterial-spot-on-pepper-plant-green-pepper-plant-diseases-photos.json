@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4261540889,
+      "width": 700,
+      "height": 525,
+      "file_name": "green-pepper-plant-diseases-bacterial-spot-on-pepper-plant-green-pepper-plant-diseases-photos.jpg",
+      "size": 66914,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4261540889,
+      "category_id": 5,
+      "bbox": [
+        249.0,
+        160.0,
+        98.0,
+        150.0
+      ],
+      "area": 14700.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4261540889,
+      "category_id": 5,
+      "bbox": [
+        3.0,
+        59.0,
+        125.0,
+        192.0
+      ],
+      "area": 24000.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4261540889,
+      "category_id": 5,
+      "bbox": [
+        200.0,
+        57.0,
+        138.0,
+        84.0
+      ],
+      "area": 11592.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4261540889,
+      "category_id": 5,
+      "bbox": [
+        540.0,
+        275.0,
+        155.0,
+        250.0
+      ],
+      "area": 38750.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4261540889,
+      "category_id": 5,
+      "bbox": [
+        403.0,
+        227.0,
+        209.0,
+        191.0
+      ],
+      "area": 39919.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 5,
+      "name": "bell_pepper_leaf_spot",
+      "supercategory": "bell_pepper_leaf_spot"
+    }
+  ]
+}

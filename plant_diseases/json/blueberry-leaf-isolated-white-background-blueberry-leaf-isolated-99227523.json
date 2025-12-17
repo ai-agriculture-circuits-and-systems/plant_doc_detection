@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1406039896,
+      "width": 1300,
+      "height": 1305,
+      "file_name": "blueberry-leaf-isolated-white-background-blueberry-leaf-isolated-99227523.jpg",
+      "size": 181667,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1406039896,
+      "category_id": 6,
+      "bbox": [
+        217.0,
+        56.0,
+        414.0,
+        732.0
+      ],
+      "area": 303048.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1406039896,
+      "category_id": 6,
+      "bbox": [
+        625.0,
+        178.0,
+        327.0,
+        508.0
+      ],
+      "area": 166116.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1406039896,
+      "category_id": 6,
+      "bbox": [
+        660.0,
+        511.0,
+        565.0,
+        301.0
+      ],
+      "area": 170065.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

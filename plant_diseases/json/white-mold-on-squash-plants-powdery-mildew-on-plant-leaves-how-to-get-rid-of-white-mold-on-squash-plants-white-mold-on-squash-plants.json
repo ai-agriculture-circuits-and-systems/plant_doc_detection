@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4559786514,
+      "width": 600,
+      "height": 900,
+      "file_name": "white-mold-on-squash-plants-powdery-mildew-on-plant-leaves-how-to-get-rid-of-white-mold-on-squash-plants-white-mold-on-squash-plants.jpg",
+      "size": 90035,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4559786514,
+      "category_id": 17,
+      "bbox": [
+        1.0,
+        273.0,
+        381.0,
+        299.0
+      ],
+      "area": 113919.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4559786514,
+      "category_id": 17,
+      "bbox": [
+        261.0,
+        601.0,
+        311.0,
+        282.0
+      ],
+      "area": 87702.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4559786514,
+      "category_id": 17,
+      "bbox": [
+        315.0,
+        456.0,
+        285.0,
+        212.0
+      ],
+      "area": 60420.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4559786514,
+      "category_id": 17,
+      "bbox": [
+        117.0,
+        1.0,
+        398.0,
+        183.0
+      ],
+      "area": 72834.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 17,
+      "name": "squash_powdery_mildew_leaf",
+      "supercategory": "squash_powdery_mildew_leaf"
+    }
+  ]
+}

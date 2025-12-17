@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4333272246,
+      "width": 1300,
+      "height": 957,
+      "file_name": "leaf-blueberry-plant-vaccinium-corymbosum-north-america-usa-bush-103375785.jpg",
+      "size": 120639,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4333272246,
+      "category_id": 6,
+      "bbox": [
+        887.0,
+        184.0,
+        111.0,
+        175.0
+      ],
+      "area": 19425.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4333272246,
+      "category_id": 6,
+      "bbox": [
+        918.0,
+        166.0,
+        202.0,
+        224.0
+      ],
+      "area": 45248.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4333272246,
+      "category_id": 6,
+      "bbox": [
+        757.0,
+        197.0,
+        127.0,
+        203.0
+      ],
+      "area": 25781.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4333272246,
+      "category_id": 6,
+      "bbox": [
+        649.0,
+        331.0,
+        141.0,
+        148.0
+      ],
+      "area": 20868.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4333272246,
+      "category_id": 6,
+      "bbox": [
+        367.0,
+        297.0,
+        302.0,
+        194.0
+      ],
+      "area": 58588.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 4333272246,
+      "category_id": 6,
+      "bbox": [
+        800.0,
+        525.0,
+        199.0,
+        154.0
+      ],
+      "area": 30646.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

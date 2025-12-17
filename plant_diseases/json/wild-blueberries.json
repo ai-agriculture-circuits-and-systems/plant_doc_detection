@@ -1,0 +1,230 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4968810040,
+      "width": 5184,
+      "height": 3456,
+      "file_name": "wild-blueberries.jpg",
+      "size": 1712273,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4968810040,
+      "category_id": 6,
+      "bbox": [
+        1155.0,
+        201.0,
+        737.0,
+        778.0
+      ],
+      "area": 573386.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4968810040,
+      "category_id": 6,
+      "bbox": [
+        1936.0,
+        235.0,
+        556.0,
+        852.0
+      ],
+      "area": 473712.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4968810040,
+      "category_id": 6,
+      "bbox": [
+        1077.0,
+        1001.0,
+        807.0,
+        415.0
+      ],
+      "area": 334905.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4968810040,
+      "category_id": 6,
+      "bbox": [
+        1907.0,
+        1212.0,
+        296.0,
+        863.0
+      ],
+      "area": 255448.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4968810040,
+      "category_id": 6,
+      "bbox": [
+        284.0,
+        1175.0,
+        926.0,
+        934.0
+      ],
+      "area": 864884.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 4968810040,
+      "category_id": 6,
+      "bbox": [
+        599.0,
+        2038.0,
+        541.0,
+        1219.0
+      ],
+      "area": 659479.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 4968810040,
+      "category_id": 6,
+      "bbox": [
+        1558.0,
+        2116.0,
+        486.0,
+        871.0
+      ],
+      "area": 423306.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 4968810040,
+      "category_id": 6,
+      "bbox": [
+        1907.0,
+        1987.0,
+        863.0,
+        566.0
+      ],
+      "area": 488458.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 4968810040,
+      "category_id": 6,
+      "bbox": [
+        3758.0,
+        1275.0,
+        523.0,
+        1193.0
+      ],
+      "area": 623939.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 4968810040,
+      "category_id": 6,
+      "bbox": [
+        4269.0,
+        1835.0,
+        804.0,
+        600.0
+      ],
+      "area": 482400.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 4968810040,
+      "category_id": 6,
+      "bbox": [
+        3099.0,
+        1790.0,
+        515.0,
+        697.0
+      ],
+      "area": 358955.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 4968810040,
+      "category_id": 6,
+      "bbox": [
+        3529.0,
+        2442.0,
+        366.0,
+        796.0
+      ],
+      "area": 291336.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 4968810040,
+      "category_id": 6,
+      "bbox": [
+        3966.0,
+        2557.0,
+        1096.0,
+        852.0
+      ],
+      "area": 933792.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 4968810040,
+      "category_id": 6,
+      "bbox": [
+        3062.0,
+        46.0,
+        407.0,
+        881.0
+      ],
+      "area": 358567.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 4968810040,
+      "category_id": 6,
+      "bbox": [
+        3429.0,
+        661.0,
+        1133.0,
+        566.0
+      ],
+      "area": 641278.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

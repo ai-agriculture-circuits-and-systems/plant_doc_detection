@@ -1,0 +1,204 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2583452970,
+      "width": 900,
+      "height": 583,
+      "file_name": "apples_silver-leaf_04_zoom.jpg",
+      "size": 112504,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2583452970,
+      "category_id": 2,
+      "bbox": [
+        513.0,
+        161.0,
+        96.0,
+        211.0
+      ],
+      "area": 20256.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2583452970,
+      "category_id": 2,
+      "bbox": [
+        617.0,
+        174.0,
+        202.0,
+        114.0
+      ],
+      "area": 23028.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2583452970,
+      "category_id": 2,
+      "bbox": [
+        709.0,
+        303.0,
+        84.0,
+        144.0
+      ],
+      "area": 12096.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2583452970,
+      "category_id": 2,
+      "bbox": [
+        493.0,
+        352.0,
+        167.0,
+        123.0
+      ],
+      "area": 20541.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 2583452970,
+      "category_id": 2,
+      "bbox": [
+        284.0,
+        199.0,
+        166.0,
+        155.0
+      ],
+      "area": 25730.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 2583452970,
+      "category_id": 2,
+      "bbox": [
+        338.0,
+        397.0,
+        165.0,
+        137.0
+      ],
+      "area": 22605.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 2583452970,
+      "category_id": 2,
+      "bbox": [
+        650.0,
+        427.0,
+        211.0,
+        135.0
+      ],
+      "area": 28485.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 2583452970,
+      "category_id": 2,
+      "bbox": [
+        591.0,
+        465.0,
+        147.0,
+        118.0
+      ],
+      "area": 17346.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 2583452970,
+      "category_id": 2,
+      "bbox": [
+        182.0,
+        107.0,
+        102.0,
+        235.0
+      ],
+      "area": 23970.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 2583452970,
+      "category_id": 2,
+      "bbox": [
+        321.0,
+        90.0,
+        100.0,
+        148.0
+      ],
+      "area": 14800.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 2583452970,
+      "category_id": 2,
+      "bbox": [
+        78.0,
+        349.0,
+        133.0,
+        147.0
+      ],
+      "area": 19551.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 2583452970,
+      "category_id": 2,
+      "bbox": [
+        215.0,
+        447.0,
+        128.0,
+        93.0
+      ],
+      "area": 11904.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 2583452970,
+      "category_id": 2,
+      "bbox": [
+        388.0,
+        127.0,
+        159.0,
+        122.0
+      ],
+      "area": 19398.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "apple_leaf",
+      "supercategory": "apple_leaf"
+    }
+  ]
+}

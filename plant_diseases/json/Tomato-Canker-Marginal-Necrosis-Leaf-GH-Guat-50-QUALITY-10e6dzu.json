@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6080968139,
+      "width": 667,
+      "height": 500,
+      "file_name": "Tomato-Canker-Marginal-Necrosis-Leaf-GH-Guat-50-QUALITY-10e6dzu.jpg",
+      "size": 34757,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6080968139,
+      "category_id": 22,
+      "bbox": [
+        8.0,
+        112.0,
+        524.0,
+        343.0
+      ],
+      "area": 179732.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6080968139,
+      "category_id": 22,
+      "bbox": [
+        475.0,
+        11.0,
+        192.0,
+        279.0
+      ],
+      "area": 53568.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 22,
+      "name": "tomato_leaf_bacterial_spot",
+      "supercategory": "tomato_leaf_bacterial_spot"
+    }
+  ]
+}

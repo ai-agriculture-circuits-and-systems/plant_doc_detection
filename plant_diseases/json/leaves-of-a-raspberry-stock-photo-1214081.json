@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8046256533,
+      "width": 1300,
+      "height": 1140,
+      "file_name": "leaves-of-a-raspberry-stock-photo-1214081.jpg",
+      "size": 207648,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8046256533,
+      "category_id": 15,
+      "bbox": [
+        479.0,
+        604.0,
+        219.0,
+        252.0
+      ],
+      "area": 55188.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8046256533,
+      "category_id": 15,
+      "bbox": [
+        291.0,
+        553.0,
+        205.0,
+        138.0
+      ],
+      "area": 28290.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8046256533,
+      "category_id": 15,
+      "bbox": [
+        212.0,
+        66.0,
+        212.0,
+        209.0
+      ],
+      "area": 44308.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8046256533,
+      "category_id": 15,
+      "bbox": [
+        891.0,
+        574.0,
+        238.0,
+        342.0
+      ],
+      "area": 81396.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8046256533,
+      "category_id": 15,
+      "bbox": [
+        690.0,
+        548.0,
+        156.0,
+        184.0
+      ],
+      "area": 28704.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

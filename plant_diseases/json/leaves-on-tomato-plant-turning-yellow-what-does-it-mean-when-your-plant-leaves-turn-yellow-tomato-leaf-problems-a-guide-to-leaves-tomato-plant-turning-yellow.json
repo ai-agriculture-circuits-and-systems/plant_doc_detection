@@ -1,0 +1,152 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9517245774,
+      "width": 810,
+      "height": 450,
+      "file_name": "leaves-on-tomato-plant-turning-yellow-what-does-it-mean-when-your-plant-leaves-turn-yellow-tomato-leaf-problems-a-guide-to-leaves-tomato-plant-turning-yellow.jpg",
+      "size": 67016,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9517245774,
+      "category_id": 25,
+      "bbox": [
+        105.0,
+        74.0,
+        105.0,
+        119.0
+      ],
+      "area": 12495.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9517245774,
+      "category_id": 25,
+      "bbox": [
+        204.0,
+        54.0,
+        82.0,
+        164.0
+      ],
+      "area": 13448.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9517245774,
+      "category_id": 25,
+      "bbox": [
+        54.0,
+        193.0,
+        142.0,
+        234.0
+      ],
+      "area": 33228.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 9517245774,
+      "category_id": 25,
+      "bbox": [
+        158.0,
+        363.0,
+        108.0,
+        80.0
+      ],
+      "area": 8640.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 9517245774,
+      "category_id": 25,
+      "bbox": [
+        176.0,
+        207.0,
+        111.0,
+        139.0
+      ],
+      "area": 15429.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 9517245774,
+      "category_id": 25,
+      "bbox": [
+        273.0,
+        197.0,
+        122.0,
+        200.0
+      ],
+      "area": 24400.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 9517245774,
+      "category_id": 25,
+      "bbox": [
+        562.0,
+        13.0,
+        137.0,
+        177.0
+      ],
+      "area": 24249.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 9517245774,
+      "category_id": 25,
+      "bbox": [
+        651.0,
+        28.0,
+        87.0,
+        160.0
+      ],
+      "area": 13920.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 9517245774,
+      "category_id": 25,
+      "bbox": [
+        440.0,
+        175.0,
+        209.0,
+        266.0
+      ],
+      "area": 55594.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 25,
+      "name": "tomato_leaf_yellow_virus",
+      "supercategory": "tomato_leaf_yellow_virus"
+    }
+  ]
+}

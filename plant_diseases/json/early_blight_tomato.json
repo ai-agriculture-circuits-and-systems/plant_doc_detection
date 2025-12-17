@@ -1,0 +1,144 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8610407440,
+      "width": 1008,
+      "height": 672,
+      "file_name": "early_blight_tomato.jpg",
+      "size": 864888,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8610407440,
+      "category_id": 19,
+      "bbox": [
+        447.0,
+        359.0,
+        69.0,
+        130.0
+      ],
+      "area": 8970.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8610407440,
+      "category_id": 19,
+      "bbox": [
+        536.0,
+        207.0,
+        157.0,
+        104.0
+      ],
+      "area": 16328.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8610407440,
+      "category_id": 19,
+      "bbox": [
+        356.0,
+        251.0,
+        78.0,
+        69.0
+      ],
+      "area": 5382.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8610407440,
+      "category_id": 19,
+      "bbox": [
+        425.0,
+        283.0,
+        88.0,
+        43.0
+      ],
+      "area": 3784.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8610407440,
+      "category_id": 19,
+      "bbox": [
+        703.0,
+        153.0,
+        139.0,
+        111.0
+      ],
+      "area": 15429.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 8610407440,
+      "category_id": 21,
+      "bbox": [
+        510.0,
+        370.0,
+        69.0,
+        104.0
+      ],
+      "area": 7176.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 8610407440,
+      "category_id": 19,
+      "bbox": [
+        331.0,
+        92.0,
+        99.0,
+        99.0
+      ],
+      "area": 9801.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 8610407440,
+      "category_id": 19,
+      "bbox": [
+        225.0,
+        415.0,
+        122.0,
+        59.0
+      ],
+      "area": 7198.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 19,
+      "name": "tomato_early_blight_leaf",
+      "supercategory": "tomato_early_blight_leaf"
+    },
+    {
+      "id": 21,
+      "name": "tomato_leaf",
+      "supercategory": "tomato_leaf"
+    }
+  ]
+}

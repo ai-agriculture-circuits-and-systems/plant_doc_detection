@@ -1,0 +1,204 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2834630156,
+      "width": 900,
+      "height": 675,
+      "file_name": "pepper_bacterial-spot_02_zoom.jpg",
+      "size": 139101,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2834630156,
+      "category_id": 5,
+      "bbox": [
+        124.0,
+        53.0,
+        163.0,
+        182.0
+      ],
+      "area": 29666.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2834630156,
+      "category_id": 5,
+      "bbox": [
+        237.0,
+        296.0,
+        122.0,
+        147.0
+      ],
+      "area": 17934.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2834630156,
+      "category_id": 5,
+      "bbox": [
+        412.0,
+        146.0,
+        92.0,
+        176.0
+      ],
+      "area": 16192.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2834630156,
+      "category_id": 5,
+      "bbox": [
+        531.0,
+        288.0,
+        117.0,
+        115.0
+      ],
+      "area": 13455.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 2834630156,
+      "category_id": 5,
+      "bbox": [
+        626.0,
+        393.0,
+        124.0,
+        166.0
+      ],
+      "area": 20584.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 2834630156,
+      "category_id": 5,
+      "bbox": [
+        680.0,
+        156.0,
+        134.0,
+        191.0
+      ],
+      "area": 25594.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 2834630156,
+      "category_id": 5,
+      "bbox": [
+        495.0,
+        20.0,
+        253.0,
+        132.0
+      ],
+      "area": 33396.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 2834630156,
+      "category_id": 5,
+      "bbox": [
+        252.0,
+        487.0,
+        130.0,
+        163.0
+      ],
+      "area": 21190.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 2834630156,
+      "category_id": 5,
+      "bbox": [
+        7.0,
+        388.0,
+        151.0,
+        230.0
+      ],
+      "area": 34730.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 2834630156,
+      "category_id": 5,
+      "bbox": [
+        209.0,
+        447.0,
+        103.0,
+        90.0
+      ],
+      "area": 9270.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 2834630156,
+      "category_id": 5,
+      "bbox": [
+        332.0,
+        390.0,
+        114.0,
+        92.0
+      ],
+      "area": 10488.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 2834630156,
+      "category_id": 5,
+      "bbox": [
+        791.0,
+        456.0,
+        104.0,
+        122.0
+      ],
+      "area": 12688.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 2834630156,
+      "category_id": 5,
+      "bbox": [
+        263.0,
+        105.0,
+        120.0,
+        158.0
+      ],
+      "area": 18960.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 5,
+      "name": "bell_pepper_leaf_spot",
+      "supercategory": "bell_pepper_leaf_spot"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3235167761,
+      "width": 800,
+      "height": 530,
+      "file_name": "grape-leaves-2.jpg",
+      "size": 122212,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3235167761,
+      "category_id": 28,
+      "bbox": [
+        156.0,
+        165.0,
+        182.0,
+        200.0
+      ],
+      "area": 36400.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3235167761,
+      "category_id": 28,
+      "bbox": [
+        305.0,
+        116.0,
+        179.0,
+        182.0
+      ],
+      "area": 32578.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3235167761,
+      "category_id": 28,
+      "bbox": [
+        557.0,
+        243.0,
+        167.0,
+        142.0
+      ],
+      "area": 23714.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3235167761,
+      "category_id": 28,
+      "bbox": [
+        65.0,
+        1.0,
+        191.0,
+        156.0
+      ],
+      "area": 29796.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 3235167761,
+      "category_id": 28,
+      "bbox": [
+        49.0,
+        240.0,
+        185.0,
+        180.0
+      ],
+      "area": 33300.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 3235167761,
+      "category_id": 28,
+      "bbox": [
+        409.0,
+        228.0,
+        144.0,
+        117.0
+      ],
+      "area": 16848.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 3235167761,
+      "category_id": 28,
+      "bbox": [
+        619.0,
+        378.0,
+        145.0,
+        151.0
+      ],
+      "area": 21895.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 28,
+      "name": "grape_leaf",
+      "supercategory": "grape_leaf"
+    }
+  ]
+}

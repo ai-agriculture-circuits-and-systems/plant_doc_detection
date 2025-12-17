@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6679579007,
+      "width": 300,
+      "height": 460,
+      "file_name": "agriculture-crop-disease-northern-corn-leaf-blight-fungus-exserohilum-turcicum-closeup-of-lesions-on-corn-leaves-texas-usa-x74mbx.jpg",
+      "size": 36585,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6679579007,
+      "category_id": 9,
+      "bbox": [
+        3.0,
+        59.0,
+        248.0,
+        235.0
+      ],
+      "area": 58280.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6679579007,
+      "category_id": 9,
+      "bbox": [
+        141.0,
+        101.0,
+        102.0,
+        319.0
+      ],
+      "area": 32538.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 9,
+      "name": "corn_leaf_blight",
+      "supercategory": "corn_leaf_blight"
+    }
+  ]
+}

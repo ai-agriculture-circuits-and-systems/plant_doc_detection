@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9703222742,
+      "width": 1300,
+      "height": 1139,
+      "file_name": "blueberry-leaves-isolated-shadow-95294017.jpg",
+      "size": 133106,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9703222742,
+      "category_id": 6,
+      "bbox": [
+        260.0,
+        69.0,
+        274.0,
+        350.0
+      ],
+      "area": 95900.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9703222742,
+      "category_id": 6,
+      "bbox": [
+        612.0,
+        105.0,
+        242.0,
+        489.0
+      ],
+      "area": 118338.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9703222742,
+      "category_id": 6,
+      "bbox": [
+        824.0,
+        337.0,
+        248.0,
+        415.0
+      ],
+      "area": 102920.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 9703222742,
+      "category_id": 6,
+      "bbox": [
+        85.0,
+        403.0,
+        469.0,
+        217.0
+      ],
+      "area": 101773.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 9703222742,
+      "category_id": 6,
+      "bbox": [
+        390.0,
+        622.0,
+        421.0,
+        227.0
+      ],
+      "area": 95567.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 9703222742,
+      "category_id": 6,
+      "bbox": [
+        714.0,
+        753.0,
+        374.0,
+        224.0
+      ],
+      "area": 83776.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

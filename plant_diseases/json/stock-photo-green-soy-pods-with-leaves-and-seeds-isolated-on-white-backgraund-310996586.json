@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1150169381,
+      "width": 450,
+      "height": 431,
+      "file_name": "stock-photo-green-soy-pods-with-leaves-and-seeds-isolated-on-white-backgraund-310996586.jpg",
+      "size": 35373,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1150169381,
+      "category_id": 16,
+      "bbox": [
+        217.0,
+        80.0,
+        133.0,
+        161.0
+      ],
+      "area": 21413.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1150169381,
+      "category_id": 16,
+      "bbox": [
+        189.0,
+        29.0,
+        99.0,
+        169.0
+      ],
+      "area": 16731.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1150169381,
+      "category_id": 16,
+      "bbox": [
+        40.0,
+        160.0,
+        182.0,
+        117.0
+      ],
+      "area": 21294.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 16,
+      "name": "soyabean_leaf",
+      "supercategory": "soyabean_leaf"
+    }
+  ]
+}

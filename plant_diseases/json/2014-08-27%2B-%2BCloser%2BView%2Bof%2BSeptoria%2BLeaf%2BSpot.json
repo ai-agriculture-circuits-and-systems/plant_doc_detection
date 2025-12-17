@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1053115975,
+      "width": 1380,
+      "height": 1600,
+      "file_name": "2014-08-27%2B-%2BCloser%2BView%2Bof%2BSeptoria%2BLeaf%2BSpot.jpg",
+      "size": 454985,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1053115975,
+      "category_id": 20,
+      "bbox": [
+        349.0,
+        884.0,
+        223.0,
+        244.0
+      ],
+      "area": 54412.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1053115975,
+      "category_id": 20,
+      "bbox": [
+        1.0,
+        1057.0,
+        409.0,
+        390.0
+      ],
+      "area": 159510.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1053115975,
+      "category_id": 20,
+      "bbox": [
+        883.0,
+        898.0,
+        452.0,
+        376.0
+      ],
+      "area": 169952.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1053115975,
+      "category_id": 20,
+      "bbox": [
+        652.0,
+        727.0,
+        249.0,
+        140.0
+      ],
+      "area": 34860.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 1053115975,
+      "category_id": 20,
+      "bbox": [
+        696.0,
+        846.0,
+        174.0,
+        215.0
+      ],
+      "area": 37410.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 1053115975,
+      "category_id": 20,
+      "bbox": [
+        344.0,
+        782.0,
+        208.0,
+        184.0
+      ],
+      "area": 38272.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 20,
+      "name": "tomato_septoria_leaf_spot",
+      "supercategory": "tomato_septoria_leaf_spot"
+    }
+  ]
+}

@@ -1,0 +1,503 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3599056845,
+      "width": 1287,
+      "height": 1300,
+      "file_name": "blueberry-bushes-clipart-16.jpg",
+      "size": 247757,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3599056845,
+      "category_id": 6,
+      "bbox": [
+        151.0,
+        136.0,
+        120.0,
+        136.0
+      ],
+      "area": 16320.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3599056845,
+      "category_id": 6,
+      "bbox": [
+        153.0,
+        314.0,
+        137.0,
+        108.0
+      ],
+      "area": 14796.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3599056845,
+      "category_id": 6,
+      "bbox": [
+        7.0,
+        382.0,
+        124.0,
+        126.0
+      ],
+      "area": 15624.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3599056845,
+      "category_id": 6,
+      "bbox": [
+        134.0,
+        476.0,
+        114.0,
+        123.0
+      ],
+      "area": 14022.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 3599056845,
+      "category_id": 6,
+      "bbox": [
+        362.0,
+        186.0,
+        116.0,
+        184.0
+      ],
+      "area": 21344.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 3599056845,
+      "category_id": 6,
+      "bbox": [
+        505.0,
+        310.0,
+        190.0,
+        116.0
+      ],
+      "area": 22040.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 3599056845,
+      "category_id": 6,
+      "bbox": [
+        553.0,
+        145.0,
+        162.0,
+        161.0
+      ],
+      "area": 26082.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 3599056845,
+      "category_id": 6,
+      "bbox": [
+        625.0,
+        235.0,
+        183.0,
+        97.0
+      ],
+      "area": 17751.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 3599056845,
+      "category_id": 6,
+      "bbox": [
+        350.0,
+        372.0,
+        140.0,
+        102.0
+      ],
+      "area": 14280.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 3599056845,
+      "category_id": 6,
+      "bbox": [
+        139.0,
+        587.0,
+        108.0,
+        139.0
+      ],
+      "area": 15012.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 3599056845,
+      "category_id": 6,
+      "bbox": [
+        240.0,
+        628.0,
+        152.0,
+        105.0
+      ],
+      "area": 15960.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 3599056845,
+      "category_id": 6,
+      "bbox": [
+        454.0,
+        476.0,
+        144.0,
+        127.0
+      ],
+      "area": 18288.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 3599056845,
+      "category_id": 6,
+      "bbox": [
+        407.0,
+        570.0,
+        151.0,
+        113.0
+      ],
+      "area": 17063.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 3599056845,
+      "category_id": 6,
+      "bbox": [
+        48.0,
+        74.0,
+        117.0,
+        139.0
+      ],
+      "area": 16263.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 3599056845,
+      "category_id": 6,
+      "bbox": [
+        774.0,
+        474.0,
+        97.0,
+        162.0
+      ],
+      "area": 15714.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 3599056845,
+      "category_id": 6,
+      "bbox": [
+        834.0,
+        560.0,
+        173.0,
+        142.0
+      ],
+      "area": 24566.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 16,
+      "image_id": 3599056845,
+      "category_id": 6,
+      "bbox": [
+        740.0,
+        599.0,
+        96.0,
+        163.0
+      ],
+      "area": 15648.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 17,
+      "image_id": 3599056845,
+      "category_id": 6,
+      "bbox": [
+        782.0,
+        746.0,
+        129.0,
+        108.0
+      ],
+      "area": 13932.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 18,
+      "image_id": 3599056845,
+      "category_id": 6,
+      "bbox": [
+        877.0,
+        764.0,
+        139.0,
+        135.0
+      ],
+      "area": 18765.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 19,
+      "image_id": 3599056845,
+      "category_id": 6,
+      "bbox": [
+        1013.0,
+        780.0,
+        129.0,
+        106.0
+      ],
+      "area": 13674.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 20,
+      "image_id": 3599056845,
+      "category_id": 6,
+      "bbox": [
+        958.0,
+        897.0,
+        153.0,
+        139.0
+      ],
+      "area": 21267.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 21,
+      "image_id": 3599056845,
+      "category_id": 6,
+      "bbox": [
+        807.0,
+        926.0,
+        116.0,
+        136.0
+      ],
+      "area": 15776.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 22,
+      "image_id": 3599056845,
+      "category_id": 6,
+      "bbox": [
+        834.0,
+        1162.0,
+        135.0,
+        136.0
+      ],
+      "area": 18360.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 23,
+      "image_id": 3599056845,
+      "category_id": 6,
+      "bbox": [
+        735.0,
+        1143.0,
+        96.0,
+        154.0
+      ],
+      "area": 14784.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 24,
+      "image_id": 3599056845,
+      "category_id": 6,
+      "bbox": [
+        628.0,
+        1094.0,
+        104.0,
+        155.0
+      ],
+      "area": 16120.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 25,
+      "image_id": 3599056845,
+      "category_id": 6,
+      "bbox": [
+        727.0,
+        1058.0,
+        228.0,
+        94.0
+      ],
+      "area": 21432.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 26,
+      "image_id": 3599056845,
+      "category_id": 6,
+      "bbox": [
+        307.0,
+        1079.0,
+        112.0,
+        84.0
+      ],
+      "area": 9408.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 27,
+      "image_id": 3599056845,
+      "category_id": 6,
+      "bbox": [
+        265.0,
+        1148.0,
+        96.0,
+        137.0
+      ],
+      "area": 13152.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 28,
+      "image_id": 3599056845,
+      "category_id": 6,
+      "bbox": [
+        220.0,
+        1037.0,
+        115.0,
+        116.0
+      ],
+      "area": 13340.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 29,
+      "image_id": 3599056845,
+      "category_id": 6,
+      "bbox": [
+        263.0,
+        975.0,
+        145.0,
+        89.0
+      ],
+      "area": 12905.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 30,
+      "image_id": 3599056845,
+      "category_id": 6,
+      "bbox": [
+        293.0,
+        752.0,
+        123.0,
+        199.0
+      ],
+      "area": 24477.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 31,
+      "image_id": 3599056845,
+      "category_id": 6,
+      "bbox": [
+        204.0,
+        729.0,
+        108.0,
+        180.0
+      ],
+      "area": 19440.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 32,
+      "image_id": 3599056845,
+      "category_id": 6,
+      "bbox": [
+        440.0,
+        848.0,
+        130.0,
+        116.0
+      ],
+      "area": 15080.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 33,
+      "image_id": 3599056845,
+      "category_id": 6,
+      "bbox": [
+        563.0,
+        668.0,
+        102.0,
+        162.0
+      ],
+      "area": 16524.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 34,
+      "image_id": 3599056845,
+      "category_id": 6,
+      "bbox": [
+        592.0,
+        793.0,
+        127.0,
+        113.0
+      ],
+      "area": 14351.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 35,
+      "image_id": 3599056845,
+      "category_id": 6,
+      "bbox": [
+        713.0,
+        832.0,
+        126.0,
+        123.0
+      ],
+      "area": 15498.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1297266080,
+      "width": 2988,
+      "height": 5312,
+      "file_name": "20180511_090912-14gtw8a-e1526047952754.jpg",
+      "size": 1872287,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1297266080,
+      "category_id": 2,
+      "bbox": [
+        32.0,
+        1289.0,
+        2272.0,
+        2366.0
+      ],
+      "area": 5375552.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1297266080,
+      "category_id": 2,
+      "bbox": [
+        349.0,
+        361.0,
+        1355.0,
+        767.0
+      ],
+      "area": 1039285.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "apple_leaf",
+      "supercategory": "apple_leaf"
+    }
+  ]
+}

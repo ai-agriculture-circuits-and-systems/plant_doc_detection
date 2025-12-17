@@ -1,0 +1,126 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8634460198,
+      "width": 750,
+      "height": 563,
+      "file_name": "tdisease6.jpg",
+      "size": 71787,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8634460198,
+      "category_id": 26,
+      "bbox": [
+        526.0,
+        218.0,
+        127.0,
+        84.0
+      ],
+      "area": 10668.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8634460198,
+      "category_id": 26,
+      "bbox": [
+        365.0,
+        329.0,
+        221.0,
+        233.0
+      ],
+      "area": 51493.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8634460198,
+      "category_id": 26,
+      "bbox": [
+        81.0,
+        315.0,
+        237.0,
+        144.0
+      ],
+      "area": 34128.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8634460198,
+      "category_id": 26,
+      "bbox": [
+        300.0,
+        350.0,
+        186.0,
+        191.0
+      ],
+      "area": 35526.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8634460198,
+      "category_id": 26,
+      "bbox": [
+        275.0,
+        20.0,
+        372.0,
+        184.0
+      ],
+      "area": 68448.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 8634460198,
+      "category_id": 26,
+      "bbox": [
+        350.0,
+        184.0,
+        208.0,
+        98.0
+      ],
+      "area": 20384.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 8634460198,
+      "category_id": 26,
+      "bbox": [
+        44.0,
+        98.0,
+        326.0,
+        199.0
+      ],
+      "area": 64874.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 26,
+      "name": "tomato_mold_leaf",
+      "supercategory": "tomato_mold_leaf"
+    }
+  ]
+}

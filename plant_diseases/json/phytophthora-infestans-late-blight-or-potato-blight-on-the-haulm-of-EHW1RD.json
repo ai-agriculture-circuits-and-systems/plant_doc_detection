@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9647531927,
+      "width": 865,
+      "height": 1390,
+      "file_name": "phytophthora-infestans-late-blight-or-potato-blight-on-the-haulm-of-EHW1RD.jpg",
+      "size": 145745,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9647531927,
+      "category_id": 14,
+      "bbox": [
+        340.0,
+        170.0,
+        504.0,
+        420.0
+      ],
+      "area": 211680.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9647531927,
+      "category_id": 14,
+      "bbox": [
+        250.0,
+        470.0,
+        525.0,
+        499.0
+      ],
+      "area": 261975.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9647531927,
+      "category_id": 14,
+      "bbox": [
+        50.0,
+        859.0,
+        396.0,
+        425.0
+      ],
+      "area": 168300.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 9647531927,
+      "category_id": 14,
+      "bbox": [
+        1.0,
+        1.0,
+        292.0,
+        250.0
+      ],
+      "area": 73000.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 14,
+      "name": "potato_leaf_late_blight",
+      "supercategory": "potato_leaf_late_blight"
+    }
+  ]
+}

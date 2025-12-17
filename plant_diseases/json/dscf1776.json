@@ -1,0 +1,165 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1896799862,
+      "width": 3264,
+      "height": 2448,
+      "file_name": "dscf1776.jpg",
+      "size": 1955192,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1896799862,
+      "category_id": 4,
+      "bbox": [
+        1324.0,
+        15.0,
+        324.0,
+        626.0
+      ],
+      "area": 202824.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1896799862,
+      "category_id": 4,
+      "bbox": [
+        1792.0,
+        463.0,
+        517.0,
+        427.0
+      ],
+      "area": 220759.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1896799862,
+      "category_id": 4,
+      "bbox": [
+        2495.0,
+        215.0,
+        307.0,
+        548.0
+      ],
+      "area": 168236.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1896799862,
+      "category_id": 4,
+      "bbox": [
+        2731.0,
+        936.0,
+        322.0,
+        435.0
+      ],
+      "area": 140070.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 1896799862,
+      "category_id": 4,
+      "bbox": [
+        2438.0,
+        1039.0,
+        357.0,
+        510.0
+      ],
+      "area": 182070.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 1896799862,
+      "category_id": 4,
+      "bbox": [
+        792.0,
+        934.0,
+        276.0,
+        534.0
+      ],
+      "area": 147384.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 1896799862,
+      "category_id": 4,
+      "bbox": [
+        1334.0,
+        654.0,
+        368.0,
+        256.0
+      ],
+      "area": 94208.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 1896799862,
+      "category_id": 4,
+      "bbox": [
+        1236.0,
+        839.0,
+        427.0,
+        561.0
+      ],
+      "area": 239547.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 1896799862,
+      "category_id": 4,
+      "bbox": [
+        1087.0,
+        1200.0,
+        239.0,
+        497.0
+      ],
+      "area": 118783.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 1896799862,
+      "category_id": 4,
+      "bbox": [
+        734.0,
+        1456.0,
+        319.0,
+        595.0
+      ],
+      "area": 189805.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 4,
+      "name": "bell_pepper_leaf",
+      "supercategory": "bell_pepper_leaf"
+    }
+  ]
+}

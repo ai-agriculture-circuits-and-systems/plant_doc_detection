@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6317623864,
+      "width": 640,
+      "height": 519,
+      "file_name": "potato-early-blight-alternaria-alternata-target-spot-lesions-on-a-by64yw.jpg",
+      "size": 103579,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6317623864,
+      "category_id": 13,
+      "bbox": [
+        187.0,
+        166.0,
+        315.0,
+        195.0
+      ],
+      "area": 61425.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6317623864,
+      "category_id": 13,
+      "bbox": [
+        118.0,
+        12.0,
+        105.0,
+        204.0
+      ],
+      "area": 21420.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6317623864,
+      "category_id": 13,
+      "bbox": [
+        109.0,
+        200.0,
+        106.0,
+        127.0
+      ],
+      "area": 13462.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 6317623864,
+      "category_id": 13,
+      "bbox": [
+        31.0,
+        330.0,
+        110.0,
+        167.0
+      ],
+      "area": 18370.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 6317623864,
+      "category_id": 13,
+      "bbox": [
+        487.0,
+        270.0,
+        81.0,
+        187.0
+      ],
+      "area": 15147.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 6317623864,
+      "category_id": 13,
+      "bbox": [
+        40.0,
+        145.0,
+        89.0,
+        133.0
+      ],
+      "area": 11837.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 13,
+      "name": "potato_leaf_early_blight",
+      "supercategory": "potato_leaf_early_blight"
+    }
+  ]
+}

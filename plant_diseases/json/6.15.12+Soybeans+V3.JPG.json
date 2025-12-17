@@ -1,0 +1,152 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5701343810,
+      "width": 1600,
+      "height": 1067,
+      "file_name": "6.15.12+Soybeans+V3.JPG.jpg",
+      "size": 288385,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5701343810,
+      "category_id": 16,
+      "bbox": [
+        259.0,
+        461.0,
+        377.0,
+        185.0
+      ],
+      "area": 69745.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5701343810,
+      "category_id": 16,
+      "bbox": [
+        775.0,
+        597.0,
+        240.0,
+        189.0
+      ],
+      "area": 45360.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5701343810,
+      "category_id": 16,
+      "bbox": [
+        922.0,
+        218.0,
+        173.0,
+        274.0
+      ],
+      "area": 47402.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 5701343810,
+      "category_id": 16,
+      "bbox": [
+        620.0,
+        268.0,
+        213.0,
+        278.0
+      ],
+      "area": 59214.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 5701343810,
+      "category_id": 16,
+      "bbox": [
+        527.0,
+        1.0,
+        214.0,
+        224.0
+      ],
+      "area": 47936.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 5701343810,
+      "category_id": 16,
+      "bbox": [
+        1041.0,
+        477.0,
+        217.0,
+        238.0
+      ],
+      "area": 51646.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 5701343810,
+      "category_id": 16,
+      "bbox": [
+        1319.0,
+        118.0,
+        171.0,
+        299.0
+      ],
+      "area": 51129.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 5701343810,
+      "category_id": 16,
+      "bbox": [
+        1392.0,
+        8.0,
+        208.0,
+        205.0
+      ],
+      "area": 42640.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 5701343810,
+      "category_id": 16,
+      "bbox": [
+        1092.0,
+        333.0,
+        198.0,
+        201.0
+      ],
+      "area": 39798.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 16,
+      "name": "soyabean_leaf",
+      "supercategory": "soyabean_leaf"
+    }
+  ]
+}

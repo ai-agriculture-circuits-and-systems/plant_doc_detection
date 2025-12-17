@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5494416734,
+      "width": 1200,
+      "height": 800,
+      "file_name": "000g.jpg",
+      "size": 199675,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5494416734,
+      "category_id": 28,
+      "bbox": [
+        189.0,
+        122.0,
+        632.0,
+        678.0
+      ],
+      "area": 428496.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5494416734,
+      "category_id": 28,
+      "bbox": [
+        708.0,
+        7.0,
+        311.0,
+        328.0
+      ],
+      "area": 102008.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5494416734,
+      "category_id": 28,
+      "bbox": [
+        754.0,
+        340.0,
+        372.0,
+        331.0
+      ],
+      "area": 123132.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 28,
+      "name": "grape_leaf",
+      "supercategory": "grape_leaf"
+    }
+  ]
+}

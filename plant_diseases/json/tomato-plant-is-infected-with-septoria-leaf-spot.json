@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6968771918,
+      "width": 3054,
+      "height": 2036,
+      "file_name": "tomato-plant-is-infected-with-septoria-leaf-spot.jpg",
+      "size": 623968,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6968771918,
+      "category_id": 20,
+      "bbox": [
+        333.0,
+        1133.0,
+        896.0,
+        889.0
+      ],
+      "area": 796544.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6968771918,
+      "category_id": 20,
+      "bbox": [
+        1260.0,
+        352.0,
+        808.0,
+        1160.0
+      ],
+      "area": 937280.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 20,
+      "name": "tomato_septoria_leaf_spot",
+      "supercategory": "tomato_septoria_leaf_spot"
+    }
+  ]
+}

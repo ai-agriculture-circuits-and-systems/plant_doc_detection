@@ -1,0 +1,152 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3336161660,
+      "width": 1696,
+      "height": 1131,
+      "file_name": "cherry-fertilizer.jpg",
+      "size": 274894,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3336161660,
+      "category_id": 7,
+      "bbox": [
+        199.0,
+        427.0,
+        282.0,
+        372.0
+      ],
+      "area": 104904.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3336161660,
+      "category_id": 7,
+      "bbox": [
+        279.0,
+        675.0,
+        275.0,
+        318.0
+      ],
+      "area": 87450.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3336161660,
+      "category_id": 7,
+      "bbox": [
+        62.0,
+        603.0,
+        169.0,
+        471.0
+      ],
+      "area": 79599.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3336161660,
+      "category_id": 7,
+      "bbox": [
+        708.0,
+        733.0,
+        151.0,
+        395.0
+      ],
+      "area": 59645.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 3336161660,
+      "category_id": 7,
+      "bbox": [
+        1422.0,
+        3.0,
+        177.0,
+        317.0
+      ],
+      "area": 56109.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 3336161660,
+      "category_id": 7,
+      "bbox": [
+        1252.0,
+        242.0,
+        380.0,
+        199.0
+      ],
+      "area": 75620.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 3336161660,
+      "category_id": 7,
+      "bbox": [
+        1244.0,
+        410.0,
+        312.0,
+        179.0
+      ],
+      "area": 55848.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 3336161660,
+      "category_id": 7,
+      "bbox": [
+        466.0,
+        1.0,
+        226.0,
+        100.0
+      ],
+      "area": 22600.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 3336161660,
+      "category_id": 7,
+      "bbox": [
+        60.0,
+        289.0,
+        266.0,
+        178.0
+      ],
+      "area": 47348.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 7,
+      "name": "cherry_leaf",
+      "supercategory": "cherry_leaf"
+    }
+  ]
+}

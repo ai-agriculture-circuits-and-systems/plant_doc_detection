@@ -1,0 +1,139 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5075155914,
+      "width": 375,
+      "height": 500,
+      "file_name": "4715f288527ab7feae1683179ae3073b--red-leaves-autumn-leaves.jpg",
+      "size": 43046,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5075155914,
+      "category_id": 6,
+      "bbox": [
+        1.0,
+        81.0,
+        157.0,
+        185.0
+      ],
+      "area": 29045.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5075155914,
+      "category_id": 6,
+      "bbox": [
+        230.0,
+        91.0,
+        66.0,
+        156.0
+      ],
+      "area": 10296.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5075155914,
+      "category_id": 6,
+      "bbox": [
+        4.0,
+        219.0,
+        144.0,
+        96.0
+      ],
+      "area": 13824.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 5075155914,
+      "category_id": 6,
+      "bbox": [
+        273.0,
+        365.0,
+        102.0,
+        61.0
+      ],
+      "area": 6222.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 5075155914,
+      "category_id": 6,
+      "bbox": [
+        127.0,
+        7.0,
+        85.0,
+        141.0
+      ],
+      "area": 11985.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 5075155914,
+      "category_id": 6,
+      "bbox": [
+        39.0,
+        1.0,
+        117.0,
+        138.0
+      ],
+      "area": 16146.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 5075155914,
+      "category_id": 6,
+      "bbox": [
+        52.0,
+        426.0,
+        84.0,
+        74.0
+      ],
+      "area": 6216.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 5075155914,
+      "category_id": 6,
+      "bbox": [
+        183.0,
+        400.0,
+        71.0,
+        91.0
+      ],
+      "area": 6461.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

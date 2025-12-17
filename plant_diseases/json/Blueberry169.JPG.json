@@ -1,0 +1,139 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8890201616,
+      "width": 1600,
+      "height": 1142,
+      "file_name": "Blueberry169.JPG.jpg",
+      "size": 279655,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8890201616,
+      "category_id": 6,
+      "bbox": [
+        723.0,
+        345.0,
+        722.0,
+        253.0
+      ],
+      "area": 182666.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8890201616,
+      "category_id": 6,
+      "bbox": [
+        1182.0,
+        598.0,
+        373.0,
+        197.0
+      ],
+      "area": 73481.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8890201616,
+      "category_id": 6,
+      "bbox": [
+        990.0,
+        767.0,
+        610.0,
+        294.0
+      ],
+      "area": 179340.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8890201616,
+      "category_id": 6,
+      "bbox": [
+        253.0,
+        554.0,
+        560.0,
+        302.0
+      ],
+      "area": 169120.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8890201616,
+      "category_id": 6,
+      "bbox": [
+        20.0,
+        445.0,
+        606.0,
+        255.0
+      ],
+      "area": 154530.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 8890201616,
+      "category_id": 6,
+      "bbox": [
+        721.0,
+        630.0,
+        250.0,
+        211.0
+      ],
+      "area": 52750.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 8890201616,
+      "category_id": 6,
+      "bbox": [
+        729.0,
+        864.0,
+        169.0,
+        221.0
+      ],
+      "area": 37349.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 8890201616,
+      "category_id": 6,
+      "bbox": [
+        17.0,
+        816.0,
+        399.0,
+        252.0
+      ],
+      "area": 100548.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

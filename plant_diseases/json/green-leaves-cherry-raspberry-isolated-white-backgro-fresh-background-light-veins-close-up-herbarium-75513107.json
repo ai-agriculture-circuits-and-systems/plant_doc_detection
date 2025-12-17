@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8224370916,
+      "width": 1300,
+      "height": 1390,
+      "file_name": "green-leaves-cherry-raspberry-isolated-white-backgro-fresh-background-light-veins-close-up-herbarium-75513107.jpg",
+      "size": 217499,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8224370916,
+      "category_id": 15,
+      "bbox": [
+        642.0,
+        27.0,
+        320.0,
+        481.0
+      ],
+      "area": 153920.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8224370916,
+      "category_id": 15,
+      "bbox": [
+        828.0,
+        380.0,
+        353.0,
+        308.0
+      ],
+      "area": 108724.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8224370916,
+      "category_id": 15,
+      "bbox": [
+        826.0,
+        625.0,
+        442.0,
+        328.0
+      ],
+      "area": 144976.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8224370916,
+      "category_id": 15,
+      "bbox": [
+        520.0,
+        343.0,
+        306.0,
+        318.0
+      ],
+      "area": 97308.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8224370916,
+      "category_id": 15,
+      "bbox": [
+        442.0,
+        610.0,
+        386.0,
+        300.0
+      ],
+      "area": 115800.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

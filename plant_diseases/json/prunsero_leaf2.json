@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4669659214,
+      "width": 2000,
+      "height": 3008,
+      "file_name": "prunsero_leaf2.jpg",
+      "size": 1082391,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4669659214,
+      "category_id": 7,
+      "bbox": [
+        227.0,
+        629.0,
+        1438.0,
+        2234.0
+      ],
+      "area": 3212492.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4669659214,
+      "category_id": 7,
+      "bbox": [
+        1527.0,
+        416.0,
+        460.0,
+        960.0
+      ],
+      "area": 441600.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4669659214,
+      "category_id": 7,
+      "bbox": [
+        37.0,
+        1.0,
+        1340.0,
+        381.0
+      ],
+      "area": 510540.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 7,
+      "name": "cherry_leaf",
+      "supercategory": "cherry_leaf"
+    }
+  ]
+}

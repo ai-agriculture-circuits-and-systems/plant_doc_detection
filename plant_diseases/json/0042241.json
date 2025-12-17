@@ -1,0 +1,170 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8420508927,
+      "width": 533,
+      "height": 800,
+      "file_name": "0042241.jpg",
+      "size": 131826,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8420508927,
+      "category_id": 13,
+      "bbox": [
+        142.0,
+        317.0,
+        96.0,
+        132.0
+      ],
+      "area": 12672.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8420508927,
+      "category_id": 13,
+      "bbox": [
+        68.0,
+        305.0,
+        86.0,
+        56.0
+      ],
+      "area": 4816.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8420508927,
+      "category_id": 13,
+      "bbox": [
+        346.0,
+        561.0,
+        58.0,
+        138.0
+      ],
+      "area": 8004.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8420508927,
+      "category_id": 12,
+      "bbox": [
+        198.0,
+        298.0,
+        100.0,
+        121.0
+      ],
+      "area": 12100.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8420508927,
+      "category_id": 12,
+      "bbox": [
+        219.0,
+        255.0,
+        121.0,
+        69.0
+      ],
+      "area": 8349.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 8420508927,
+      "category_id": 12,
+      "bbox": [
+        266.0,
+        186.0,
+        82.0,
+        77.0
+      ],
+      "area": 6314.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 8420508927,
+      "category_id": 12,
+      "bbox": [
+        380.0,
+        447.0,
+        134.0,
+        118.0
+      ],
+      "area": 15812.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 8420508927,
+      "category_id": 12,
+      "bbox": [
+        265.0,
+        499.0,
+        98.0,
+        142.0
+      ],
+      "area": 13916.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 8420508927,
+      "category_id": 12,
+      "bbox": [
+        175.0,
+        142.0,
+        112.0,
+        85.0
+      ],
+      "area": 9520.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 8420508927,
+      "category_id": 12,
+      "bbox": [
+        290.0,
+        103.0,
+        103.0,
+        86.0
+      ],
+      "area": 8858.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 12,
+      "name": "potato_leaf",
+      "supercategory": "potato_leaf"
+    },
+    {
+      "id": 13,
+      "name": "potato_leaf_early_blight",
+      "supercategory": "potato_leaf_early_blight"
+    }
+  ]
+}

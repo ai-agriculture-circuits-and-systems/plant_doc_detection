@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4134952030,
+      "width": 1440,
+      "height": 2160,
+      "file_name": "Rubus_occidentalis_leaf.JPG.jpg",
+      "size": 488785,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4134952030,
+      "category_id": 15,
+      "bbox": [
+        438.0,
+        835.0,
+        570.0,
+        1025.0
+      ],
+      "area": 584250.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4134952030,
+      "category_id": 15,
+      "bbox": [
+        635.0,
+        441.0,
+        776.0,
+        388.0
+      ],
+      "area": 301088.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4134952030,
+      "category_id": 15,
+      "bbox": [
+        20.0,
+        532.0,
+        645.0,
+        434.0
+      ],
+      "area": 279930.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

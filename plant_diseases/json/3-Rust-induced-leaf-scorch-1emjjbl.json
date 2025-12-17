@@ -1,0 +1,139 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2074170890,
+      "width": 706,
+      "height": 1024,
+      "file_name": "3-Rust-induced-leaf-scorch-1emjjbl.jpg",
+      "size": 323516,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2074170890,
+      "category_id": 3,
+      "bbox": [
+        295.0,
+        9.0,
+        205.0,
+        158.0
+      ],
+      "area": 32390.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2074170890,
+      "category_id": 3,
+      "bbox": [
+        391.0,
+        226.0,
+        182.0,
+        176.0
+      ],
+      "area": 32032.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2074170890,
+      "category_id": 3,
+      "bbox": [
+        32.0,
+        558.0,
+        254.0,
+        252.0
+      ],
+      "area": 64008.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2074170890,
+      "category_id": 3,
+      "bbox": [
+        150.0,
+        450.0,
+        130.0,
+        167.0
+      ],
+      "area": 21710.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 2074170890,
+      "category_id": 3,
+      "bbox": [
+        369.0,
+        466.0,
+        113.0,
+        168.0
+      ],
+      "area": 18984.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 2074170890,
+      "category_id": 3,
+      "bbox": [
+        586.0,
+        458.0,
+        104.0,
+        142.0
+      ],
+      "area": 14768.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 2074170890,
+      "category_id": 3,
+      "bbox": [
+        236.0,
+        817.0,
+        145.0,
+        207.0
+      ],
+      "area": 30015.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 2074170890,
+      "category_id": 3,
+      "bbox": [
+        370.0,
+        659.0,
+        94.0,
+        88.0
+      ],
+      "area": 8272.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "apple_rust_leaf",
+      "supercategory": "apple_rust_leaf"
+    }
+  ]
+}

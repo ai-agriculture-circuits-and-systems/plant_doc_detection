@@ -1,0 +1,204 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2392474224,
+      "width": 756,
+      "height": 575,
+      "file_name": "mosaic_virus_tomato.jpg",
+      "size": 117059,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2392474224,
+      "category_id": 24,
+      "bbox": [
+        15.0,
+        115.0,
+        88.0,
+        72.0
+      ],
+      "area": 6336.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2392474224,
+      "category_id": 24,
+      "bbox": [
+        523.0,
+        481.0,
+        63.0,
+        64.0
+      ],
+      "area": 4032.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2392474224,
+      "category_id": 24,
+      "bbox": [
+        584.0,
+        328.0,
+        86.0,
+        42.0
+      ],
+      "area": 3612.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2392474224,
+      "category_id": 24,
+      "bbox": [
+        207.0,
+        379.0,
+        86.0,
+        81.0
+      ],
+      "area": 6966.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 2392474224,
+      "category_id": 24,
+      "bbox": [
+        464.0,
+        424.0,
+        96.0,
+        62.0
+      ],
+      "area": 5952.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 2392474224,
+      "category_id": 24,
+      "bbox": [
+        527.0,
+        218.0,
+        75.0,
+        93.0
+      ],
+      "area": 6975.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 2392474224,
+      "category_id": 24,
+      "bbox": [
+        351.0,
+        334.0,
+        63.0,
+        59.0
+      ],
+      "area": 3717.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 2392474224,
+      "category_id": 24,
+      "bbox": [
+        266.0,
+        283.0,
+        71.0,
+        61.0
+      ],
+      "area": 4331.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 2392474224,
+      "category_id": 24,
+      "bbox": [
+        286.0,
+        425.0,
+        44.0,
+        105.0
+      ],
+      "area": 4620.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 2392474224,
+      "category_id": 24,
+      "bbox": [
+        435.0,
+        331.0,
+        76.0,
+        96.0
+      ],
+      "area": 7296.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 2392474224,
+      "category_id": 24,
+      "bbox": [
+        471.0,
+        118.0,
+        37.0,
+        117.0
+      ],
+      "area": 4329.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 2392474224,
+      "category_id": 24,
+      "bbox": [
+        408.0,
+        302.0,
+        61.0,
+        50.0
+      ],
+      "area": 3050.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 2392474224,
+      "category_id": 24,
+      "bbox": [
+        329.0,
+        199.0,
+        62.0,
+        86.0
+      ],
+      "area": 5332.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 24,
+      "name": "tomato_leaf_mosaic_virus",
+      "supercategory": "tomato_leaf_mosaic_virus"
+    }
+  ]
+}

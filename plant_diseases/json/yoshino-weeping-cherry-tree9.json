@@ -1,0 +1,126 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8890507679,
+      "width": 700,
+      "height": 838,
+      "file_name": "yoshino-weeping-cherry-tree9.jpg",
+      "size": 299466,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8890507679,
+      "category_id": 7,
+      "bbox": [
+        234.0,
+        305.0,
+        169.0,
+        419.0
+      ],
+      "area": 70811.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8890507679,
+      "category_id": 7,
+      "bbox": [
+        326.0,
+        200.0,
+        200.0,
+        326.0
+      ],
+      "area": 65200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8890507679,
+      "category_id": 7,
+      "bbox": [
+        503.0,
+        590.0,
+        176.0,
+        151.0
+      ],
+      "area": 26576.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8890507679,
+      "category_id": 7,
+      "bbox": [
+        30.0,
+        688.0,
+        190.0,
+        150.0
+      ],
+      "area": 28500.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8890507679,
+      "category_id": 7,
+      "bbox": [
+        90.0,
+        411.0,
+        162.0,
+        218.0
+      ],
+      "area": 35316.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 8890507679,
+      "category_id": 7,
+      "bbox": [
+        13.0,
+        179.0,
+        171.0,
+        120.0
+      ],
+      "area": 20520.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 8890507679,
+      "category_id": 7,
+      "bbox": [
+        120.0,
+        8.0,
+        245.0,
+        159.0
+      ],
+      "area": 38955.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 7,
+      "name": "cherry_leaf",
+      "supercategory": "cherry_leaf"
+    }
+  ]
+}

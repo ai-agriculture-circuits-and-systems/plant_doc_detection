@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9237039539,
+      "width": 450,
+      "height": 470,
+      "file_name": "stock-photo-fresh-soy-leaves-with-dew-isolated-on-white-416036248.jpg",
+      "size": 40078,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9237039539,
+      "category_id": 16,
+      "bbox": [
+        50.0,
+        61.0,
+        117.0,
+        167.0
+      ],
+      "area": 19539.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9237039539,
+      "category_id": 16,
+      "bbox": [
+        41.0,
+        241.0,
+        129.0,
+        134.0
+      ],
+      "area": 17286.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9237039539,
+      "category_id": 16,
+      "bbox": [
+        156.0,
+        184.0,
+        160.0,
+        124.0
+      ],
+      "area": 19840.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 9237039539,
+      "category_id": 16,
+      "bbox": [
+        235.0,
+        69.0,
+        102.0,
+        119.0
+      ],
+      "area": 12138.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 9237039539,
+      "category_id": 16,
+      "bbox": [
+        322.0,
+        87.0,
+        122.0,
+        107.0
+      ],
+      "area": 13054.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 9237039539,
+      "category_id": 16,
+      "bbox": [
+        306.0,
+        173.0,
+        123.0,
+        97.0
+      ],
+      "area": 11931.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 16,
+      "name": "soyabean_leaf",
+      "supercategory": "soyabean_leaf"
+    }
+  ]
+}

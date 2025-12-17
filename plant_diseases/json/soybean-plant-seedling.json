@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6651545091,
+      "width": 640,
+      "height": 428,
+      "file_name": "soybean-plant-seedling.jpg",
+      "size": 30065,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6651545091,
+      "category_id": 16,
+      "bbox": [
+        330.0,
+        102.0,
+        231.0,
+        146.0
+      ],
+      "area": 33726.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6651545091,
+      "category_id": 16,
+      "bbox": [
+        151.0,
+        267.0,
+        133.0,
+        157.0
+      ],
+      "area": 20881.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6651545091,
+      "category_id": 16,
+      "bbox": [
+        202.0,
+        144.0,
+        101.0,
+        126.0
+      ],
+      "area": 12726.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 6651545091,
+      "category_id": 16,
+      "bbox": [
+        274.0,
+        170.0,
+        169.0,
+        129.0
+      ],
+      "area": 21801.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 6651545091,
+      "category_id": 16,
+      "bbox": [
+        247.0,
+        1.0,
+        126.0,
+        153.0
+      ],
+      "area": 19278.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 16,
+      "name": "soyabean_leaf",
+      "supercategory": "soyabean_leaf"
+    }
+  ]
+}

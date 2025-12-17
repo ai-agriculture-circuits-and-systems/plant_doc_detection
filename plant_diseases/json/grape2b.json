@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7338450086,
+      "width": 1024,
+      "height": 768,
+      "file_name": "grape2b.jpg",
+      "size": 171890,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7338450086,
+      "category_id": 28,
+      "bbox": [
+        287.0,
+        147.0,
+        331.0,
+        308.0
+      ],
+      "area": 101948.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7338450086,
+      "category_id": 28,
+      "bbox": [
+        1.0,
+        232.0,
+        237.0,
+        325.0
+      ],
+      "area": 77025.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7338450086,
+      "category_id": 28,
+      "bbox": [
+        388.0,
+        445.0,
+        290.0,
+        295.0
+      ],
+      "area": 85550.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 7338450086,
+      "category_id": 28,
+      "bbox": [
+        718.0,
+        155.0,
+        161.0,
+        256.0
+      ],
+      "area": 41216.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 7338450086,
+      "category_id": 28,
+      "bbox": [
+        322.0,
+        455.0,
+        130.0,
+        206.0
+      ],
+      "area": 26780.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 28,
+      "name": "grape_leaf",
+      "supercategory": "grape_leaf"
+    }
+  ]
+}

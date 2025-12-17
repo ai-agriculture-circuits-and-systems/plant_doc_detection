@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5518233755,
+      "width": 500,
+      "height": 383,
+      "file_name": "applerust-500x383.jpg",
+      "size": 99005,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5518233755,
+      "category_id": 3,
+      "bbox": [
+        1.0,
+        3.0,
+        491.0,
+        184.0
+      ],
+      "area": 90344.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5518233755,
+      "category_id": 3,
+      "bbox": [
+        36.0,
+        205.0,
+        292.0,
+        129.0
+      ],
+      "area": 37668.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "apple_rust_leaf",
+      "supercategory": "apple_rust_leaf"
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4342956612,
+      "width": 590,
+      "height": 332,
+      "file_name": "bell%20pepper%20rain%20590x330.jpg",
+      "size": 203012,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4342956612,
+      "category_id": 4,
+      "bbox": [
+        362.0,
+        124.0,
+        143.0,
+        202.0
+      ],
+      "area": 28886.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4342956612,
+      "category_id": 4,
+      "bbox": [
+        192.0,
+        58.0,
+        155.0,
+        113.0
+      ],
+      "area": 17515.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4342956612,
+      "category_id": 4,
+      "bbox": [
+        92.0,
+        9.0,
+        204.0,
+        87.0
+      ],
+      "area": 17748.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4342956612,
+      "category_id": 4,
+      "bbox": [
+        1.0,
+        80.0,
+        111.0,
+        107.0
+      ],
+      "area": 11877.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4342956612,
+      "category_id": 4,
+      "bbox": [
+        112.0,
+        161.0,
+        126.0,
+        171.0
+      ],
+      "area": 21546.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 4342956612,
+      "category_id": 4,
+      "bbox": [
+        228.0,
+        218.0,
+        117.0,
+        114.0
+      ],
+      "area": 13338.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 4342956612,
+      "category_id": 4,
+      "bbox": [
+        274.0,
+        146.0,
+        116.0,
+        124.0
+      ],
+      "area": 14384.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 4342956612,
+      "category_id": 4,
+      "bbox": [
+        490.0,
+        191.0,
+        87.0,
+        140.0
+      ],
+      "area": 12180.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 4342956612,
+      "category_id": 4,
+      "bbox": [
+        454.0,
+        111.0,
+        116.0,
+        124.0
+      ],
+      "area": 14384.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 4342956612,
+      "category_id": 4,
+      "bbox": [
+        396.0,
+        54.0,
+        112.0,
+        65.0
+      ],
+      "area": 7280.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 4342956612,
+      "category_id": 4,
+      "bbox": [
+        300.0,
+        19.0,
+        102.0,
+        40.0
+      ],
+      "area": 4080.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 4,
+      "name": "bell_pepper_leaf",
+      "supercategory": "bell_pepper_leaf"
+    }
+  ]
+}

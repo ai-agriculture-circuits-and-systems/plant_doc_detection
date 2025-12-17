@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5888068494,
+      "width": 550,
+      "height": 412,
+      "file_name": "early_symptoms_of_crabapple_scab_on_prairifire.jpg",
+      "size": 58872,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5888068494,
+      "category_id": 1,
+      "bbox": [
+        159.0,
+        83.0,
+        184.0,
+        316.0
+      ],
+      "area": 58144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5888068494,
+      "category_id": 1,
+      "bbox": [
+        331.0,
+        1.0,
+        184.0,
+        204.0
+      ],
+      "area": 37536.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "apple_scab_leaf",
+      "supercategory": "apple_scab_leaf"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1411237499,
+      "width": 1032,
+      "height": 1300,
+      "file_name": "five-cherry-tree-green-leaves-white-isolated-background-34493587.jpg",
+      "size": 159208,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1411237499,
+      "category_id": 7,
+      "bbox": [
+        85.0,
+        208.0,
+        335.0,
+        767.0
+      ],
+      "area": 256945.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1411237499,
+      "category_id": 7,
+      "bbox": [
+        225.0,
+        621.0,
+        316.0,
+        599.0
+      ],
+      "area": 189284.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1411237499,
+      "category_id": 7,
+      "bbox": [
+        573.0,
+        355.0,
+        319.0,
+        658.0
+      ],
+      "area": 209902.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1411237499,
+      "category_id": 7,
+      "bbox": [
+        425.0,
+        528.0,
+        294.0,
+        720.0
+      ],
+      "area": 211680.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 7,
+      "name": "cherry_leaf",
+      "supercategory": "cherry_leaf"
+    }
+  ]
+}

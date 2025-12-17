@@ -1,0 +1,126 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6890406006,
+      "width": 720,
+      "height": 540,
+      "file_name": "Paret-Fig-1-tomato-bacterial-leaf-spot.jpg",
+      "size": 127901,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6890406006,
+      "category_id": 22,
+      "bbox": [
+        481.0,
+        115.0,
+        230.0,
+        86.0
+      ],
+      "area": 19780.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6890406006,
+      "category_id": 22,
+      "bbox": [
+        341.0,
+        426.0,
+        66.0,
+        79.0
+      ],
+      "area": 5214.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6890406006,
+      "category_id": 22,
+      "bbox": [
+        258.0,
+        343.0,
+        112.0,
+        193.0
+      ],
+      "area": 21616.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 6890406006,
+      "category_id": 22,
+      "bbox": [
+        119.0,
+        172.0,
+        117.0,
+        179.0
+      ],
+      "area": 20943.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 6890406006,
+      "category_id": 22,
+      "bbox": [
+        553.0,
+        234.0,
+        93.0,
+        170.0
+      ],
+      "area": 15810.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 6890406006,
+      "category_id": 22,
+      "bbox": [
+        444.0,
+        227.0,
+        164.0,
+        138.0
+      ],
+      "area": 22632.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 6890406006,
+      "category_id": 22,
+      "bbox": [
+        285.0,
+        80.0,
+        221.0,
+        296.0
+      ],
+      "area": 65416.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 22,
+      "name": "tomato_leaf_bacterial_spot",
+      "supercategory": "tomato_leaf_bacterial_spot"
+    }
+  ]
+}

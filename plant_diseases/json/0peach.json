@@ -1,0 +1,139 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8453530832,
+      "width": 1600,
+      "height": 991,
+      "file_name": "0peach.jpg",
+      "size": 239111,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8453530832,
+      "category_id": 11,
+      "bbox": [
+        564.0,
+        74.0,
+        119.0,
+        216.0
+      ],
+      "area": 25704.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8453530832,
+      "category_id": 11,
+      "bbox": [
+        643.0,
+        796.0,
+        84.0,
+        195.0
+      ],
+      "area": 16380.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8453530832,
+      "category_id": 11,
+      "bbox": [
+        1360.0,
+        840.0,
+        120.0,
+        151.0
+      ],
+      "area": 18120.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8453530832,
+      "category_id": 11,
+      "bbox": [
+        1162.0,
+        861.0,
+        189.0,
+        130.0
+      ],
+      "area": 24570.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8453530832,
+      "category_id": 11,
+      "bbox": [
+        1109.0,
+        921.0,
+        179.0,
+        70.0
+      ],
+      "area": 12530.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 8453530832,
+      "category_id": 11,
+      "bbox": [
+        709.0,
+        1.0,
+        228.0,
+        184.0
+      ],
+      "area": 41952.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 8453530832,
+      "category_id": 11,
+      "bbox": [
+        613.0,
+        313.0,
+        249.0,
+        47.0
+      ],
+      "area": 11703.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 8453530832,
+      "category_id": 11,
+      "bbox": [
+        1380.0,
+        688.0,
+        105.0,
+        207.0
+      ],
+      "area": 21735.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "peach_leaf",
+      "supercategory": "peach_leaf"
+    }
+  ]
+}

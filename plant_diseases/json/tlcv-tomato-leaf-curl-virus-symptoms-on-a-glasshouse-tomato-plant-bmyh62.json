@@ -1,0 +1,217 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6085480985,
+      "width": 510,
+      "height": 540,
+      "file_name": "tlcv-tomato-leaf-curl-virus-symptoms-on-a-glasshouse-tomato-plant-bmyh62.jpg",
+      "size": 99576,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6085480985,
+      "category_id": 25,
+      "bbox": [
+        93.0,
+        469.0,
+        143.0,
+        63.0
+      ],
+      "area": 9009.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6085480985,
+      "category_id": 25,
+      "bbox": [
+        284.0,
+        405.0,
+        69.0,
+        77.0
+      ],
+      "area": 5313.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6085480985,
+      "category_id": 25,
+      "bbox": [
+        171.0,
+        213.0,
+        58.0,
+        107.0
+      ],
+      "area": 6206.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 6085480985,
+      "category_id": 25,
+      "bbox": [
+        368.0,
+        159.0,
+        106.0,
+        58.0
+      ],
+      "area": 6148.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 6085480985,
+      "category_id": 25,
+      "bbox": [
+        320.0,
+        199.0,
+        60.0,
+        99.0
+      ],
+      "area": 5940.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 6085480985,
+      "category_id": 25,
+      "bbox": [
+        295.0,
+        173.0,
+        58.0,
+        60.0
+      ],
+      "area": 3480.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 6085480985,
+      "category_id": 25,
+      "bbox": [
+        338.0,
+        127.0,
+        74.0,
+        40.0
+      ],
+      "area": 2960.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 6085480985,
+      "category_id": 25,
+      "bbox": [
+        83.0,
+        140.0,
+        68.0,
+        56.0
+      ],
+      "area": 3808.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 6085480985,
+      "category_id": 25,
+      "bbox": [
+        128.0,
+        140.0,
+        80.0,
+        140.0
+      ],
+      "area": 11200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 6085480985,
+      "category_id": 25,
+      "bbox": [
+        243.0,
+        186.0,
+        73.0,
+        122.0
+      ],
+      "area": 8906.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 6085480985,
+      "category_id": 25,
+      "bbox": [
+        231.0,
+        286.0,
+        85.0,
+        66.0
+      ],
+      "area": 5610.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 6085480985,
+      "category_id": 25,
+      "bbox": [
+        126.0,
+        349.0,
+        137.0,
+        115.0
+      ],
+      "area": 15755.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 6085480985,
+      "category_id": 25,
+      "bbox": [
+        417.0,
+        302.0,
+        93.0,
+        139.0
+      ],
+      "area": 12927.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 6085480985,
+      "category_id": 25,
+      "bbox": [
+        331.0,
+        388.0,
+        130.0,
+        140.0
+      ],
+      "area": 18200.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 25,
+      "name": "tomato_leaf_yellow_virus",
+      "supercategory": "tomato_leaf_yellow_virus"
+    }
+  ]
+}

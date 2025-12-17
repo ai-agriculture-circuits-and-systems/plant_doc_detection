@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4724211774,
+      "width": 1600,
+      "height": 1256,
+      "file_name": "Blueberry165.JPG.jpg",
+      "size": 323172,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4724211774,
+      "category_id": 6,
+      "bbox": [
+        492.0,
+        103.0,
+        427.0,
+        650.0
+      ],
+      "area": 277550.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4724211774,
+      "category_id": 6,
+      "bbox": [
+        969.0,
+        502.0,
+        332.0,
+        649.0
+      ],
+      "area": 215468.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4724211774,
+      "category_id": 6,
+      "bbox": [
+        158.0,
+        720.0,
+        768.0,
+        344.0
+      ],
+      "area": 264192.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

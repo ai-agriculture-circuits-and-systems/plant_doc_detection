@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2567705389,
+      "width": 512,
+      "height": 540,
+      "file_name": "tomato-late-blight-phytophthora-infestans-lesions-and-damage-on-tomato-bh3w9j.jpg",
+      "size": 106167,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2567705389,
+      "category_id": 23,
+      "bbox": [
+        95.0,
+        275.0,
+        369.0,
+        245.0
+      ],
+      "area": 90405.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2567705389,
+      "category_id": 23,
+      "bbox": [
+        58.0,
+        46.0,
+        408.0,
+        284.0
+      ],
+      "area": 115872.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 23,
+      "name": "tomato_leaf_late_blight",
+      "supercategory": "tomato_leaf_late_blight"
+    }
+  ]
+}

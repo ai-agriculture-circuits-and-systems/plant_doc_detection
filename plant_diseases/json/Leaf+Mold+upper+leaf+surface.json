@@ -1,0 +1,243 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2938697150,
+      "width": 960,
+      "height": 720,
+      "file_name": "Leaf+Mold+upper+leaf+surface.jpg",
+      "size": 110341,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2938697150,
+      "category_id": 26,
+      "bbox": [
+        66.0,
+        218.0,
+        128.0,
+        163.0
+      ],
+      "area": 20864.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2938697150,
+      "category_id": 26,
+      "bbox": [
+        140.0,
+        259.0,
+        69.0,
+        150.0
+      ],
+      "area": 10350.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2938697150,
+      "category_id": 26,
+      "bbox": [
+        575.0,
+        161.0,
+        78.0,
+        174.0
+      ],
+      "area": 13572.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2938697150,
+      "category_id": 26,
+      "bbox": [
+        686.0,
+        297.0,
+        149.0,
+        119.0
+      ],
+      "area": 17731.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 2938697150,
+      "category_id": 26,
+      "bbox": [
+        741.0,
+        398.0,
+        106.0,
+        97.0
+      ],
+      "area": 10282.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 2938697150,
+      "category_id": 26,
+      "bbox": [
+        664.0,
+        408.0,
+        107.0,
+        81.0
+      ],
+      "area": 8667.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 2938697150,
+      "category_id": 26,
+      "bbox": [
+        627.0,
+        349.0,
+        66.0,
+        93.0
+      ],
+      "area": 6138.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 2938697150,
+      "category_id": 26,
+      "bbox": [
+        236.0,
+        247.0,
+        70.0,
+        33.0
+      ],
+      "area": 2310.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 2938697150,
+      "category_id": 26,
+      "bbox": [
+        335.0,
+        237.0,
+        66.0,
+        51.0
+      ],
+      "area": 3366.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 2938697150,
+      "category_id": 26,
+      "bbox": [
+        368.0,
+        282.0,
+        26.0,
+        60.0
+      ],
+      "area": 1560.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 2938697150,
+      "category_id": 26,
+      "bbox": [
+        299.0,
+        323.0,
+        72.0,
+        38.0
+      ],
+      "area": 2736.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 2938697150,
+      "category_id": 26,
+      "bbox": [
+        267.0,
+        412.0,
+        55.0,
+        100.0
+      ],
+      "area": 5500.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 2938697150,
+      "category_id": 26,
+      "bbox": [
+        185.0,
+        322.0,
+        108.0,
+        190.0
+      ],
+      "area": 20520.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 2938697150,
+      "category_id": 26,
+      "bbox": [
+        304.0,
+        368.0,
+        89.0,
+        87.0
+      ],
+      "area": 7743.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 2938697150,
+      "category_id": 26,
+      "bbox": [
+        404.0,
+        274.0,
+        135.0,
+        80.0
+      ],
+      "area": 10800.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 2938697150,
+      "category_id": 26,
+      "bbox": [
+        516.0,
+        298.0,
+        71.0,
+        94.0
+      ],
+      "area": 6674.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 26,
+      "name": "tomato_mold_leaf",
+      "supercategory": "tomato_mold_leaf"
+    }
+  ]
+}

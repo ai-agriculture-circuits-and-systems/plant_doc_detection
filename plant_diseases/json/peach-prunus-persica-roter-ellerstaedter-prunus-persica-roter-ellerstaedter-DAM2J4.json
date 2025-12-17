@@ -1,0 +1,152 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9357829870,
+      "width": 1300,
+      "height": 960,
+      "file_name": "peach-prunus-persica-roter-ellerstaedter-prunus-persica-roter-ellerstaedter-DAM2J4.jpg",
+      "size": 206315,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9357829870,
+      "category_id": 11,
+      "bbox": [
+        501.0,
+        89.0,
+        187.0,
+        278.0
+      ],
+      "area": 51986.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9357829870,
+      "category_id": 11,
+      "bbox": [
+        956.0,
+        151.0,
+        185.0,
+        541.0
+      ],
+      "area": 100085.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9357829870,
+      "category_id": 11,
+      "bbox": [
+        2.0,
+        517.0,
+        142.0,
+        353.0
+      ],
+      "area": 50126.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 9357829870,
+      "category_id": 11,
+      "bbox": [
+        752.0,
+        653.0,
+        186.0,
+        212.0
+      ],
+      "area": 39432.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 9357829870,
+      "category_id": 11,
+      "bbox": [
+        1025.0,
+        555.0,
+        204.0,
+        308.0
+      ],
+      "area": 62832.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 9357829870,
+      "category_id": 11,
+      "bbox": [
+        569.0,
+        736.0,
+        126.0,
+        130.0
+      ],
+      "area": 16380.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 9357829870,
+      "category_id": 11,
+      "bbox": [
+        1.0,
+        105.0,
+        202.0,
+        270.0
+      ],
+      "area": 54540.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 9357829870,
+      "category_id": 11,
+      "bbox": [
+        4.0,
+        249.0,
+        234.0,
+        304.0
+      ],
+      "area": 71136.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 9357829870,
+      "category_id": 11,
+      "bbox": [
+        392.0,
+        5.0,
+        333.0,
+        416.0
+      ],
+      "area": 138528.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "peach_leaf",
+      "supercategory": "peach_leaf"
+    }
+  ]
+}

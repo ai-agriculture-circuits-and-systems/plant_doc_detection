@@ -1,0 +1,191 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3576910214,
+      "width": 2592,
+      "height": 1936,
+      "file_name": "pepperplantwithbacterialspotimg3206.jpg",
+      "size": 1362165,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3576910214,
+      "category_id": 5,
+      "bbox": [
+        1131.0,
+        585.0,
+        316.0,
+        596.0
+      ],
+      "area": 188336.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3576910214,
+      "category_id": 5,
+      "bbox": [
+        1471.0,
+        545.0,
+        396.0,
+        866.0
+      ],
+      "area": 342936.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3576910214,
+      "category_id": 5,
+      "bbox": [
+        1961.0,
+        97.0,
+        294.0,
+        746.0
+      ],
+      "area": 219324.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3576910214,
+      "category_id": 5,
+      "bbox": [
+        1823.0,
+        1009.0,
+        430.0,
+        268.0
+      ],
+      "area": 115240.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 3576910214,
+      "category_id": 5,
+      "bbox": [
+        1491.0,
+        1379.0,
+        278.0,
+        292.0
+      ],
+      "area": 81176.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 3576910214,
+      "category_id": 5,
+      "bbox": [
+        1141.0,
+        1459.0,
+        352.0,
+        376.0
+      ],
+      "area": 132352.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 3576910214,
+      "category_id": 5,
+      "bbox": [
+        773.0,
+        7.0,
+        502.0,
+        780.0
+      ],
+      "area": 391560.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 3576910214,
+      "category_id": 5,
+      "bbox": [
+        1276.0,
+        1.0,
+        235.0,
+        284.0
+      ],
+      "area": 66740.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 3576910214,
+      "category_id": 5,
+      "bbox": [
+        583.0,
+        675.0,
+        312.0,
+        414.0
+      ],
+      "area": 129168.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 3576910214,
+      "category_id": 5,
+      "bbox": [
+        925.0,
+        1507.0,
+        210.0,
+        429.0
+      ],
+      "area": 90090.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 3576910214,
+      "category_id": 5,
+      "bbox": [
+        1681.0,
+        1217.0,
+        320.0,
+        296.0
+      ],
+      "area": 94720.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 3576910214,
+      "category_id": 5,
+      "bbox": [
+        317.0,
+        17.0,
+        440.0,
+        638.0
+      ],
+      "area": 280720.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 5,
+      "name": "bell_pepper_leaf_spot",
+      "supercategory": "bell_pepper_leaf_spot"
+    }
+  ]
+}

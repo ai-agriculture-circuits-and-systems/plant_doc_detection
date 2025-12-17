@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5971304882,
+      "width": 3504,
+      "height": 2336,
+      "file_name": "Wild_Grape_Leaf.jpg",
+      "size": 3280047,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5971304882,
+      "category_id": 28,
+      "bbox": [
+        901.0,
+        484.0,
+        1703.0,
+        1707.0
+      ],
+      "area": 2907021.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5971304882,
+      "category_id": 28,
+      "bbox": [
+        240.0,
+        150.0,
+        1100.0,
+        772.0
+      ],
+      "area": 849200.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 28,
+      "name": "grape_leaf",
+      "supercategory": "grape_leaf"
+    }
+  ]
+}

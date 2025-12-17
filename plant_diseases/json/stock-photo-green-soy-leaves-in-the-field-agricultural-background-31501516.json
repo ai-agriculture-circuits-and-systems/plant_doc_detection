@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4166584928,
+      "width": 1500,
+      "height": 1225,
+      "file_name": "stock-photo-green-soy-leaves-in-the-field-agricultural-background-31501516.jpg",
+      "size": 758496,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4166584928,
+      "category_id": 16,
+      "bbox": [
+        829.0,
+        576.0,
+        628.0,
+        326.0
+      ],
+      "area": 204728.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4166584928,
+      "category_id": 16,
+      "bbox": [
+        298.0,
+        310.0,
+        414.0,
+        492.0
+      ],
+      "area": 203688.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4166584928,
+      "category_id": 16,
+      "bbox": [
+        125.0,
+        54.0,
+        387.0,
+        501.0
+      ],
+      "area": 193887.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4166584928,
+      "category_id": 16,
+      "bbox": [
+        251.0,
+        619.0,
+        406.0,
+        352.0
+      ],
+      "area": 142912.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4166584928,
+      "category_id": 16,
+      "bbox": [
+        836.0,
+        361.0,
+        459.0,
+        371.0
+      ],
+      "area": 170289.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 16,
+      "name": "soyabean_leaf",
+      "supercategory": "soyabean_leaf"
+    }
+  ]
+}

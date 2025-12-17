@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2949525285,
+      "width": 640,
+      "height": 447,
+      "file_name": "a-mid-season-soybean-plants-leaves-show-virtually-no-insect-damage-cxy77t.jpg",
+      "size": 105996,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2949525285,
+      "category_id": 16,
+      "bbox": [
+        308.0,
+        228.0,
+        198.0,
+        175.0
+      ],
+      "area": 34650.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2949525285,
+      "category_id": 16,
+      "bbox": [
+        96.0,
+        175.0,
+        182.0,
+        196.0
+      ],
+      "area": 35672.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2949525285,
+      "category_id": 16,
+      "bbox": [
+        236.0,
+        24.0,
+        200.0,
+        180.0
+      ],
+      "area": 36000.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 16,
+      "name": "soyabean_leaf",
+      "supercategory": "soyabean_leaf"
+    }
+  ]
+}

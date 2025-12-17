@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3665857006,
+      "width": 1024,
+      "height": 678,
+      "file_name": "dc9rk7rKi.jpg",
+      "size": 227646,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3665857006,
+      "category_id": 28,
+      "bbox": [
+        397.0,
+        75.0,
+        395.0,
+        297.0
+      ],
+      "area": 117315.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3665857006,
+      "category_id": 28,
+      "bbox": [
+        195.0,
+        314.0,
+        345.0,
+        332.0
+      ],
+      "area": 114540.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3665857006,
+      "category_id": 28,
+      "bbox": [
+        660.0,
+        330.0,
+        243.0,
+        249.0
+      ],
+      "area": 60507.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3665857006,
+      "category_id": 28,
+      "bbox": [
+        292.0,
+        132.0,
+        102.0,
+        275.0
+      ],
+      "area": 28050.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 28,
+      "name": "grape_leaf",
+      "supercategory": "grape_leaf"
+    }
+  ]
+}

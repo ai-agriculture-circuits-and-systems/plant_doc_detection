@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7863422174,
+      "width": 1300,
+      "height": 1065,
+      "file_name": "early-blight-or-targfet-spot-alternaria-solani-lesions-on-a-tomato-ACG8W6.jpg",
+      "size": 312117,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7863422174,
+      "category_id": 13,
+      "bbox": [
+        6.0,
+        3.0,
+        1294.0,
+        973.0
+      ],
+      "area": 1259062.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 13,
+      "name": "potato_leaf_early_blight",
+      "supercategory": "potato_leaf_early_blight"
+    }
+  ]
+}

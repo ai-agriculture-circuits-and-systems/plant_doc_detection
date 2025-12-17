@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5092041159,
+      "width": 347,
+      "height": 264,
+      "file_name": "GLSvsNCLB.jpg",
+      "size": 95076,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5092041159,
+      "category_id": 9,
+      "bbox": [
+        1.0,
+        1.0,
+        132.0,
+        262.0
+      ],
+      "area": 34584.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5092041159,
+      "category_id": 9,
+      "bbox": [
+        203.0,
+        8.0,
+        67.0,
+        256.0
+      ],
+      "area": 17152.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5092041159,
+      "category_id": 9,
+      "bbox": [
+        255.0,
+        78.0,
+        62.0,
+        89.0
+      ],
+      "area": 5518.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 5092041159,
+      "category_id": 9,
+      "bbox": [
+        304.0,
+        1.0,
+        42.0,
+        141.0
+      ],
+      "area": 5922.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 9,
+      "name": "corn_leaf_blight",
+      "supercategory": "corn_leaf_blight"
+    }
+  ]
+}

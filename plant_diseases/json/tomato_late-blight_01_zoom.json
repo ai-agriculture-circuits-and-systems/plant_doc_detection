@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6397026830,
+      "width": 900,
+      "height": 598,
+      "file_name": "tomato_late-blight_01_zoom.jpg",
+      "size": 176818,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6397026830,
+      "category_id": 23,
+      "bbox": [
+        513.0,
+        339.0,
+        240.0,
+        259.0
+      ],
+      "area": 62160.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6397026830,
+      "category_id": 23,
+      "bbox": [
+        1.0,
+        277.0,
+        242.0,
+        311.0
+      ],
+      "area": 75262.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6397026830,
+      "category_id": 23,
+      "bbox": [
+        632.0,
+        4.0,
+        268.0,
+        176.0
+      ],
+      "area": 47168.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 6397026830,
+      "category_id": 23,
+      "bbox": [
+        658.0,
+        119.0,
+        242.0,
+        295.0
+      ],
+      "area": 71390.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 6397026830,
+      "category_id": 23,
+      "bbox": [
+        252.0,
+        12.0,
+        296.0,
+        231.0
+      ],
+      "area": 68376.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 6397026830,
+      "category_id": 23,
+      "bbox": [
+        186.0,
+        160.0,
+        457.0,
+        345.0
+      ],
+      "area": 157665.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 23,
+      "name": "tomato_leaf_late_blight",
+      "supercategory": "tomato_leaf_late_blight"
+    }
+  ]
+}

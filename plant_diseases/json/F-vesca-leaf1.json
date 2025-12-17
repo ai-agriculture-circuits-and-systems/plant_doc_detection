@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7304739749,
+      "width": 1506,
+      "height": 1628,
+      "file_name": "F-vesca-leaf1.jpg",
+      "size": 833693,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7304739749,
+      "category_id": 18,
+      "bbox": [
+        618.0,
+        617.0,
+        814.0,
+        544.0
+      ],
+      "area": 442816.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7304739749,
+      "category_id": 18,
+      "bbox": [
+        106.0,
+        803.0,
+        528.0,
+        742.0
+      ],
+      "area": 391776.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7304739749,
+      "category_id": 18,
+      "bbox": [
+        332.0,
+        35.0,
+        602.0,
+        787.0
+      ],
+      "area": 473774.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 18,
+      "name": "strawberry_leaf",
+      "supercategory": "strawberry_leaf"
+    }
+  ]
+}

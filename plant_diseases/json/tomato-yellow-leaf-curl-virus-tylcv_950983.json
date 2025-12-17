@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5917320346,
+      "width": 620,
+      "height": 273,
+      "file_name": "tomato-yellow-leaf-curl-virus-tylcv_950983.jpg",
+      "size": 32655,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5917320346,
+      "category_id": 25,
+      "bbox": [
+        510.0,
+        111.0,
+        101.0,
+        157.0
+      ],
+      "area": 15857.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5917320346,
+      "category_id": 25,
+      "bbox": [
+        213.0,
+        86.0,
+        162.0,
+        150.0
+      ],
+      "area": 24300.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 25,
+      "name": "tomato_leaf_yellow_virus",
+      "supercategory": "tomato_leaf_yellow_virus"
+    }
+  ]
+}

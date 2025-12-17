@@ -1,0 +1,139 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9650261879,
+      "width": 1240,
+      "height": 699,
+      "file_name": "Potato-Blight-on-Leaves.jpg",
+      "size": 161644,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9650261879,
+      "category_id": 13,
+      "bbox": [
+        283.0,
+        78.0,
+        294.0,
+        115.0
+      ],
+      "area": 33810.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9650261879,
+      "category_id": 13,
+      "bbox": [
+        248.0,
+        275.0,
+        209.0,
+        172.0
+      ],
+      "area": 35948.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9650261879,
+      "category_id": 13,
+      "bbox": [
+        603.0,
+        287.0,
+        197.0,
+        305.0
+      ],
+      "area": 60085.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 9650261879,
+      "category_id": 13,
+      "bbox": [
+        492.0,
+        354.0,
+        168.0,
+        168.0
+      ],
+      "area": 28224.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 9650261879,
+      "category_id": 13,
+      "bbox": [
+        439.0,
+        474.0,
+        185.0,
+        222.0
+      ],
+      "area": 41070.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 9650261879,
+      "category_id": 13,
+      "bbox": [
+        1032.0,
+        190.0,
+        122.0,
+        226.0
+      ],
+      "area": 27572.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 9650261879,
+      "category_id": 13,
+      "bbox": [
+        725.0,
+        171.0,
+        211.0,
+        204.0
+      ],
+      "area": 43044.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 9650261879,
+      "category_id": 13,
+      "bbox": [
+        951.0,
+        92.0,
+        173.0,
+        243.0
+      ],
+      "area": 42039.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 13,
+      "name": "potato_leaf_early_blight",
+      "supercategory": "potato_leaf_early_blight"
+    }
+  ]
+}

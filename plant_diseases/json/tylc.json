@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5401701615,
+      "width": 798,
+      "height": 605,
+      "file_name": "tylc.jpg",
+      "size": 76725,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5401701615,
+      "category_id": 26,
+      "bbox": [
+        504.0,
+        168.0,
+        86.0,
+        125.0
+      ],
+      "area": 10750.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5401701615,
+      "category_id": 26,
+      "bbox": [
+        38.0,
+        102.0,
+        125.0,
+        88.0
+      ],
+      "area": 11000.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5401701615,
+      "category_id": 26,
+      "bbox": [
+        165.0,
+        135.0,
+        145.0,
+        77.0
+      ],
+      "area": 11165.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 5401701615,
+      "category_id": 26,
+      "bbox": [
+        120.0,
+        37.0,
+        117.0,
+        125.0
+      ],
+      "area": 14625.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 5401701615,
+      "category_id": 26,
+      "bbox": [
+        478.0,
+        3.0,
+        141.0,
+        136.0
+      ],
+      "area": 19176.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 26,
+      "name": "tomato_mold_leaf",
+      "supercategory": "tomato_mold_leaf"
+    }
+  ]
+}

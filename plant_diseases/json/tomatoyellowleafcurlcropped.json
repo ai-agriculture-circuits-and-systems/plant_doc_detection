@@ -1,0 +1,204 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5135107468,
+      "width": 2315,
+      "height": 2083,
+      "file_name": "tomatoyellowleafcurlcropped.jpg",
+      "size": 951254,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5135107468,
+      "category_id": 25,
+      "bbox": [
+        1592.0,
+        1625.0,
+        406.0,
+        384.0
+      ],
+      "area": 155904.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5135107468,
+      "category_id": 25,
+      "bbox": [
+        1477.0,
+        603.0,
+        143.0,
+        167.0
+      ],
+      "area": 23881.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5135107468,
+      "category_id": 25,
+      "bbox": [
+        1367.0,
+        684.0,
+        208.0,
+        166.0
+      ],
+      "area": 34528.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 5135107468,
+      "category_id": 25,
+      "bbox": [
+        1095.0,
+        188.0,
+        711.0,
+        312.0
+      ],
+      "area": 221832.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 5135107468,
+      "category_id": 25,
+      "bbox": [
+        7.0,
+        171.0,
+        991.0,
+        435.0
+      ],
+      "area": 431085.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 5135107468,
+      "category_id": 25,
+      "bbox": [
+        1.0,
+        690.0,
+        587.0,
+        1314.0
+      ],
+      "area": 771318.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 5135107468,
+      "category_id": 25,
+      "bbox": [
+        407.0,
+        818.0,
+        458.0,
+        485.0
+      ],
+      "area": 222130.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 5135107468,
+      "category_id": 25,
+      "bbox": [
+        1035.0,
+        784.0,
+        278.0,
+        259.0
+      ],
+      "area": 72002.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 5135107468,
+      "category_id": 25,
+      "bbox": [
+        811.0,
+        681.0,
+        260.0,
+        334.0
+      ],
+      "area": 86840.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 5135107468,
+      "category_id": 25,
+      "bbox": [
+        978.0,
+        1152.0,
+        341.0,
+        477.0
+      ],
+      "area": 162657.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 5135107468,
+      "category_id": 25,
+      "bbox": [
+        1473.0,
+        1192.0,
+        443.0,
+        242.0
+      ],
+      "area": 107206.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 5135107468,
+      "category_id": 25,
+      "bbox": [
+        1648.0,
+        1353.0,
+        667.0,
+        297.0
+      ],
+      "area": 198099.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 5135107468,
+      "category_id": 25,
+      "bbox": [
+        1329.0,
+        1459.0,
+        382.0,
+        452.0
+      ],
+      "area": 172664.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 25,
+      "name": "tomato_leaf_yellow_virus",
+      "supercategory": "tomato_leaf_yellow_virus"
+    }
+  ]
+}

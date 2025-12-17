@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2007761122,
+      "width": 1600,
+      "height": 1148,
+      "file_name": "P1200665+Vaccinium+alaskaense+vs+ovalifolium+leaf+and++twig+cr.jpg",
+      "size": 185310,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2007761122,
+      "category_id": 6,
+      "bbox": [
+        365.0,
+        163.0,
+        389.0,
+        856.0
+      ],
+      "area": 332984.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2007761122,
+      "category_id": 6,
+      "bbox": [
+        840.0,
+        216.0,
+        399.0,
+        732.0
+      ],
+      "area": 292068.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

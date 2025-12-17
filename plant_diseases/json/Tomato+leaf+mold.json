@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3011216609,
+      "width": 1600,
+      "height": 1200,
+      "file_name": "Tomato+leaf+mold.jpg",
+      "size": 250314,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3011216609,
+      "category_id": 26,
+      "bbox": [
+        3.0,
+        712.0,
+        358.0,
+        488.0
+      ],
+      "area": 174704.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3011216609,
+      "category_id": 26,
+      "bbox": [
+        327.0,
+        49.0,
+        333.0,
+        364.0
+      ],
+      "area": 121212.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3011216609,
+      "category_id": 26,
+      "bbox": [
+        1305.0,
+        1.0,
+        287.0,
+        691.0
+      ],
+      "area": 198317.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3011216609,
+      "category_id": 26,
+      "bbox": [
+        524.0,
+        454.0,
+        312.0,
+        723.0
+      ],
+      "area": 225576.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 3011216609,
+      "category_id": 26,
+      "bbox": [
+        687.0,
+        47.0,
+        822.0,
+        787.0
+      ],
+      "area": 646914.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 3011216609,
+      "category_id": 26,
+      "bbox": [
+        764.0,
+        598.0,
+        560.0,
+        474.0
+      ],
+      "area": 265440.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 26,
+      "name": "tomato_mold_leaf",
+      "supercategory": "tomato_mold_leaf"
+    }
+  ]
+}

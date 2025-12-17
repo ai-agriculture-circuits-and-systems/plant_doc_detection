@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5205944275,
+      "width": 640,
+      "height": 480,
+      "file_name": "cedar_apple_rust_on_jonagold_2.jpg",
+      "size": 29734,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5205944275,
+      "category_id": 3,
+      "bbox": [
+        24.0,
+        138.0,
+        214.0,
+        158.0
+      ],
+      "area": 33812.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5205944275,
+      "category_id": 3,
+      "bbox": [
+        387.0,
+        153.0,
+        165.0,
+        132.0
+      ],
+      "area": 21780.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5205944275,
+      "category_id": 3,
+      "bbox": [
+        339.0,
+        2.0,
+        263.0,
+        173.0
+      ],
+      "area": 45499.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 5205944275,
+      "category_id": 3,
+      "bbox": [
+        498.0,
+        100.0,
+        134.0,
+        144.0
+      ],
+      "area": 19296.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 5205944275,
+      "category_id": 3,
+      "bbox": [
+        520.0,
+        304.0,
+        82.0,
+        87.0
+      ],
+      "area": 7134.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "apple_rust_leaf",
+      "supercategory": "apple_rust_leaf"
+    }
+  ]
+}

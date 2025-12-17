@@ -1,0 +1,165 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4614831790,
+      "width": 2000,
+      "height": 3008,
+      "file_name": "vaccspp_leaf1.jpg",
+      "size": 4452736,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4614831790,
+      "category_id": 6,
+      "bbox": [
+        122.0,
+        360.0,
+        1150.0,
+        525.0
+      ],
+      "area": 603750.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4614831790,
+      "category_id": 6,
+      "bbox": [
+        502.0,
+        910.0,
+        229.0,
+        587.0
+      ],
+      "area": 134423.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4614831790,
+      "category_id": 6,
+      "bbox": [
+        606.0,
+        1291.0,
+        828.0,
+        413.0
+      ],
+      "area": 341964.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4614831790,
+      "category_id": 6,
+      "bbox": [
+        399.0,
+        1701.0,
+        600.0,
+        1078.0
+      ],
+      "area": 646800.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4614831790,
+      "category_id": 6,
+      "bbox": [
+        1037.0,
+        1617.0,
+        963.0,
+        583.0
+      ],
+      "area": 561429.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 4614831790,
+      "category_id": 6,
+      "bbox": [
+        1071.0,
+        2263.0,
+        644.0,
+        745.0
+      ],
+      "area": 479780.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 4614831790,
+      "category_id": 6,
+      "bbox": [
+        1337.0,
+        226.0,
+        409.0,
+        565.0
+      ],
+      "area": 231085.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 4614831790,
+      "category_id": 6,
+      "bbox": [
+        1502.0,
+        626.0,
+        482.0,
+        959.0
+      ],
+      "area": 462238.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 4614831790,
+      "category_id": 6,
+      "bbox": [
+        93.0,
+        1622.0,
+        416.0,
+        569.0
+      ],
+      "area": 236704.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 4614831790,
+      "category_id": 6,
+      "bbox": [
+        6.0,
+        7.0,
+        487.0,
+        450.0
+      ],
+      "area": 219150.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

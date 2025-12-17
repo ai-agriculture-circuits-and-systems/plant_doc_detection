@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9552351090,
+      "width": 5184,
+      "height": 2740,
+      "file_name": "cherry-tree-leaves.jpg",
+      "size": 658255,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9552351090,
+      "category_id": 7,
+      "bbox": [
+        2655.0,
+        84.0,
+        2433.0,
+        1445.0
+      ],
+      "area": 3515685.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9552351090,
+      "category_id": 7,
+      "bbox": [
+        1951.0,
+        210.0,
+        852.0,
+        1463.0
+      ],
+      "area": 1246476.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9552351090,
+      "category_id": 7,
+      "bbox": [
+        1092.0,
+        451.0,
+        981.0,
+        1307.0
+      ],
+      "area": 1282167.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 9552351090,
+      "category_id": 7,
+      "bbox": [
+        362.0,
+        625.0,
+        1311.0,
+        2026.0
+      ],
+      "area": 2656086.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 9552351090,
+      "category_id": 7,
+      "bbox": [
+        2796.0,
+        1414.0,
+        2285.0,
+        1326.0
+      ],
+      "area": 3029910.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 9552351090,
+      "category_id": 7,
+      "bbox": [
+        1847.0,
+        1784.0,
+        1411.0,
+        893.0
+      ],
+      "area": 1260023.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 7,
+      "name": "cherry_leaf",
+      "supercategory": "cherry_leaf"
+    }
+  ]
+}

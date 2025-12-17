@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1307391180,
+      "width": 350,
+      "height": 300,
+      "file_name": "cherry-tree-leaves-and-fruits.jpg",
+      "size": 19136,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1307391180,
+      "category_id": 7,
+      "bbox": [
+        198.0,
+        77.0,
+        101.0,
+        175.0
+      ],
+      "area": 17675.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1307391180,
+      "category_id": 7,
+      "bbox": [
+        3.0,
+        114.0,
+        145.0,
+        121.0
+      ],
+      "area": 17545.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1307391180,
+      "category_id": 7,
+      "bbox": [
+        30.0,
+        184.0,
+        159.0,
+        113.0
+      ],
+      "area": 17967.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1307391180,
+      "category_id": 7,
+      "bbox": [
+        226.0,
+        4.0,
+        120.0,
+        79.0
+      ],
+      "area": 9480.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 7,
+      "name": "cherry_leaf",
+      "supercategory": "cherry_leaf"
+    }
+  ]
+}

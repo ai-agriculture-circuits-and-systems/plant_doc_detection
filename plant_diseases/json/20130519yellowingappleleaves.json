@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8204457457,
+      "width": 400,
+      "height": 300,
+      "file_name": "20130519yellowingappleleaves.jpg",
+      "size": 130091,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8204457457,
+      "category_id": 2,
+      "bbox": [
+        136.0,
+        102.0,
+        91.0,
+        161.0
+      ],
+      "area": 14651.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8204457457,
+      "category_id": 2,
+      "bbox": [
+        267.0,
+        100.0,
+        119.0,
+        161.0
+      ],
+      "area": 19159.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8204457457,
+      "category_id": 2,
+      "bbox": [
+        2.0,
+        66.0,
+        194.0,
+        175.0
+      ],
+      "area": 33950.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "apple_leaf",
+      "supercategory": "apple_leaf"
+    }
+  ]
+}

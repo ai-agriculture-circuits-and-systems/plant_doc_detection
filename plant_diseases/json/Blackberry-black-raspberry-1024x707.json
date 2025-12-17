@@ -1,0 +1,126 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3118546748,
+      "width": 1024,
+      "height": 707,
+      "file_name": "Blackberry-black-raspberry-1024x707.jpg",
+      "size": 251508,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3118546748,
+      "category_id": 15,
+      "bbox": [
+        76.0,
+        383.0,
+        124.0,
+        116.0
+      ],
+      "area": 14384.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3118546748,
+      "category_id": 15,
+      "bbox": [
+        58.0,
+        276.0,
+        129.0,
+        126.0
+      ],
+      "area": 16254.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3118546748,
+      "category_id": 15,
+      "bbox": [
+        1.0,
+        360.0,
+        84.0,
+        133.0
+      ],
+      "area": 11172.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3118546748,
+      "category_id": 15,
+      "bbox": [
+        191.0,
+        2.0,
+        57.0,
+        118.0
+      ],
+      "area": 6726.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 3118546748,
+      "category_id": 15,
+      "bbox": [
+        1.0,
+        1.0,
+        94.0,
+        96.0
+      ],
+      "area": 9024.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 3118546748,
+      "category_id": 15,
+      "bbox": [
+        103.0,
+        591.0,
+        133.0,
+        114.0
+      ],
+      "area": 15162.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 3118546748,
+      "category_id": 15,
+      "bbox": [
+        278.0,
+        392.0,
+        136.0,
+        83.0
+      ],
+      "area": 11288.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

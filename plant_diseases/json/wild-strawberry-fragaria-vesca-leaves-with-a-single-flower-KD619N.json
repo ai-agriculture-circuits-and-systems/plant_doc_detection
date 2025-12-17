@@ -1,0 +1,412 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6084444250,
+      "width": 1286,
+      "height": 1390,
+      "file_name": "wild-strawberry-fragaria-vesca-leaves-with-a-single-flower-KD619N.jpg",
+      "size": 430615,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6084444250,
+      "category_id": 18,
+      "bbox": [
+        21.0,
+        582.0,
+        273.0,
+        216.0
+      ],
+      "area": 58968.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6084444250,
+      "category_id": 18,
+      "bbox": [
+        164.0,
+        414.0,
+        216.0,
+        249.0
+      ],
+      "area": 53784.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6084444250,
+      "category_id": 18,
+      "bbox": [
+        221.0,
+        647.0,
+        200.0,
+        267.0
+      ],
+      "area": 53400.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 6084444250,
+      "category_id": 18,
+      "bbox": [
+        186.0,
+        894.0,
+        247.0,
+        163.0
+      ],
+      "area": 40261.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 6084444250,
+      "category_id": 18,
+      "bbox": [
+        347.0,
+        1000.0,
+        161.0,
+        210.0
+      ],
+      "area": 33810.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 6084444250,
+      "category_id": 18,
+      "bbox": [
+        394.0,
+        814.0,
+        147.0,
+        202.0
+      ],
+      "area": 29694.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 6084444250,
+      "category_id": 18,
+      "bbox": [
+        496.0,
+        965.0,
+        163.0,
+        205.0
+      ],
+      "area": 33415.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 6084444250,
+      "category_id": 18,
+      "bbox": [
+        527.0,
+        727.0,
+        171.0,
+        265.0
+      ],
+      "area": 45315.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 6084444250,
+      "category_id": 18,
+      "bbox": [
+        631.0,
+        612.0,
+        275.0,
+        176.0
+      ],
+      "area": 48400.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 6084444250,
+      "category_id": 18,
+      "bbox": [
+        443.0,
+        394.0,
+        247.0,
+        184.0
+      ],
+      "area": 45448.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 6084444250,
+      "category_id": 18,
+      "bbox": [
+        439.0,
+        210.0,
+        216.0,
+        211.0
+      ],
+      "area": 45576.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 6084444250,
+      "category_id": 18,
+      "bbox": [
+        233.0,
+        304.0,
+        235.0,
+        202.0
+      ],
+      "area": 47470.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 6084444250,
+      "category_id": 18,
+      "bbox": [
+        694.0,
+        998.0,
+        265.0,
+        271.0
+      ],
+      "area": 71815.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 6084444250,
+      "category_id": 18,
+      "bbox": [
+        798.0,
+        818.0,
+        312.0,
+        233.0
+      ],
+      "area": 72696.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 6084444250,
+      "category_id": 18,
+      "bbox": [
+        1078.0,
+        716.0,
+        90.0,
+        166.0
+      ],
+      "area": 14940.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 6084444250,
+      "category_id": 18,
+      "bbox": [
+        1021.0,
+        676.0,
+        136.0,
+        94.0
+      ],
+      "area": 12784.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 16,
+      "image_id": 6084444250,
+      "category_id": 18,
+      "bbox": [
+        1161.0,
+        708.0,
+        115.0,
+        121.0
+      ],
+      "area": 13915.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 17,
+      "image_id": 6084444250,
+      "category_id": 18,
+      "bbox": [
+        910.0,
+        465.0,
+        131.0,
+        204.0
+      ],
+      "area": 26724.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 18,
+      "image_id": 6084444250,
+      "category_id": 18,
+      "bbox": [
+        966.0,
+        394.0,
+        195.0,
+        163.0
+      ],
+      "area": 31785.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 19,
+      "image_id": 6084444250,
+      "category_id": 18,
+      "bbox": [
+        792.0,
+        421.0,
+        212.0,
+        118.0
+      ],
+      "area": 25016.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 20,
+      "image_id": 6084444250,
+      "category_id": 18,
+      "bbox": [
+        833.0,
+        274.0,
+        159.0,
+        198.0
+      ],
+      "area": 31482.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 21,
+      "image_id": 6084444250,
+      "category_id": 18,
+      "bbox": [
+        849.0,
+        180.0,
+        174.0,
+        120.0
+      ],
+      "area": 20880.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 22,
+      "image_id": 6084444250,
+      "category_id": 18,
+      "bbox": [
+        715.0,
+        267.0,
+        173.0,
+        190.0
+      ],
+      "area": 32870.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 23,
+      "image_id": 6084444250,
+      "category_id": 18,
+      "bbox": [
+        1061.0,
+        1.0,
+        133.0,
+        222.0
+      ],
+      "area": 29526.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 24,
+      "image_id": 6084444250,
+      "category_id": 18,
+      "bbox": [
+        1070.0,
+        149.0,
+        206.0,
+        151.0
+      ],
+      "area": 31106.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 25,
+      "image_id": 6084444250,
+      "category_id": 18,
+      "bbox": [
+        902.0,
+        74.0,
+        190.0,
+        191.0
+      ],
+      "area": 36290.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 26,
+      "image_id": 6084444250,
+      "category_id": 18,
+      "bbox": [
+        180.0,
+        137.0,
+        169.0,
+        208.0
+      ],
+      "area": 35152.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 27,
+      "image_id": 6084444250,
+      "category_id": 18,
+      "bbox": [
+        198.0,
+        51.0,
+        172.0,
+        116.0
+      ],
+      "area": 19952.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 28,
+      "image_id": 6084444250,
+      "category_id": 18,
+      "bbox": [
+        35.0,
+        92.0,
+        177.0,
+        147.0
+      ],
+      "area": 26019.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 18,
+      "name": "strawberry_leaf",
+      "supercategory": "strawberry_leaf"
+    }
+  ]
+}

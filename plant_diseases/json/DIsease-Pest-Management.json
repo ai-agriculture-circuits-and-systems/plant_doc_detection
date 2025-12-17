@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7080456046,
+      "width": 1485,
+      "height": 1200,
+      "file_name": "DIsease-Pest-Management.jpg",
+      "size": 374538,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7080456046,
+      "category_id": 3,
+      "bbox": [
+        506.0,
+        23.0,
+        390.0,
+        831.0
+      ],
+      "area": 324090.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7080456046,
+      "category_id": 3,
+      "bbox": [
+        65.0,
+        613.0,
+        511.0,
+        373.0
+      ],
+      "area": 190603.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7080456046,
+      "category_id": 3,
+      "bbox": [
+        720.0,
+        492.0,
+        760.0,
+        436.0
+      ],
+      "area": 331360.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "apple_rust_leaf",
+      "supercategory": "apple_rust_leaf"
+    }
+  ]
+}

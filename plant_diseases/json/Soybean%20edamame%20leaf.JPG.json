@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5811535244,
+      "width": 4048,
+      "height": 3340,
+      "file_name": "Soybean%20edamame%20leaf.JPG.jpg",
+      "size": 1824250,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5811535244,
+      "category_id": 16,
+      "bbox": [
+        1143.0,
+        4.0,
+        1587.0,
+        2107.0
+      ],
+      "area": 3343809.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5811535244,
+      "category_id": 16,
+      "bbox": [
+        2093.0,
+        1364.0,
+        1847.0,
+        1487.0
+      ],
+      "area": 2746489.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5811535244,
+      "category_id": 16,
+      "bbox": [
+        193.0,
+        1588.0,
+        1847.0,
+        1286.0
+      ],
+      "area": 2375242.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 16,
+      "name": "soyabean_leaf",
+      "supercategory": "soyabean_leaf"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9982496447,
+      "width": 1600,
+      "height": 1200,
+      "file_name": "Black%20raspberry%20late%20leaf%20rust%20top%20view05F.JPG.jpg",
+      "size": 425903,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9982496447,
+      "category_id": 15,
+      "bbox": [
+        593.0,
+        487.0,
+        573.0,
+        713.0
+      ],
+      "area": 408549.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9982496447,
+      "category_id": 15,
+      "bbox": [
+        660.0,
+        1.0,
+        869.0,
+        512.0
+      ],
+      "area": 444928.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9982496447,
+      "category_id": 15,
+      "bbox": [
+        159.0,
+        272.0,
+        510.0,
+        646.0
+      ],
+      "area": 329460.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

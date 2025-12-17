@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5326448162,
+      "width": 450,
+      "height": 394,
+      "file_name": "stock-photo-fresh-green-strawberry-leaf-isolated-on-white-background-strawberry-leaf-with-clipping-path-630981155.jpg",
+      "size": 53470,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5326448162,
+      "category_id": 18,
+      "bbox": [
+        153.0,
+        7.0,
+        154.0,
+        230.0
+      ],
+      "area": 35420.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5326448162,
+      "category_id": 18,
+      "bbox": [
+        237.0,
+        161.0,
+        204.0,
+        208.0
+      ],
+      "area": 42432.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5326448162,
+      "category_id": 18,
+      "bbox": [
+        7.0,
+        191.0,
+        228.0,
+        172.0
+      ],
+      "area": 39216.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 18,
+      "name": "strawberry_leaf",
+      "supercategory": "strawberry_leaf"
+    }
+  ]
+}

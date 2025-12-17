@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1076438913,
+      "width": 338,
+      "height": 470,
+      "file_name": "stock-photo-bacterial-spot-on-tomato-559799107.jpg",
+      "size": 48448,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1076438913,
+      "category_id": 22,
+      "bbox": [
+        3.0,
+        218.0,
+        149.0,
+        226.0
+      ],
+      "area": 33674.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1076438913,
+      "category_id": 22,
+      "bbox": [
+        34.0,
+        30.0,
+        248.0,
+        404.0
+      ],
+      "area": 100192.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 22,
+      "name": "tomato_leaf_bacterial_spot",
+      "supercategory": "tomato_leaf_bacterial_spot"
+    }
+  ]
+}

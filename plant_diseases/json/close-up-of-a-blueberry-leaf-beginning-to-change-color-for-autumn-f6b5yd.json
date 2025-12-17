@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4905889190,
+      "width": 347,
+      "height": 540,
+      "file_name": "close-up-of-a-blueberry-leaf-beginning-to-change-color-for-autumn-f6b5yd.jpg",
+      "size": 36750,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4905889190,
+      "category_id": 6,
+      "bbox": [
+        23.0,
+        12.0,
+        324.0,
+        500.0
+      ],
+      "area": 162000.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

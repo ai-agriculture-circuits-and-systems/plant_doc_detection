@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2182462446,
+      "width": 800,
+      "height": 600,
+      "file_name": "clothes014.jpg",
+      "size": 64085,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2182462446,
+      "category_id": 22,
+      "bbox": [
+        507.0,
+        25.0,
+        192.0,
+        340.0
+      ],
+      "area": 65280.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2182462446,
+      "category_id": 22,
+      "bbox": [
+        203.0,
+        89.0,
+        298.0,
+        494.0
+      ],
+      "area": 147212.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 22,
+      "name": "tomato_leaf_bacterial_spot",
+      "supercategory": "tomato_leaf_bacterial_spot"
+    }
+  ]
+}

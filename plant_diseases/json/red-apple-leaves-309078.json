@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8609627508,
+      "width": 957,
+      "height": 1300,
+      "file_name": "red-apple-leaves-309078.jpg",
+      "size": 219804,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8609627508,
+      "category_id": 2,
+      "bbox": [
+        294.0,
+        101.0,
+        211.0,
+        429.0
+      ],
+      "area": 90519.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8609627508,
+      "category_id": 2,
+      "bbox": [
+        473.0,
+        448.0,
+        367.0,
+        195.0
+      ],
+      "area": 71565.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "apple_leaf",
+      "supercategory": "apple_leaf"
+    }
+  ]
+}

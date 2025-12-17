@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9191542502,
+      "width": 809,
+      "height": 500,
+      "file_name": "wur-late-blight-in-potato-809.jpg",
+      "size": 110317,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9191542502,
+      "category_id": 14,
+      "bbox": [
+        475.0,
+        48.0,
+        193.0,
+        158.0
+      ],
+      "area": 30494.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9191542502,
+      "category_id": 14,
+      "bbox": [
+        653.0,
+        345.0,
+        129.0,
+        95.0
+      ],
+      "area": 12255.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9191542502,
+      "category_id": 14,
+      "bbox": [
+        328.0,
+        155.0,
+        98.0,
+        105.0
+      ],
+      "area": 10290.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 9191542502,
+      "category_id": 14,
+      "bbox": [
+        431.0,
+        17.0,
+        88.0,
+        104.0
+      ],
+      "area": 9152.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 14,
+      "name": "potato_leaf_late_blight",
+      "supercategory": "potato_leaf_late_blight"
+    }
+  ]
+}

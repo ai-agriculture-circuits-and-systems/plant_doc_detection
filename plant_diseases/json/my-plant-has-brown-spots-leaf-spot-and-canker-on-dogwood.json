@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5486306573,
+      "width": 600,
+      "height": 423,
+      "file_name": "my-plant-has-brown-spots-leaf-spot-and-canker-on-dogwood.jpg",
+      "size": 54662,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5486306573,
+      "category_id": 22,
+      "bbox": [
+        264.0,
+        26.0,
+        287.0,
+        179.0
+      ],
+      "area": 51373.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5486306573,
+      "category_id": 22,
+      "bbox": [
+        17.0,
+        64.0,
+        450.0,
+        214.0
+      ],
+      "area": 96300.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 22,
+      "name": "tomato_leaf_bacterial_spot",
+      "supercategory": "tomato_leaf_bacterial_spot"
+    }
+  ]
+}

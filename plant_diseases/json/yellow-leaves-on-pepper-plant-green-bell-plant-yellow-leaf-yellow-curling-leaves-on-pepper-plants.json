@@ -1,0 +1,191 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7818206606,
+      "width": 800,
+      "height": 600,
+      "file_name": "yellow-leaves-on-pepper-plant-green-bell-plant-yellow-leaf-yellow-curling-leaves-on-pepper-plants.jpg",
+      "size": 100815,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7818206606,
+      "category_id": 4,
+      "bbox": [
+        442.0,
+        161.0,
+        92.0,
+        115.0
+      ],
+      "area": 10580.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7818206606,
+      "category_id": 4,
+      "bbox": [
+        531.0,
+        368.0,
+        86.0,
+        140.0
+      ],
+      "area": 12040.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7818206606,
+      "category_id": 4,
+      "bbox": [
+        304.0,
+        373.0,
+        88.0,
+        113.0
+      ],
+      "area": 9944.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 7818206606,
+      "category_id": 4,
+      "bbox": [
+        326.0,
+        291.0,
+        105.0,
+        71.0
+      ],
+      "area": 7455.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 7818206606,
+      "category_id": 4,
+      "bbox": [
+        286.0,
+        192.0,
+        80.0,
+        86.0
+      ],
+      "area": 6880.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 7818206606,
+      "category_id": 4,
+      "bbox": [
+        164.0,
+        108.0,
+        55.0,
+        83.0
+      ],
+      "area": 4565.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 7818206606,
+      "category_id": 4,
+      "bbox": [
+        196.0,
+        373.0,
+        87.0,
+        120.0
+      ],
+      "area": 10440.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 7818206606,
+      "category_id": 4,
+      "bbox": [
+        391.0,
+        165.0,
+        59.0,
+        94.0
+      ],
+      "area": 5546.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 7818206606,
+      "category_id": 4,
+      "bbox": [
+        659.0,
+        203.0,
+        77.0,
+        76.0
+      ],
+      "area": 5852.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 7818206606,
+      "category_id": 4,
+      "bbox": [
+        591.0,
+        200.0,
+        74.0,
+        90.0
+      ],
+      "area": 6660.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 7818206606,
+      "category_id": 4,
+      "bbox": [
+        705.0,
+        342.0,
+        74.0,
+        90.0
+      ],
+      "area": 6660.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 7818206606,
+      "category_id": 4,
+      "bbox": [
+        668.0,
+        434.0,
+        95.0,
+        105.0
+      ],
+      "area": 9975.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 4,
+      "name": "bell_pepper_leaf",
+      "supercategory": "bell_pepper_leaf"
+    }
+  ]
+}

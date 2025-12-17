@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8285434321,
+      "width": 347,
+      "height": 280,
+      "file_name": "tomato-yellow-leaf-curl-disease-260nw-1006958086.jpg",
+      "size": 16076,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8285434321,
+      "category_id": 25,
+      "bbox": [
+        177.0,
+        2.0,
+        120.0,
+        71.0
+      ],
+      "area": 8520.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8285434321,
+      "category_id": 25,
+      "bbox": [
+        87.0,
+        61.0,
+        49.0,
+        86.0
+      ],
+      "area": 4214.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8285434321,
+      "category_id": 25,
+      "bbox": [
+        132.0,
+        148.0,
+        62.0,
+        90.0
+      ],
+      "area": 5580.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8285434321,
+      "category_id": 25,
+      "bbox": [
+        158.0,
+        76.0,
+        63.0,
+        77.0
+      ],
+      "area": 4851.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8285434321,
+      "category_id": 25,
+      "bbox": [
+        189.0,
+        134.0,
+        134.0,
+        79.0
+      ],
+      "area": 10586.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 25,
+      "name": "tomato_leaf_yellow_virus",
+      "supercategory": "tomato_leaf_yellow_virus"
+    }
+  ]
+}

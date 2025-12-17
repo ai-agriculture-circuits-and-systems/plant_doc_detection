@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2527779363,
+      "width": 800,
+      "height": 600,
+      "file_name": "2009+06+069+Downy+mildew.jpg",
+      "size": 96722,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2527779363,
+      "category_id": 29,
+      "bbox": [
+        1.0,
+        174.0,
+        435.0,
+        414.0
+      ],
+      "area": 180090.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2527779363,
+      "category_id": 29,
+      "bbox": [
+        403.0,
+        216.0,
+        180.0,
+        224.0
+      ],
+      "area": 40320.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2527779363,
+      "category_id": 29,
+      "bbox": [
+        429.0,
+        405.0,
+        133.0,
+        177.0
+      ],
+      "area": 23541.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2527779363,
+      "category_id": 29,
+      "bbox": [
+        340.0,
+        30.0,
+        141.0,
+        156.0
+      ],
+      "area": 21996.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 29,
+      "name": "grape_leaf_black_rot",
+      "supercategory": "grape_leaf_black_rot"
+    }
+  ]
+}

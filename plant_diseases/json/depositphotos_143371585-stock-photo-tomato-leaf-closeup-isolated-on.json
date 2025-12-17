@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2615782318,
+      "width": 1600,
+      "height": 1212,
+      "file_name": "depositphotos_143371585-stock-photo-tomato-leaf-closeup-isolated-on.jpg",
+      "size": 162791,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2615782318,
+      "category_id": 21,
+      "bbox": [
+        97.0,
+        553.0,
+        736.0,
+        381.0
+      ],
+      "area": 280416.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2615782318,
+      "category_id": 21,
+      "bbox": [
+        815.0,
+        581.0,
+        332.0,
+        434.0
+      ],
+      "area": 144088.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2615782318,
+      "category_id": 21,
+      "bbox": [
+        1138.0,
+        426.0,
+        318.0,
+        353.0
+      ],
+      "area": 112254.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2615782318,
+      "category_id": 21,
+      "bbox": [
+        728.0,
+        87.0,
+        434.0,
+        353.0
+      ],
+      "area": 153202.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 2615782318,
+      "category_id": 21,
+      "bbox": [
+        398.0,
+        362.0,
+        591.0,
+        308.0
+      ],
+      "area": 182028.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 21,
+      "name": "tomato_leaf",
+      "supercategory": "tomato_leaf"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2290971790,
+      "width": 1600,
+      "height": 1200,
+      "file_name": "Leaf+mold+tomato+%25283%2529.JPG.jpg",
+      "size": 277451,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2290971790,
+      "category_id": 26,
+      "bbox": [
+        575.0,
+        864.0,
+        352.0,
+        318.0
+      ],
+      "area": 111936.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2290971790,
+      "category_id": 26,
+      "bbox": [
+        797.0,
+        872.0,
+        160.0,
+        134.0
+      ],
+      "area": 21440.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2290971790,
+      "category_id": 26,
+      "bbox": [
+        977.0,
+        897.0,
+        385.0,
+        249.0
+      ],
+      "area": 95865.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2290971790,
+      "category_id": 26,
+      "bbox": [
+        393.0,
+        814.0,
+        200.0,
+        273.0
+      ],
+      "area": 54600.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 2290971790,
+      "category_id": 26,
+      "bbox": [
+        857.0,
+        465.0,
+        478.0,
+        277.0
+      ],
+      "area": 132406.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 2290971790,
+      "category_id": 26,
+      "bbox": [
+        428.0,
+        601.0,
+        124.0,
+        121.0
+      ],
+      "area": 15004.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 2290971790,
+      "category_id": 26,
+      "bbox": [
+        569.0,
+        473.0,
+        255.0,
+        218.0
+      ],
+      "area": 55590.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 2290971790,
+      "category_id": 26,
+      "bbox": [
+        664.0,
+        493.0,
+        202.0,
+        250.0
+      ],
+      "area": 50500.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 2290971790,
+      "category_id": 26,
+      "bbox": [
+        558.0,
+        409.0,
+        303.0,
+        127.0
+      ],
+      "area": 38481.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 2290971790,
+      "category_id": 26,
+      "bbox": [
+        505.0,
+        33.0,
+        418.0,
+        421.0
+      ],
+      "area": 175978.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 26,
+      "name": "tomato_mold_leaf",
+      "supercategory": "tomato_mold_leaf"
+    }
+  ]
+}

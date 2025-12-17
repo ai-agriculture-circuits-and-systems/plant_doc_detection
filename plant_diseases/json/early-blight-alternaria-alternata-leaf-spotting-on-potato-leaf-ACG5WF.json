@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9283908335,
+      "width": 1300,
+      "height": 1199,
+      "file_name": "early-blight-alternaria-alternata-leaf-spotting-on-potato-leaf-ACG5WF.jpg",
+      "size": 220696,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9283908335,
+      "category_id": 13,
+      "bbox": [
+        1.0,
+        212.0,
+        1243.0,
+        700.0
+      ],
+      "area": 870100.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 13,
+      "name": "potato_leaf_early_blight",
+      "supercategory": "potato_leaf_early_blight"
+    }
+  ]
+}

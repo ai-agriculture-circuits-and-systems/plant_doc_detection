@@ -1,0 +1,191 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8401066378,
+      "width": 500,
+      "height": 375,
+      "file_name": "IMG_fig-4.jpg",
+      "size": 265482,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8401066378,
+      "category_id": 16,
+      "bbox": [
+        209.0,
+        25.0,
+        102.0,
+        149.0
+      ],
+      "area": 15198.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8401066378,
+      "category_id": 16,
+      "bbox": [
+        235.0,
+        159.0,
+        134.0,
+        101.0
+      ],
+      "area": 13534.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8401066378,
+      "category_id": 16,
+      "bbox": [
+        107.0,
+        145.0,
+        123.0,
+        101.0
+      ],
+      "area": 12423.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8401066378,
+      "category_id": 16,
+      "bbox": [
+        104.0,
+        36.0,
+        130.0,
+        116.0
+      ],
+      "area": 15080.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8401066378,
+      "category_id": 16,
+      "bbox": [
+        9.0,
+        1.0,
+        104.0,
+        67.0
+      ],
+      "area": 6968.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 8401066378,
+      "category_id": 16,
+      "bbox": [
+        1.0,
+        65.0,
+        94.0,
+        98.0
+      ],
+      "area": 9212.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 8401066378,
+      "category_id": 16,
+      "bbox": [
+        36.0,
+        152.0,
+        79.0,
+        88.0
+      ],
+      "area": 6952.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 8401066378,
+      "category_id": 16,
+      "bbox": [
+        327.0,
+        42.0,
+        90.0,
+        122.0
+      ],
+      "area": 10980.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 8401066378,
+      "category_id": 16,
+      "bbox": [
+        368.0,
+        169.0,
+        132.0,
+        107.0
+      ],
+      "area": 14124.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 8401066378,
+      "category_id": 16,
+      "bbox": [
+        337.0,
+        278.0,
+        144.0,
+        97.0
+      ],
+      "area": 13968.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 8401066378,
+      "category_id": 16,
+      "bbox": [
+        222.0,
+        225.0,
+        104.0,
+        143.0
+      ],
+      "area": 14872.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 8401066378,
+      "category_id": 16,
+      "bbox": [
+        70.0,
+        283.0,
+        164.0,
+        92.0
+      ],
+      "area": 15088.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 16,
+      "name": "soyabean_leaf",
+      "supercategory": "soyabean_leaf"
+    }
+  ]
+}

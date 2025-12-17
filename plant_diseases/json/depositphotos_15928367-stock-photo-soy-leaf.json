@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2392635595,
+      "width": 1023,
+      "height": 868,
+      "file_name": "depositphotos_15928367-stock-photo-soy-leaf.jpg",
+      "size": 89723,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2392635595,
+      "category_id": 16,
+      "bbox": [
+        409.0,
+        66.0,
+        316.0,
+        426.0
+      ],
+      "area": 134616.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2392635595,
+      "category_id": 16,
+      "bbox": [
+        533.0,
+        411.0,
+        402.0,
+        241.0
+      ],
+      "area": 96882.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2392635595,
+      "category_id": 16,
+      "bbox": [
+        64.0,
+        445.0,
+        424.0,
+        244.0
+      ],
+      "area": 103456.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 16,
+      "name": "soyabean_leaf",
+      "supercategory": "soyabean_leaf"
+    }
+  ]
+}

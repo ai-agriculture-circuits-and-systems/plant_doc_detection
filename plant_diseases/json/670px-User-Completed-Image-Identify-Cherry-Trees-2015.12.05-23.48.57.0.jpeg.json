@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2044812574,
+      "width": 670,
+      "height": 670,
+      "file_name": "670px-User-Completed-Image-Identify-Cherry-Trees-2015.12.05-23.48.57.0.jpeg.jpg",
+      "size": 75176,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2044812574,
+      "category_id": 7,
+      "bbox": [
+        177.0,
+        414.0,
+        493.0,
+        256.0
+      ],
+      "area": 126208.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2044812574,
+      "category_id": 7,
+      "bbox": [
+        320.0,
+        1.0,
+        214.0,
+        188.0
+      ],
+      "area": 40232.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 7,
+      "name": "cherry_leaf",
+      "supercategory": "cherry_leaf"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4051576998,
+      "width": 2000,
+      "height": 2000,
+      "file_name": "Lexicon_Raspberry.jpg",
+      "size": 797022,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4051576998,
+      "category_id": 15,
+      "bbox": [
+        1282.0,
+        1.0,
+        451.0,
+        783.0
+      ],
+      "area": 353133.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4051576998,
+      "category_id": 15,
+      "bbox": [
+        71.0,
+        321.0,
+        571.0,
+        1037.0
+      ],
+      "area": 592127.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4051576998,
+      "category_id": 15,
+      "bbox": [
+        1.0,
+        1305.0,
+        578.0,
+        330.0
+      ],
+      "area": 190740.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4051576998,
+      "category_id": 15,
+      "bbox": [
+        557.0,
+        769.0,
+        402.0,
+        720.0
+      ],
+      "area": 289440.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4051576998,
+      "category_id": 15,
+      "bbox": [
+        92.0,
+        1552.0,
+        745.0,
+        448.0
+      ],
+      "area": 333760.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 4051576998,
+      "category_id": 15,
+      "bbox": [
+        1371.0,
+        1527.0,
+        297.0,
+        473.0
+      ],
+      "area": 140481.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 4051576998,
+      "category_id": 15,
+      "bbox": [
+        1622.0,
+        1612.0,
+        378.0,
+        349.0
+      ],
+      "area": 131922.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

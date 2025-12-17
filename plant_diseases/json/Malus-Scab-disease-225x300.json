@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9780189320,
+      "width": 225,
+      "height": 300,
+      "file_name": "Malus-Scab-disease-225x300.jpg",
+      "size": 23206,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9780189320,
+      "category_id": 1,
+      "bbox": [
+        38.0,
+        59.0,
+        102.0,
+        192.0
+      ],
+      "area": 19584.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9780189320,
+      "category_id": 1,
+      "bbox": [
+        88.0,
+        143.0,
+        78.0,
+        152.0
+      ],
+      "area": 11856.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "apple_scab_leaf",
+      "supercategory": "apple_scab_leaf"
+    }
+  ]
+}

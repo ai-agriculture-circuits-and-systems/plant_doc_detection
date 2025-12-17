@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3055364403,
+      "width": 4027,
+      "height": 2692,
+      "file_name": "IMG_4003.jpg",
+      "size": 4598001,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3055364403,
+      "category_id": 17,
+      "bbox": [
+        1097.0,
+        964.0,
+        758.0,
+        696.0
+      ],
+      "area": 527568.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3055364403,
+      "category_id": 17,
+      "bbox": [
+        2115.0,
+        1032.0,
+        567.0,
+        586.0
+      ],
+      "area": 332262.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3055364403,
+      "category_id": 17,
+      "bbox": [
+        1556.0,
+        756.0,
+        712.0,
+        418.0
+      ],
+      "area": 297616.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3055364403,
+      "category_id": 17,
+      "bbox": [
+        2847.0,
+        871.0,
+        524.0,
+        329.0
+      ],
+      "area": 172396.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 3055364403,
+      "category_id": 17,
+      "bbox": [
+        2674.0,
+        650.0,
+        385.0,
+        426.0
+      ],
+      "area": 164010.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 3055364403,
+      "category_id": 17,
+      "bbox": [
+        815.0,
+        1603.0,
+        1553.0,
+        1015.0
+      ],
+      "area": 1576295.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 17,
+      "name": "squash_powdery_mildew_leaf",
+      "supercategory": "squash_powdery_mildew_leaf"
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8186619282,
+      "width": 1600,
+      "height": 1270,
+      "file_name": "P1200644+Vaccinium+alaskaense+Alaska+Blueberry+cr.jpg",
+      "size": 234264,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8186619282,
+      "category_id": 6,
+      "bbox": [
+        101.0,
+        360.0,
+        265.0,
+        262.0
+      ],
+      "area": 69430.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8186619282,
+      "category_id": 6,
+      "bbox": [
+        347.0,
+        397.0,
+        174.0,
+        223.0
+      ],
+      "area": 38802.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8186619282,
+      "category_id": 6,
+      "bbox": [
+        299.0,
+        645.0,
+        160.0,
+        272.0
+      ],
+      "area": 43520.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8186619282,
+      "category_id": 6,
+      "bbox": [
+        85.0,
+        618.0,
+        219.0,
+        171.0
+      ],
+      "area": 37449.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8186619282,
+      "category_id": 6,
+      "bbox": [
+        408.0,
+        641.0,
+        167.0,
+        177.0
+      ],
+      "area": 29559.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 8186619282,
+      "category_id": 6,
+      "bbox": [
+        463.0,
+        716.0,
+        187.0,
+        180.0
+      ],
+      "area": 33660.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 8186619282,
+      "category_id": 6,
+      "bbox": [
+        568.0,
+        776.0,
+        260.0,
+        352.0
+      ],
+      "area": 91520.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 8186619282,
+      "category_id": 6,
+      "bbox": [
+        887.0,
+        810.0,
+        172.0,
+        181.0
+      ],
+      "area": 31132.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 8186619282,
+      "category_id": 6,
+      "bbox": [
+        1020.0,
+        670.0,
+        219.0,
+        144.0
+      ],
+      "area": 31536.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 8186619282,
+      "category_id": 6,
+      "bbox": [
+        664.0,
+        624.0,
+        315.0,
+        230.0
+      ],
+      "area": 72450.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 8186619282,
+      "category_id": 6,
+      "bbox": [
+        653.0,
+        110.0,
+        211.0,
+        231.0
+      ],
+      "area": 48741.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 8186619282,
+      "category_id": 6,
+      "bbox": [
+        738.0,
+        258.0,
+        149.0,
+        258.0
+      ],
+      "area": 38442.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 8186619282,
+      "category_id": 6,
+      "bbox": [
+        593.0,
+        260.0,
+        177.0,
+        252.0
+      ],
+      "area": 44604.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 8186619282,
+      "category_id": 6,
+      "bbox": [
+        877.0,
+        176.0,
+        92.0,
+        186.0
+      ],
+      "area": 17112.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 8186619282,
+      "category_id": 6,
+      "bbox": [
+        1013.0,
+        238.0,
+        169.0,
+        119.0
+      ],
+      "area": 20111.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 8186619282,
+      "category_id": 6,
+      "bbox": [
+        907.0,
+        376.0,
+        73.0,
+        124.0
+      ],
+      "area": 9052.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 16,
+      "image_id": 8186619282,
+      "category_id": 6,
+      "bbox": [
+        1210.0,
+        378.0,
+        179.0,
+        179.0
+      ],
+      "area": 32041.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

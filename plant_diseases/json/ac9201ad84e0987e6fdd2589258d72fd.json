@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5278558737,
+      "width": 230,
+      "height": 286,
+      "file_name": "ac9201ad84e0987e6fdd2589258d72fd.jpg",
+      "size": 16214,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5278558737,
+      "category_id": 4,
+      "bbox": [
+        15.0,
+        10.0,
+        102.0,
+        88.0
+      ],
+      "area": 8976.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5278558737,
+      "category_id": 4,
+      "bbox": [
+        122.0,
+        108.0,
+        108.0,
+        78.0
+      ],
+      "area": 8424.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5278558737,
+      "category_id": 4,
+      "bbox": [
+        54.0,
+        186.0,
+        121.0,
+        100.0
+      ],
+      "area": 12100.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 5278558737,
+      "category_id": 4,
+      "bbox": [
+        1.0,
+        48.0,
+        76.0,
+        86.0
+      ],
+      "area": 6536.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 4,
+      "name": "bell_pepper_leaf",
+      "supercategory": "bell_pepper_leaf"
+    }
+  ]
+}

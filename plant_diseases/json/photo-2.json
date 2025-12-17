@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7222449634,
+      "width": 1536,
+      "height": 2048,
+      "file_name": "photo-2.jpg",
+      "size": 353837,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7222449634,
+      "category_id": 23,
+      "bbox": [
+        264.0,
+        461.0,
+        501.0,
+        888.0
+      ],
+      "area": 444888.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7222449634,
+      "category_id": 23,
+      "bbox": [
+        899.0,
+        1184.0,
+        622.0,
+        570.0
+      ],
+      "area": 354540.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7222449634,
+      "category_id": 23,
+      "bbox": [
+        996.0,
+        543.0,
+        540.0,
+        491.0
+      ],
+      "area": 265140.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 7222449634,
+      "category_id": 23,
+      "bbox": [
+        454.0,
+        161.0,
+        459.0,
+        883.0
+      ],
+      "area": 405297.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 23,
+      "name": "tomato_leaf_late_blight",
+      "supercategory": "tomato_leaf_late_blight"
+    }
+  ]
+}

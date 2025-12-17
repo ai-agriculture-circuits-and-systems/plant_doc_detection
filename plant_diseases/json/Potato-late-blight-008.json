@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8011824000,
+      "width": 460,
+      "height": 276,
+      "file_name": "Potato-late-blight-008.jpg",
+      "size": 37892,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8011824000,
+      "category_id": 14,
+      "bbox": [
+        88.0,
+        72.0,
+        167.0,
+        187.0
+      ],
+      "area": 31229.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8011824000,
+      "category_id": 14,
+      "bbox": [
+        222.0,
+        118.0,
+        136.0,
+        117.0
+      ],
+      "area": 15912.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8011824000,
+      "category_id": 14,
+      "bbox": [
+        209.0,
+        1.0,
+        165.0,
+        60.0
+      ],
+      "area": 9900.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 14,
+      "name": "potato_leaf_late_blight",
+      "supercategory": "potato_leaf_late_blight"
+    }
+  ]
+}

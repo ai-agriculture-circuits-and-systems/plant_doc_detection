@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7132925978,
+      "width": 550,
+      "height": 407,
+      "file_name": "Figure-3.-Aecial-projections-on-the-underside-of-an-apple-leaf-with-cedar-apple-rust-disease-.jpg",
+      "size": 168399,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7132925978,
+      "category_id": 3,
+      "bbox": [
+        34.0,
+        5.0,
+        516.0,
+        255.0
+      ],
+      "area": 131580.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "apple_rust_leaf",
+      "supercategory": "apple_rust_leaf"
+    }
+  ]
+}

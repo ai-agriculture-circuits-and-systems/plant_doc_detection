@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2697370515,
+      "width": 4608,
+      "height": 3456,
+      "file_name": "tree-branch-blossom-plant-fruit-berry-leaf-flower-ripe-food-red-produce-botany-flora-leaves-shrub-fruits-bing-cherry-cherries-flowering-plant-rose-family-fruity-cherry-harvest-sweet-cherry-land-plant-913933.jpg",
+      "size": 2854401,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2697370515,
+      "category_id": 7,
+      "bbox": [
+        1.0,
+        660.0,
+        888.0,
+        1506.0
+      ],
+      "area": 1337328.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2697370515,
+      "category_id": 7,
+      "bbox": [
+        2218.0,
+        391.0,
+        943.0,
+        1161.0
+      ],
+      "area": 1094823.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 7,
+      "name": "cherry_leaf",
+      "supercategory": "cherry_leaf"
+    }
+  ]
+}

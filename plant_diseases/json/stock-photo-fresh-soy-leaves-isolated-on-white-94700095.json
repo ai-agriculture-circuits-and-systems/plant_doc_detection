@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2216356104,
+      "width": 450,
+      "height": 466,
+      "file_name": "stock-photo-fresh-soy-leaves-isolated-on-white-94700095.jpg",
+      "size": 37766,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2216356104,
+      "category_id": 16,
+      "bbox": [
+        75.0,
+        202.0,
+        183.0,
+        218.0
+      ],
+      "area": 39894.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2216356104,
+      "category_id": 16,
+      "bbox": [
+        252.0,
+        156.0,
+        155.0,
+        181.0
+      ],
+      "area": 28055.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2216356104,
+      "category_id": 16,
+      "bbox": [
+        34.0,
+        82.0,
+        191.0,
+        134.0
+      ],
+      "area": 25594.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 16,
+      "name": "soyabean_leaf",
+      "supercategory": "soyabean_leaf"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3780100300,
+      "width": 450,
+      "height": 358,
+      "file_name": "stock-photo-apple-leaves-isolated-on-a-white-background-leaf-from-an-apple-tree-cut-from-background-520909219.jpg",
+      "size": 33199,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3780100300,
+      "category_id": 2,
+      "bbox": [
+        147.0,
+        39.0,
+        112.0,
+        123.0
+      ],
+      "area": 13776.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3780100300,
+      "category_id": 2,
+      "bbox": [
+        200.0,
+        102.0,
+        228.0,
+        152.0
+      ],
+      "area": 34656.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3780100300,
+      "category_id": 2,
+      "bbox": [
+        130.0,
+        184.0,
+        180.0,
+        149.0
+      ],
+      "area": 26820.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "apple_leaf",
+      "supercategory": "apple_leaf"
+    }
+  ]
+}

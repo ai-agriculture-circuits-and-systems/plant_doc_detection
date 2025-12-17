@@ -1,0 +1,373 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1957445910,
+      "width": 638,
+      "height": 479,
+      "file_name": "role-of-whitefly-in-plant-virus-transmission-by-pmanikandan-13-638.jpg",
+      "size": 119044,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1957445910,
+      "category_id": 25,
+      "bbox": [
+        315.0,
+        388.0,
+        65.0,
+        30.0
+      ],
+      "area": 1950.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1957445910,
+      "category_id": 25,
+      "bbox": [
+        73.0,
+        290.0,
+        108.0,
+        75.0
+      ],
+      "area": 8100.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1957445910,
+      "category_id": 25,
+      "bbox": [
+        384.0,
+        406.0,
+        68.0,
+        39.0
+      ],
+      "area": 2652.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1957445910,
+      "category_id": 25,
+      "bbox": [
+        218.0,
+        371.0,
+        34.0,
+        20.0
+      ],
+      "area": 680.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 1957445910,
+      "category_id": 25,
+      "bbox": [
+        260.0,
+        378.0,
+        27.0,
+        41.0
+      ],
+      "area": 1107.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 1957445910,
+      "category_id": 25,
+      "bbox": [
+        109.0,
+        387.0,
+        42.0,
+        46.0
+      ],
+      "area": 1932.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 1957445910,
+      "category_id": 25,
+      "bbox": [
+        174.0,
+        345.0,
+        25.0,
+        37.0
+      ],
+      "area": 925.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 1957445910,
+      "category_id": 25,
+      "bbox": [
+        118.0,
+        346.0,
+        39.0,
+        47.0
+      ],
+      "area": 1833.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 1957445910,
+      "category_id": 25,
+      "bbox": [
+        147.0,
+        385.0,
+        35.0,
+        52.0
+      ],
+      "area": 1820.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 1957445910,
+      "category_id": 25,
+      "bbox": [
+        135.0,
+        253.0,
+        75.0,
+        61.0
+      ],
+      "area": 4575.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 1957445910,
+      "category_id": 25,
+      "bbox": [
+        122.0,
+        191.0,
+        63.0,
+        39.0
+      ],
+      "area": 2457.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 1957445910,
+      "category_id": 25,
+      "bbox": [
+        172.0,
+        119.0,
+        44.0,
+        68.0
+      ],
+      "area": 2992.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 1957445910,
+      "category_id": 25,
+      "bbox": [
+        101.0,
+        120.0,
+        65.0,
+        54.0
+      ],
+      "area": 3510.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 1957445910,
+      "category_id": 25,
+      "bbox": [
+        219.0,
+        239.0,
+        45.0,
+        35.0
+      ],
+      "area": 1575.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 1957445910,
+      "category_id": 25,
+      "bbox": [
+        286.0,
+        255.0,
+        47.0,
+        37.0
+      ],
+      "area": 1739.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 1957445910,
+      "category_id": 25,
+      "bbox": [
+        236.0,
+        271.0,
+        36.0,
+        60.0
+      ],
+      "area": 2160.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 16,
+      "image_id": 1957445910,
+      "category_id": 25,
+      "bbox": [
+        304.0,
+        168.0,
+        41.0,
+        39.0
+      ],
+      "area": 1599.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 17,
+      "image_id": 1957445910,
+      "category_id": 25,
+      "bbox": [
+        277.0,
+        176.0,
+        26.0,
+        29.0
+      ],
+      "area": 754.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 18,
+      "image_id": 1957445910,
+      "category_id": 25,
+      "bbox": [
+        258.0,
+        136.0,
+        53.0,
+        53.0
+      ],
+      "area": 2809.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 19,
+      "image_id": 1957445910,
+      "category_id": 25,
+      "bbox": [
+        370.0,
+        167.0,
+        38.0,
+        80.0
+      ],
+      "area": 3040.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 20,
+      "image_id": 1957445910,
+      "category_id": 25,
+      "bbox": [
+        414.0,
+        153.0,
+        48.0,
+        68.0
+      ],
+      "area": 3264.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 21,
+      "image_id": 1957445910,
+      "category_id": 25,
+      "bbox": [
+        449.0,
+        176.0,
+        69.0,
+        41.0
+      ],
+      "area": 2829.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 22,
+      "image_id": 1957445910,
+      "category_id": 25,
+      "bbox": [
+        492.0,
+        275.0,
+        59.0,
+        59.0
+      ],
+      "area": 3481.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 23,
+      "image_id": 1957445910,
+      "category_id": 25,
+      "bbox": [
+        369.0,
+        325.0,
+        64.0,
+        52.0
+      ],
+      "area": 3328.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 24,
+      "image_id": 1957445910,
+      "category_id": 25,
+      "bbox": [
+        391.0,
+        249.0,
+        59.0,
+        47.0
+      ],
+      "area": 2773.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 25,
+      "image_id": 1957445910,
+      "category_id": 25,
+      "bbox": [
+        463.0,
+        217.0,
+        46.0,
+        70.0
+      ],
+      "area": 3220.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 25,
+      "name": "tomato_leaf_yellow_virus",
+      "supercategory": "tomato_leaf_yellow_virus"
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7704833789,
+      "width": 3872,
+      "height": 2592,
+      "file_name": "plant-fruit-berry-leaf-flower-food-herb-produce-blueberry-botany-flora-plants-wildflower-shrub-macro-photography-wipes-flowering-plant-bilberry-huckleberry-dayflower-land-plant-dayflower-family-1090218.jpg",
+      "size": 1937445,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7704833789,
+      "category_id": 6,
+      "bbox": [
+        1460.0,
+        1779.0,
+        375.0,
+        522.0
+      ],
+      "area": 195750.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7704833789,
+      "category_id": 6,
+      "bbox": [
+        1816.0,
+        1779.0,
+        591.0,
+        386.0
+      ],
+      "area": 228126.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7704833789,
+      "category_id": 6,
+      "bbox": [
+        2046.0,
+        2023.0,
+        392.0,
+        569.0
+      ],
+      "area": 223048.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 7704833789,
+      "category_id": 6,
+      "bbox": [
+        2316.0,
+        1684.0,
+        497.0,
+        347.0
+      ],
+      "area": 172459.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 7704833789,
+      "category_id": 6,
+      "bbox": [
+        2693.0,
+        762.0,
+        589.0,
+        500.0
+      ],
+      "area": 294500.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 7704833789,
+      "category_id": 6,
+      "bbox": [
+        2438.0,
+        434.0,
+        467.0,
+        372.0
+      ],
+      "area": 173724.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 7704833789,
+      "category_id": 6,
+      "bbox": [
+        1918.0,
+        523.0,
+        281.0,
+        411.0
+      ],
+      "area": 115491.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 7704833789,
+      "category_id": 6,
+      "bbox": [
+        1243.0,
+        1131.0,
+        345.0,
+        473.0
+      ],
+      "area": 163185.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 7704833789,
+      "category_id": 6,
+      "bbox": [
+        960.0,
+        1062.0,
+        242.0,
+        211.0
+      ],
+      "area": 51062.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 7704833789,
+      "category_id": 6,
+      "bbox": [
+        574.0,
+        776.0,
+        389.0,
+        400.0
+      ],
+      "area": 155600.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 7704833789,
+      "category_id": 6,
+      "bbox": [
+        235.0,
+        817.0,
+        361.0,
+        342.0
+      ],
+      "area": 123462.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 7704833789,
+      "category_id": 6,
+      "bbox": [
+        499.0,
+        1048.0,
+        472.0,
+        283.0
+      ],
+      "area": 133576.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 7704833789,
+      "category_id": 6,
+      "bbox": [
+        221.0,
+        1226.0,
+        361.0,
+        375.0
+      ],
+      "area": 135375.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 7704833789,
+      "category_id": 6,
+      "bbox": [
+        402.0,
+        1806.0,
+        761.0,
+        609.0
+      ],
+      "area": 463449.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 7704833789,
+      "category_id": 6,
+      "bbox": [
+        63.0,
+        1548.0,
+        453.0,
+        778.0
+      ],
+      "area": 352434.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 7704833789,
+      "category_id": 6,
+      "bbox": [
+        1466.0,
+        1437.0,
+        683.0,
+        375.0
+      ],
+      "area": 256125.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 16,
+      "image_id": 7704833789,
+      "category_id": 6,
+      "bbox": [
+        3013.0,
+        481.0,
+        408.0,
+        436.0
+      ],
+      "area": 177888.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 17,
+      "image_id": 7704833789,
+      "category_id": 6,
+      "bbox": [
+        463.0,
+        134.0,
+        325.0,
+        553.0
+      ],
+      "area": 179725.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 18,
+      "image_id": 7704833789,
+      "category_id": 6,
+      "bbox": [
+        1077.0,
+        37.0,
+        219.0,
+        361.0
+      ],
+      "area": 79059.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 19,
+      "image_id": 7704833789,
+      "category_id": 6,
+      "bbox": [
+        1391.0,
+        70.0,
+        700.0,
+        478.0
+      ],
+      "area": 334600.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

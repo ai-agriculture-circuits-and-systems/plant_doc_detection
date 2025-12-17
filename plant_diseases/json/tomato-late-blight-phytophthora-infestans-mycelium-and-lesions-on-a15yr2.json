@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7625159919,
+      "width": 512,
+      "height": 540,
+      "file_name": "tomato-late-blight-phytophthora-infestans-mycelium-and-lesions-on-a15yr2.jpg",
+      "size": 85809,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7625159919,
+      "category_id": 23,
+      "bbox": [
+        139.0,
+        250.0,
+        284.0,
+        190.0
+      ],
+      "area": 53960.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7625159919,
+      "category_id": 23,
+      "bbox": [
+        144.0,
+        53.0,
+        269.0,
+        218.0
+      ],
+      "area": 58642.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 23,
+      "name": "tomato_leaf_late_blight",
+      "supercategory": "tomato_leaf_late_blight"
+    }
+  ]
+}

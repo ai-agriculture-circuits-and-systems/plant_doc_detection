@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8353258568,
+      "width": 1000,
+      "height": 1000,
+      "file_name": "Crab-Apple-%28Malus-Sylvestris%29-Leaf.jpg",
+      "size": 150009,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8353258568,
+      "category_id": 2,
+      "bbox": [
+        499.0,
+        4.0,
+        306.0,
+        428.0
+      ],
+      "area": 130968.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8353258568,
+      "category_id": 2,
+      "bbox": [
+        23.0,
+        238.0,
+        555.0,
+        407.0
+      ],
+      "area": 225885.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8353258568,
+      "category_id": 2,
+      "bbox": [
+        628.0,
+        422.0,
+        253.0,
+        157.0
+      ],
+      "area": 39721.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8353258568,
+      "category_id": 2,
+      "bbox": [
+        503.0,
+        543.0,
+        355.0,
+        338.0
+      ],
+      "area": 119990.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8353258568,
+      "category_id": 2,
+      "bbox": [
+        342.0,
+        685.0,
+        317.0,
+        314.0
+      ],
+      "area": 99538.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "apple_leaf",
+      "supercategory": "apple_leaf"
+    }
+  ]
+}

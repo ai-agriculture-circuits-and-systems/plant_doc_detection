@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5010501953,
+      "width": 1148,
+      "height": 1300,
+      "file_name": "raspberry-green-leaves-isolated-white-background-46020616.jpg",
+      "size": 142052,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5010501953,
+      "category_id": 15,
+      "bbox": [
+        335.0,
+        449.0,
+        666.0,
+        778.0
+      ],
+      "area": 518148.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5010501953,
+      "category_id": 15,
+      "bbox": [
+        335.0,
+        58.0,
+        548.0,
+        406.0
+      ],
+      "area": 222488.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5010501953,
+      "category_id": 15,
+      "bbox": [
+        52.0,
+        391.0,
+        378.0,
+        660.0
+      ],
+      "area": 249480.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

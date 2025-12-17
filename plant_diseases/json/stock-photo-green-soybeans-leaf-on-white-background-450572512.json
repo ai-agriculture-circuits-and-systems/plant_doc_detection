@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1386514921,
+      "width": 450,
+      "height": 329,
+      "file_name": "stock-photo-green-soybeans-leaf-on-white-background-450572512.jpg",
+      "size": 30348,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1386514921,
+      "category_id": 16,
+      "bbox": [
+        12.0,
+        140.0,
+        225.0,
+        109.0
+      ],
+      "area": 24525.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1386514921,
+      "category_id": 16,
+      "bbox": [
+        223.0,
+        156.0,
+        121.0,
+        109.0
+      ],
+      "area": 13189.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1386514921,
+      "category_id": 16,
+      "bbox": [
+        92.0,
+        76.0,
+        193.0,
+        90.0
+      ],
+      "area": 17370.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1386514921,
+      "category_id": 16,
+      "bbox": [
+        199.0,
+        22.0,
+        94.0,
+        85.0
+      ],
+      "area": 7990.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 16,
+      "name": "soyabean_leaf",
+      "supercategory": "soyabean_leaf"
+    }
+  ]
+}

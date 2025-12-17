@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3340362358,
+      "width": 264,
+      "height": 209,
+      "file_name": "tomato_xanthomonas_foliage.jpg",
+      "size": 80195,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3340362358,
+      "category_id": 22,
+      "bbox": [
+        208.0,
+        73.0,
+        53.0,
+        118.0
+      ],
+      "area": 6254.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3340362358,
+      "category_id": 22,
+      "bbox": [
+        158.0,
+        32.0,
+        38.0,
+        102.0
+      ],
+      "area": 3876.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3340362358,
+      "category_id": 22,
+      "bbox": [
+        82.0,
+        45.0,
+        48.0,
+        162.0
+      ],
+      "area": 7776.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3340362358,
+      "category_id": 22,
+      "bbox": [
+        13.0,
+        34.0,
+        78.0,
+        171.0
+      ],
+      "area": 13338.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 22,
+      "name": "tomato_leaf_bacterial_spot",
+      "supercategory": "tomato_leaf_bacterial_spot"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1219593215,
+      "width": 450,
+      "height": 356,
+      "file_name": "stock-photo-soy-plant-isolated-on-white-background-122414239.jpg",
+      "size": 30036,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1219593215,
+      "category_id": 16,
+      "bbox": [
+        76.0,
+        122.0,
+        139.0,
+        168.0
+      ],
+      "area": 23352.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1219593215,
+      "category_id": 16,
+      "bbox": [
+        196.0,
+        99.0,
+        205.0,
+        135.0
+      ],
+      "area": 27675.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1219593215,
+      "category_id": 16,
+      "bbox": [
+        187.0,
+        39.0,
+        152.0,
+        83.0
+      ],
+      "area": 12616.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 16,
+      "name": "soyabean_leaf",
+      "supercategory": "soyabean_leaf"
+    }
+  ]
+}

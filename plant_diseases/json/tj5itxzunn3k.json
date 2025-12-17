@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4702487399,
+      "width": 1280,
+      "height": 960,
+      "file_name": "tj5itxzunn3k.jpg",
+      "size": 218870,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4702487399,
+      "category_id": 25,
+      "bbox": [
+        399.0,
+        355.0,
+        377.0,
+        605.0
+      ],
+      "area": 228085.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4702487399,
+      "category_id": 25,
+      "bbox": [
+        1104.0,
+        18.0,
+        164.0,
+        299.0
+      ],
+      "area": 49036.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4702487399,
+      "category_id": 25,
+      "bbox": [
+        1059.0,
+        152.0,
+        102.0,
+        178.0
+      ],
+      "area": 18156.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4702487399,
+      "category_id": 25,
+      "bbox": [
+        491.0,
+        77.0,
+        433.0,
+        249.0
+      ],
+      "area": 107817.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4702487399,
+      "category_id": 25,
+      "bbox": [
+        799.0,
+        343.0,
+        332.0,
+        470.0
+      ],
+      "area": 156040.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 25,
+      "name": "tomato_leaf_yellow_virus",
+      "supercategory": "tomato_leaf_yellow_virus"
+    }
+  ]
+}

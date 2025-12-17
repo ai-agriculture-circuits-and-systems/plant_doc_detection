@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4577503976,
+      "width": 561,
+      "height": 540,
+      "file_name": "apple-scab-venturia-inaequalis-germinated-from-a-spore-shower-on-an-aw08hw.jpg",
+      "size": 72805,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4577503976,
+      "category_id": 1,
+      "bbox": [
+        59.0,
+        67.0,
+        502.0,
+        351.0
+      ],
+      "area": 176202.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "apple_scab_leaf",
+      "supercategory": "apple_scab_leaf"
+    }
+  ]
+}

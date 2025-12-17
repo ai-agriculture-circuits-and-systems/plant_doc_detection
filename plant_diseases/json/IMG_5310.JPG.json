@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3152778358,
+      "width": 1600,
+      "height": 1200,
+      "file_name": "IMG_5310.JPG.jpg",
+      "size": 139818,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3152778358,
+      "category_id": 6,
+      "bbox": [
+        897.0,
+        82.0,
+        259.0,
+        537.0
+      ],
+      "area": 139083.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3152778358,
+      "category_id": 6,
+      "bbox": [
+        975.0,
+        564.0,
+        427.0,
+        283.0
+      ],
+      "area": 120841.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3152778358,
+      "category_id": 6,
+      "bbox": [
+        1050.0,
+        789.0,
+        425.0,
+        362.0
+      ],
+      "area": 153850.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3152778358,
+      "category_id": 6,
+      "bbox": [
+        773.0,
+        1014.0,
+        455.0,
+        183.0
+      ],
+      "area": 83265.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 3152778358,
+      "category_id": 6,
+      "bbox": [
+        665.0,
+        328.0,
+        265.0,
+        373.0
+      ],
+      "area": 98845.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

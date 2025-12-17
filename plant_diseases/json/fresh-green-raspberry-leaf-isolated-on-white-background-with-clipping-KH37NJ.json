@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8256579009,
+      "width": 1170,
+      "height": 1390,
+      "file_name": "fresh-green-raspberry-leaf-isolated-on-white-background-with-clipping-KH37NJ.jpg",
+      "size": 170356,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8256579009,
+      "category_id": 15,
+      "bbox": [
+        334.0,
+        37.0,
+        594.0,
+        853.0
+      ],
+      "area": 506682.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8256579009,
+      "category_id": 15,
+      "bbox": [
+        589.0,
+        755.0,
+        486.0,
+        457.0
+      ],
+      "area": 222102.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8256579009,
+      "category_id": 15,
+      "bbox": [
+        22.0,
+        743.0,
+        579.0,
+        406.0
+      ],
+      "area": 235074.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

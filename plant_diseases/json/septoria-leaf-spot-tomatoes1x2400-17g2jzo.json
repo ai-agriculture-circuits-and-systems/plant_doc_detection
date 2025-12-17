@@ -1,0 +1,152 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1199564154,
+      "width": 2400,
+      "height": 2205,
+      "file_name": "septoria-leaf-spot-tomatoes1x2400-17g2jzo.jpg",
+      "size": 2833976,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1199564154,
+      "category_id": 20,
+      "bbox": [
+        1699.0,
+        1370.0,
+        700.0,
+        754.0
+      ],
+      "area": 527800.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1199564154,
+      "category_id": 20,
+      "bbox": [
+        1118.0,
+        1415.0,
+        610.0,
+        778.0
+      ],
+      "area": 474580.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1199564154,
+      "category_id": 20,
+      "bbox": [
+        619.0,
+        1131.0,
+        533.0,
+        1074.0
+      ],
+      "area": 572442.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1199564154,
+      "category_id": 20,
+      "bbox": [
+        886.0,
+        1231.0,
+        394.0,
+        297.0
+      ],
+      "area": 117018.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 1199564154,
+      "category_id": 20,
+      "bbox": [
+        29.0,
+        735.0,
+        592.0,
+        570.0
+      ],
+      "area": 337440.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 1199564154,
+      "category_id": 20,
+      "bbox": [
+        672.0,
+        6.0,
+        488.0,
+        579.0
+      ],
+      "area": 282552.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 1199564154,
+      "category_id": 20,
+      "bbox": [
+        1109.0,
+        724.0,
+        326.0,
+        377.0
+      ],
+      "area": 122902.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 1199564154,
+      "category_id": 20,
+      "bbox": [
+        1378.0,
+        608.0,
+        712.0,
+        619.0
+      ],
+      "area": 440728.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 1199564154,
+      "category_id": 20,
+      "bbox": [
+        1024.0,
+        3.0,
+        649.0,
+        802.0
+      ],
+      "area": 520498.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 20,
+      "name": "tomato_septoria_leaf_spot",
+      "supercategory": "tomato_septoria_leaf_spot"
+    }
+  ]
+}

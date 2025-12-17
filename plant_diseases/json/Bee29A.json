@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1277578242,
+      "width": 1214,
+      "height": 920,
+      "file_name": "Bee29A.jpg",
+      "size": 243091,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1277578242,
+      "category_id": 15,
+      "bbox": [
+        642.0,
+        1.0,
+        483.0,
+        477.0
+      ],
+      "area": 230391.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1277578242,
+      "category_id": 15,
+      "bbox": [
+        479.0,
+        564.0,
+        540.0,
+        356.0
+      ],
+      "area": 192240.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1277578242,
+      "category_id": 15,
+      "bbox": [
+        131.0,
+        214.0,
+        553.0,
+        664.0
+      ],
+      "area": 367192.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

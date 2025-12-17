@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4493554607,
+      "width": 1500,
+      "height": 904,
+      "file_name": "stock-photo-blueberry-with-leaves-of-mint-70797082.jpg",
+      "size": 337337,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4493554607,
+      "category_id": 6,
+      "bbox": [
+        32.0,
+        396.0,
+        365.0,
+        372.0
+      ],
+      "area": 135780.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4493554607,
+      "category_id": 6,
+      "bbox": [
+        430.0,
+        405.0,
+        236.0,
+        227.0
+      ],
+      "area": 53572.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4493554607,
+      "category_id": 6,
+      "bbox": [
+        1031.0,
+        282.0,
+        279.0,
+        507.0
+      ],
+      "area": 141453.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4493554607,
+      "category_id": 6,
+      "bbox": [
+        1333.0,
+        414.0,
+        154.0,
+        229.0
+      ],
+      "area": 35266.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4493554607,
+      "category_id": 6,
+      "bbox": [
+        693.0,
+        400.0,
+        302.0,
+        282.0
+      ],
+      "area": 85164.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

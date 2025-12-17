@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2485019514,
+      "width": 450,
+      "height": 338,
+      "file_name": "6-13lateblightleavesMARY.jpg",
+      "size": 22811,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2485019514,
+      "category_id": 14,
+      "bbox": [
+        108.0,
+        65.0,
+        321.0,
+        216.0
+      ],
+      "area": 69336.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2485019514,
+      "category_id": 14,
+      "bbox": [
+        74.0,
+        244.0,
+        155.0,
+        94.0
+      ],
+      "area": 14570.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2485019514,
+      "category_id": 14,
+      "bbox": [
+        61.0,
+        34.0,
+        79.0,
+        63.0
+      ],
+      "area": 4977.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2485019514,
+      "category_id": 14,
+      "bbox": [
+        212.0,
+        9.0,
+        38.0,
+        51.0
+      ],
+      "area": 1938.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 14,
+      "name": "potato_leaf_late_blight",
+      "supercategory": "potato_leaf_late_blight"
+    }
+  ]
+}

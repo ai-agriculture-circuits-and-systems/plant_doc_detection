@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2679759600,
+      "width": 3872,
+      "height": 2592,
+      "file_name": "Tomato-Alternaria-Early-Blight.jpg",
+      "size": 4717116,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2679759600,
+      "category_id": 19,
+      "bbox": [
+        64.0,
+        1095.0,
+        2172.0,
+        1497.0
+      ],
+      "area": 3251484.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2679759600,
+      "category_id": 19,
+      "bbox": [
+        2331.0,
+        1091.0,
+        1433.0,
+        1501.0
+      ],
+      "area": 2150933.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 19,
+      "name": "tomato_early_blight_leaf",
+      "supercategory": "tomato_early_blight_leaf"
+    }
+  ]
+}

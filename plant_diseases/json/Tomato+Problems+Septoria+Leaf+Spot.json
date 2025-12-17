@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5482772335,
+      "width": 960,
+      "height": 720,
+      "file_name": "Tomato+Problems+Septoria+Leaf+Spot.jpg",
+      "size": 119091,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5482772335,
+      "category_id": 20,
+      "bbox": [
+        190.0,
+        410.0,
+        94.0,
+        142.0
+      ],
+      "area": 13348.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5482772335,
+      "category_id": 20,
+      "bbox": [
+        14.0,
+        431.0,
+        192.0,
+        182.0
+      ],
+      "area": 34944.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5482772335,
+      "category_id": 20,
+      "bbox": [
+        69.0,
+        186.0,
+        217.0,
+        184.0
+      ],
+      "area": 39928.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 20,
+      "name": "tomato_septoria_leaf_spot",
+      "supercategory": "tomato_septoria_leaf_spot"
+    }
+  ]
+}

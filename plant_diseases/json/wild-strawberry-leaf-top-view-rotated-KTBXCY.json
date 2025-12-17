@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4325335039,
+      "width": 1300,
+      "height": 1145,
+      "file_name": "wild-strawberry-leaf-top-view-rotated-KTBXCY.jpg",
+      "size": 137542,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4325335039,
+      "category_id": 18,
+      "bbox": [
+        540.0,
+        432.0,
+        571.0,
+        366.0
+      ],
+      "area": 208986.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4325335039,
+      "category_id": 18,
+      "bbox": [
+        501.0,
+        172.0,
+        378.0,
+        299.0
+      ],
+      "area": 113022.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4325335039,
+      "category_id": 18,
+      "bbox": [
+        264.0,
+        393.0,
+        361.0,
+        494.0
+      ],
+      "area": 178334.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 18,
+      "name": "strawberry_leaf",
+      "supercategory": "strawberry_leaf"
+    }
+  ]
+}

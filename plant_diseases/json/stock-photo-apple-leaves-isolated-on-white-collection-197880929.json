@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2078834208,
+      "width": 450,
+      "height": 470,
+      "file_name": "stock-photo-apple-leaves-isolated-on-white-collection-197880929.jpg",
+      "size": 69310,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2078834208,
+      "category_id": 2,
+      "bbox": [
+        17.0,
+        2.0,
+        139.0,
+        183.0
+      ],
+      "area": 25437.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2078834208,
+      "category_id": 2,
+      "bbox": [
+        55.0,
+        216.0,
+        195.0,
+        217.0
+      ],
+      "area": 42315.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2078834208,
+      "category_id": 2,
+      "bbox": [
+        260.0,
+        201.0,
+        111.0,
+        94.0
+      ],
+      "area": 10434.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2078834208,
+      "category_id": 2,
+      "bbox": [
+        287.0,
+        22.0,
+        163.0,
+        248.0
+      ],
+      "area": 40424.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "apple_leaf",
+      "supercategory": "apple_leaf"
+    }
+  ]
+}

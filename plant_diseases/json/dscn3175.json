@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5665826652,
+      "width": 2592,
+      "height": 1944,
+      "file_name": "dscn3175.jpg",
+      "size": 614450,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5665826652,
+      "category_id": 19,
+      "bbox": [
+        1133.0,
+        396.0,
+        478.0,
+        1191.0
+      ],
+      "area": 569298.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5665826652,
+      "category_id": 19,
+      "bbox": [
+        639.0,
+        306.0,
+        222.0,
+        709.0
+      ],
+      "area": 157398.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5665826652,
+      "category_id": 19,
+      "bbox": [
+        708.0,
+        9.0,
+        272.0,
+        431.0
+      ],
+      "area": 117232.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 5665826652,
+      "category_id": 19,
+      "bbox": [
+        180.0,
+        1065.0,
+        417.0,
+        879.0
+      ],
+      "area": 366543.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 5665826652,
+      "category_id": 19,
+      "bbox": [
+        1939.0,
+        581.0,
+        650.0,
+        1169.0
+      ],
+      "area": 759850.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 5665826652,
+      "category_id": 19,
+      "bbox": [
+        1798.0,
+        21.0,
+        619.0,
+        400.0
+      ],
+      "area": 247600.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 19,
+      "name": "tomato_early_blight_leaf",
+      "supercategory": "tomato_early_blight_leaf"
+    }
+  ]
+}

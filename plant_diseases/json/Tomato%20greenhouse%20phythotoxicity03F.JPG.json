@@ -1,0 +1,178 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8114640940,
+      "width": 1024,
+      "height": 768,
+      "file_name": "Tomato%20greenhouse%20phythotoxicity03F.JPG.jpg",
+      "size": 215749,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8114640940,
+      "category_id": 22,
+      "bbox": [
+        455.0,
+        318.0,
+        203.0,
+        316.0
+      ],
+      "area": 64148.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8114640940,
+      "category_id": 22,
+      "bbox": [
+        768.0,
+        122.0,
+        135.0,
+        155.0
+      ],
+      "area": 20925.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8114640940,
+      "category_id": 22,
+      "bbox": [
+        798.0,
+        313.0,
+        182.0,
+        179.0
+      ],
+      "area": 32578.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8114640940,
+      "category_id": 22,
+      "bbox": [
+        680.0,
+        362.0,
+        176.0,
+        222.0
+      ],
+      "area": 39072.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8114640940,
+      "category_id": 22,
+      "bbox": [
+        652.0,
+        330.0,
+        83.0,
+        99.0
+      ],
+      "area": 8217.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 8114640940,
+      "category_id": 22,
+      "bbox": [
+        664.0,
+        176.0,
+        92.0,
+        133.0
+      ],
+      "area": 12236.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 8114640940,
+      "category_id": 22,
+      "bbox": [
+        412.0,
+        15.0,
+        279.0,
+        263.0
+      ],
+      "area": 73377.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 8114640940,
+      "category_id": 22,
+      "bbox": [
+        442.0,
+        296.0,
+        113.0,
+        148.0
+      ],
+      "area": 16724.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 8114640940,
+      "category_id": 22,
+      "bbox": [
+        316.0,
+        288.0,
+        152.0,
+        181.0
+      ],
+      "area": 27512.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 8114640940,
+      "category_id": 22,
+      "bbox": [
+        44.0,
+        187.0,
+        364.0,
+        251.0
+      ],
+      "area": 91364.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 8114640940,
+      "category_id": 22,
+      "bbox": [
+        332.0,
+        169.0,
+        147.0,
+        109.0
+      ],
+      "area": 16023.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 22,
+      "name": "tomato_leaf_bacterial_spot",
+      "supercategory": "tomato_leaf_bacterial_spot"
+    }
+  ]
+}

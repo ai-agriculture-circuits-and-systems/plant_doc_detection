@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3919312191,
+      "width": 2848,
+      "height": 4288,
+      "file_name": "apple-tree-branch-blossom-plant-fruit-berry-leaf-flower-food-green-produce-evergreen-flora-sad-shrub-apples-branch-with-apples-flowering-plant-rose-family-acerola-malpighia-woody-plant-land-plant-928225.jpg",
+      "size": 4020157,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3919312191,
+      "category_id": 2,
+      "bbox": [
+        1182.0,
+        934.0,
+        714.0,
+        514.0
+      ],
+      "area": 366996.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3919312191,
+      "category_id": 2,
+      "bbox": [
+        2096.0,
+        1034.0,
+        413.0,
+        764.0
+      ],
+      "area": 315532.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3919312191,
+      "category_id": 2,
+      "bbox": [
+        1905.0,
+        212.0,
+        418.0,
+        654.0
+      ],
+      "area": 273372.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3919312191,
+      "category_id": 2,
+      "bbox": [
+        359.0,
+        3003.0,
+        500.0,
+        627.0
+      ],
+      "area": 313500.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 3919312191,
+      "category_id": 2,
+      "bbox": [
+        1137.0,
+        1957.0,
+        441.0,
+        573.0
+      ],
+      "area": 252693.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "apple_leaf",
+      "supercategory": "apple_leaf"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4825686738,
+      "width": 1300,
+      "height": 1002,
+      "file_name": "peach-leaves-18058413.jpg",
+      "size": 154339,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4825686738,
+      "category_id": 11,
+      "bbox": [
+        11.0,
+        32.0,
+        305.0,
+        837.0
+      ],
+      "area": 255285.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4825686738,
+      "category_id": 11,
+      "bbox": [
+        324.0,
+        31.0,
+        234.0,
+        845.0
+      ],
+      "area": 197730.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4825686738,
+      "category_id": 11,
+      "bbox": [
+        542.0,
+        42.0,
+        231.0,
+        825.0
+      ],
+      "area": 190575.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4825686738,
+      "category_id": 11,
+      "bbox": [
+        724.0,
+        116.0,
+        257.0,
+        723.0
+      ],
+      "area": 185811.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4825686738,
+      "category_id": 11,
+      "bbox": [
+        983.0,
+        27.0,
+        294.0,
+        875.0
+      ],
+      "area": 257250.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "peach_leaf",
+      "supercategory": "peach_leaf"
+    }
+  ]
+}

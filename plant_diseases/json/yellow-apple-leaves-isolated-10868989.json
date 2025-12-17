@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6233706475,
+      "width": 1385,
+      "height": 1300,
+      "file_name": "yellow-apple-leaves-isolated-10868989.jpg",
+      "size": 93356,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6233706475,
+      "category_id": 2,
+      "bbox": [
+        188.0,
+        535.0,
+        380.0,
+        539.0
+      ],
+      "area": 204820.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6233706475,
+      "category_id": 2,
+      "bbox": [
+        741.0,
+        425.0,
+        424.0,
+        300.0
+      ],
+      "area": 127200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6233706475,
+      "category_id": 2,
+      "bbox": [
+        274.0,
+        264.0,
+        411.0,
+        292.0
+      ],
+      "area": 120012.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "apple_leaf",
+      "supercategory": "apple_leaf"
+    }
+  ]
+}

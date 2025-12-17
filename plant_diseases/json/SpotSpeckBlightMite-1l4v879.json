@@ -1,0 +1,175 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3535875755,
+      "width": 960,
+      "height": 720,
+      "file_name": "SpotSpeckBlightMite-1l4v879.jpg",
+      "size": 113860,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3535875755,
+      "category_id": 27,
+      "bbox": [
+        563.0,
+        403.0,
+        357.0,
+        293.0
+      ],
+      "area": 104601.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3535875755,
+      "category_id": 19,
+      "bbox": [
+        45.0,
+        385.0,
+        381.0,
+        330.0
+      ],
+      "area": 125730.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3535875755,
+      "category_id": 22,
+      "bbox": [
+        283.0,
+        81.0,
+        195.0,
+        231.0
+      ],
+      "area": 45045.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3535875755,
+      "category_id": 22,
+      "bbox": [
+        45.0,
+        83.0,
+        257.0,
+        268.0
+      ],
+      "area": 68876.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 3535875755,
+      "category_id": 22,
+      "bbox": [
+        733.0,
+        5.0,
+        196.0,
+        202.0
+      ],
+      "area": 39592.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 3535875755,
+      "category_id": 22,
+      "bbox": [
+        599.0,
+        5.0,
+        114.0,
+        178.0
+      ],
+      "area": 20292.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 3535875755,
+      "category_id": 22,
+      "bbox": [
+        752.0,
+        77.0,
+        51.0,
+        91.0
+      ],
+      "area": 4641.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 3535875755,
+      "category_id": 22,
+      "bbox": [
+        767.0,
+        170.0,
+        71.0,
+        117.0
+      ],
+      "area": 8307.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 3535875755,
+      "category_id": 22,
+      "bbox": [
+        818.0,
+        209.0,
+        142.0,
+        153.0
+      ],
+      "area": 21726.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 3535875755,
+      "category_id": 22,
+      "bbox": [
+        642.0,
+        177.0,
+        107.0,
+        188.0
+      ],
+      "area": 20116.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 19,
+      "name": "tomato_early_blight_leaf",
+      "supercategory": "tomato_early_blight_leaf"
+    },
+    {
+      "id": 22,
+      "name": "tomato_leaf_bacterial_spot",
+      "supercategory": "tomato_leaf_bacterial_spot"
+    },
+    {
+      "id": 27,
+      "name": "tomato_two_spotted_spider_mites_leaf",
+      "supercategory": "tomato_two_spotted_spider_mites_leaf"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2689333442,
+      "width": 2000,
+      "height": 3008,
+      "file_name": "prunsero_twig3.jpg",
+      "size": 3618661,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2689333442,
+      "category_id": 7,
+      "bbox": [
+        27.0,
+        1.0,
+        779.0,
+        1262.0
+      ],
+      "area": 983098.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2689333442,
+      "category_id": 7,
+      "bbox": [
+        906.0,
+        1088.0,
+        1071.0,
+        1897.0
+      ],
+      "area": 2031687.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 7,
+      "name": "cherry_leaf",
+      "supercategory": "cherry_leaf"
+    }
+  ]
+}

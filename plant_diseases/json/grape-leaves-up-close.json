@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5945913172,
+      "width": 3264,
+      "height": 2448,
+      "file_name": "grape-leaves-up-close.jpg",
+      "size": 1769200,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 5945913172,
+      "category_id": 28,
+      "bbox": [
+        1189.0,
+        353.0,
+        2072.0,
+        2095.0
+      ],
+      "area": 4340840.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 5945913172,
+      "category_id": 28,
+      "bbox": [
+        9.0,
+        1091.0,
+        1398.0,
+        1357.0
+      ],
+      "area": 1897086.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 28,
+      "name": "grape_leaf",
+      "supercategory": "grape_leaf"
+    }
+  ]
+}

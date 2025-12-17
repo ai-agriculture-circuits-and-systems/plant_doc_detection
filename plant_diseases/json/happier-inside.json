@@ -1,0 +1,126 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9944516386,
+      "width": 3888,
+      "height": 2592,
+      "file_name": "happier-inside.jpg",
+      "size": 4667346,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9944516386,
+      "category_id": 21,
+      "bbox": [
+        449.0,
+        981.0,
+        1304.0,
+        733.0
+      ],
+      "area": 955832.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9944516386,
+      "category_id": 21,
+      "bbox": [
+        1206.0,
+        400.0,
+        943.0,
+        853.0
+      ],
+      "area": 804379.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9944516386,
+      "category_id": 21,
+      "bbox": [
+        1806.0,
+        5.0,
+        624.0,
+        952.0
+      ],
+      "area": 594048.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 9944516386,
+      "category_id": 21,
+      "bbox": [
+        2515.0,
+        843.0,
+        900.0,
+        600.0
+      ],
+      "area": 540000.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 9944516386,
+      "category_id": 21,
+      "bbox": [
+        1239.0,
+        1600.0,
+        938.0,
+        967.0
+      ],
+      "area": 907046.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 9944516386,
+      "category_id": 21,
+      "bbox": [
+        2234.0,
+        1519.0,
+        719.0,
+        472.0
+      ],
+      "area": 339368.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 9944516386,
+      "category_id": 21,
+      "bbox": [
+        706.0,
+        43.0,
+        643.0,
+        895.0
+      ],
+      "area": 575485.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 21,
+      "name": "tomato_leaf",
+      "supercategory": "tomato_leaf"
+    }
+  ]
+}

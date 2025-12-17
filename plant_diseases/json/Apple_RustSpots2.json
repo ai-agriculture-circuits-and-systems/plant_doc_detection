@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7675301800,
+      "width": 500,
+      "height": 375,
+      "file_name": "Apple_RustSpots2.jpg",
+      "size": 22249,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7675301800,
+      "category_id": 3,
+      "bbox": [
+        118.0,
+        9.0,
+        233.0,
+        111.0
+      ],
+      "area": 25863.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7675301800,
+      "category_id": 3,
+      "bbox": [
+        367.0,
+        9.0,
+        133.0,
+        287.0
+      ],
+      "area": 38171.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7675301800,
+      "category_id": 3,
+      "bbox": [
+        83.0,
+        52.0,
+        114.0,
+        202.0
+      ],
+      "area": 23028.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 7675301800,
+      "category_id": 3,
+      "bbox": [
+        126.0,
+        122.0,
+        174.0,
+        218.0
+      ],
+      "area": 37932.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 7675301800,
+      "category_id": 3,
+      "bbox": [
+        27.0,
+        276.0,
+        90.0,
+        99.0
+      ],
+      "area": 8910.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 7675301800,
+      "category_id": 3,
+      "bbox": [
+        126.0,
+        270.0,
+        90.0,
+        105.0
+      ],
+      "area": 9450.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "apple_rust_leaf",
+      "supercategory": "apple_rust_leaf"
+    }
+  ]
+}

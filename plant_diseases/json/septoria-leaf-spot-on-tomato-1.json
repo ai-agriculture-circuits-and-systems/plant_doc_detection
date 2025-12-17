@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7670477334,
+      "width": 2996,
+      "height": 3070,
+      "file_name": "septoria-leaf-spot-on-tomato-1.jpg",
+      "size": 2309676,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7670477334,
+      "category_id": 20,
+      "bbox": [
+        2225.0,
+        2112.0,
+        667.0,
+        958.0
+      ],
+      "area": 638986.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7670477334,
+      "category_id": 20,
+      "bbox": [
+        639.0,
+        1605.0,
+        300.0,
+        288.0
+      ],
+      "area": 86400.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7670477334,
+      "category_id": 20,
+      "bbox": [
+        447.0,
+        1859.0,
+        428.0,
+        518.0
+      ],
+      "area": 221704.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 7670477334,
+      "category_id": 20,
+      "bbox": [
+        2409.0,
+        295.0,
+        584.0,
+        962.0
+      ],
+      "area": 561808.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 7670477334,
+      "category_id": 20,
+      "bbox": [
+        1597.0,
+        27.0,
+        629.0,
+        809.0
+      ],
+      "area": 508861.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 7670477334,
+      "category_id": 20,
+      "bbox": [
+        947.0,
+        912.0,
+        589.0,
+        919.0
+      ],
+      "area": 541291.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 20,
+      "name": "tomato_septoria_leaf_spot",
+      "supercategory": "tomato_septoria_leaf_spot"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4830017988,
+      "width": 627,
+      "height": 600,
+      "file_name": "PLPATH-FRU-24_Fig1-black-rot-spots-on-grape-leaf_Page_1.jpg",
+      "size": 66138,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4830017988,
+      "category_id": 29,
+      "bbox": [
+        342.0,
+        45.0,
+        266.0,
+        520.0
+      ],
+      "area": 138320.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 29,
+      "name": "grape_leaf_black_rot",
+      "supercategory": "grape_leaf_black_rot"
+    }
+  ]
+}

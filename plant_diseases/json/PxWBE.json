@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1150193908,
+      "width": 2520,
+      "height": 3780,
+      "file_name": "PxWBE.jpg",
+      "size": 695837,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1150193908,
+      "category_id": 21,
+      "bbox": [
+        415.0,
+        923.0,
+        827.0,
+        495.0
+      ],
+      "area": 409365.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1150193908,
+      "category_id": 21,
+      "bbox": [
+        737.0,
+        995.0,
+        1289.0,
+        2034.0
+      ],
+      "area": 2621826.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1150193908,
+      "category_id": 21,
+      "bbox": [
+        554.0,
+        356.0,
+        605.0,
+        673.0
+      ],
+      "area": 407165.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1150193908,
+      "category_id": 21,
+      "bbox": [
+        9.0,
+        395.0,
+        378.0,
+        917.0
+      ],
+      "area": 346626.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 21,
+      "name": "tomato_leaf",
+      "supercategory": "tomato_leaf"
+    }
+  ]
+}

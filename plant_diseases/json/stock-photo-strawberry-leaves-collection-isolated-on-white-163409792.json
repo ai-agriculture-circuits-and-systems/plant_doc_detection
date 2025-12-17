@@ -1,0 +1,204 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4083131196,
+      "width": 450,
+      "height": 470,
+      "file_name": "stock-photo-strawberry-leaves-collection-isolated-on-white-163409792.jpg",
+      "size": 63539,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4083131196,
+      "category_id": 18,
+      "bbox": [
+        168.0,
+        144.0,
+        100.0,
+        162.0
+      ],
+      "area": 16200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4083131196,
+      "category_id": 18,
+      "bbox": [
+        76.0,
+        235.0,
+        129.0,
+        96.0
+      ],
+      "area": 12384.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4083131196,
+      "category_id": 18,
+      "bbox": [
+        215.0,
+        232.0,
+        119.0,
+        101.0
+      ],
+      "area": 12019.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4083131196,
+      "category_id": 18,
+      "bbox": [
+        13.0,
+        296.0,
+        155.0,
+        81.0
+      ],
+      "area": 12555.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4083131196,
+      "category_id": 18,
+      "bbox": [
+        76.0,
+        362.0,
+        104.0,
+        78.0
+      ],
+      "area": 8112.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 4083131196,
+      "category_id": 18,
+      "bbox": [
+        59.0,
+        59.0,
+        90.0,
+        119.0
+      ],
+      "area": 10710.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 4083131196,
+      "category_id": 18,
+      "bbox": [
+        65.0,
+        14.0,
+        119.0,
+        72.0
+      ],
+      "area": 8568.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 4083131196,
+      "category_id": 18,
+      "bbox": [
+        33.0,
+        38.0,
+        56.0,
+        102.0
+      ],
+      "area": 5712.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 4083131196,
+      "category_id": 18,
+      "bbox": [
+        234.0,
+        10.0,
+        128.0,
+        82.0
+      ],
+      "area": 10496.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 4083131196,
+      "category_id": 18,
+      "bbox": [
+        278.0,
+        76.0,
+        73.0,
+        117.0
+      ],
+      "area": 8541.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 4083131196,
+      "category_id": 18,
+      "bbox": [
+        345.0,
+        25.0,
+        71.0,
+        92.0
+      ],
+      "area": 6532.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 4083131196,
+      "category_id": 18,
+      "bbox": [
+        257.0,
+        369.0,
+        114.0,
+        82.0
+      ],
+      "area": 9348.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 4083131196,
+      "category_id": 18,
+      "bbox": [
+        278.0,
+        235.0,
+        88.0,
+        149.0
+      ],
+      "area": 13112.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 18,
+      "name": "strawberry_leaf",
+      "supercategory": "strawberry_leaf"
+    }
+  ]
+}

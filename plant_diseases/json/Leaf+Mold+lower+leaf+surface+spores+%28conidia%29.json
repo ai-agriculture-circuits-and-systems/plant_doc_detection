@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6981364372,
+      "width": 960,
+      "height": 720,
+      "file_name": "Leaf+Mold+lower+leaf+surface+spores+%28conidia%29.jpg",
+      "size": 89346,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6981364372,
+      "category_id": 26,
+      "bbox": [
+        418.0,
+        148.0,
+        190.0,
+        287.0
+      ],
+      "area": 54530.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6981364372,
+      "category_id": 26,
+      "bbox": [
+        363.0,
+        463.0,
+        417.0,
+        217.0
+      ],
+      "area": 90489.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6981364372,
+      "category_id": 26,
+      "bbox": [
+        303.0,
+        444.0,
+        78.0,
+        100.0
+      ],
+      "area": 7800.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 6981364372,
+      "category_id": 26,
+      "bbox": [
+        179.0,
+        158.0,
+        229.0,
+        302.0
+      ],
+      "area": 69158.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 26,
+      "name": "tomato_mold_leaf",
+      "supercategory": "tomato_mold_leaf"
+    }
+  ]
+}

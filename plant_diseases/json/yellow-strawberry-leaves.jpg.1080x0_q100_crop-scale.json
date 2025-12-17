@@ -1,0 +1,165 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6705923060,
+      "width": 1080,
+      "height": 810,
+      "file_name": "yellow-strawberry-leaves.jpg.1080x0_q100_crop-scale.jpg",
+      "size": 792085,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6705923060,
+      "category_id": 18,
+      "bbox": [
+        296.0,
+        171.0,
+        129.0,
+        155.0
+      ],
+      "area": 19995.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6705923060,
+      "category_id": 18,
+      "bbox": [
+        436.0,
+        134.0,
+        133.0,
+        163.0
+      ],
+      "area": 21679.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6705923060,
+      "category_id": 18,
+      "bbox": [
+        604.0,
+        487.0,
+        138.0,
+        167.0
+      ],
+      "area": 23046.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 6705923060,
+      "category_id": 18,
+      "bbox": [
+        362.0,
+        517.0,
+        64.0,
+        89.0
+      ],
+      "area": 5696.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 6705923060,
+      "category_id": 18,
+      "bbox": [
+        263.0,
+        473.0,
+        113.0,
+        144.0
+      ],
+      "area": 16272.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 6705923060,
+      "category_id": 18,
+      "bbox": [
+        412.0,
+        637.0,
+        114.0,
+        129.0
+      ],
+      "area": 14706.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 6705923060,
+      "category_id": 18,
+      "bbox": [
+        487.0,
+        491.0,
+        198.0,
+        250.0
+      ],
+      "area": 49500.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 6705923060,
+      "category_id": 18,
+      "bbox": [
+        55.0,
+        581.0,
+        247.0,
+        214.0
+      ],
+      "area": 52858.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 6705923060,
+      "category_id": 18,
+      "bbox": [
+        6.0,
+        534.0,
+        164.0,
+        190.0
+      ],
+      "area": 31160.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 6705923060,
+      "category_id": 18,
+      "bbox": [
+        236.0,
+        281.0,
+        206.0,
+        120.0
+      ],
+      "area": 24720.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 18,
+      "name": "strawberry_leaf",
+      "supercategory": "strawberry_leaf"
+    }
+  ]
+}

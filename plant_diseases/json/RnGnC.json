@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6043886161,
+      "width": 2147,
+      "height": 1432,
+      "file_name": "RnGnC.jpg",
+      "size": 414381,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6043886161,
+      "category_id": 4,
+      "bbox": [
+        15.0,
+        113.0,
+        1494.0,
+        1184.0
+      ],
+      "area": 1768896.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6043886161,
+      "category_id": 4,
+      "bbox": [
+        1294.0,
+        70.0,
+        643.0,
+        521.0
+      ],
+      "area": 335003.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6043886161,
+      "category_id": 4,
+      "bbox": [
+        1651.0,
+        673.0,
+        496.0,
+        303.0
+      ],
+      "area": 150288.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 4,
+      "name": "bell_pepper_leaf",
+      "supercategory": "bell_pepper_leaf"
+    }
+  ]
+}

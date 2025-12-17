@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3625325064,
+      "width": 236,
+      "height": 314,
+      "file_name": "5493139683d035a18fd0dfa12893f38b--outdoor-decor-worms.jpg",
+      "size": 16977,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3625325064,
+      "category_id": 4,
+      "bbox": [
+        122.0,
+        1.0,
+        74.0,
+        52.0
+      ],
+      "area": 3848.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3625325064,
+      "category_id": 4,
+      "bbox": [
+        6.0,
+        7.0,
+        117.0,
+        43.0
+      ],
+      "area": 5031.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 4,
+      "name": "bell_pepper_leaf",
+      "supercategory": "bell_pepper_leaf"
+    }
+  ]
+}

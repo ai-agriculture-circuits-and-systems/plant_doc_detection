@@ -1,0 +1,308 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7516352123,
+      "width": 490,
+      "height": 366,
+      "file_name": "d-to-tylv-fo005-14496A31BE70553130A.jpg",
+      "size": 56917,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7516352123,
+      "category_id": 26,
+      "bbox": [
+        289.0,
+        71.0,
+        44.0,
+        35.0
+      ],
+      "area": 1540.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7516352123,
+      "category_id": 26,
+      "bbox": [
+        167.0,
+        215.0,
+        41.0,
+        52.0
+      ],
+      "area": 2132.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7516352123,
+      "category_id": 26,
+      "bbox": [
+        328.0,
+        46.0,
+        38.0,
+        44.0
+      ],
+      "area": 1672.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 7516352123,
+      "category_id": 26,
+      "bbox": [
+        1.0,
+        138.0,
+        66.0,
+        98.0
+      ],
+      "area": 6468.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 7516352123,
+      "category_id": 26,
+      "bbox": [
+        26.0,
+        236.0,
+        58.0,
+        41.0
+      ],
+      "area": 2378.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 7516352123,
+      "category_id": 26,
+      "bbox": [
+        42.0,
+        279.0,
+        41.0,
+        52.0
+      ],
+      "area": 2132.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 7516352123,
+      "category_id": 26,
+      "bbox": [
+        75.0,
+        281.0,
+        31.0,
+        64.0
+      ],
+      "area": 1984.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 7516352123,
+      "category_id": 26,
+      "bbox": [
+        106.0,
+        311.0,
+        51.0,
+        55.0
+      ],
+      "area": 2805.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 7516352123,
+      "category_id": 26,
+      "bbox": [
+        165.0,
+        324.0,
+        34.0,
+        42.0
+      ],
+      "area": 1428.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 7516352123,
+      "category_id": 26,
+      "bbox": [
+        341.0,
+        274.0,
+        41.0,
+        41.0
+      ],
+      "area": 1681.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 7516352123,
+      "category_id": 26,
+      "bbox": [
+        400.0,
+        216.0,
+        30.0,
+        42.0
+      ],
+      "area": 1260.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 7516352123,
+      "category_id": 26,
+      "bbox": [
+        295.0,
+        146.0,
+        55.0,
+        56.0
+      ],
+      "area": 3080.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 7516352123,
+      "category_id": 26,
+      "bbox": [
+        324.0,
+        212.0,
+        21.0,
+        31.0
+      ],
+      "area": 651.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 7516352123,
+      "category_id": 26,
+      "bbox": [
+        259.0,
+        137.0,
+        33.0,
+        24.0
+      ],
+      "area": 792.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 7516352123,
+      "category_id": 26,
+      "bbox": [
+        349.0,
+        64.0,
+        85.0,
+        45.0
+      ],
+      "area": 3825.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 7516352123,
+      "category_id": 26,
+      "bbox": [
+        326.0,
+        113.0,
+        45.0,
+        62.0
+      ],
+      "area": 2790.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 16,
+      "image_id": 7516352123,
+      "category_id": 26,
+      "bbox": [
+        279.0,
+        268.0,
+        29.0,
+        22.0
+      ],
+      "area": 638.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 17,
+      "image_id": 7516352123,
+      "category_id": 26,
+      "bbox": [
+        203.0,
+        286.0,
+        33.0,
+        25.0
+      ],
+      "area": 825.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 18,
+      "image_id": 7516352123,
+      "category_id": 26,
+      "bbox": [
+        243.0,
+        224.0,
+        28.0,
+        24.0
+      ],
+      "area": 672.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 19,
+      "image_id": 7516352123,
+      "category_id": 26,
+      "bbox": [
+        137.0,
+        236.0,
+        32.0,
+        39.0
+      ],
+      "area": 1248.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 20,
+      "image_id": 7516352123,
+      "category_id": 26,
+      "bbox": [
+        90.0,
+        226.0,
+        38.0,
+        47.0
+      ],
+      "area": 1786.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 26,
+      "name": "tomato_mold_leaf",
+      "supercategory": "tomato_mold_leaf"
+    }
+  ]
+}

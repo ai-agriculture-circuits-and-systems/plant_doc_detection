@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7348043600,
+      "width": 1600,
+      "height": 1200,
+      "file_name": "bramble_leaf_25.JPG.jpg",
+      "size": 414305,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7348043600,
+      "category_id": 15,
+      "bbox": [
+        272.0,
+        130.0,
+        638.0,
+        605.0
+      ],
+      "area": 385990.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7348043600,
+      "category_id": 15,
+      "bbox": [
+        930.0,
+        394.0,
+        380.0,
+        414.0
+      ],
+      "area": 157320.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7348043600,
+      "category_id": 15,
+      "bbox": [
+        720.0,
+        731.0,
+        349.0,
+        397.0
+      ],
+      "area": 138553.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 7348043600,
+      "category_id": 15,
+      "bbox": [
+        254.0,
+        621.0,
+        574.0,
+        356.0
+      ],
+      "area": 204344.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 7348043600,
+      "category_id": 15,
+      "bbox": [
+        815.0,
+        179.0,
+        342.0,
+        476.0
+      ],
+      "area": 162792.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

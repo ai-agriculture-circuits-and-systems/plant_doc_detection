@@ -1,0 +1,152 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7363576628,
+      "width": 600,
+      "height": 800,
+      "file_name": "bacterialspot3_600px.jpg",
+      "size": 83541,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 7363576628,
+      "category_id": 5,
+      "bbox": [
+        37.0,
+        360.0,
+        130.0,
+        213.0
+      ],
+      "area": 27690.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 7363576628,
+      "category_id": 5,
+      "bbox": [
+        225.0,
+        525.0,
+        90.0,
+        207.0
+      ],
+      "area": 18630.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 7363576628,
+      "category_id": 5,
+      "bbox": [
+        79.0,
+        558.0,
+        122.0,
+        154.0
+      ],
+      "area": 18788.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 7363576628,
+      "category_id": 5,
+      "bbox": [
+        180.0,
+        606.0,
+        76.0,
+        176.0
+      ],
+      "area": 13376.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 7363576628,
+      "category_id": 5,
+      "bbox": [
+        406.0,
+        388.0,
+        108.0,
+        187.0
+      ],
+      "area": 20196.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 7363576628,
+      "category_id": 5,
+      "bbox": [
+        450.0,
+        490.0,
+        109.0,
+        169.0
+      ],
+      "area": 18421.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 7363576628,
+      "category_id": 5,
+      "bbox": [
+        274.0,
+        353.0,
+        134.0,
+        143.0
+      ],
+      "area": 19162.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 7363576628,
+      "category_id": 5,
+      "bbox": [
+        292.0,
+        460.0,
+        98.0,
+        122.0
+      ],
+      "area": 11956.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 7363576628,
+      "category_id": 5,
+      "bbox": [
+        521.0,
+        341.0,
+        77.0,
+        155.0
+      ],
+      "area": 11935.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 5,
+      "name": "bell_pepper_leaf_spot",
+      "supercategory": "bell_pepper_leaf_spot"
+    }
+  ]
+}

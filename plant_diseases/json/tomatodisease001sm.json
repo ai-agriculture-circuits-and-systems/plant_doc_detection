@@ -1,0 +1,139 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2856903595,
+      "width": 700,
+      "height": 467,
+      "file_name": "tomatodisease001sm.jpg",
+      "size": 240549,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2856903595,
+      "category_id": 24,
+      "bbox": [
+        76.0,
+        172.0,
+        87.0,
+        140.0
+      ],
+      "area": 12180.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2856903595,
+      "category_id": 24,
+      "bbox": [
+        191.0,
+        176.0,
+        141.0,
+        134.0
+      ],
+      "area": 18894.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2856903595,
+      "category_id": 24,
+      "bbox": [
+        394.0,
+        287.0,
+        86.0,
+        72.0
+      ],
+      "area": 6192.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2856903595,
+      "category_id": 24,
+      "bbox": [
+        423.0,
+        298.0,
+        132.0,
+        169.0
+      ],
+      "area": 22308.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 2856903595,
+      "category_id": 24,
+      "bbox": [
+        541.0,
+        301.0,
+        141.0,
+        165.0
+      ],
+      "area": 23265.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 2856903595,
+      "category_id": 24,
+      "bbox": [
+        424.0,
+        188.0,
+        64.0,
+        59.0
+      ],
+      "area": 3776.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 2856903595,
+      "category_id": 24,
+      "bbox": [
+        401.0,
+        31.0,
+        120.0,
+        114.0
+      ],
+      "area": 13680.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 2856903595,
+      "category_id": 24,
+      "bbox": [
+        528.0,
+        127.0,
+        97.0,
+        78.0
+      ],
+      "area": 7566.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 24,
+      "name": "tomato_leaf_mosaic_virus",
+      "supercategory": "tomato_leaf_mosaic_virus"
+    }
+  ]
+}

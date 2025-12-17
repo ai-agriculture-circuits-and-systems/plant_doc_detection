@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8887354821,
+      "width": 700,
+      "height": 467,
+      "file_name": "what-is-powdery-mildew-on-plants-mild-powdery-mildew-that-will-appear-on-most-squash-leaves-during-the-mid-summer-powdery-mildew-plant-spray-powdery-mildew-on-tomato-plant-leaves.jpg",
+      "size": 59662,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8887354821,
+      "category_id": 17,
+      "bbox": [
+        28.0,
+        1.0,
+        670.0,
+        443.0
+      ],
+      "area": 296810.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 17,
+      "name": "squash_powdery_mildew_leaf",
+      "supercategory": "squash_powdery_mildew_leaf"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2178990626,
+      "width": 1000,
+      "height": 1499,
+      "file_name": "groovy-raspberry3_2.jpg",
+      "size": 216142,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2178990626,
+      "category_id": 15,
+      "bbox": [
+        46.0,
+        388.0,
+        438.0,
+        664.0
+      ],
+      "area": 290832.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2178990626,
+      "category_id": 15,
+      "bbox": [
+        331.0,
+        811.0,
+        404.0,
+        524.0
+      ],
+      "area": 211696.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2178990626,
+      "category_id": 15,
+      "bbox": [
+        418.0,
+        250.0,
+        200.0,
+        140.0
+      ],
+      "area": 28000.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2178990626,
+      "category_id": 15,
+      "bbox": [
+        352.0,
+        84.0,
+        298.0,
+        208.0
+      ],
+      "area": 61984.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

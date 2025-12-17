@@ -1,0 +1,139 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1909226173,
+      "width": 225,
+      "height": 154,
+      "file_name": "12-20_apple_scab1.jpg",
+      "size": 6331,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1909226173,
+      "category_id": 1,
+      "bbox": [
+        3.0,
+        3.0,
+        42.0,
+        79.0
+      ],
+      "area": 3318.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1909226173,
+      "category_id": 1,
+      "bbox": [
+        50.0,
+        5.0,
+        52.0,
+        72.0
+      ],
+      "area": 3744.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1909226173,
+      "category_id": 1,
+      "bbox": [
+        122.0,
+        4.0,
+        71.0,
+        70.0
+      ],
+      "area": 4970.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1909226173,
+      "category_id": 1,
+      "bbox": [
+        188.0,
+        16.0,
+        37.0,
+        59.0
+      ],
+      "area": 2183.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 1909226173,
+      "category_id": 1,
+      "bbox": [
+        30.0,
+        84.0,
+        37.0,
+        70.0
+      ],
+      "area": 2590.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 1909226173,
+      "category_id": 1,
+      "bbox": [
+        70.0,
+        80.0,
+        38.0,
+        74.0
+      ],
+      "area": 2812.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 1909226173,
+      "category_id": 1,
+      "bbox": [
+        114.0,
+        78.0,
+        41.0,
+        76.0
+      ],
+      "area": 3116.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 1909226173,
+      "category_id": 1,
+      "bbox": [
+        159.0,
+        77.0,
+        39.0,
+        77.0
+      ],
+      "area": 3003.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "apple_scab_leaf",
+      "supercategory": "apple_scab_leaf"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2501093000,
+      "width": 736,
+      "height": 981,
+      "file_name": "579a1aa0c6b3fd0354d1a6b57a40ac42--red-raspberry-medicinal-plants.jpg",
+      "size": 156460,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2501093000,
+      "category_id": 15,
+      "bbox": [
+        159.0,
+        1.0,
+        195.0,
+        250.0
+      ],
+      "area": 48750.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2501093000,
+      "category_id": 15,
+      "bbox": [
+        320.0,
+        189.0,
+        245.0,
+        142.0
+      ],
+      "area": 34790.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2501093000,
+      "category_id": 15,
+      "bbox": [
+        58.0,
+        244.0,
+        264.0,
+        159.0
+      ],
+      "area": 41976.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2501093000,
+      "category_id": 15,
+      "bbox": [
+        435.0,
+        178.0,
+        171.0,
+        265.0
+      ],
+      "area": 45315.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 2501093000,
+      "category_id": 15,
+      "bbox": [
+        591.0,
+        363.0,
+        145.0,
+        208.0
+      ],
+      "area": 30160.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 2501093000,
+      "category_id": 15,
+      "bbox": [
+        395.0,
+        442.0,
+        157.0,
+        375.0
+      ],
+      "area": 58875.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 2501093000,
+      "category_id": 15,
+      "bbox": [
+        34.0,
+        589.0,
+        315.0,
+        179.0
+      ],
+      "area": 56385.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 2501093000,
+      "category_id": 15,
+      "bbox": [
+        259.0,
+        733.0,
+        264.0,
+        248.0
+      ],
+      "area": 65472.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

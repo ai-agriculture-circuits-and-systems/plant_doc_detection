@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2994696904,
+      "width": 419,
+      "height": 284,
+      "file_name": "confused-bacterial-canker-early-blight-zoom.JPG.jpg",
+      "size": 42921,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2994696904,
+      "category_id": 19,
+      "bbox": [
+        258.0,
+        86.0,
+        39.0,
+        105.0
+      ],
+      "area": 4095.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2994696904,
+      "category_id": 19,
+      "bbox": [
+        169.0,
+        102.0,
+        54.0,
+        72.0
+      ],
+      "area": 3888.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2994696904,
+      "category_id": 19,
+      "bbox": [
+        51.0,
+        159.0,
+        53.0,
+        109.0
+      ],
+      "area": 5777.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2994696904,
+      "category_id": 19,
+      "bbox": [
+        99.0,
+        149.0,
+        54.0,
+        88.0
+      ],
+      "area": 4752.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 2994696904,
+      "category_id": 19,
+      "bbox": [
+        30.0,
+        22.0,
+        119.0,
+        73.0
+      ],
+      "area": 8687.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 19,
+      "name": "tomato_early_blight_leaf",
+      "supercategory": "tomato_early_blight_leaf"
+    }
+  ]
+}

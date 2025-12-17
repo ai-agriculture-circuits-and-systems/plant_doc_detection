@@ -1,0 +1,139 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8413581772,
+      "width": 2136,
+      "height": 1424,
+      "file_name": "peach-leaf.jpg",
+      "size": 148756,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8413581772,
+      "category_id": 11,
+      "bbox": [
+        1101.0,
+        11.0,
+        541.0,
+        672.0
+      ],
+      "area": 363552.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8413581772,
+      "category_id": 11,
+      "bbox": [
+        920.0,
+        16.0,
+        311.0,
+        540.0
+      ],
+      "area": 167940.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8413581772,
+      "category_id": 11,
+      "bbox": [
+        607.0,
+        1.0,
+        388.0,
+        515.0
+      ],
+      "area": 199820.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8413581772,
+      "category_id": 11,
+      "bbox": [
+        418.0,
+        130.0,
+        419.0,
+        386.0
+      ],
+      "area": 161734.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8413581772,
+      "category_id": 11,
+      "bbox": [
+        342.0,
+        605.0,
+        509.0,
+        725.0
+      ],
+      "area": 369025.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 8413581772,
+      "category_id": 11,
+      "bbox": [
+        1145.0,
+        775.0,
+        522.0,
+        260.0
+      ],
+      "area": 135720.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 8413581772,
+      "category_id": 11,
+      "bbox": [
+        309.0,
+        277.0,
+        492.0,
+        273.0
+      ],
+      "area": 134316.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 8413581772,
+      "category_id": 11,
+      "bbox": [
+        368.0,
+        525.0,
+        396.0,
+        181.0
+      ],
+      "area": 71676.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "peach_leaf",
+      "supercategory": "peach_leaf"
+    }
+  ]
+}

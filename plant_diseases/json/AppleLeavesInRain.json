@@ -1,0 +1,165 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6366578096,
+      "width": 800,
+      "height": 1025,
+      "file_name": "AppleLeavesInRain.jpg",
+      "size": 263202,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6366578096,
+      "category_id": 2,
+      "bbox": [
+        392.0,
+        358.0,
+        141.0,
+        350.0
+      ],
+      "area": 49350.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6366578096,
+      "category_id": 2,
+      "bbox": [
+        371.0,
+        768.0,
+        174.0,
+        257.0
+      ],
+      "area": 44718.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6366578096,
+      "category_id": 2,
+      "bbox": [
+        68.0,
+        660.0,
+        293.0,
+        329.0
+      ],
+      "area": 96397.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 6366578096,
+      "category_id": 2,
+      "bbox": [
+        26.0,
+        272.0,
+        336.0,
+        336.0
+      ],
+      "area": 112896.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 6366578096,
+      "category_id": 2,
+      "bbox": [
+        72.0,
+        191.0,
+        288.0,
+        150.0
+      ],
+      "area": 43200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 6366578096,
+      "category_id": 2,
+      "bbox": [
+        1.0,
+        2.0,
+        176.0,
+        282.0
+      ],
+      "area": 49632.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 6366578096,
+      "category_id": 2,
+      "bbox": [
+        499.0,
+        13.0,
+        301.0,
+        223.0
+      ],
+      "area": 67123.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 6366578096,
+      "category_id": 2,
+      "bbox": [
+        345.0,
+        1.0,
+        177.0,
+        285.0
+      ],
+      "area": 50445.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 6366578096,
+      "category_id": 2,
+      "bbox": [
+        568.0,
+        565.0,
+        232.0,
+        362.0
+      ],
+      "area": 83984.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 6366578096,
+      "category_id": 2,
+      "bbox": [
+        451.0,
+        306.0,
+        269.0,
+        360.0
+      ],
+      "area": 96840.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "apple_leaf",
+      "supercategory": "apple_leaf"
+    }
+  ]
+}

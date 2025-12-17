@@ -1,0 +1,126 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3421187771,
+      "width": 1300,
+      "height": 1002,
+      "file_name": "blueberry-leaf-set-collection-isolated-white-58283965.jpg",
+      "size": 152308,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3421187771,
+      "category_id": 6,
+      "bbox": [
+        49.0,
+        85.0,
+        374.0,
+        470.0
+      ],
+      "area": 175780.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3421187771,
+      "category_id": 6,
+      "bbox": [
+        460.0,
+        201.0,
+        268.0,
+        498.0
+      ],
+      "area": 133464.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3421187771,
+      "category_id": 6,
+      "bbox": [
+        418.0,
+        26.0,
+        416.0,
+        214.0
+      ],
+      "area": 89024.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3421187771,
+      "category_id": 6,
+      "bbox": [
+        975.0,
+        29.0,
+        297.0,
+        530.0
+      ],
+      "area": 157410.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 3421187771,
+      "category_id": 6,
+      "bbox": [
+        820.0,
+        580.0,
+        455.0,
+        292.0
+      ],
+      "area": 132860.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 3421187771,
+      "category_id": 6,
+      "bbox": [
+        58.0,
+        609.0,
+        486.0,
+        265.0
+      ],
+      "area": 128790.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 3421187771,
+      "category_id": 6,
+      "bbox": [
+        686.0,
+        141.0,
+        251.0,
+        485.0
+      ],
+      "area": 121735.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4444503843,
+      "width": 1752,
+      "height": 1168,
+      "file_name": "iisland-grape-leaves.jpg",
+      "size": 723349,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 4444503843,
+      "category_id": 28,
+      "bbox": [
+        206.0,
+        310.0,
+        449.0,
+        491.0
+      ],
+      "area": 220459.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 4444503843,
+      "category_id": 28,
+      "bbox": [
+        907.0,
+        206.0,
+        271.0,
+        480.0
+      ],
+      "area": 130080.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4444503843,
+      "category_id": 28,
+      "bbox": [
+        1184.0,
+        327.0,
+        419.0,
+        488.0
+      ],
+      "area": 204472.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4444503843,
+      "category_id": 28,
+      "bbox": [
+        754.0,
+        659.0,
+        455.0,
+        440.0
+      ],
+      "area": 200200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4444503843,
+      "category_id": 28,
+      "bbox": [
+        1044.0,
+        831.0,
+        540.0,
+        289.0
+      ],
+      "area": 156060.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 28,
+      "name": "grape_leaf",
+      "supercategory": "grape_leaf"
+    }
+  ]
+}

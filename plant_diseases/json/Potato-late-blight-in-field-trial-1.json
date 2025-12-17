@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8364523734,
+      "width": 3008,
+      "height": 2000,
+      "file_name": "Potato-late-blight-in-field-trial-1.jpg",
+      "size": 3432283,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 8364523734,
+      "category_id": 14,
+      "bbox": [
+        1863.0,
+        1073.0,
+        391.0,
+        806.0
+      ],
+      "area": 315146.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 8364523734,
+      "category_id": 14,
+      "bbox": [
+        1229.0,
+        766.0,
+        775.0,
+        835.0
+      ],
+      "area": 647125.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8364523734,
+      "category_id": 14,
+      "bbox": [
+        654.0,
+        304.0,
+        637.0,
+        1031.0
+      ],
+      "area": 656747.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8364523734,
+      "category_id": 14,
+      "bbox": [
+        348.0,
+        660.0,
+        781.0,
+        641.0
+      ],
+      "area": 500621.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 8364523734,
+      "category_id": 14,
+      "bbox": [
+        1816.0,
+        501.0,
+        410.0,
+        597.0
+      ],
+      "area": 244770.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 14,
+      "name": "potato_leaf_late_blight",
+      "supercategory": "potato_leaf_late_blight"
+    }
+  ]
+}

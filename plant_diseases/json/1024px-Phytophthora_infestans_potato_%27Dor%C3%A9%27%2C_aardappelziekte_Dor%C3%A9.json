@@ -1,0 +1,126 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3783634335,
+      "width": 1024,
+      "height": 768,
+      "file_name": "1024px-Phytophthora_infestans_potato_%27Dor%C3%A9%27%2C_aardappelziekte_Dor%C3%A9.jpg",
+      "size": 264812,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 3783634335,
+      "category_id": 13,
+      "bbox": [
+        465.0,
+        223.0,
+        522.0,
+        430.0
+      ],
+      "area": 224460.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 3783634335,
+      "category_id": 13,
+      "bbox": [
+        472.0,
+        64.0,
+        264.0,
+        182.0
+      ],
+      "area": 48048.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3783634335,
+      "category_id": 13,
+      "bbox": [
+        42.0,
+        59.0,
+        385.0,
+        218.0
+      ],
+      "area": 83930.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3783634335,
+      "category_id": 13,
+      "bbox": [
+        383.0,
+        243.0,
+        105.0,
+        65.0
+      ],
+      "area": 6825.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 3783634335,
+      "category_id": 13,
+      "bbox": [
+        91.0,
+        269.0,
+        326.0,
+        260.0
+      ],
+      "area": 84760.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 3783634335,
+      "category_id": 13,
+      "bbox": [
+        165.0,
+        482.0,
+        266.0,
+        171.0
+      ],
+      "area": 45486.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 3783634335,
+      "category_id": 13,
+      "bbox": [
+        449.0,
+        567.0,
+        92.0,
+        148.0
+      ],
+      "area": 13616.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 13,
+      "name": "potato_leaf_early_blight",
+      "supercategory": "potato_leaf_early_blight"
+    }
+  ]
+}

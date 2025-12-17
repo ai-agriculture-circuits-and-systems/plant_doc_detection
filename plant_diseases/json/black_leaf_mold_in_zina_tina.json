@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1945906268,
+      "width": 900,
+      "height": 675,
+      "file_name": "black_leaf_mold_in_zina_tina.jpg",
+      "size": 65940,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1945906268,
+      "category_id": 26,
+      "bbox": [
+        779.0,
+        154.0,
+        121.0,
+        297.0
+      ],
+      "area": 35937.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1945906268,
+      "category_id": 26,
+      "bbox": [
+        178.0,
+        202.0,
+        270.0,
+        235.0
+      ],
+      "area": 63450.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1945906268,
+      "category_id": 26,
+      "bbox": [
+        524.0,
+        9.0,
+        184.0,
+        372.0
+      ],
+      "area": 68448.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 26,
+      "name": "tomato_mold_leaf",
+      "supercategory": "tomato_mold_leaf"
+    }
+  ]
+}

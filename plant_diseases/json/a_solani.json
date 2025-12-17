@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9228741670,
+      "width": 742,
+      "height": 472,
+      "file_name": "a_solani.jpg",
+      "size": 65453,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 9228741670,
+      "category_id": 13,
+      "bbox": [
+        175.0,
+        3.0,
+        368.0,
+        468.0
+      ],
+      "area": 172224.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 9228741670,
+      "category_id": 13,
+      "bbox": [
+        523.0,
+        6.0,
+        219.0,
+        280.0
+      ],
+      "area": 61320.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 9228741670,
+      "category_id": 13,
+      "bbox": [
+        45.0,
+        3.0,
+        143.0,
+        211.0
+      ],
+      "area": 30173.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 9228741670,
+      "category_id": 13,
+      "bbox": [
+        659.0,
+        167.0,
+        83.0,
+        203.0
+      ],
+      "area": 16849.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 13,
+      "name": "potato_leaf_early_blight",
+      "supercategory": "potato_leaf_early_blight"
+    }
+  ]
+}

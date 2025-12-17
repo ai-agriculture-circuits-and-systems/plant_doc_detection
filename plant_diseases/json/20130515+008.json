@@ -1,0 +1,178 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1095635398,
+      "width": 1600,
+      "height": 1200,
+      "file_name": "20130515+008.jpg",
+      "size": 375265,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1095635398,
+      "category_id": 15,
+      "bbox": [
+        77.0,
+        441.0,
+        585.0,
+        509.0
+      ],
+      "area": 297765.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1095635398,
+      "category_id": 15,
+      "bbox": [
+        543.0,
+        394.0,
+        378.0,
+        344.0
+      ],
+      "area": 130032.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1095635398,
+      "category_id": 15,
+      "bbox": [
+        943.0,
+        350.0,
+        445.0,
+        227.0
+      ],
+      "area": 101015.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1095635398,
+      "category_id": 15,
+      "bbox": [
+        849.0,
+        584.0,
+        483.0,
+        616.0
+      ],
+      "area": 297528.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 1095635398,
+      "category_id": 15,
+      "bbox": [
+        428.0,
+        174.0,
+        288.0,
+        189.0
+      ],
+      "area": 54432.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 1095635398,
+      "category_id": 15,
+      "bbox": [
+        572.0,
+        33.0,
+        260.0,
+        239.0
+      ],
+      "area": 62140.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 1095635398,
+      "category_id": 15,
+      "bbox": [
+        718.0,
+        204.0,
+        270.0,
+        127.0
+      ],
+      "area": 34290.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 1095635398,
+      "category_id": 15,
+      "bbox": [
+        499.0,
+        665.0,
+        309.0,
+        431.0
+      ],
+      "area": 133179.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 1095635398,
+      "category_id": 15,
+      "bbox": [
+        1279.0,
+        680.0,
+        249.0,
+        275.0
+      ],
+      "area": 68475.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 1095635398,
+      "category_id": 15,
+      "bbox": [
+        1501.0,
+        743.0,
+        99.0,
+        115.0
+      ],
+      "area": 11385.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 1095635398,
+      "category_id": 15,
+      "bbox": [
+        962.0,
+        297.0,
+        209.0,
+        139.0
+      ],
+      "area": 29051.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "raspberry_leaf",
+      "supercategory": "raspberry_leaf"
+    }
+  ]
+}

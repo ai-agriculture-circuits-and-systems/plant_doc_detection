@@ -1,0 +1,152 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6711436781,
+      "width": 1000,
+      "height": 750,
+      "file_name": "vaccinium-corymbosum-le-mlovit.jpg",
+      "size": 277658,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6711436781,
+      "category_id": 6,
+      "bbox": [
+        145.0,
+        83.0,
+        239.0,
+        360.0
+      ],
+      "area": 86040.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6711436781,
+      "category_id": 6,
+      "bbox": [
+        148.0,
+        338.0,
+        199.0,
+        335.0
+      ],
+      "area": 66665.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6711436781,
+      "category_id": 6,
+      "bbox": [
+        607.0,
+        332.0,
+        258.0,
+        418.0
+      ],
+      "area": 107844.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 6711436781,
+      "category_id": 6,
+      "bbox": [
+        740.0,
+        121.0,
+        260.0,
+        313.0
+      ],
+      "area": 81380.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 6711436781,
+      "category_id": 6,
+      "bbox": [
+        371.0,
+        4.0,
+        362.0,
+        179.0
+      ],
+      "area": 64798.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 6711436781,
+      "category_id": 6,
+      "bbox": [
+        419.0,
+        505.0,
+        273.0,
+        245.0
+      ],
+      "area": 66885.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 6711436781,
+      "category_id": 6,
+      "bbox": [
+        567.0,
+        197.0,
+        297.0,
+        172.0
+      ],
+      "area": 51084.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 6711436781,
+      "category_id": 6,
+      "bbox": [
+        462.0,
+        140.0,
+        150.0,
+        178.0
+      ],
+      "area": 26700.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 6711436781,
+      "category_id": 6,
+      "bbox": [
+        293.0,
+        282.0,
+        193.0,
+        267.0
+      ],
+      "area": 51531.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "blueberry_leaf",
+      "supercategory": "blueberry_leaf"
+    }
+  ]
+}

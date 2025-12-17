@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2505271675,
+      "width": 640,
+      "height": 425,
+      "file_name": "5834652565_6b00a70309_z.jpg",
+      "size": 198422,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 2505271675,
+      "category_id": 16,
+      "bbox": [
+        287.0,
+        49.0,
+        101.0,
+        173.0
+      ],
+      "area": 17473.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 2505271675,
+      "category_id": 16,
+      "bbox": [
+        53.0,
+        170.0,
+        240.0,
+        81.0
+      ],
+      "area": 19440.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2505271675,
+      "category_id": 16,
+      "bbox": [
+        387.0,
+        112.0,
+        187.0,
+        112.0
+      ],
+      "area": 20944.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2505271675,
+      "category_id": 16,
+      "bbox": [
+        545.0,
+        1.0,
+        95.0,
+        190.0
+      ],
+      "area": 18050.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 2505271675,
+      "category_id": 16,
+      "bbox": [
+        569.0,
+        249.0,
+        71.0,
+        142.0
+      ],
+      "area": 10082.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 2505271675,
+      "category_id": 16,
+      "bbox": [
+        220.0,
+        211.0,
+        127.0,
+        146.0
+      ],
+      "area": 18542.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 16,
+      "name": "soyabean_leaf",
+      "supercategory": "soyabean_leaf"
+    }
+  ]
+}

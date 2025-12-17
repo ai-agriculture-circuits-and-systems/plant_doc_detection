@@ -1,0 +1,139 @@
+{
+  "info": {
+    "description": "PlantDoc dataset",
+    "version": "1.0",
+    "year": 2020,
+    "contributor": "PlantDoc",
+    "source": "original",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6213050294,
+      "width": 450,
+      "height": 367,
+      "file_name": "stock-photo-green-apple-leaves-on-the-white-background-796491496.jpg",
+      "size": 171009,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 6213050294,
+      "category_id": 2,
+      "bbox": [
+        1.0,
+        32.0,
+        147.0,
+        153.0
+      ],
+      "area": 22491.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 6213050294,
+      "category_id": 2,
+      "bbox": [
+        49.0,
+        80.0,
+        143.0,
+        136.0
+      ],
+      "area": 19448.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 6213050294,
+      "category_id": 2,
+      "bbox": [
+        220.0,
+        10.0,
+        131.0,
+        76.0
+      ],
+      "area": 9956.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 6213050294,
+      "category_id": 2,
+      "bbox": [
+        359.0,
+        8.0,
+        57.0,
+        162.0
+      ],
+      "area": 9234.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 6213050294,
+      "category_id": 2,
+      "bbox": [
+        369.0,
+        129.0,
+        67.0,
+        184.0
+      ],
+      "area": 12328.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 6213050294,
+      "category_id": 2,
+      "bbox": [
+        170.0,
+        206.0,
+        201.0,
+        138.0
+      ],
+      "area": 27738.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 6213050294,
+      "category_id": 2,
+      "bbox": [
+        31.0,
+        227.0,
+        181.0,
+        91.0
+      ],
+      "area": 16471.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 6213050294,
+      "category_id": 2,
+      "bbox": [
+        141.0,
+        116.0,
+        202.0,
+        134.0
+      ],
+      "area": 27068.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "apple_leaf",
+      "supercategory": "apple_leaf"
+    }
+  ]
+}
